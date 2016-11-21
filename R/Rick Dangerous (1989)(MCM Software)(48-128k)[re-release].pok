@@ -1,0 +1,11 @@
+NInfinite Lives
+Z 8 58381 0 0
+NInfinite Ammo
+Z 8 64095 0 0
+NInfinite Bombs
+Z 8 64185 0 0
+NAmmo & Bombs = 255
+Z 8 58325 255 255
+NLives = 255
+Z 8 58130 255 255
+Y

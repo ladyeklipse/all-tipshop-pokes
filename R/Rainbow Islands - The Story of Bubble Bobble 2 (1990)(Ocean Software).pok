@@ -1,0 +1,15 @@
+NLives = 128
+Z 8 25471 128 128
+NLives 1-128 : At Start
+Z 8 25471 128 0
+NLives 1-128 : During Game
+Z 8 25456 128  0
+NInfinite Lives!
+Z 8 65110 000  0
+NImmune  except to water
+Z 8 57119 254  0
+NPressing P (pause) will take you to the next level
+M 8 23532 195 0
+M 8 23533 59 0
+Z 8 23534 254 0
+Y

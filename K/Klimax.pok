@@ -1,0 +1,31 @@
+NInfinite Time
+Z 8 52447 0 0
+NInfinite Energy
+Z 8 52344 0 0
+NInfinite Power
+Z 8 55293 0 0
+NInfinite Range
+Z 8 55327 0 0
+NInfinite Speed
+Z 8 55312 0 0
+NInfinite Time
+Z 8 52395 0 0
+NOnly need one NPSW to complete level
+Z 8 53015 24 0
+NNo minor Aliens
+Z 8 53530 201 0
+NNo energy-sapping aliens
+Z 8 53500 201 0
+NPermanent Gun FX
+M 8 50034 0 0
+M 8 58960 0 0
+Z 8 54926 0  0
+NPermanent Sideguns
+M 8 50034 1 1
+M 8 58960 0 0
+Z 8 54926 0  0
+NPermanent Gun 4D
+M 8 50034 2 2
+M 8 58960 0 0
+Z 8 54926 0  0
+Y

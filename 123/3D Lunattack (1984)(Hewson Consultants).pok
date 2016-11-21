@@ -1,0 +1,19 @@
+NInfinite lives
+Z 8 56440 0 0
+NInfinite shields
+Z 8 57223 0 0
+NInfinite temperature
+M 8 57269 175 0
+Z 8 54082 0 0
+NInfinite fuel
+Z 8 56237 0 0
+N255 Lives
+M 8 23792 62 0 
+M 8 23793 255 0 
+M 8 23794 50  0
+M 8 23795 119 0
+M 8 23796 207 0
+M 8 23797 205 0
+M 8 23798 8 0
+Z 8 23799 207 0
+Y

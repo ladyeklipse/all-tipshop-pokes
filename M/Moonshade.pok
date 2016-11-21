@@ -1,0 +1,59 @@
+NNumber of lives (max 127) 
+Z 8 39155 127 0 
+N1st item = (no item) 
+Z 8 39146 0 0
+N1st item = red key 
+Z 8 39146 1 1
+N1st item = gas tube
+Z 8 39146 2 2
+N1st item = scissor
+Z 8 39146 3 3
+N1st item = diskette
+Z 8 39146 4 4
+N1st item = yellow key
+Z 8 39146 5 5
+N1st item = radio
+Z 8 39146 6 6
+N1st item = magnet
+Z 8 39146 7 7
+N1st item = shoe
+Z 8 39146 8 8
+N1st item = knife
+Z 8 39146 9 9
+N1st item = clock
+Z 8 39146 10 10
+N1st item = money bag
+Z 8 39146 11 11
+N1st item = guitar
+Z 8 39146 12 12
+N1st item = cyan key
+Z 8 39146 13 13
+N1st item = (no item) 
+Z 8 39147 0 0
+N2nd item = red key 
+Z 8 39147 1 1
+N2nd item = gas tube
+Z 8 39147 2 2
+N2nd item = scissor
+Z 8 39147 3 3
+N2nd item = diskette
+Z 8 39147 4 4
+N2nd item = yellow key
+Z 8 39147 5 5
+N2nd item = radio
+Z 8 39147 6 6
+N2nd item = magnet
+Z 8 39147 7 7
+N2nd item = shoe
+Z 8 39147 8 8
+N2nd item = knife
+Z 8 39147 9 9
+N2nd item = clock
+Z 8 39147 10 10
+N2nd item = money bag
+Z 8 39147 11 11
+N2nd item = guitar
+Z 8 39147 12 12
+N2nd item = cyan key
+Z 8 39147 13 13
+Y

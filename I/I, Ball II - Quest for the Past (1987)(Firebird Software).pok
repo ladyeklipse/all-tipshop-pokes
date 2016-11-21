@@ -1,0 +1,53 @@
+NInfinite Lives
+Z 8 45392 0 0
+NInfinite Time
+Z 8 38009 0 0
+NInfinite Ammo
+M 8 39921 58 0
+Z 8 43714 0 0
+NNo Enemies
+M 8 36664 201 0
+Z 8 39674 201 0
+NImmunity
+M 8 43612 33 0
+Z 8 43619 33 0
+NTimed Blocks Vanish
+M 8 35327 33 0
+Z 8 35338 33 0
+NKey Not Needed
+Z 8 45601 33 0
+NRapid Fire
+Z 8 65343 15 0
+NLives = 255
+Z 8 43384 255 255
+NBombs = 250
+Z 8 43366 250 250
+NFireballs = 250
+Z 8 43394 250 250
+NLevel = 10
+Z 8 43410 10 10
+NLevel = 20
+Z 8 43410 20 20
+NLevel = 30
+Z 8 43410 30 30
+NLevel = 40
+Z 8 43410 40 40
+NBullets = 5
+Z 8 65343 5 0
+NNumber of lives = 99
+Z 8 43384 99 99
+NInfinite lives
+45392 00
+NSpeed of ball = 8
+Z 8 43379 8 0
+NSpeed of ball = 4
+Z 8 43379 4 0
+NSpeed of ball = 1
+Z 8 43379 1 0
+NExit without needing key!
+M 8 45601 00 0
+M 8 45602 00 0
+Z 8 45603 00 0
+Speech disabled
+Z 8 40300 201 0
+Y

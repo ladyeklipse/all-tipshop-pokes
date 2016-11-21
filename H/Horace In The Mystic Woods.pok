@@ -1,0 +1,10 @@
+NInfinite lives
+Z 8 34501 183  0
+NNumber of lives
+Z 8 64522 255 255
+NInvincibility
+M 8 33365 0  0
+Z 8 33366 0  0
+NComplete current level
+Z 8 64516 1 0
+Y

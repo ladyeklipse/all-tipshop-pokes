@@ -1,0 +1,11 @@
+NInfinite grenades
+Z 8 40710 0 0
+NInfinite ammo
+Z 8 40681 0 0
+NInfinite continues
+Z 8 40784 0 0
+NDamage = 1-255
+Z 8 40733 1 255
+NInfinite Damage
+Z 8 41708 0 0
+Y

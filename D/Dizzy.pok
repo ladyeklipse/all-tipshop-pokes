@@ -1,0 +1,11 @@
+NLives = 255
+Z 8 62789 255 255
+NWalk Speed 1-7
+Z 8	59644 7 1
+NInfinite Lives
+Z 8 62745 0 0
+NImmunity
+Z 8 54216 0 0
+NWalk through walls
+Z 8 60137 201 0
+Y

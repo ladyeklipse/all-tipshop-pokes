@@ -1,0 +1,20 @@
+NInfinite Lives
+Z 8 25014 0 0
+NLives = 255
+Z 8 25367 255 255
+NOnly need one fuel cell
+M 8 26070 62 0
+M 8 26071 5 0
+Z 8 26072 0 0
+NFuel drops immediately
+Z 8 26068 214 0
+Ninfinite lives (2)
+M 8 25015 62 0
+M 8 25016 5 0
+M 8 25017 0 0
+Z 8 25018 0  0
+Ninfinite lives (3)
+Z 8 36966 24 0
+Ndisables your fire (Well  I'm sure someone will find it useful!)
+Z 8 28784 0  0
+Y

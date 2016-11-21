@@ -1,0 +1,7 @@
+NInfinite Tea
+Z 8 49505 0 0
+NLetters = 1-25 [Easy Level]
+Z 8 49549 1 25
+NLetters = 1-50 [Hard Level]
+Z 8 49524 1 50
+Y

@@ -1,0 +1,26 @@
+NImmunity	
+Z 8 41837 24 0
+NInfinite Lives	
+Z 8 42198 24 0
+NSpringy Jumps	
+M 8 35333 0 0
+Z 8 35334 0 0
+NMega Jumps	
+Z 8 43132 0 0
+NInfinite ammo/specials	
+Z 8 35315 0 0
+NInfinite lives -both characters- 
+Z 8 42195 0  0
+NYou have all the items (max 153) 
+M 8 41611 7 0
+Z 8 41618 153 0
+NAll the items [50 shots] 
+M 8 41611 7  0
+Z 8 41618 80   0
+Nhooter + bag 
+M 8 41611 3 0
+Z 8 41618 0  0
+Nbag only
+M 8 41611 1  0
+Z 8 41618 0 0
+Y

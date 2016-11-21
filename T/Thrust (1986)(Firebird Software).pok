@@ -1,0 +1,38 @@
+NInfinite Lives
+Z 8 39219 0 0
+NLives = 255
+Z 8 39297 255 255
+NInfinite fuel
+Z 8 54903 201 0
+NImmunity
+M 8 35863 0 0
+M 8 38360 0 0
+M 8 43845 0 0
+M 8 45286 0 0
+M 8 50409 0 0
+M 8 53042 0 0
+M 8 53453 0 0
+Z 8 57651 0 0
+NQuick stop [turn opposite way & press thrust]
+M 8 48766 0 0
+M 8 48787 0 0
+M 8 48813 0 0
+Z 8 48833 0 0
+NStart level = 1
+Z 8 39265 1 0
+NStart level = 5
+Z 8 39265 5 0
+NStart level = 10
+Z 8 39265 10 0
+NStart level = 15
+Z 8 39265 15 0
+NStart level = 20
+Z 8 39265 20 0
+NStart level = 24
+Z 8 39265 24 0
+NHover for Mapping [only moves 1 pixel & can't lift globe!]
+M 8 48758 50 0
+M 8 48779 50 0
+M 8 48805 50 0
+Z 8 48825 50 0
+Y

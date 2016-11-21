@@ -1,0 +1,41 @@
+NInfinite lives
+Z 8 56117 0 0
+NLives = 255
+Z 8 58583 255 255
+NStart level = 1
+M 8 58576 33 0
+M 8 58577 1 1
+Z 8 58578 0 0
+NStart level = 2
+M 8 58576 33 0
+M 8 58577 2 1
+Z 8 58578 0 0
+NStart level = 3
+M 8 58576 33 0
+M 8 58577 3 1
+Z 8 58578 0 0
+NStart level = 4
+M 8 58576 33 0
+M 8 58577 4 1
+Z 8 58578 0 0
+NStart level = 5
+M 8 58576 33 0
+M 8 58577 5 1
+Z 8 58578 0 0
+NStart level = 6
+M 8 58576 33 0
+M 8 58577 6 1
+Z 8 58578 0 0
+NDo not fall through the holes	
+M 8 45196 195	 0
+Z 8 45223 195 0
+NDo not fall into the water	
+M 8 45329 195	 0
+Z 8 45356 195 0
+NImmunity to the nasties	
+M 8 45028 195	 0
+Z 8 45055 195 0
+NInfinite antigrav power	
+M 8 44359 0	 0
+Z 8 44383 0 0
+Y

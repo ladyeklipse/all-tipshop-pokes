@@ -1,0 +1,33 @@
+NImmunity
+Z 8 27935 201 0
+NInfinite Ammo
+Z 8 28055 0 0
+NInfinite Time
+Z 8 46016 182 0
+NFreeze Enemies
+Z 8 46497 201 0
+Laser prism [prior to game starting or before exiting 'Selva Maldita']
+Z 8 60633 0   0
+Solar key [prior to game starting or before exiting 'Selva Maldita']
+Z 8 60642 0   0
+Pyramid [prior to game starting or before exiting 'Selva Maldita']
+Z 8 60650 0   0
+Pyramid [if you are in 'Poblado Indio']
+M 8 23129 120 0
+M 8 55901 0   0
+Z 8 59569 7 0
+Solar key [if you are in 'Poblado Indio']
+M 8 23130 120 0
+M 8 55829 0   0
+Z 8 59569 7 0
+Laser prism [if you are in 'Poblado Indio']
+M 8 23131 120 0
+M 8 56491 0   0
+Z 8 59569 7 0
+NWalk through objects [but cannot climb]
+Z 8 64672 201 0
+NNo characters on screen
+Z 8 64794 201 0
+NSet starting map = 0 to 255
+Z 8 59655  0 255
+Y

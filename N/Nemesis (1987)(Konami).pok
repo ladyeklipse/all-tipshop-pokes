@@ -1,0 +1,11 @@
+NInfinite Lives
+Z 8 51949 0 0
+NImmunity
+Z 8 51479 1 0
+NNumber of lives current player (max 255)
+Z 8 52977 255 255
+NNumber of lives Player 1 (max 255)
+Z 8 53015 255 255
+NNumber of lives Player 2 (max 255)
+Z 8 53016 255 255
+Y

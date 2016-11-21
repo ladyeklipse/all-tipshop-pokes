@@ -1,0 +1,19 @@
+NLives = 255
+Z 8 52503 255 255
+NInfinite Lives
+Z 8 54786 183 0
+NBombs = 255
+Z 8 52508 255 255
+NInfinite Bombs
+Z 8 51270 30 0
+NInfinite Time
+Z 8 56498 0 0
+NNo Enemies
+Z 8 54410 201 0
+NDon't Fall Through Pits
+Z 8 51836 201 0
+NImmune To Nasties
+Z 8 54727 201 0
+NInfinite bombs (2)
+Z 8 51274 0 0
+Y

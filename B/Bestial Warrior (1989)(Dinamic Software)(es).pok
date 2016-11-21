@@ -1,0 +1,27 @@
+NInfinite lives	
+M 8 32417 58 0
+Z 8 32610 58 0
+NInfinite Lives (another)
+Z 8 41566 0 0 
+NInfinite Energy
+M 8 33357 0 0
+M 8 41613 0 0
+Z 8 49159 0 0
+NWeapon 1
+Z 8 65475 1 1
+NWeapon 2
+Z 8 65475 2 1
+NWeapon 3
+Z 8 65475 3 1
+NWeapon 4
+Z 8 65475 4 1
+NWeapon 5
+Z 8 65475 5 1
+N4 in a row for all
+M 8 35230 191 0
+M 8 35231 0 0
+M 8 35317 191 0
+M 8 35318 0 0
+M 8 35404 191 0
+Z 8 35405 0 0
+Y

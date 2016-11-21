@@ -1,0 +1,12 @@
+NInfinite Time (IK A)
+Z 8 28611 000  0
+NInfinite Time (IK B)
+Z 8 28605 000  0
+NPlayer 1 always gets the points (both games)
+M 8 27253 000 0
+Z 8 27254 000  0
+NPlayer 2 always gets the points (both games)
+Z 8 27253 024  0
+NNo points  just score (both games)
+Z 8 27287 000 0
+Y

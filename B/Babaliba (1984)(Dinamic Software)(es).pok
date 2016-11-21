@@ -1,0 +1,24 @@
+NInfinite Lives
+Z 8 56749 0 0
+NInfinite Ammo
+Z 8 49732 0 0
+NInfinite Time
+Z 8 49323 0 0
+NImmunity
+Z 8 56720 201 0
+NNumber of bombs (max 255)
+Z 8 59449 255 255
+NNumber of lives (max 255)
+Z 8 59489 255 255
+NPrisoner rescued
+Z 8 59445 1 0
+NTreasure found - green key appears if you haven't picked it up
+Z 8 59517 1 0
+NPrincess rescued - purple key appears if you haven't picked it uP
+Z 8 59525 1 0
+NNumber of letters found (Use POKE 59549,8 to finish the game :) - but you must have princess, treasure and prisoner before you use this one!)
+Z 8 59549 8 0
+NSets time left to 9999
+M 8 59481 15 0
+Z 8 59482 39 0
+Y

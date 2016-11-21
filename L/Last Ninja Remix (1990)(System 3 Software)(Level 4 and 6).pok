@@ -1,0 +1,49 @@
+NLEVEL 4 Infinite Lives
+Z 8 36510 0 0
+NLEVEL 4 Infinite Power
+M 8 37821 62 0
+M 8 37822 22 0
+M 8 37823 50 0
+M 8 37824 70 0
+Z 8 37825 145 0
+NLEVEL 4 Infinite Shurikens
+Z 8 30021 0 0
+NLEVEL 4 Immune To Shurikens
+Z 8 29635 201 0
+NLEVEL 4 Immune To Carts & Electric Wires
+Z 8 37074 201 0
+NLEVEL 4 Kill Enemy With 2 Hits
+M 8 37754 175 0
+M 8 37755 50 0
+M 8 37756 114 0
+M 8 37757 145 0
+M 8 37758 201 0
+Z 8 30461 0 0
+NLEVEL 4 Enemies Power Doesn't Restore
+Z 8 30461 0 0
+NLEVEL 6 Infinite Lives
+Z 8 36819 0 0
+NLEVEL 6 Infinite Power
+M 8 38671 62 0
+M 8 38672 22 0
+M 8 38673 50 0
+M 8 38674 161 0
+Z 8 38675 148 0
+NLEVEL 6 Infinite Shurikens
+Z 8 30207 0 0
+NLEVEL 6 Immune To Shurikens
+Z 8 29842 201 0
+NLEVEL 6 Immune To Steam
+Z 8 37773 201 0
+NLEVEL 6 Kill Enemy With 2 Hits
+M 8 38604 175 0
+M 8 38605 50 0
+M 8 38606 205 0
+M 8 38607 148 0
+M 8 38608 201 0
+M 8 30647 0 0
+Z 8 30653 24 0
+NLEVEL 6 Enemies Power Doesn’t Restore
+M 8 30647 0 0
+Z 8 30653 24 0
+Y

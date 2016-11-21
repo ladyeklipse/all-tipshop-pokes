@@ -1,0 +1,17 @@
+NInfinite Lives	
+Z 8 27061 0 0
+NLives = 255
+Z 8 27233 255 255
+NInfinite Energy
+M 8 42617 0 0
+M 8 42621 54 0
+M 8 42622 127 0
+Z 8 42623 201 0
+NInfinite energy (2)
+Z 8  59773 201 0
+NYou always win when there is a draw
+Z 8  55522 0 0
+NWithout time
+M 8  56200 201 0
+Z 8  56127 237 0
+Y

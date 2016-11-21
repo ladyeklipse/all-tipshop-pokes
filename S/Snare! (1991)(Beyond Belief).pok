@@ -1,0 +1,23 @@
+NLives = 255
+Z 8 46083 255 255
+NInfinite lives
+Z 8 47162 0 0
+NNo nasties
+Z 8 49320 0 0
+NNo moving nasties
+Z 8 47606 201 0
+No monsters
+Z 8 47514 0 0
+NLives = 255
+Z 8 45293 255 2
+NNo monsters
+Z 8 47504 0	 0
+N255 Lives
+Z 8 46031 255 255
+Nlives
+Z 8 46840 0	255
+No nasties on level 30
+Z 8 47606 0	0
+NTreacle mode [?]
+Z 8 47606 60 0
+Y

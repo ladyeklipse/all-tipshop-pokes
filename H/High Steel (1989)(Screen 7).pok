@@ -1,0 +1,17 @@
+NLives 
+Z 8 30096 255 255
+NInfinite Lives	
+Z 8 30462 0 0
+NLevel = 99
+Z 8 30101 99 1
+NInfinite Bonus	
+Z 8 30989 182 0
+NInfinite Energy	
+Z 8 31458 42 0
+NImmunity (Except Fall From Height)	
+M 8 33712 201 0
+Z 8 36828 201 0
+NFall From Any Height	
+M 8 32817 6 0
+Z 8 32821 24 0
+Y

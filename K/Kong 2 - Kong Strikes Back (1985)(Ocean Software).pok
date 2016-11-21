@@ -1,0 +1,39 @@
+NInfinite Lives
+M 8 42524 182 0
+M 8 43101 182 0
+Z 8 44112 182 0
+NInfinite Bombs
+Z 8 45183 182 0
+NNo cars
+Z 8 45599 0 0
+NStart level = 1
+Z 8 40167 1 1
+NStart level = 2
+Z 8 40167 2 2
+NStart level = 3
+Z 8 40167 3 3
+NStart level = 4
+Z 8 40167 4 4
+NStart level = 5
+Z 8 40167 5 5
+NStart level = 6
+Z 8 40167 6 6
+NStart level = 7
+Z 8 40167 7 7
+NStart level = 8
+Z 8 40167 8 8
+NStart level = 9
+Z 8 40167 9 9
+NStart level = 10
+Z 8 40167 10 10
+NStart level = 11
+Z 8 40167  11 11
+NStart level = 12
+Z 8 40167 12 12
+NSets time to 9990 -current level-
+M 8 44805 42 0
+M 8 44806 42 0
+Z 8 44807 42 0
+NYou see "BONUS" blinking [=extra life and bomb]) (*)
+Z 8 65111 31 0
+Y

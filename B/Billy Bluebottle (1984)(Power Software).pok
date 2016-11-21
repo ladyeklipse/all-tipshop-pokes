@@ -1,0 +1,22 @@
+NInfinite lives
+M 8 29202 0 0
+M 8 37427 0 0
+Z 8 42140 0 0
+NInfinite energy
+M 8 28842 0 0
+M 8  37182 0 0
+Z 8 37498 0 0
+NNo collision screen 1
+M 8 27899 17 0
+Z 8 28666 201 0 
+NNo collision screen 2
+M 8  37764 17 0
+M 8 37773 17 0
+M 8 37782 58 0
+M 8 37798 17 0
+Z 8 37807 58 0 
+NNo collision screen 3
+Z 8 41227 58 0 
+NNo energy loss at the last trap
+Z 8 41963 0 0
+Y

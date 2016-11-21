@@ -1,0 +1,41 @@
+NDisable access code for part 2
+M 8 46006 62  0
+M 8 46013 58  0
+M 8 46021 58  0
+Z 8 46029 195  0
+NDisable access code for part 3
+M 8 46146 62  0
+M 8 46153 58  0
+M 8 46161 58  0
+Z 8 46169 195  0
+NDisable access code for part 4
+M 8 46097 62  0
+M 8 46104 58  0
+M 8 46112 58  0
+Z 8 46120 195 0
+NPart 1 Infinite Lives
+Z 8 50297 0 0
+NPart 1 Infinite Energy
+Z 8 52157 0 0
+NPart 1 Infinite Ammo
+Z 8 51218 0 0
+NPart 2 Infinite Lives
+Z 8 49808 0 0
+NPart 2 Infinite Energy
+Z 8 52232 0 0
+NPart 2 Infinite Ammo
+Z 8 50699 0 0
+NPart 3 Infinite Lives
+Z 8 49693 0 0
+NPart 3 Infinite Energy
+Z 8 52292 0 0
+NPart 3 Infinite Ammo
+Z 8 50796 0 0
+NPart 4 Infinite Lives
+M 8 49485 0 0
+Z 8 56189 0 0
+NPart 4 Infinite Energy
+Z 8 51492 0 0
+NPart 4 Infinite Ammo
+Z 8 50691 0 0
+Y

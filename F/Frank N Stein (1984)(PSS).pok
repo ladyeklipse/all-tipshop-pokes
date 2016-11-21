@@ -1,0 +1,41 @@
+NInfinite Lives	
+Z 8 34124 0 0
+NLives=255 
+Z 8 28287 255 255
+NLevel=10 	
+Z 8 28275 10 10
+NLevel=20 	
+Z 8 28275 20 20
+NInfinite Lives	(2)
+Z 8 33718 0 0
+NLives=255	(2)
+Z 8 28277 255 255
+NLevel=10 (2)
+Z 8 28265 10 10
+NLevel=20 (2)
+Z 8 28265 20 20
+NComplete immunity
+M 8 36152 127 0
+M 8  35879 127 0
+M 8 36407 127 0
+M 8 33173 195 0
+M 8 33137 195 0
+M 8 32339 195 0
+M 8 33764 0 0
+Z 8 42496 0  0
+NInfinite lives (3)
+Z 8 34124 0 0
+NInfinite lives (4)
+M 8 28277 0 0
+Z 8 28278 0 0
+NInfinite energy
+M 8 36047 0 0
+M 8 36048  0 0
+Z 8 36049  0 0
+NSet number of lives
+Z 8 28277 255 0 
+NSet starting level
+Z 8 28265 255 0
+NInfinite time/energy
+Z 8 33577 0 0
+Y

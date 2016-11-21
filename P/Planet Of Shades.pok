@@ -1,0 +1,24 @@
+NInfinite Lives
+Z 8 48676 201 0
+NInfinite Shields
+M 8 48570 201 0
+Z 8 63394 201 0
+NInfinite Energy
+Z 8 62508 201 0
+NInfinite Ammo
+Z 8 62835 201 0
+NInfinite Smart Bombs
+Z 8 49160 201 0
+NInfinite Time
+Z 8 61774 0 0
+NLives = 255
+Z 8 65170 255 255
+NShields = 255
+Z 8 65171 255 255
+NEnergy = 255
+Z 8 65172 255 255
+NAmmo = 255
+Z 8 65173 255 255
+NSmart Bombs = 255
+Z 8 65174 255 255
+Y

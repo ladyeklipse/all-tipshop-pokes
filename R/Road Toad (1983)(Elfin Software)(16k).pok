@@ -1,0 +1,9 @@
+NLives = 16
+Z 8 30208 16 16
+NInfinite lives  player 1
+Z 8 30259 0 0
+NInfinite lives  player 2
+Z 8 30289 0 0
+NInfinite time
+Z 8 30145 0 0
+Y

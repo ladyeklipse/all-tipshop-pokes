@@ -1,0 +1,28 @@
+NInfinite lives
+M 8 55146 182 0
+Z 8 55961 182 0
+NInfinite energy
+M 8 55954 24 0
+Z 8 56324 201 0
+NInfinite credits
+M 8 62141 0 0
+Z 8 65057 0 0
+NInfinite credits
+Z 8 62141 000 0
+NNumber of Lives
+Z 8 54621 255 255
+NNumber NRG blocks: 0-4
+Z 8 54620 4 0
+NInfinite Energy
+M 8 55954 024 0
+Z 8 55944 182 0
+NInfinite Lives
+Z 8 55146 182 0
+NPermanent Blinking imunity
+Z 8 23340 000 0
+NPermanent Imunity after blink
+Z 8 57268 201 0
+NImmunity addon: bikes no hurt
+M 8 57039 195 0
+Z 8 61557 024 0
+Y

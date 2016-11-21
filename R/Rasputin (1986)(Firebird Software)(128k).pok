@@ -1,0 +1,35 @@
+NInfinite Life Force
+Z 8 58346 201 0
+NInfinite Shield Power
+Z 8 57800 201 0
+NInfinite Sword Power
+Z 8 57873 201 0
+NImmunity
+M 8 49219 58 0
+Z 8 50617 201 0
+NWalk on air
+M 8 49325 0 0
+M 8 49326 0 0
+Z 8 49327 0 0
+NNo Baddies
+M 8 50794 0 0
+M 8 50795 0 0
+Z 8 50796 0 0
+NGateways remain open [RASPUTIN letters stay up]
+M 8 50819 0 0
+M 8 50820 0 0
+Z 8 50821 0 0
+NRunes collected ['R'  'A'  'S'  'P'  'U'  'T'  'I'  'N']
+M 4 9552 4 0
+M 4 9554 4 0
+M 4 9556 4 0
+M 4 9558 4 0
+M 4 9560 4 0
+M 4 9562 4 0
+M 4 9564 4 0
+Z 4 9566 4 0
+NReset cheat mode [if 'TEDD' teleport used - Game connot be completed otherwise!]
+Z 8 39370 0 0
+NNo Knight [mapping - invisible but still 'there']
+Z 8 34425 201 0
+Y

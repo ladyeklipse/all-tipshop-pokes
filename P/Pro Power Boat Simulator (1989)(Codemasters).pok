@@ -1,0 +1,13 @@
+NInfinite Lives Both Players
+Z 8 37780 0 0
+NInfinite Mines Both Players
+Z 8 38421 0 0
+NLives Player 1 = 1-255
+Z 8 39387 255 1
+NLives Player 2 = 1-255
+Z 8 39375 1 155
+NMines Player 1 = 1-255
+Z 8 39393 255 1
+NMines Player 2 = 1-255
+Z 8 39380 1 255
+Y

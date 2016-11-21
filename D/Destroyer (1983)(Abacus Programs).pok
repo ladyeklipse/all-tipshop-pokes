@@ -1,0 +1,17 @@
+NNot collide with merchant ships
+Z 8 25865 234 0
+NYou do not sink yourself
+Z 8 27242 234 0
+Nup = 'Q'
+M 8 25143 113  0
+Z 8 25236 113 0
+Ndown = 'A'
+M 8 25123 97  0
+Z 8 25243 97  0
+Nleft 'O'
+M 8 25175 111  0
+Z 8 25211 111  0
+Nright = 'P'
+M 8 25168 112  0
+Z 8 25191 112  0
+Y

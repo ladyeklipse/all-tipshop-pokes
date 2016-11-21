@@ -1,0 +1,64 @@
+NInfinite Lives
+Z 8 58215 182 0
+NImmunity
+Z 8 58179 201 0
+NChange characters anywhere
+Z 8 59320 24 0
+NCharacters don't move
+Z 8 43308 201 0
+Nfreezes the gang members not in your control. 
+Z 8  43308  201 0
+NFood is at Bakers & Bar 
+Z 8  63506 233 0 
+NFood is at Workshed & Butchers 
+Z 8  63506 237 0
+NFood is at Bar & Wally's House 
+Z 8  63506 241 0 
+NFood is at Butchers & Bakers 
+Z 8  63506 245 0 
+NFood is at Wally's House & Workshed 
+Z 8  63506 249 0  
+NNo letters  for the safe(default) 
+M 8  60670 0 0
+Z 8 60869 1 0 
+N1 letter  for the safe 
+M 8  60670 2 0
+Z 8  60869 2 0 
+N2 letters  for the safe 
+M 8  60670 4 0
+Z 8  60869 3 0 
+N3 letters  for the safe 
+M 8  60670 6 0
+Z 8  60869 4 0 
+N4 letters  for the safe
+M 8  60670 8 0
+Z 8 60869 5 0 
+NThe hook is working 
+Z 8  60434 1 0 
+NFountain repaired 
+Z 8  60439 1 0 
+NWall is built 
+Z 8  60440 1 0 
+NPhone box' stage completed 
+Z 8  60444 1 0 
+NThe Bottle Full 
+Z 8  60431 1 0 
+NThe Fuse Rewired 
+Z 8  60432 1 0 
+NThe Parcel Stamped 
+Z 8  60433 1 0 
+NThe hook is working 
+Z 8  60434 1 0 
+NThe Bucket Full 
+Z 8  60435 1 0 
+NThe Pipe patched 
+Z 8  60436 1 0 
+NThe Battery charged 
+Z 8  60437 1 0 
+NThe Oil Can Full 
+Z 8  60438 1 0 
+NFountain repaired 
+Z 8  60439 1 0 
+NWall is built 
+Z 8  60440 1 0 
+Y

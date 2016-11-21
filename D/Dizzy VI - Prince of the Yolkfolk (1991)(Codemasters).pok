@@ -1,0 +1,23 @@
+NInfinite Lives
+Z 8 30891 182 0
+NAnimation speed = 0(max)
+Z 8 39053 0 3
+NImmune to Bats
+Z 8 33011 142 0
+NImmune to Flame of Torch
+Z 8 35310 142 0
+NImmune to Flames of Burnt Door
+Z 8 34187 142 0
+NImmune to Troll
+Z 8 33144 142 0
+NImmune to Ferryman
+Z 8 33227 142 0
+Nextra energy
+Z 8 39924 62 0
+Ninfinite lives (2)
+M 8 30899 96 0
+Z 8 30890 4 0 
+Nstart with 20 cherries
+M 8 37526 20 0
+Z 8 37550 0 0
+Y

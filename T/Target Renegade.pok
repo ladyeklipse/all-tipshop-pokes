@@ -1,0 +1,13 @@
+NInfinite Time
+Z 8 62936 0 0
+NPlayer 1 Lives=x
+Z 8 63797 255 255
+NTurbo Speed
+Z 8 62769 0 0
+NInfinite Lives (both players)
+Z 8 59911 182 0
+NPlayer 2 lives = 255
+Z 8 63798 255 255
+NMinutes = 1-9
+Z 8 63760 9 1
+Y

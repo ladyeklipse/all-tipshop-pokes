@@ -1,0 +1,15 @@
+NInfinite Lives Player 1
+M 8 36276 0 0
+Z 8 44046 0 0
+NInfinite Lives Player 2
+M 8 36304 0 0
+Z 8 44055 0 0
+NInfinite Fuel
+Z 8 36530 0 0
+NWeapon Always Present
+M 8 36341 201 0
+M 8 48254 0 0
+M 8 48257 0 0
+M 8 48752 2 0
+Z 8 48753 2 0
+Y

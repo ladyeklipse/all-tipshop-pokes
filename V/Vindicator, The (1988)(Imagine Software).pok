@@ -1,0 +1,18 @@
+NPART 1	Infinite Lives
+M 8 33488 0 0
+Z 8 34064 0 0
+NPART 1	Immunity (except oxygen)
+M 8 33386 0 0
+Z 8 33387 0 0
+NPART 2	Infinite Lives
+M 8 34139 0 0
+Z 8 34203 0 0
+NPART 2	Infinite Rockets
+Z 8 38631 0 0
+NPART 2	Infinite Grenades
+Z 8 33773 0 0
+NPART 3	Infinite Lives
+Z 8 35055 0 0
+NPART 3	Infinite Time
+Z 8 34364 0 0
+Y

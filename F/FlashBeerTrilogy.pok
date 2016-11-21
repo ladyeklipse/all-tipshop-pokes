@@ -1,0 +1,13 @@
+NPart 1 Infinite Lives
+Z 8 32860 0 0 
+NPart 1 Immunity
+Z 8  35201 201 0
+NPart 2 Infinite Lives
+Z 8  32860 0 0
+NPart 2 Immunity
+Z 8  35310 201 0
+NPart 3 No of Lives = 255
+Z 8 49591 255 255 
+NPart 3 Immunity
+Z 8 35516 201 0
+Y

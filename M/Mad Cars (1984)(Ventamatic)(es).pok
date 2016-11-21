@@ -1,0 +1,11 @@
+NLives = 255
+Z 8 46769 255 255
+NInfinite lives
+Z 8 46833 183 0
+NDo not collide with the other cars
+M 8 43364 0  0
+M 8 43365 0  0
+Z 8 43366 0  0
+NFull immunity
+Z 8 44579 201 0
+Y

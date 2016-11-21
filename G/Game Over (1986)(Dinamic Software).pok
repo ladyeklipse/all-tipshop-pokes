@@ -1,0 +1,23 @@
+NPART 1 Infinite Lives
+M 8 39096 0 0
+Z 8 39345 0 0
+NPART 1 Infinite Energy	
+M 8 39361 0 0
+Z 8 39377 0 0
+NPART 1 Lives = 255
+Z 8 48790 255 255
+NPART 1 Grenades = 255
+Z 8 48794 255 255
+NPART 1 Infinite Grenades
+Z 8 32417 0 0
+NPART 2	Infinite Power
+Z 8 38665 0 0
+NPART 2	Infinite Laser
+Z 8 32379 0 0
+NPART 2	Infinite Lives
+Z 8 38705 201 0
+NPART 2	Mines don't kill you
+Z 8 33530 33 0
+NPART 2	Bypass access code
+Z 8 37878 33 0
+Y

@@ -1,0 +1,15 @@
+NInfinite Lives
+Z 8 30094 182 0
+N255 Lives
+Z 8 28206 255 255
+NImunity
+Z 8 30125 000 0
+NChanges left/right to O, P
+Z 8 30356 127   0
+NChange left/right to Q, W
+M 8 30356 251 0
+M 8 30374 79 0
+Z 8 30383 71  0
+NChanges jump to SPACE
+Z 8 30370 223  0
+Y

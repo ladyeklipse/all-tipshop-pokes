@@ -1,0 +1,19 @@
+NInfinite Lives
+Z 8 51736 0 0
+NInfinite Time
+Z 8 44460 201 0
+NRooms to complete = 1
+Z 8 45121 1 36
+NImmunity
+Z 8 45741 126 0
+NFreeze Enemies & Objects
+Z 8 49078 201 0
+NMegajumps
+Z 8 49864 0 0
+NNumber of lives (max 128)
+Z 8 23322 128 1
+NSets Time Left to 999
+M 8 23350 144 0
+M 8 23351 144 0
+Z 8 23352 144 0
+Y

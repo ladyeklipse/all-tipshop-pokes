@@ -1,0 +1,27 @@
+NInfinite ammo P1 and P2
+Z 8 42511 0 0
+NInfinite grenades P1
+Z 8 42328 0 0
+NInfinite energy P1
+Z 8 42918 183 0
+NInfinite grenades P2
+Z 8 42396 0 0
+NInfinite energy P2
+Z 8 42853 183 0
+NInfinite Credits
+Z 8 41214 0 0
+NStart level = 1
+Z 8 37910 1 1
+NStart level = 2
+Z 8 37910 2 2
+NStart level = 3
+Z 8 37910 3 3
+NStart level = 4
+Z 8 37910 4 4
+NStart level = 5
+Z 8 37910 5 5
+NStart level = 6
+Z 8 37910 6 6
+NStart level = 7
+Z 8 37910 7 7
+Y

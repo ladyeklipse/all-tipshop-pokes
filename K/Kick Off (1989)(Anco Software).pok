@@ -1,0 +1,13 @@
+NTime [minutes:seconds] (x=0-89)
+M 8 25466 89 0
+Z 8 25465  89 0
+NNumber of goals scored by Player 1 (max 153)
+Z 8 25414 153 0
+NNumber of goals scored by Player 2/CPU (max 153)
+Z 8 25415 0 153
+NPlayer 1 scores 10 goals
+Z 8 25414 16 10 0
+NTime = 0:59
+M 8 25466 0 0
+Z 8 25465 89  0
+Y

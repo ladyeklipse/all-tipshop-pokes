@@ -1,0 +1,33 @@
+NLevel 1 Infinite Time & Fuel	
+Z 8 35680 183 0
+NLevel 1 Level Always Complete	
+Z 8 32388 24 0
+NLevel 1 Landing Always Successful	
+M 8 43091 1 0
+Z 8 43140 195 0
+NLevels 2 5 Infinite Lives	
+Z 8 34737 183 0
+NLevels 2 5 Infinite Energy	
+Z 8 34695 201 0
+NLevels 2 5 Infinite Missiles	
+M 8 50515 0 0
+Z 8 50557 0 0
+NLevel 3 Infinite Lives	
+Z 8 49040 183 0
+NLevel 3 Infinite Air	
+Z 8 35680 183 0
+NLevel 3 Docking Always Successful	
+M 8 48611 1 0
+Z 8 48627 0 0
+NLevel 4 Infinite Lives	
+Z 8 49040 183 0
+NLevel 4 Infinite Air	
+Z 8 35680 183 0
+NLevel 4 Energy = Maximum And Don't Decrease	
+Z 8 51158 33 0
+NLevel 6 Infinite Shots	
+Z 8 51141 0 0
+NLevel 6 Kill The Cook With One Shot	
+M 8 51280 0 0
+Z 8 51281 175 0
+Y

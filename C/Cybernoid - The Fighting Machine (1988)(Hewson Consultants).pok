@@ -1,0 +1,62 @@
+NInfinite Lives
+Z 8 36687 0 0
+NInfinite Shields
+Z 8 31818 0 0
+NNo Sound
+Z 8 61683 201 0
+NImmunity
+Z 8 36571 201 0
+NNo Enemies
+M 8 36055 201 0
+Z 8 39784 201 0
+NNo Guns
+M 8 34732 201 0
+Z 8 36156 201 0
+NNo Tunnel Aliens
+Z 8 36928 201 0
+NNo Snakes
+Z 8 37479 201 0
+NNo Rockets	
+Z 8 38896 201 0
+NNo Flying Aliens
+Z 8 39906 201 0
+NInfinite Weapons
+Z 8 31799 0 0
+NImmediate Backshot
+Z 8 27374 1 0
+NInfinite Backshot
+Z 8 36680 0 0
+NEternal Satellite
+Z 8 36683 0 0
+NEternal Satellite (another)
+Z 8 27211 0 0
+NLives = 255
+Z 8 25941 255 255
+NLives = 255 (2)
+Z 8 30931 255 255
+NImmunity
+Z 8 36617 195 0 
+NCyber-maces
+M 8 27210 0 0
+Z 8 27211 0 0
+N255 Bombs Present
+Z 8 31672 255 255
+N255 Bombs Maximum
+Z 8 31673 255 255
+N255 Mines Present
+Z 8 31688 255 255
+N255 Mines Maximum
+Z 8 31689 255 255
+N255 Shield  Present
+Z 8 31704 255 255
+N255 Shield	Maximum
+Z 8 31705 255 255
+N255 Bounce  Present
+Z 8 31720 255 255
+N255 Bounce	Maximum
+Z 8 31721 255 255
+N255 Seeker  Present
+Z 8 31736 255 255
+N255 Seeker	Maximum
+Z 8 31737 255 255
+Y

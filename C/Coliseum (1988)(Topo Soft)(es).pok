@@ -1,0 +1,27 @@
+NInfinite Lives
+Z 8 48529 183 0	
+NNumber of lives [max 127] 
+Z 8 48515 127 127
+NWeapon = Axe
+Z 8 54980 0 0
+NWeapon = Mace
+Z 8 54980 1 1
+NWeapon = Sword
+Z 8 54980 2 2
+NWeapon = Trident
+Z 8 54980 3 3
+NWeapon = Net (kills your enemy with a single hit) 
+Z 8 54980 4 4
+NWeapon = Spear (kills your enemy with a single hit) 
+Z 8 54980 5 5
+NLevel 1
+Z 8 45069 0 0
+NLevel 2
+Z 8 45069 1 1
+NLevel 3
+Z 8 45069 2 2
+NLevel 4
+Z 8 45069 3 3
+NLast lap 
+Z 8 45622 8 8
+Y

@@ -1,0 +1,20 @@
+NInfinite Lives
+M 8 36965 0 0
+Z 8 23439 201 0
+NInfinite Fuel
+M 8 36268 0 0
+Z 8 36269 0 0
+NLevel = 10
+Z 8 43092 11 0
+NLives = 255 player 1
+Z 8 43093 255 255
+NLives = 255 player 2
+Z 8 43117 255 255
+NNo enemy
+Z 8 37999 201 0
+NInfinite time
+Z 8 43997 24  0
+NImmunity
+M 8 45776 195 0
+Z 8 45781 167 0
+Y

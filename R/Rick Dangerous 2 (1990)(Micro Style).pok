@@ -1,0 +1,19 @@
+NInfinite Lives
+Z 8 35376 0 0
+NInfinite Ammo
+M 8 34541 0 0
+Z 8 38303 0 0
+NInfinite Bombs
+M 8 34574 0 0
+Z 8 39745 0 0
+NWeapons = 255
+Z 8 31987  255 255
+NLives = 255
+Z 8 31937 255 255
+NImmune To Enemies
+Z 8 35943 58 0
+NImmune To Moving Objects
+Z 8 42101 58 0
+NImmune To Bomb's Explosion
+Z 8 37812 58 0
+Y

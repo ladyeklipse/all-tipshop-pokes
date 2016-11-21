@@ -1,0 +1,45 @@
+NSewer at Torrington Square is open (0=no  255=yes)
+Z 8  34302 254 1
+NSewer at Charlotte Street is open (0=no  255=yes)
+Z 8  34303 254 1
+NWhere's lantern (turned on) For these Z 8 s: x=number of room; if x=254 it's in your inventory ; if x=1 it's inside suitcase.
+M 8  34496 254 1
+Z 8 34507 252 0
+NWhere's lantern (turned off)
+M 8  34496 252 0
+Z 8 34507 254 1
+NWhere's suitcase
+Z 8  34497 254 1
+NWhere's ticket (clothes cleaner's shop)
+Z 8  34498 254 1
+NWhere's cane (without knife)
+M 8  34499 254 1
+Z 8 34500 0 0
+NWhere's cane (with knife)
+M 8  34499 0 0
+Z 8  34500 254 1
+NWhere's spyglass
+Z 8  34501 254 1
+NWhere's the coin
+Z 8  34503 254 1
+NWhere's Tenebrarum (the book)
+Z 8  34504 254 1
+NWhere's bar
+Z 8  34505 254 1
+NWhere's Anubis' chest
+Z 8  34506 254 1
+NWhere's newspaper
+Z 8  34508 254 1
+NWhere's telegram
+Z 8  34509 254 1
+NWhere's Sherlock Holmes' pipe
+Z 8  34510 254 1
+NWhere's money
+Z 8  34511 254 1
+NWhere's whisky
+Z 8  34512 254 1
+NWhere's ticket (Royal Opera House)
+Z 8  34513 254 1
+NWhere's dress suit
+Z 8  34514 254 1
+Y

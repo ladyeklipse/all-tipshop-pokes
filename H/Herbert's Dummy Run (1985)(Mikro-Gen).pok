@@ -1,0 +1,30 @@
+NLives = 255
+Z 8 36739 255 255
+NInfinite Lives	
+M 8 39696 0 0
+Z 8 39698 58 0
+NEnergy items appear at 1st place 
+Z 8  50468 38 0 
+NEnergy items appear at 2nd place 
+Z 8  50468 41 0 
+NEnergy items appear at 3rd place 
+Z 8  50468 44 0 
+NEnergy items appear at 4th place 
+Z 8  50468 47 0 
+NThe 'chocolate ten pence' transforms in 'real ten pence' 
+Z 8  51880 1 0  
+NThe torch is working 
+Z 8  51893 1 0  
+NThe pop gun is loaded 
+Z 8  51894 1 0  
+NThe catapult is loaded 
+Z 8  51897 1 0  
+NYour 1st item is the bouncy space hopper 
+Z 8  51876 3 0 
+NYour 2nd item is the glove 
+Z 8  51877 4 0 
+NBouncy space hopper appears at library  
+Z 8  33329 3 0 
+NGlove appears at door with hand's room
+Z 8  33365 4 0 
+Y

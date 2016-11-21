@@ -1,0 +1,15 @@
+NPartial Immunity
+M 8 55091 0 0
+M 8 34900 0 0
+M 8 35092 0 0
+M 8 35093 0 0
+Z 8 45026 24 0
+NSafe Holes
+Z 8 35090 0 0
+NInfinite Lives
+Z 8 33912 24 0
+Number of lives (max 255)
+Z 8 39352 255 0
+NInfinite time
+Z 8 38557 0 0
+Y

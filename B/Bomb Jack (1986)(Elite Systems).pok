@@ -1,0 +1,11 @@
+NInfinite Lives
+Z 8 49984 0 0
+NLives = 255 (Player 1)
+Z 8 49530 255 255
+NImmunity
+Z 8 52127 201 0
+NNo Enemies
+Z 8 52327 201 0
+NNumber of Lives Player 2 (max 255)
+Z 8 49547 255 255
+Y

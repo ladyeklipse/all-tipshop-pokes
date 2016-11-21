@@ -1,0 +1,32 @@
+NInfinite time
+M 8 42813 1 0
+Z 8 42823 201 0
+NHarmless robots
+M 8 57361 0 0
+Z 8 59368 201 0
+NNo time penalties
+Z 8 36853 58 0
+NPreload Security Terminal items
+M 8 43856 1 0
+M 8 43857 1 0
+M 8 43858 1 0
+M 8 43859 1 0
+M 8 43860 1 0
+Z 8 43861 1 0
+NInfinite Security Terminal items
+Z 8 43713 0 0
+NPrevents reset on break
+M 8 43714 0 0
+Z 8 43953 0 0
+NCode correct anytime
+M 8 40385 24 0
+M 8 40395 0 0
+Z 8 40396 0 0
+NNext Tower door always opens
+M 8 40029 255 0
+M 8 43610 0 0
+M 8 43611 0 0
+Z 8 43612 0 0
+NNo need to collect music to win
+Z 8 47549 0 0
+Y

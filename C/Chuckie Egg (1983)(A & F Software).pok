@@ -1,0 +1,28 @@
+NInfinite Lives
+Z 8 42837 182 0
+NInfinite Bonus
+Z 8 39151 0 0
+NInfinite Time
+Z 8 39205 0 0 
+N255 Lives Player 1
+Z 8 28400 255 255 
+N255 Lives Player 2
+Z 8 28401 255 255
+N255 Lives Player 3
+Z 8 28402 255 255 
+N255 Lives Player 4
+Z 8 28403 255 255
+NInfinite Lives
+Z 8 42837 190 0 
+NNo Sound after death
+M 8 42001 033 0
+Z 8 42753 033 0 
+NPass level instead of dying
+Z 8  42610 202 0 
+NVery Slow Big Bird
+Z 8 39164 0 0 
+NBig Bird Doesn't Exist
+Z 8 39165 024 0 
+N 1 egg left to collect
+Z 8 28390 1 1
+Y

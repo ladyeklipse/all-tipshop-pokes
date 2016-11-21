@@ -1,0 +1,10 @@
+NInfinite lives
+Z 8 30513 0 0
+NLives = 255
+Z 8 30078 255 255
+NSpeed up death sequence
+Z 8 30509 0 0
+NImmunity
+M 8 30444 24 0
+Z 8 30445 43 0
+Y

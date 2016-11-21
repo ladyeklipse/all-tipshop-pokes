@@ -1,0 +1,33 @@
+NInfinite Lives
+Z 8 37798 190 0
+NImmunity
+Z 8 38209 201 0
+NInfinite Smarts
+Z 8 45282 0 0
+NSplit weapon = 1
+M 8 38024 1 0
+Z 8 45281 0 0
+NSplit weapon = 2
+M 8 38024 2 0
+Z 8 45281 0 0
+NSplit weapon = 3
+M 8 38024 3 0
+Z 8 45281 0 0
+NSplit weapon = 4
+M 8 38024 4 0
+Z 8 45281 0 0
+NSplit weapon = 5
+M 8 38024 5 0
+Z 8 45281 0 0
+NNo ground fire
+Z 8 40712 201 0
+NNo enemies
+M 8 39440 201 0
+Z 8 44461 201 0
+NMapping - no you [still need immunity]
+Z 8 44504 201 0
+NMapping - No Dinosaurs/Robots
+Z 8 41068 201 0
+NMapping - No Dinosaurs/Robots  (another)
+Z 8 38331 201 0
+Y

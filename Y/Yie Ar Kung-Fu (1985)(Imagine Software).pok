@@ -1,0 +1,20 @@
+NLives = 255
+Z 8 29483 255 255
+NInfinite Lives
+Z 8 29587 183 0
+NInfinite Energy
+Z 8 61482 0 0
+NStrength = 255
+Z 8 29974 255 255
+NOne Hit Kills
+Z 8 61461 175 0
+NInfinite Lives (2)
+Z 8 29633 0 0
+NInfinite energy (2)
+Z 8 44123 0  0
+Ninfinite lives vidas
+Z 8 44170 182  0
+NDon't add extra lives
+M 8 44732 0  0
+Z 3 50109 0 0
+Y

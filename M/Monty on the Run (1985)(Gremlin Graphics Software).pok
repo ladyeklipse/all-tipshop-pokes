@@ -1,0 +1,41 @@
+NInfinite Lives
+Z 8 34716 24 0
+NLives = 255
+Z 8 39039 255 255
+NInfinite Shields
+Z 8 36477 0 0
+NImmunity
+Z 8 36765 201 0
+NHarmless Water
+Z 8 39504 0 0
+NNo Crushers
+Z 8 34445 201 0
+NStart screen=The House
+Z 8 39030 01 01
+NStart screen=The House
+Z 8 39030 01 01
+NStart screen=The Hall Of Jow-An
+Z 8 39030 6 6
+NStart screen=Pie Are Square
+Z 8 39030 9 9
+NStart screen=Escape Tunnel
+Z 8 39030 16 16
+NStart screen=ewerage Works
+Z 8 39030 21 21
+NStart screen=The ULTIMATE Experience
+Z 8 39030 32 32
+NStart screen=Tree Stump
+Z 8 39030 33 33
+NStart screen=Drive Sir Clive's C5
+Z 8 39030 35 35
+NStart screen=Das Boat
+Z 8 39030 39 39
+NInfinite lives
+Z 8 34716 24  0
+NCrushers don't kill you
+Z 8 34445 201  0
+NMonsters don't kill you
+Z 8 36765 201  0
+NWater doesn't kill you
+Z 8 39504 0  0
+Y

@@ -1,0 +1,28 @@
+NInfinite Lives
+Z 8 58294 0 9
+NAccess Hidden Game
+M 8 52796 32 0
+Z 8 52798 58 0
+NInfinite Oxygen (Hidden Game)
+Z 8 54045 0 0
+NFish To Be Caught=x (Hidden Game)
+Z 8 52824 1 1
+NFish Caught=x (Hidden Game)
+Z 8 53037 255 255
+NAlways Complete Hidden Game
+Z 8 52824 195 0
+NDon't Throw Back To Start
+Z 8 58304 206 0
+NImmune To Pirates
+Z 8 61635 24 0
+NImmune To Birds & Rats
+Z 8 58104 201 0
+NBombs Don't Explode
+Z 8 58317 201 0
+NMove the key (No. 6) to a better position: 
+M 8 44524 14 0
+Z 8 44525 11 0 
+NWalkthrougth all doors
+M 8 60576 0 0
+Z 8 60577 0 0
+Y

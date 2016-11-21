@@ -1,0 +1,21 @@
+NInfinite Laser
+Z 8 42079 0 0
+NInfinite Power
+M 8 39816 33 0
+M 8 39817 255 0
+Z 8 39818 39 0
+NInfinite Shield
+M 8 39893 33 0
+M 8 39894 255 0
+Z 8 39895 9 0
+NInfinite Missiles
+M 8 44807 2 0
+Z 0 60397 0 0
+NAccept Any Code (Novella Protection)
+M 8 63873 126 0
+M 8 63874 35 0
+M 8 63875 229 0
+M 8 63876 209 0
+M 8 63877 0 0
+Z 8 63890 24 0
+Y

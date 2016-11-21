@@ -1,0 +1,26 @@
+NInfinite Lives (128)
+Z 8 56889 0 0
+NInfinite Lives (48)
+Z 8 56877 0 0
+No Fire Pods
+Z 8 33866 0 0
+NInfinite Time
+Z 8 58110 0 0
+NImmunity
+Z 8 56877 201 0
+NNo clock
+Z 8 58105 0	 0
+NEvery fairy tear is a life
+M 8 32657 0  0
+Z 8 32658 48  0
+NLives = 255
+M 8 32664 255 255
+M 8 34657 255 255
+Z 8 58606 255 555
+NInvincibility
+Z 8 56890 255	 0
+NAutostart
+Z 8 33251 61	 0
+NImmunity (2)
+Z 8 34092 0	 0
+Y

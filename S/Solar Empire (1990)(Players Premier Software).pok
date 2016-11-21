@@ -1,0 +1,16 @@
+NLives = 255
+Z 8 61696 255 255
+NInfinite Lives
+Z 8 24433 182 0
+NInfinite Power
+M 8 25036 000 0
+M 8 25037 024 0
+M 8 25038 004 0
+Z 8 34565 000 0
+NNo Damage  except BIG impacts
+Z 8 25053 000 0
+NNumber of x times shot stays
+Z 8 26830 182 0
+NNumber of x shots: 0 to 3
+Z 8 24207 3 0
+Y

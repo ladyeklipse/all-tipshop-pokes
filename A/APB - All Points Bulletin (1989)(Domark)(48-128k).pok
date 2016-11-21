@@ -1,0 +1,25 @@
+NNumber of Demerits = 99
+Z 8 35367 99 1 
+NNever Demeritised
+Z 8 35338 0 0
+NInfinite Time
+Z 8 37312 033 0 
+NInfinite Gas
+Z 8 37317 033 0 
+NCurrent Day = 1
+Z 8 35366 1 10
+NBuy, Buy & Buy!
+Z 8 31587 0 0
+NSpeed:from 0 to ?
+Z 8 30086 7 0 
+NAccel 1st: 64k
+Z 8 29844 255 0 
+NAccel 2nd: 0 to 3
+Z 8 29845 3 0 
+NBrakes 1st: 64k
+Z 8 29846 255 0 
+NBrakes 2nd: 0 to 3
+Z 8 29847 3 0
+NArmour: 0 to ?
+Z 8 31825 99 0
+Y

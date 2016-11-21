@@ -1,0 +1,39 @@
+NInfinite Credits
+Z 8 40514 0 0
+NInfinite Constitution
+Z 8 33283 126 0
+NInfinite Morale
+Z 8 33544 0 0
+NInfinite Ammo
+Z 8 36823 182 0
+NInfinite Turns
+Z 8 24226 182 0
+NInfinite Action Points (If Move)
+Z 8 28568 126 0
+NInfinite Action Points (If Turn Left)
+Z 8 28149 126 0
+NInfinite Action Points (If Turn Right)
+Z 8 28102 126 0
+NInfinite Action Points (If Change Object)
+M 8 31362 126 0
+Z 8 31418 126 0
+NInfinite Action Points (If Load Ammo)
+Z 8 40210 126 0
+NInfinite Action Points (If Drop Object)
+Z 8 31904 126 0
+NInfinite Action Points (If Pick Up Object)
+Z 8 32065 126 0
+NInfinite Action Points (If Throw Object)
+Z 8 39610 126 0
+NInfinite Action Points (If Shoot)
+M 8 37318 126 0
+Z 8 37899 126 0
+NInfinite Action Points (If Move Through Obstacles)
+Z 8 32598 126 0
+NInfinite Action Points (If Open Or Close Chest)
+Z 8 31240 126 0
+NInfinite Action Points (If Touch Alien)
+Z 8 33177 126 0
+NAliens Have No Action Points
+Z 8 24432 58 0
+Y

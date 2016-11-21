@@ -1,0 +1,27 @@
+NLives you Want
+Z 8 24595 255 255
+NInfinite lives - 1st level
+Z 8  35622 182 0
+N1st level - Time frozen 
+Z 8 36934 000 0
+N1st level - Immunity 
+Z 8 28109 182  0
+NInfinite lives - 2nd level 
+Z 8  34363 182  0
+N2nd level - Time frozen 
+Z 8  35448 000  0
+N2nd level - Immunity 
+Z 8 27588 182 0
+NInfinite Lives - 3-4th level 
+Z 8  35214 182 0
+N3rd/4th level - Time frozen 
+Z 8  36604 0 0
+N3rd/4th level - Imunity 
+Z 8  28191 182 0
+NInfinite Lives - 5th level 
+Z 8  27719 182  0
+N5th level - Time frozen 
+Z 8 35382 000 0
+N5th level - Imunity 
+Z 8 34398 182 0
+Y

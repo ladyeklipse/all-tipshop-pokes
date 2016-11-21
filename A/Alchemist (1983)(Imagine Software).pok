@@ -1,0 +1,14 @@
+NInfinite Stamina
+Z 8	47544 201 0
+NInfinite Spell Energy
+Z 8	47599 201 0
+NYou unlock the door.
+Z 8 24719 0 0
+NYou get rid of fire.
+M 8 44084 255 0
+Z 8 44085 255 0
+NWhich item you have (see list on tipshop page)
+Z 8 44092 6 255
+NWhich spell you have (see list tipshop page)
+Z 8 44093 7 255
+Y

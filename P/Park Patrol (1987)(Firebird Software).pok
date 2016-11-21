@@ -1,0 +1,7 @@
+NInfinite Lives
+Z 8 53949 0 0
+NLives = 255
+Z 8 53188 255 255
+NEnergy*100 = 255
+Z 8 53200 255 255
+Y

@@ -1,0 +1,14 @@
+NLives = 255
+Z 8 36424 255 255
+NInfinite lives
+Z 8 37254 182 0
+NStart in room 16
+Z 8	36429 16 1
+NLoads of time	
+Z  8 37191 0 0
+NInfinite Time
+M 8 37186 0 0
+Z 8 37187 182 0 
+NImmunity
+Z 8  43175 24 0
+Y

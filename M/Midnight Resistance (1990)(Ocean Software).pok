@@ -1,0 +1,13 @@
+NInfinite Lives
+Z 8 36480 0 0
+NLives = 255
+Z 8 31760 255 255
+NInfinite Weapons
+Z 8 39975 0 0
+NInfinite Backpacks
+Z 8 39996 0 0
+NInvincible after dying once
+Z 8 40364 0   0
+NResets bullets to maximum amount
+Z 8 40126 231  0
+Y

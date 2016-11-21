@@ -1,0 +1,35 @@
+NInfinite Life Force
+Z 8 43958 201 0
+NInfinite Shield Power
+Z 8 33392 201 0
+NInfinite Sword Power
+Z 8 33501 201 0
+NImmunity
+M 8 51542 58 0
+Z 8 52906 201 0
+NWalk on air
+M 8 51617 0 0
+M 8 51618 0 0
+Z 8 51619 0 0
+NNo Baddies
+M 8 50778 0 0
+M 8 50779 0 0
+Z 8 50780 0 0
+NGateways remain open [RASPUTIN letters stay up]
+M 8 50826 0 0
+M 8 50827 0 0
+Z 8 50828 0 0
+NRunes collected ['R'  'A'  'S'  'P'  'U'  'T'  'I'  'N']
+M 8 30480 4 0
+M 8 30482 4 0
+M 8 30484 4 0
+M 8 30486 4 0
+M 8 30488 4 0
+M 8 30490 4 0
+M 8 30492 4 0
+Z 8 30494 4 0
+NReset cheat mode [if 'STALIN' teleport used - Game connot be completed otherwise!]
+Z 8 57590 0 0
+NNo Knight [mapping - invisible but still 'there']
+Z 8 51001 201 0
+Y

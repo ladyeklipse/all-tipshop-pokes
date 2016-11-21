@@ -1,0 +1,63 @@
+NInfinite Lines
+Z 8 29655 62 0
+NHayley resets lines to 0
+Z 8 24417 0 0
+NInfinite kisses
+Z 8 24401 0 0
+NNo noise for lines
+Z 8 29838 62 0
+NInfinite Lines
+Z 8 29643  201 0
+NNo tellings off
+Z 8 29716 201 0
+NPause
+Z 8 63156 201 205
+NYellow Room/Study Door opens and shuts (on)
+Z 8 28767  201 203
+NTeachers tell themselves off if hit with a catapult
+Z 8 28029 201 0
+Number of mice (x=0-3) - note: The mice don't appear in your inventory when you use this poke-
+Z 8 32737 3 0
+NYou get Frog, Yellow Key, White Key, Gun (with wine) and 3 bombs -you've to throw a bomb to see those items-
+Z 8 32747 255 0
+NNo items
+Z 8 32747 0  0
+NYellow Key
+Z 8 32747 1 0
+NWhite Key
+Z 8 32747 2 0
+NFrog
+Z 8 32747 4 0
+NGun (Water) -> Teachers say numbers
+Z 8 32747 8 0
+NGun (Wine) -> Teachers say letters
+Z 8 32747 24 0
+N1 bombs
+Z 8 32747 128 0
+N2 bombs
+Z 8 32747 192 0
+N3 bombs
+Z 8 32747 224 0
+NBoth keys
+Z 8 32747 3 0
+NGun (Wine)+1 bomb
+Z 8 32747 152 0
+NGun (Water)+2 bombs
+Z 8 32747 200 0
+NGun (Water)+3 bombs
+Z 8 32747 232 0
+NGun (Water)+3 bombs+both keys
+Z 8 32747 235 0
+NSet Mr Wacker's number (x=0-9)
+M 8 32668 57 48
+Z 8 32676 57 48
+NSet Mr Rockitt's number (x=0-9)
+M 8 32669 57 48
+Z 8 32677 57 48
+NSet Mr Withit's number (x=0-9)
+M 8 32670 57 48
+Z 8 32678 57 48
+NSet Mr Creak's number (x=0-9)
+M 8 32671 57 48
+Z 8 32679 57 48
+Y

@@ -1,0 +1,21 @@
+NInfinite lives
+M 8 40625 0 0
+Z 8 42173 0 0
+NInifinite backpack power
+M 8 40191 0  0
+Z 8 40192 167 0
+NInfinite lives (w turbo loader)
+M 8 40642 0 0
+Z 8 42190 0 0 
+NInfinite traps (w turbo loader)
+Z 8 40862 0 0
+NInfinite backpack power (w turbo loader)
+M 8  40209 0 0
+Z 8 40210 167 0 
+NMen left 
+Z 8 55664 4 4 
+NEmpty traps 
+Z 8 55665 0 255 
+NBackpack power (in BCD/Hex; ie. 99% = 99 hex = 153 dec) 
+Z 8 55666 153 153
+Y

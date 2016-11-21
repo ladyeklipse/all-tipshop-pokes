@@ -1,0 +1,19 @@
+NStage one: To stop the clock
+M 8 27212 0 0
+Z 8 27231 0 0 
+NStage one: To activate the clock 2 seconds before the explosion
+M 8 27212 7 0
+M 8 27231 36 0
+M 8 23672 0 0
+Z 8 23673 34 0
+NStage two:To bribe the soldier
+Z 8 25806 0 0 
+NStage two:To stop the radiation
+Z 8 25938 98 0 
+NStage two:To eliminate the effect of radiation in guidance
+Z 8 26086 201 0 
+NStage two:To eliminate the effect of radiation in the speed
+Z 8 26162 201 0 
+NStage two:To eliminate the surviving killers
+Z 8 26631 201 0
+Y

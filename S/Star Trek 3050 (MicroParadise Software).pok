@@ -1,0 +1,30 @@
+NInfinite time
+Z 8 27661 0  0
+NInfinite energy
+M 8 39546 0 0
+M 8 45950 117 0
+M 8 58455 0 0
+Z 8 58795 117  0
+NShield doesn't reduce energy
+M 8 51952 117 0
+M 8 52703 117 0
+Z 8 57069 117  0
+NInfinite torpedoes
+Z 8 48576 0  0
+NImmune to attacks
+M 8 43895 58 0
+M 8 43896 254 0
+M 8 43897 58 0
+Z 8 43898 234  0
+NFacilitate the dockage
+M 8 58552 58 0
+M 8 58553 58 0
+M 8 58554 241 0
+M 8 58555 97 0
+M 8 58556 61 0
+M 8 58573 58 0
+M 8 58574 58 0
+M 8 58575 241 0
+M 8 58576 102 0
+Z 8 58577 61 0
+Y

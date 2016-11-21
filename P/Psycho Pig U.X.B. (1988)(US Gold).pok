@@ -1,0 +1,27 @@
+NPlayer 1 with Infinite Lives
+Z 8 41561 58 0
+NPlayer 2 with Infinite Lives
+Z 8 41515 58 0
+NTime left (minutes) (x=0-99)
+Z 8 44220 99 0
+NGas enabled (x=time left (0-99))
+Z 8 44301 101 0
+NNumber of credits (x=0-99)
+Z 8 44304 99 0
+NNumber of Lives Player 1 (max 32)
+Z 8 44223 32 32
+NStrength Player 1 (x=0-3) - number of icons updates when you enter a new level
+Z 8 44295 3 0
+NSpeed Player 1 (x=0-3) - number of icons updates when you enter a new level
+Z 8 44297 3 0
+NArmor Player 1 (249=yes  246=no)
+Z 8 59764 249 246
+NNumber of Lives Player 2 (max 32)
+Z 8 44224 32 32
+NStrength Player 2 (x=0-3) - number of icons updates when you enter a new level
+Z 8 44296 3 0
+NSpeed Player 2 (x=0-3) - number of icons updates when you enter a new level
+Z 8 44298 3 0
+NArmor Player 2 (249=yes  246=Dno)
+Z 8 59782 249 246
+Y

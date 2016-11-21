@@ -1,0 +1,22 @@
+NLives = 255
+Z 8 41006 255 255
+NInfinite Lives
+Z 8 48542 42 0
+NInfinite fuel
+M 8 30521 0 0
+M 8 30522 0 0
+Z 8 30523 0 0
+NImmunity to missiles, balloons and aircraft (except if YOU collide with them)
+M 8 43058 195 0
+M 8 35663 0 0
+Z 8 34984 0 0 
+NImmunity to the nuclear reactor beam
+Z 8 53395 195 0 
+NAdjusts the scoring so that does not exceed the limits
+M 8 49171 50 0
+M 8 49250 65 0
+M 8 49450 75 0
+M 8 55152 208 0
+M 8 55153 7 0
+Z 8 27496 25 0
+Y

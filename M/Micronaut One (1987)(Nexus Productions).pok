@@ -1,0 +1,17 @@
+NEnergy
+Z 8 33370 255 255
+NEnergy
+M 8 34650 0 0
+Z 8 34651 195   0
+NClouds=energy
+Z 8 34768 107	 0
+NTurn whenever
+M 8 52004 0  0
+Z 8 52005 0  0
+NTurbo speed
+Z 8 52150 81	 0
+NTurbo slow
+Z 8 52163 62	 0
+NHit wall speed
+Z 8 52591 0	 0
+Y

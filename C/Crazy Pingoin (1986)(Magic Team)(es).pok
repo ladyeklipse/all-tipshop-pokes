@@ -1,0 +1,7 @@
+NInfinite lives
+Z 8 41872 183 0
+NLives = 255
+Z 8 37856 255 255
+NNasties = 1 or 16
+Z 8 37861 1 16
+Y

@@ -1,0 +1,12 @@
+Nfor infinite lives. 
+Z 8 34824  0 0 
+Nfor invincibility. 
+Z 8 33549  175 0 
+Nboth to set the speed of the circuit timer which dictates the time before the next enemy is released. The higher the value  the longer the wait. 
+M 8 33983  9 0
+Z 8  33984  183 0
+Nsets the starting number of lives = 255 
+Z 8 33141 255 9 0
+Nsets the number of lives during play =255
+Z 8  38739 255 255
+Y

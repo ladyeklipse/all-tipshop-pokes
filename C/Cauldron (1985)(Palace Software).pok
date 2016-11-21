@@ -1,0 +1,40 @@
+NInfinite Lives	
+Z 8 40060 0 0
+Y
+NInfinite Hags
+Z 8 40056 0 0
+NInfinite Magic	
+M 8 28602 0 0
+Z 8 34756 0 0
+NMagic -for current life only- (max 255) 
+Z 8 41313 255 255
+NNumber of Lives (max 255) 
+Z 8 41315 255 255
+NFinish game. 
+Z 8 41289 1 0
+NRED key (1=yes, 0=no) 
+Z 8 41239 1 0
+NPURPLE key (1=yes, 0=no) 
+Z 8 41241 1 0
+NGREEN key (1=yes, 0=no) 
+Z 8 41243 1  0
+NCYAN key (1=yes, 0=no) 
+Z 8 41245 1 0
+NChest (1=yes, 0=no) 
+Z 8 41286 1 0
+NBag (1=yes, 0=no) 
+Z 8 41287 1 0
+NBat [left item, 2nd row] (15=yes, 0=no) 
+Z 8 41017 15 0 
+NBones [right item, 2nd row] (16=yes, 0=no) 
+Z 8 41019 16 0 
+NFire [left item, 3rd row] (17=yes, 0=no) 
+Z 8 41021 17 0
+NPlant [left item, last row] (18=yes, 0=no) 
+Z 8 41023 18 0
+NFrog [right item, last row] (19=yes, 0=no) 
+Z 8 41025 19 0
+NLizard [right item, 3rd row] (20=yes, 0=no) 
+Z 8 41027 20 0
+NItems picked up (x=0-6)
+Z 8 41283 6 0,

@@ -1,0 +1,14 @@
+NInfinite Laser
+Z 8 42083 0 0
+NInfinite Power
+M 8 39815 33 0
+M 8 39816 255 0
+Z 8 39817 39 0
+NInfinite Shield
+M 8 39892 33 0
+M 8 39893 255 0
+Z 8 39894 9 0
+NInfinite Missiles
+M 8 44796 2 0
+Z 0 60367 0 0
+Y

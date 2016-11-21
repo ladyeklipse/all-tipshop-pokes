@@ -1,0 +1,43 @@
+NInfinite Lives
+Z 8 43742 0 0
+NImmunity
+M 8 28929 8 0
+M 8 28934 8 0
+Z 8 28939 8 0
+NLives = 255
+Z 8 42214 255 255
+NEnemies can't move
+Z 8 42730 201  0
+NEnemies can't kill you (their color change to white)
+Z 8 29199 201 0
+NYou can pass through all (this incluides the ages).
+Z 8 28901 201  229
+NInfinite Lives (Encore Version)
+Z 8 43797 0 0
+NNumber of Lives [max 255] (Encore Version)
+Z 8 44808 255 255
+NNumber of Lives [max 255] (MCM version)
+Z 8 44808 255 255
+NInfinite lives (MCM version)
+Z 8 43797 0 0
+NPress 3 to start in time Zone 4
+M 8 42130 28 0
+M 8 42135 31 0
+M 8 42140 248 0
+Z 8 42141 6 0
+NPress 3 to start in time Zone 5
+M 8 42130 40 0
+M 8 42135 45 0
+M 8 42140 192 0
+Z 8 42141 7 0
+NPress 3 to start in time Zone 6
+M 8 42130 48 0
+M 8 42135 53 0
+M 8 42140 209 0
+Z 8 42141 7 0
+NPress 3 to start in time Zone 3 (game default)
+M 8 42130 20 0
+M 8 42135 21 0
+M 8 42140 187 0
+Z 8 42141 5 0
+Y

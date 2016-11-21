@@ -1,0 +1,77 @@
+NGeneral Plate shield bard
+Z 8 46318 15 0
+NGeneral Dis drilled wild
+Z 8 46321 31 0
+NGuard Chariots Morale
+Z 8 46374 10 0
+NGuard Chariots Fighting ability
+Z 8 46375  99 0
+NGuard Chariots Dis drilled wild
+Z 8 46376 31 0
+NGuard Chariots Skill with weapon
+Z 8 46378  99 0
+NGuard Chariots Percentage armed
+Z 8 46379 99 0
+NGuard Cavalry Plate shield bard
+Z 8 46428 15 0
+NGuard Cavalry Turns them to HCL
+Z 8 46427 5 0
+NGuard Cavalry Morale
+Z 8 46429 10 0
+NGuard Cavalry Fighting ability
+Z 8 46430 99 0
+NGuard Cavalry Dis drilled wild
+Z 8 46431 31 0
+NGuard Cavalry Skill with weapon
+Z 8 46433 99 0
+NGuard Cavalry Percentage armed
+Z 8 46434 99 0
+NGuard Infantry Plate shield
+Z 8 46461 7 0
+NGuard Infantry Morale
+Z 8 46462 10 0
+NGuard Infantry Fighting ability
+Z 8 46463 99 0
+NGuard Infantry Dis drilled wild
+Z 8 46464 31 0
+NGuard Infantry Skill with weapon
+Z 8 46466 99 0
+NGuard Infantry Percentage armed
+Z 8 46467 99 0
+NChariots Morale
+Z 8 46548 100 0
+NChariots Fighting ability
+Z 8 46449 99 0
+NChariots Dis drilled wild
+Z 8 46550 31 0
+NChariots Weapon skill
+Z 8 46552 99 0
+NChariots Percentage armed
+Z 8 46553 99 0
+NCavalry HCL
+Z 8 46659 5 0
+NCavalry Plate shield bard
+Z 8 46660 1  0
+NCavalry Morale
+Z 8 46661 10 0
+NCavalry Fighting ability
+Z 8 46662 99 0
+NCavalry Dis drilled wild
+Z 8 46663 31 0
+NCavalry Weapon skill
+Z 8 46665 99 0
+NCavalry Percentage armed
+Z 8 46666 99 0
+NRegular Infantry Plate shield
+Z 8 46723 7 0
+NRegular Infantry Morale
+Z 8 46724 10 0
+NRegular Infantry Fighting ability
+Z 8 46725 99 0
+NRegular Infantry Dis drilled wild
+Z 8 46726 31 0
+NRegular Infantry Weapon skill
+Z 8 46728 99 0
+NRegular Infantry Percentage armed
+Z 8 46729 99 0
+Y

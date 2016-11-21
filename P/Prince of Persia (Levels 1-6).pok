@@ -1,0 +1,53 @@
+NInfinite lives
+Z 8 29972 0 0
+NInfinite Time
+Z 8 26954 50 0
+NLevel 1 Infinite Lives
+M 8 29972 0 0
+Z 8 34312 0 0
+NLevel 1 Fall From Any Height
+Z 8 30756 175 0
+NLevel 1 Immune To Thorns
+Z 8 32496 24 0
+NLevel 2 Infinite Lives
+M 8 29894 0 0
+Z 8 34237 0 0
+NLevel 2 Fall From Any Height
+Z 8 30672 175 0
+NLevel 2 Immune To Thorns
+Z 8 32397 24 0
+NLevel 3 Infinite Lives
+M 8 29925 0 0
+Z 8 34360 0 0
+NLevel 3 Fall From Any Height
+Z 8 30703 175 0
+NLevel 3 Immune To Thorns
+Z 8 32438 24 0
+NLevel 3 Immune To Saws
+Z 8 33606 1 0
+NLevel 4 Infinite Lives
+M 8 29942 0 0
+Z 8 34470 0 0
+NLevel 4 Fall From Any Height
+Z 8 30720 175 0
+NLevel 4 Immune To Thorns
+Z 8 32517 24 0
+NLevel 4 Immune To Saws
+Z 8 33658 1 0
+NLevel 5 Infinite Lives
+M 8 29896 0 0
+Z 8 34452 0 0
+NLevel 5 Fall From Any Height
+Z 8 30674 175 0
+NLevel 5 Immune To Thorns
+Z 8 32441 24 0
+NLevel 5 Immune To Saws
+Z 8 33640 1 0
+NLevel 6 Infinite Lives
+M 8 29894 0 0
+Z 8 34378 0 0
+NLevel 6 Fall From Any Height
+Z 8 30672 175 0
+NLevel 6 Immune To Thorns
+Z 8 32397 24 0
+Y

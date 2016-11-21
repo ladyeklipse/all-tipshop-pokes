@@ -1,0 +1,16 @@
+NInfinite Energy
+M 8 28032 0 0
+M 8 29863 0 0
+M 8 54352 0 0
+Z 8 55661 0 0
+NImmunity
+Z 8 29820 24 0
+NInfinite Time
+Z 8 53284 0 0
+NTime = 15:30 (to pass the river)
+M 8 52125 14 0
+Z 8 52126 30  0
+NTime = 00:00
+M 8 52125 255 0
+Z 8 52126 0  0
+Y

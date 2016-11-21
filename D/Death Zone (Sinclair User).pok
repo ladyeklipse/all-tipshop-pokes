@@ -1,0 +1,13 @@
+NInfinite Lives
+Z 8 60149 0 0
+NLives = 255
+Z 8 59133 255 255
+NLevel = 1
+Z 8 59198 1 1
+NLevel = 2
+Z 8 59198 2 2
+NLevel = 3
+Z 8 59198 3 3
+NLevel = 4
+Z 8 59198 4 4
+Y

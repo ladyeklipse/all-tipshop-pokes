@@ -1,0 +1,7 @@
+NLives = 255
+Z 8 29411 255 255
+NInfinite lives
+Z 8 29448 0 0
+NComplete level at death
+Z 8 29443 24 0
+Y

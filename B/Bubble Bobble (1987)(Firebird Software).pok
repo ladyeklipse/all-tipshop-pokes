@@ -1,0 +1,38 @@
+NInfinite Lives	
+Z 8 43873 195 0
+NImmunity
+Z 8 43835 150 0
+NFast Bubbles
+Z 8 43933 3 0
+NLong Bubbles
+Z 8 43929 16 0
+NImmunity after death
+M 8 44002 195 0
+M 8 44003 244 0
+Z 8 44004 171 0
+NPAUSE for next level
+M 8 36854 255 0
+M 8 36855 255 0
+M 8 36856 195 0
+M 8 36857 7 0
+Z 8 36858 141 0
+NAlways Get Heart
+M 8 35397 62 0
+Z 8 35398 10 0
+NStart on level 1
+Z 8 34313 2 2
+NStart on level 10
+Z 8 34313 11 2
+NStart on level 20
+Z 8 34313 21 2
+NStart on level 20
+Z 8 34313 31 2
+NStart on level 40
+Z 8 34313 41 2
+NStart on level 50
+Z 8 34313 51 2
+NStart on level 60
+Z 8 34313 61 2
+NStart on level 70
+Z 8 34313 71 2
+Y

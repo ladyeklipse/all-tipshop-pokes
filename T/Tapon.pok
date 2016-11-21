@@ -1,0 +1,19 @@
+NLives = 255
+Z 8 26596 255 255
+NInfinite lives
+Z 8 25194 183 0
+NStart level = 10
+Z 8 26601 10 10
+NStart level = 20
+Z 8 26601 20 20
+NStart level = 30
+Z 8 26601 30 30
+NStart level = 40
+Z 8 26601 40 40
+NStart level = 50
+Z 8 26601 50 50
+NInfinite Lives
+Z 8 25194 183 0
+NImmunity
+Z 8 25128 0 0
+Y

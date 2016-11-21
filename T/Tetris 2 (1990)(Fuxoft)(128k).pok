@@ -1,0 +1,21 @@
+NInfinite Lives
+Z 8 60506 24 0
+NSelect the brick type 1
+M 8 62343 62 632
+Z 8 62344 1 1
+NSelect the brick type 2
+M 8 62343 62 62
+Z 8 62344 2 2
+NSelect the brick type 3
+M 8 62343 62 62
+Z 8 62344 3 3
+NSelect the brick type 4
+M 8 62343 62 62
+Z 8 62344 4 4
+NSelect the brick type 6
+M 8 62343 62 62
+Z 8 62344 5 5
+NSelect the brick type 7
+M 8 62343 62 62
+Z 8 62344 6 6
+Y

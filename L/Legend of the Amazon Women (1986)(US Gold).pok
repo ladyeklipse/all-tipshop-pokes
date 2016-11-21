@@ -1,0 +1,13 @@
+NInfinite Lives
+Z 8 57960 183 0
+NInfinite Time
+Z 8 60040 0 0
+NInfinite Energy
+Z 8  57590 62  0
+NNo amazons
+Z 8 58114 0   0
+NTime left (seconds) [max 255]
+Z 8 23732 255 255
+NNumber of Lives (max 255)
+Z 8 19000  255 255
+Y
