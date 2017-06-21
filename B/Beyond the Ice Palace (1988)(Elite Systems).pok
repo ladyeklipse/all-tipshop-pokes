@@ -1,5 +1,5 @@
-NLives = 255
-Z 8 37424 255 255
+NLives
+Z 8 37424 256 0
 NInfinite Lives
 Z 8 38280 182 0
 NImmunity

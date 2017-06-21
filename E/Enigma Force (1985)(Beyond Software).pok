@@ -1,7 +1,7 @@
-NEnergy of the active character
-Z 8 33030 255 255
-NAmmunition of the active character
-Z 8 33031 127 255
+NEnergy of the active character (max 255)
+Z 8 33030 256 0
+NAmmunition of the active character (max 127 for bullets and 255 for rays)
+Z 8 33031 256 0
 NInfinite time
 Z 8 33574 60 0
 Y

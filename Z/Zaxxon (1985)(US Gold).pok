@@ -1,7 +1,11 @@
 NInfinite Lives
 Z 8 33170 182 0
-NLives player 1 = 255
-Z 8 32961 255 255
-NLives player 2 = 255
-Z 8 32973 255 255
+N[P1]Lives
+Z 8 32961 256 0
+N[P2]Lives
+Z 8 32973 256 0
+NInfinite lives
+Z 8 48825 255 0
+NInfinite fuel
+Z 8 36331 0 0
 Y

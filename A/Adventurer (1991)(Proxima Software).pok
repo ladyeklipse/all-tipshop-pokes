@@ -1,9 +1,9 @@
-NEnergy =255
-Z 8 61449 255 255
-NFood = 255
-Z 8 61450 255 255
-NWater = 255
-Z 8 255 255 255
+NEnergy
+Z 8 61449 256 0
+NFood
+Z 8 61450 256 0
+NWater
+Z 8 61451 256 0
 NInfinite Food
 Z 8 57788 58 0
 NInfinite Water

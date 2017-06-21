@@ -1,8 +1,8 @@
-NLives Player 1 = 255
-Z 8 39386 255 255
-NLives Player 2 = 255
-Z 8 39403 255 255
-NInfinite Lives (Both Players)
+N[P1]Lives
+Z 8 39386 256 0
+N[P2]Lives
+Z 8 39403 256 0
+N[P1,2]Infinite Lives
 Z 8 34784 182 0
 NImmunity
 Z 8 34727 0 0

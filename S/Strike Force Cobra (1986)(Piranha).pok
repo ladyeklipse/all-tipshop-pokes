@@ -5,4 +5,13 @@ NInfinite Time
 Z 8 48389 0 0
 NNo Enemies
 Z 8 46499 58 0
+N;Infinite lives
+M 8 49568 0 0
+Z 8 48585 0 0
+NInfinite Energy
+M 8 48565 62 0
+Z 8 48566 23 0
+NGo through any door
+M 8 28923 175 0
+Z 8 48415 175 0
 Y

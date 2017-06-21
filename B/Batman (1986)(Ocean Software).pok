@@ -1,0 +1,75 @@
+NInfinite Lives
+Z 8 36798 0 0
+NFast Batman
+Z 8 26174 201 0
+NFast Batman (in empty rooms)
+Z 8 26052 58 0
+NImmunity
+Z 8 39908 201 0
+NPoke Faster Batman
+Z 8 37430 0 0
+NPoke Static Monsters
+Z 8 33466 0 0
+NPoke To start with Jump Boots
+Z 8 36605 4 0
+NPoke To start with Bag
+Z 8 36605 8 0
+NPoke To start with Jetpac
+Z 8 36605 1 0
+NPoke To start with Bat Belt
+Z 8 36605 2 0
+NStart with all items
+Z 8 36605 15 0
+NPoke InfShield If stuck
+M 8 39906 0 0
+Z 8 39906 143 0
+NInfinite Jumps/Speed/Shield when get them
+Z 8 31690 0 0
+NPoke Shields required
+Z 8 36608 256 0
+NPoke Springs required
+Z 8 36607 256 0
+NPoke Speeds required
+Z 8 36606 256 0
+N>No bonus decrease
+Z 8 31686 201 0
+N>Paralyzed enemies
+Z 8 33256 201 0
+N>No interaction with objects
+Z 8 39854 201 0
+N>Bat-Ghost ! Try it and see
+Z 8 40658 201 0
+N>Display ONLY objects & doors
+Z 8 30521 256 0
+N>Display NO objects & doors
+Z 8 27716 256 0
+N>Don't update floor texture
+Z 8 35479 256 0
+N>"Object rain" **
+Z 8 38010 256 0
+N>No annoying bat-music
+Z 8 34170 256 0
+N>No ATTR update (looks weird)
+Z 8 26496 256 0
+N>Floating enemies
+Z 8 33240 256 0
+N>Monstrous twists **
+Z 8 38938 256 0
+NInfinite Lives (alt)
+Z 8 36797 0 0
+NEnemies can't move (but they can kill you)
+Z 8 33333 33 0
+NInmunity (you can turn it off with )
+M 8 39915 0 0
+Z 8 39915 12 0
+NSuper jump ON [only works when you have boots!]
+Z 8 36934 52 0
+NSuper jump OFF
+Z 8 36934 53 0
+NNumber of Lives [1-153] (*)
+Z 8 36609 256 0
+N99 lives (max)
+Z 8 36609 153 0
+N50 lives
+Z 8 36609 80 0
+Y

@@ -24,10 +24,10 @@ NNo Motor Cycles
 Z 8 33899 0 0
 NNo Trucks
 Z 8 34213 0 0
-NLots of enemies 
-Z  8 58096 24 0
-NNumber of lifes (n = 0-127) 
-Z 8 64998 127 0
-NNumber of grenades (n = 0-99)
-Z 8 64999 99 0
+NLots of enemies
+Z 8 58096 24 0
+NNumber of lifes (0-127)
+Z 8 64998 256 0
+NNumber of grenades (0-99)
+Z 8 64999 256 0
 Y

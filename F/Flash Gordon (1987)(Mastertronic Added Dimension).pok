@@ -1,18 +1,18 @@
-NLEVEL 1 Infinite Time
+N[L1]Infinite Time
 Z 8 50732 0 0
-NLEVEL 1 Infinite Ammo	
+N[L1]Infinite Ammo
 Z 8 49123 0 0
-NLEVEL 1 Immunity
+N[L1]Immunity
 Z 8 48137 24 0
-NLEVEL 2 Infinite Time
+N[L2]Infinite Time
 Z 8 45402 0 0
-NLEVEL 2 Immunity
+N[L2]Immunity
 Z 8 45090 201 0
-NLEVEL 3 Infinite Time
+N[L3]Infinite Time
 Z 8 37986 0 0
-NLEVEL 3 Infinite Lives
+N[L3]Infinite Lives
 M 8 38381 182 0
 Z 8 39403 182 0
-NLEVEL 3 Immune To Balls
+N[L3]Immune To Balls
 Z 8 39366 24 0
 Y

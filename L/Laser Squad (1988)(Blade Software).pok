@@ -1,3 +1,47 @@
+NFirst man start address is
+Z 8 54178 127 0
+NMovement Pts (values must be equal)
+M 8 54180 256 0
+M 8 54181 256 0
+Z 8 54202 256 0
+NConstitution (values must be equal)
+M 8 54182 256 0
+Z 8 54183 256 0
+NStamina (values must be equal)
+M 8 54184 256 0
+Z 8 54185 256 0
+NArmour front
+Z 8 54186 256 0
+NArmour left
+Z 8 54187 256 0
+NArmour back
+Z 8 54188 256 0
+NArmour right
+Z 8 54189 256 0
+NWeight (0 is best)
+Z 8 54190 256 0
+NSkill
+Z 8 54191 256 0
+NClose combat
+Z 8 54192 256 0
+NStrength
+Z 8 54193 256 0
+NAgility
+Z 8 54194 256 0
+NSecond man start address is
+Z 8 54218 127 0
+NThird man start address is
+Z 8 54258 127 0
+NFourth man start address is
+Z 8 54298 127 0
+NFifth man start address is
+Z 8 54338 127 0
+NSixth man start address is
+Z 8 54378 127 0
+NSeventh man start address is
+Z 8 54418 127 0
+NEighth man start address is
+Z 8 54458 127 0
 NInfinite Credits
 Z 8 40514 0 0
 NInfinite Constitution

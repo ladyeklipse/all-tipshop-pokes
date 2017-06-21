@@ -1,7 +1,7 @@
 NInfinite lives
 Z 8 49445 42 0
-NLives = 255
-Z 8 42535 255 255
-NLives = 255*256
-Z 8 42536 255 255
+NLives
+Z 8 42535 256 0
+NLives *256
+Z 8 42536 256 0
 Y

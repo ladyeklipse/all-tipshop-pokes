@@ -1,5 +1,5 @@
-NLives = 255
-Z 8 49323 255 255
+NLives
+Z 8 49323 256 0
 NInfinite lives
 M 8 46837 183 0
 Z 8 46957 183 0

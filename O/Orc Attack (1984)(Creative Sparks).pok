@@ -3,7 +3,7 @@ Z 8 48306 179 0
 NImmunity to arrows
 Z 8 33276 0 0
 NNumber of lives (max 127)
-Z 8 61460 127 127
-NNumber of kills [if x >= 41 you get Bonus]
-Z 8 61781 41 0
+Z 8 61460 256 0
+NNumber of kills (Odd levels, bonus if >40)
+Z 8 61781 256 0
 Y

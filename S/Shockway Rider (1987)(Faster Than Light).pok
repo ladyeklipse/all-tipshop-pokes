@@ -2,8 +2,8 @@ NInfinite Lives
 Z 8 46119 183 0
 NInfinite Lives Extra
 Z 8 46119 0 0
-NMinutes = 255
-Z 8 43825 255 255
+NMinutes
+Z 8 43825 256 0
 NInfinite Time
 Z 8 57363 201 0
 NLast Level

@@ -1,4 +1,4 @@
-NInfinite Lives	
+NInfinite Lives
 Z 8 43873 195 0
 NImmunity
 Z 8 43835 150 0
@@ -19,20 +19,6 @@ Z 8 36858 141 0
 NAlways Get Heart
 M 8 35397 62 0
 Z 8 35398 10 0
-NStart on level 1
-Z 8 34313 2 2
-NStart on level 10
-Z 8 34313 11 2
-NStart on level 20
-Z 8 34313 21 2
-NStart on level 20
-Z 8 34313 31 2
-NStart on level 40
-Z 8 34313 41 2
-NStart on level 50
-Z 8 34313 51 2
-NStart on level 60
-Z 8 34313 61 2
-NStart on level 70
-Z 8 34313 71 2
+NStart on level X+1 (1-79)
+Z 8 34313 256 0
 Y

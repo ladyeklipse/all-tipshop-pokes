@@ -2,22 +2,8 @@ NInfinite Lives
 Z 8 35652 182 0
 NInfinite Time
 Z 8 47111 0 0
-NStart level = 0
-Z 8 34831 0 0
-NStart level = 1
-Z 8 34831 1 1
-NStart level = 2
-Z 8 34831 2 2
-NStart level = 3
-Z 8 34831 3 3
-NStart level = 4
-Z 8 34831 4 4
-NStart level = 5
-Z 8 34831 5 5
-NStart level = 6
-Z 8 34831 6 6
-NStart level = 7
-Z 8 34831 7 7
+NStart level (0-7)
+Z 8 34831 256 0
 NKeep touched block active
 Z 8 35377 0 0
 NBounce on air [no fall between blocks]
@@ -35,6 +21,6 @@ M 8 38792 184 0
 M 8 38797 60 0
 M 8 38798 0 0
 Z 8 38799 50 0
-NMap number  = 0 to 235
-Z 8 36625 235 0
+NMap number [0-235]
+Z 8 36625 256 0
 Y

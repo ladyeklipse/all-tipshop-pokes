@@ -1,14 +1,62 @@
 NInfinite Lives
-Z 8 57253 0  0
+Z 8 57253 0 0
 NInfinite Smart Bombs
-Z 8 57294 0  0
+Z 8 57294 0 0
 NImmunity
 M 8 53097 24 0
-Z 8 53098 147  0
+Z 8 53098 147 0
 NInfinite Laser
-Z 8 63583 182  0
+Z 8 63583 182 0
 NInfinite K-Cannon
-Z 8 63190 182  0
+Z 8 63190 182 0
 NInfinite Pulse Laser & Hyper Laser
 Z 8 62963 0 0
+NImmunity [End Level Alien]
+Z 8 53732 195 0
+NFull armoury
+M 8 62703 3 0
+M 8 62705 1 0
+Z 8 64612 0 0
+NLaser [full spec - 1 hi to 3 lo]
+M 8 63753 1 0
+Z 8 64996 1 0
+NLaser [1 to 255]
+Z 8 64997 256 0
+NPulse Full Spec
+Z 8 64998 1 0
+NPulse
+Z 8 64999 256 0
+NK-CannoFull Spec
+Z 8 65000 1 0
+NK-Canno [1-255]
+Z 8 65001 256 0
+NHyper Laser Full Spec
+Z 8 65002 1 0
+NHyper Laser [1-255]
+Z 8 65003 256 0
+NInitiate Defensive Force Field
+M 8 52932 0 0
+Z 8 62346 1 0
+NPermanent Defensive Force Field
+Z 8 62365 195 0
+NOnly 1 kill before End Alien [set to any number]
+Z 8 59623 1 0
+NTrigger End Alien immediately
+Z 8 53082 195 0
+NImmediate death to End Alien
+Z 8 53722 195 0
+NKill End Alien [while fighting it]
+Z 8 55053 1 0
+NStart Level [0 to 3]
+M 8 64333 9 0
+Z 8 64358 256 0
+NMapping - no you
+M 8 63988 201 0
+Z 8 64079 201 0
+NMapping - no 'Disc' enemy
+Z 8 60108 201 0
+NMapping - no 'Cross-shaped' enemy
+Z 8 58237 201 0
+NMapping - no enemy fire
+Z 8 54332 201 0
 Y

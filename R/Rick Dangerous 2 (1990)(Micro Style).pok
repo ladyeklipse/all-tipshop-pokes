@@ -6,14 +6,44 @@ Z 8 38303 0 0
 NInfinite Bombs
 M 8 34574 0 0
 Z 8 39745 0 0
-NWeapons = 255
-Z 8 31987  255 255
-NLives = 255
-Z 8 31937 255 255
+NWeapons
+Z 8 31987 256 0
+NLives
+Z 8 31937 256 0
 NImmune To Enemies
 Z 8 35943 58 0
 NImmune To Moving Objects
 Z 8 42101 58 0
 NImmune To Bomb's Explosion
 Z 8 37812 58 0
+N[+3]Infinite Lives
+Z 8 35165 0 0
+N[+3]Infinite Ammo
+M 8 34330 0 0
+Z 8 38092 0 0
+N[+3]Infinite Bombs
+M 8 34363 0 0
+Z 8 39534 0 0
+N[+3]Immune To Enemies
+Z 8 35732 58 0
+N[+3]Immune To Moving Objects
+Z 8 41890 58 0
+N[+3]Immune To Bomb's Explosion
+Z 8 37601 58 0
+NInfinite Lives (Erbe)
+Z 8 35352 0 0
+NInfinite Ammo (Erbe)
+M 8 34517 0 0
+Z 8 38279 0 0
+NInfinite Bombs (Erbe)
+M 8 34550 0 0
+Z 8 39721 0 0
+NImmune To Enemies (Erbe)
+Z 8 35919 58 0
+NImmune To Moving Objects (Erbe)
+Z 8 42077 58 0
+NImmune To Bomb's Explosion (Erbe)
+Z 8 37788 58 0
+N[+3]Infinite lives
+Z 8 35166 0 0
 Y

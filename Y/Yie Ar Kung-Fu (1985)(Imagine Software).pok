@@ -1,20 +1,27 @@
-NLives = 255
-Z 8 29483 255 255
+NLives
+Z 8 29483 256 0
 NInfinite Lives
 Z 8 29587 183 0
 NInfinite Energy
 Z 8 61482 0 0
-NStrength = 255
-Z 8 29974 255 255
+NStrength
+Z 8 29974 256 0
 NOne Hit Kills
 Z 8 61461 175 0
-NInfinite Lives (2)
+NInfinite Lives (alt)
 Z 8 29633 0 0
-NInfinite energy (2)
-Z 8 44123 0  0
-Ninfinite lives vidas
-Z 8 44170 182  0
+NInfinite energy
+Z 8 44123 0 0
+NInfinite lives vidas
+Z 8 44170 182 0
 NDon't add extra lives
-M 8 44732 0  0
+M 3 44732 0 0
 Z 3 50109 0 0
+N[+3]Fix crash between levels
+M 8 43320 190 0
+M 8 43324 94 0
+M 8 48895 1 0
+M 8 48896 191 0
+M 8 48897 251 0
+Z 8 48898 201 0
 Y

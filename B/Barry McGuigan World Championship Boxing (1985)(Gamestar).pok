@@ -1,5 +1,15 @@
-NInfinite Training Time	
+N[48K]Infinite Training Time
 Z 8 53807 183 0
-Ntwelve weeks maximum total every time
-Z 8 55704 43 0
+N[128K]Infinite Training Time in every discipline
+Z 8 54035 183 0
+NAt the beginning of each round
+M 8 65314 255 0
+M 8 65315 255 0
+Z 8 65316 255 0
+NEvery time you kiss the canvas (and if you want )
+M 8 49172 0 0
+M 8 49176 0 0
+M 8 49178 255 0
+M 8 49179 255 0
+Z 8 49180 255 0
 Y

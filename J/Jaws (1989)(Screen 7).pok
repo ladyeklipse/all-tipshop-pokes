@@ -1,21 +1,41 @@
-NInfinite lives
+N[48K]Infinite lives
 Z 8 33904 182 0
-NInfinite Time
+N[48K]Infinite Time
 Z 8 32769 0 0
-NInfinite Energy
+N[48K]Infinite Energy
 Z 8 33780 0 0
-NInfinite oxygen
+N[128K]Infinite Lives
+Z 8 33565 182 0
+N[128K]Infinite Time
+Z 8 32142 0 0
+N[128K]Infinite Energy
+Z 8 33423 0 0
+N[48K]Infinite oxygen
 Z 8 32763 201 0
-NInfinite bathers
+N[48K]Infinite bathers
 Z 8 39736 201 0
-NNumber of bathers (x=1-153)
-Z 8 32710 153 153
-NOxygen (max 255)
-Z 8 32876 255 255
-NNumber of Lives (x=1-153)
-Z 8 32888 255 255
-NInfinite ammo
-Z 8 39736 0  0
-NYou can kill shark with a part of the weapon.
-Z 8 37439 0  0
+N[48K]Bathers (1-153)
+Z 8 32710 256 0
+N[48K]Oxygen
+Z 8 32876 256 0
+N[48K]Lives (1-153)
+Z 8 32888 256 0
+N[48K]Infinite ammo
+Z 8 39736 0 0
+N[48K]Kill shark with a part of the weapon
+Z 8 37439 0 0
+N[128K]Infinite bathers (alt)
+Z 8 30469 0 0
+N[128K]Infinite oxygen (alt)
+Z 8 32136 201 0
+N[128K]Infinite ammo (alt)
+Z 8 34126 0 0
+N[128K]Kill the shark with a piece of the weapon
+Z 8 37126 0 0
+N[128K]Lives (1-153)
+Z 8 32272 256 0
+N[128K]Bathers (1-153)
+Z 8 32080 256 0
+N[128K]Oxygen
+Z 8 32249 256 0
 Y

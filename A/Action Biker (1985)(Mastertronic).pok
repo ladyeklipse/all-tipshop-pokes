@@ -11,8 +11,9 @@ NSee in the Dark
 Z 8 56086 3 0
 NInfinite Time
 Z 8 56359 201 0
-NDisable sounds (makes game run faster)
-Z 8 55687 201 245
-N Infinite time (UNDOABLE)
+NDisable sounds (makes game run faster to re-enable)
+M 8 55687 201 0
+Z 8 55687 245 0
+NInfinite time
 Z 8 58011 0 219
 Y

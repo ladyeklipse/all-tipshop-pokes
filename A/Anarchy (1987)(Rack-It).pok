@@ -2,14 +2,12 @@ NInfinite Lives
 Z 8 42886 201 0
 NInfinite Time
 Z 8 34566 33 0
-NLives = 255
-Z 8 42405 255 255
-NLose a life and go to the level 2
-Z 8 32858 2 1
-NLose a life and go to the level 3
-Z 8 32858 3 1
-NLose a life and go to the level 4
-Z 8 32858 4 1
+NLives
+Z 8 42405 256 0
+NLevel
+Z 8 32858 256 0
 NImmunity
 Z 8 58494 0 0
+NImmunity (alt)
+Z 8 37166 201 0
 Y

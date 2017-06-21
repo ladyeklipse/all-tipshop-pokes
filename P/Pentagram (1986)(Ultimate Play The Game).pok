@@ -4,7 +4,9 @@ NImmunity
 Z 8 49917 201 0
 NMega Jump
 Z 8 50751 0 0
-NRun on 128K models
+NNumber of lives (max 127)
+Z 8 42785 256 0
+N[128K]Patch compatibility
 M 8 47442 0 0
-Z 8 47443 0  0
+Z 8 47443 0 0
 Y

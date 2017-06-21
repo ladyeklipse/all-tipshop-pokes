@@ -1,19 +1,6 @@
 NInfinite Lives
 Z 8 50013 0 0
-NStart level = 1
-Z 8 49326 1 1
-NStart level = 2
-Z 8 49326 2 1
-NStart level = 3
-Z 8 49326 3 1
-NStart level = 4
-Z 8 49326 4 1
-NStart level = 5
-Z 8 49326 5 1
-NStart level = 6
-Z 8 49326 6 1
-NStart level = 7
-Z 8 49326 7 1
-NStart level = 8
-Z 8 49326 8 1
+NStart level (1-5)
+M 8 49326 256 0
+Z 8 54234 256 0
 Y

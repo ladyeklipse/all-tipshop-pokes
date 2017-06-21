@@ -1,16 +1,14 @@
-Ninfy lives
-Z 8 42173 0	 0
-N255 lives
-Z 8 41274 255 255
-Nimmunity
-Z 8 51406 0	 0
-N0 ghosts
-Z 8 43210 0	 0
-Nslows down the clock
-Z 8 52346 60	 0
-Nany number of chords
-M 8 41420 175  0
-Z 8 41421 0  0
+NInfinite Lives
+Z 8 42173 0 0
 NLives
-Z 8 51406 0	 0
+Z 8 41274 256 0
+NImmunity
+Z 8 51406 0 0
+NNumber of ghosts
+Z 8 43210 256 0
+NSlows down the clock
+Z 8 52346 60 0
+NAny number of chords
+M 8 41420 175 0
+Z 8 41421 0 0
 Y

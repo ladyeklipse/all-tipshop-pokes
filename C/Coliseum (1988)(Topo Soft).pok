@@ -1,0 +1,15 @@
+NInfinite Lives
+Z 8 48529 183 0
+NNumber of lives [max 127]
+Z 8 48515 256 0
+NWeapon [0=Axe, 1=Sword, 2=Mace, 3=Trident, 4=Lanza, 5=Net]
+Z 8 54980 256 0
+NNumber of phase (0-3)
+Z 8 45069 256 0
+NNumber of lap (1-8) -use this one while playing if you set 8 you'll be in the last lap of the level
+Z 8 45622 256 0
+NLevel 4 (last level)
+Z 8 45069 3 0
+NLast lap
+Z 8 45622 8 0
+Y

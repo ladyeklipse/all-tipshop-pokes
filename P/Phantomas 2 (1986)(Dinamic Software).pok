@@ -1,0 +1,14 @@
+NImmunity
+Z 8 28405 30 0
+NGo to any room (X, Y coordinates)
+M 8 65533 256 0
+Z 8 65534 256 0
+NNo arrows
+Z 8 26781 201 0
+NNo rays
+Z 8 27710 201 0
+NWalk through objects and walls
+Z 8 25168 0 0
+NInfinite energy
+Z 8 28404 0 0
+Y

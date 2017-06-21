@@ -1,3 +1,7 @@
-NLives = 254
-Z 8 25062 254 254
+NLives
+Z 8 25062 256 0
+NStop aliens firing
+Z 8 27878 201 0
+NPrevent aliens from firing
+Z 8 27727 201 0
 Y

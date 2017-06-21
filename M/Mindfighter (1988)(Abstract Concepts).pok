@@ -1,0 +1,17 @@
+NGo to location number [then 'LOOK']
+Z 8 36025 256 0
+NObject weight
+Z 8 28875 24 0
+NObject count
+Z 8 28894 0 0
+NGet object from anywhere
+M 8 28838 168 0
+M 8 28839 112 0
+Z 8 28856 0 0
+NAvoid death by objects [chemicals foxes etc]
+Z 8 28518 0 0
+NSet 'Weakness' level
+Z 8 36162 256 0
+NSet 'Sadness' level
+Z 8 36163 256 0
+Y

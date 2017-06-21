@@ -1,30 +1,57 @@
-NInfinite Strength	
+N[48K]Infinite Strength
 Z 8 38865 0 0
-NUse Any Object	
-M 8 40161 0 0
-M 8 46301 99 0
-M 8 46183 99 0
-Z 8 46702 0 0
-NInfinite Strength: YOURS 
-M 8 38866 58  0
-M 8 40162 58  0
-M 8 46703 58  0
+N[128K]Infinite Strength
+Z 8 28208 0 0
+N[128K]Use Any Object
+M 8 29296 0 0
+M 8 29364 0 0
+Z 8 36469 0 0
+N[48K]Infinite Strength (yours)
+M 8 38866 58 0
+M 8 40162 58 0
+M 8 46703 58 0
 Z 8 40224 58 0
-NInfinite Strength: THEIRS 
-M 8 62506 126  0
+N[48K]Infinite Strength (theirs)
+M 8 62506 126 0
 Z 8 44525 126 0
-NInfinite Magic Level: YOURS 
-M 8 44548 58  0
+N[48K]Infinite Magic Level (yours)
+M 8 44548 58 0
 Z 8 44245 58 0
-NInfinite Magic Level: THEIRS 
+N[48K]Infinite Magic Level (theirs)
 Z 8 62539 126 0
-NInfinite Hapiness: THEIRS 
-M 8 62517 126  0
+N[48K]Infinite Hapiness (theirs)
+M 8 62517 126 0
 M 8 44533 126 0
 Z 8 45447 126 0
-NInfinite Stamina: THEIRS 
-M 8 62528 126  0
+N[48K]Infinite Stamina (theirs)
+M 8 62528 126 0
 Z 8 44541 126 0
-NInfinite Time
+N[48K]Infinite Time
 Z 8 62418 58 0
+N[128K]Infinite Strength (yours)
+M 8 28209 58 0
+M 8 29297 58 0
+M 8 36470 58 0
+Z 8 29368 58 0
+N[128K]Infinite Strength (theirs)
+M 8 43855 126 0
+Z 8 33884 126 0
+N[128K]Infinite Magic Level (yours)
+M 8 33907 58 0
+Z 8 33623 58 0
+N[128K]Infinite Magic Level (theirs)
+Z 8 43888 126 0
+N[128K]Infinite Hapiness (theirs)
+M 8 43866 126 0
+M 8 33892 126 0
+Z 8 35120 126 0
+N[128K]Infinite Stamina (theirs)
+M 8 43877 126 0
+Z 8 33900 126 0
+N[128K]Infinite Time
+Z 8 43766 58 0
+N[48K]Always enable TICKLE A CHARACTER, SMELL SOMETHING, HAVE A WISH and HAVE A DRINK
+Z 8 46185 29 0
+N[48K]Shift Command Selection Window up one character so all commands will fit
+Z 8 49036 3 0
 Y

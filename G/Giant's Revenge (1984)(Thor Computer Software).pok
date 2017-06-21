@@ -6,6 +6,9 @@ NImmunity to baddies
 M 8 25474 0 0
 M 8 25475 0 0
 Z 8 25476 0 0
-NWander anywhere [Immunity to static objects]
+NImmunity to static objects
 Z 8 25528 195 0
+NCode Killer
+M 8 64492 24 0
+Z 8 64493 120 0
 Y

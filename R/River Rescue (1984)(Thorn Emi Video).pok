@@ -1,20 +1,14 @@
 NInfinite Lives
 M 8 33420 0 0
 Z 8 33452 0 0
-NLives = 255
-Z 8 33199 255 255
+NLives
+Z 8 33199 256 0
 NInfinite lives
-Z 8 33426 0  0
+Z 8 33426 0 0
 NDo not lose scientists
-Z 8 36433 24  0
-NSkip the sinking
-M 8 36281 221  0
-M 8 36282 33  0
-M 8 36283 21  0
-M 8 36284 148  0
-M 8 36285 205  0
-M 8 36286 205  0
-M 8 36287 143  0
-M 8 36288 24  0
-Z 8 36289 110 0
+Z 8 36433 24 0
+NInfinite lives (alt)
+Z 8 33498 0 0
+NDo not lose scientists (alt)
+Z 8 36534 24 0
 Y

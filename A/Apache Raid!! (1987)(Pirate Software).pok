@@ -1,14 +1,17 @@
-NLives = 255
-Z 8 31123 255 255
-NInfinite lives	
+NLives
+Z 8 31123 256 0
+NInfinite lives
 Z 8 29932 183 0
-NEnergy = 255
-Z 8 29948 255 255
+NEnergy
+M 8 29948 256 0
+Z 8 31113 256 0
 NInfinite energy
 Z 8 29901 0 0
-NArrows = 255
-M 8 29943 255 255
-Z 8 31118 255 255
+NArrows
+M 8 29943 256 0
+Z 8 31118 256 0
 NInfinite arrows
 Z 8 30647 0 0
+NInfinite Lives
+Z 8 29932 0 0
 Y

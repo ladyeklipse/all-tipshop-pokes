@@ -3,10 +3,6 @@ M 8 45228 0 0
 Z 8 48301 0 0
 NInfinite Lives
 Z 8 46804 0 0
-NControl method=Keyboard
-Z 8 65535 0 0
-NControl method=Kempston
-Z 8 65535 1 1
-NControl method=Sinclair
-Z 8 65535 2 2
+NKeyboard/Kempston/Sinclair (0-2)
+Z 8 65535 256 0
 Y

@@ -1,6 +1,19 @@
-NInfinite Time	
+NInfinite Time
 Z 8 37268 43 0
-NImmunity	
+NImmunity
 M 8 40772 201 0
 Z 8 40905 0 0
+NImmunity when objects collide with a Vorton
+M 8 40905 8 0
+M 8 40918 190 0
+Z 8 40923 182 0
+NImmunity when a Vorton collide with objects
+M 8 40763 81 0
+M 8 40767 195 0
+Z 8 40768 81 0
+NObjects don't die in collisions only with shots
+Z 8 40890 195 0
+NObjects die only when you shoot them
+M 8 39225 76 0
+Z 8 39050 161 0
 Y

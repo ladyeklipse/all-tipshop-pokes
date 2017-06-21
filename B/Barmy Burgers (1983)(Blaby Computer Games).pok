@@ -2,6 +2,6 @@ NInfinite Lives
 Z 8 58654 0 0
 NInfinite Spray
 Z 8 56543 0 0
-NLives = 255
-Z 8 43721 255 255
+NLives
+Z 8 43721 256 0
 Y

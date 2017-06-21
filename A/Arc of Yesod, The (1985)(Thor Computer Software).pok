@@ -1,18 +1,34 @@
+NInfinite lives
+Z 8 48264 0 0
 NInfinite Lives
 Z 8 47783 0 0
-NInfinite Time
+N[48K]Infinite Time
 Z 8 55548 58 0
-NInfinite Energy
+N[48K]Infinite Energy
 M 8 49986 0 0
 M 8 49758 0 0
 M 8 49759 0 0
 Z 8 51882 0 0
-NDrop From Any Height
+N[48K]Drop From Any Height
 Z 8 48485 0 0
-NNo Reverse Controls
+N[48K]No Reverse Controls
 Z 8 49959 24 0
-NDon't get bounced
+N[48K]Don't get bounced
 Z 8 47952 195 0
-NNo Crystal Stealing
+N[48K]No Crystal Stealing
 Z 8 50258 24 0
+N[128K]Infinite Time
+Z 8 56364 58 0
+N[128K]Infinite Energy
+M 8 50556 0 0
+M 8 50328 0 0
+Z 8 50329 0 0
+N[128K]Drop From Any Height Poke
+Z 8 48966 0 0
+N[128K]No Reverse Controls Poke
+Z 8 50529 24 0
+N[128K]Don't get bounced Poke
+Z 8 48433 195 0
+N[128K]No Crystal Stealing Poke
+Z 8 50821 24 0
 Y

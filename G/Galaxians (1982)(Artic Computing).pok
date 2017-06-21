@@ -2,16 +2,16 @@ NInfinite lives
 M 8 25465 1 0
 M 8 25471 6 0
 Z 8 25487 182 0
-NLives You Want - Player 1
-Z 8 32087 255 255 
-NLives You Want - Player 2 
-Z 8  32093 255 255 
-NLevel - Player 1  
-Z 8 32088 255 255
-NLevel - Player 2 
-Z 8 32094 255 255 
-NInfinite Lives (2)
-M 8  25487 182 0
+N[P1]Lives
+Z 8 32087 256 0
+N[P2]Lives
+Z 8 32093 256 0
+N[P1]Level
+Z 8 32088 256 0
+N[P2]Level
+Z 8 32094 256 0
+NInfinite Lives
+M 8 25487 182 0
 M 8 32087 2 0
 Z 8 32093 2 0
 Y

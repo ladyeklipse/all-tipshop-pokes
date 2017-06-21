@@ -1,11 +1,11 @@
-NInfinite Lives	
+NInfinite Lives
 Z 8 58228 0 0
 NInfinite Time
 Z 8 61527 0 0
 NInfinite Mines
 Z 8 58143 0 0
-NLives = 255
-Z 8 61970 255 255
-NTime = 255	
-Z 8 61824 255 255
+NLives
+Z 8 61970 0 0
+NTime
+Z 8 61824 0 0
 Y

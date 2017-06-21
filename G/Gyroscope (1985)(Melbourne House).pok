@@ -1,41 +1,41 @@
-NInfinite Lives	
+NInfinite Lives
 Z 8 53922 0 0
-NHarmless aliens	
+NHarmless aliens
 Z 8 54354 201 0
-NHarmless aliens (messy)	
+NHarmless aliens (messy)
 Z 8 53322 58 0
-NImmunity	
+NImmunity
 Z 8 53887 201 0
-NInfinite Time	
+NInfinite Time
 Z 8 59149 0 0
-NNo Enemies	
+NNo Enemies
 Z 8 54271 3 0
-Nmakes the game return to basic after playing.
-Z 8  52961 0 0
-Ngives many more lives.
-M 8  52981 0 0
-M 8  52982 0 0
-Z 8  52983 0  0
-Ngives infinite time.
-M 8  53330 0 0
-M 8  53331 0  0
-Z 8  53332 0 0
-Nmakes the ! on the floor not affect you.
-M 8  53253 0 0
-M 8  53254 0 0
-Z 8  53255 0  0
-Nstops the nasties killing you.
-M 8  53322 0 0
-M 8  53323 0 0
-Z 8  53324 0  0
-Nmakes the nasties invisible.
-M 8  52992 0 0
-M 8  52993 0 0
-Z 8  52994 0  0
-Nmakes the game very fast - try it for a laugh.
-M 8  53311 0 0
-M 8  53312 0 0
-Z 8  53313 0  0
-NNumber of lives = 255
-Z 8  55323 255 255
+NMakes the game return to basic after playing
+Z 8 52961 0 0
+NGives many more lives
+M 8 52981 0 0
+M 8 52982 0 0
+Z 8 52983 0 0
+NGives infinite time
+M 8 53330 0 0
+M 8 53331 0 0
+Z 8 53332 0 0
+NMakes the ! on the floor not affect you
+M 8 53253 0 0
+M 8 53254 0 0
+Z 8 53255 0 0
+NStops the nasties killing you
+M 8 53322 0 0
+M 8 53323 0 0
+Z 8 53324 0 0
+NMakes the nasties invisible
+M 8 52992 0 0
+M 8 52993 0 0
+Z 8 52994 0 0
+NMakes the game very fast - try it for a laugh
+M 8 53311 0 0
+M 8 53312 0 0
+Z 8 53313 0 0
+NNumber of lives
+Z 8 55323 256 0
 Y

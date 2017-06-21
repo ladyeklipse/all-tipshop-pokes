@@ -1,0 +1,19 @@
+NNumber of lives
+Z 8 23305 256 0
+N999 units of time
+M 8 44502 9 0
+M 8 44503 9 0
+Z 8 44504 9 0
+NInfinite Time
+Z 8 43734 0 0
+NInfinite lives
+Z 3 55778 0 0
+NImmunity
+Z 3 55735 201 0
+NCoins [0-153] (hex)
+Z 8 23306 256 0
+N30 coins
+Z 8 23306 48 0
+N99 coins
+Z 8 23306 153 0
+Y

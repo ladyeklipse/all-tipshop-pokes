@@ -1,13 +1,13 @@
-NStart game with (aprox.) $64 000 000
+NAfter game loads use and start game with $64,000,000
 Z 8 48129 246 0
-NStart game with 64 000 $ (approx)
+NStart game with $64,000
 Z 8 48129 245 0
 NBUY everything for $1
 M 8 56335 175 0
-Z 8  56507 195 0
+Z 8 56507 195 0
 NGet out of Pit-Stop immediately
-Z 8  44510 201  0
+Z 8 44510 201 0
 NSpend zero time in Pit-Stop
-M 8  44162 175 0
-Z 8  44182 175 0
+M 8 44162 175 0
+Z 8 44182 175 0
 Y

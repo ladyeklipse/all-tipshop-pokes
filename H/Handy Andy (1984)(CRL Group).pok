@@ -1,10 +1,10 @@
-NInfinite lives	
+NInfinite lives
 Z 8 29840 182 0
-NImmunity	
+NImmunity
 M 8 29743 24 0
 Z 8 29756 0 0
-NSpeed up death scene	
+NSpeed up death scene
 Z 8 29826 2 0
-NWomen to save = 255
-Z 8 28920 255 255
+NWomen to save
+Z 8 28920 256 0
 Y

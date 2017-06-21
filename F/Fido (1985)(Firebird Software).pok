@@ -4,8 +4,8 @@ M 8 49332 0 0
 Z 8 54768 0 0
 NInfinite food
 Z 8 54642 0 0
-NMoles needed = 255
-Z 8 53424 255 255
+NMoles needed
+Z 8 53424 256 0
 NImmune from birds
 Z 8 52391 201 0
 Y

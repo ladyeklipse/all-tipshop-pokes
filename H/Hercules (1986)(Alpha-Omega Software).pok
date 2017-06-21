@@ -1,8 +1,8 @@
-NInfinite lives	
+NInfinite lives
 M 8 40074 0 0
 Z 8 50071 0 0
-NTasks to finish = 1
-Z 8 40198 1 12
+NTasks to finish (1-12)
+Z 8 40198 256 0
 NComplete screen when you die
 Z 8 40424 1 0
 Y

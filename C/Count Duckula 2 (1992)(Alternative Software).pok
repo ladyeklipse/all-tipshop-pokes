@@ -1,7 +1,13 @@
-NInfinite lives
+N[48K]Infinite lives
 M 8 44164 0 0
 Z 8 44186 0 0
-NInfinite ammo
+N[48K]Infinite ammo
 M 8 39861 58 0
 Z 8 39867 0 0
+N[128K]Infinite lives
+M 8 36461 0 0
+Z 8 36483 0 0
+N[128K]Infinite ammo
+M 8 31911 58 0
+Z 8 31917 0 0
 Y

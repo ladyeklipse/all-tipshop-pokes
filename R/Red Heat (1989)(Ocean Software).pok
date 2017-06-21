@@ -3,10 +3,12 @@ Z 8 33644 62 0
 NDon't Fall Down When Punched
 M 8 31368 255 0
 Z 8 37978 255 0
-NLives = 255
-Z 8 33372 255 255
-NAmmo = 255
-Z 8 33390 255 255
+NLives
+Z 8 33372 256 0
+N1Level=x-1
+Z 8 33377 256 0
+NAmmo
+Z 8 33390 256 0
 NInfinite Energy
 Z 8 37757 58 0
 NInfinite Ammo

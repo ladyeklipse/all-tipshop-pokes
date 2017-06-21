@@ -1,11 +1,13 @@
-NLives = 128
-Z 8 51858 128 128
-NInfinite Time
-Z 8 57541 0 0
+NLives
+Z 8 51858 256 0
 NInfinite Lives
 Z 8 51789 183 0
-NNumber of lives = 128 (new)
-Z 8 51863 128 128
-NInfinite lives (new)
+NLives (1-128)
+Z 8 51863 256 0
+NInfinite lives
 Z 8 51801 0 0
+N[Pt2,3]Infinite Time
+Z 8 57541 0 0
+N[Pt2,3]Infinite Lives
+Z 8 51794 183 0
 Y

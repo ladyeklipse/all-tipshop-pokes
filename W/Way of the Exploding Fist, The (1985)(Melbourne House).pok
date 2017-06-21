@@ -1,17 +1,15 @@
-NTime = 255
-Z 8 44793 255 255
-Number of points needed to win level (for Player 1)
-Z 8 44332 0 4
-Number of points needed to win level (for Player 2/CPU)
-Z 8 44339 4 0
-NPlayer 2 (or Spectrum) doesn't score
-Z 8 36951 201  0
-NWhen there is a draw  Player 1 (you) always win
-Z 8 44366 16  0
-NCombat without time (Original version)
+NTime
+Z 8 44793 256 0
+N[P1]Points to win
+Z 8 44332 256 0
+N[P2/CPU]Points to win
+Z 8 44339 256 0
+NP2/CPU doesn't score
+Z 8 36951 201 0
+N[P1]Win on draw
+Z 8 44366 16 0
+NCombat without time
 M 8 44418 175 0
+M 8 40181 182 0
 Z 8 40099 182 0
-NCombat without time (Erbe version)
-M 8 44418 175 0
-Z 8 40181 182 0
 Y

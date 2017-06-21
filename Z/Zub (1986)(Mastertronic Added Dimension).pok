@@ -4,24 +4,6 @@ NInfinite Energy
 M 8 45941 183 0
 M 8 46092 183 0
 Z 8 46210 183 0
-NStart level = 1
-Z 8 36050 1 1
-NStart level = 2
-Z 8 36050 2 2
-NStart level = 3
-Z 8 36050 3 3
-NStart level = 4
-Z 8 36050 4 4
-NStart level = 5
-Z 8 36050 5 5
-NStart level = 6
-Z 8 36050 6 6
-NStart level = 7
-Z 8 36050 7 7
-NStart level = 8
-Z 8 36050 8 8
-NStart level = 9
-Z 8 36050 9 9
-NStart level = 10
-Z 8 36050 10 10
+NStart level
+Z 8 36050 256 0
 Y

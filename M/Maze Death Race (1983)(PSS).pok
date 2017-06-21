@@ -1,9 +1,11 @@
-NPrevent crashing with Interface 1 connected
-M 8 26689 90   0
-M 8 26730 1 0
-Z 8 26771 2  0
 NInfinite lives
 Z 8 24249 0 0
 NImmunity
 Z 8 24927 201 0
+NScore to (65530)
+M 8 23832 255 0
+Z 8 23833 255 0
+NFuel to (65530)
+M 8 23793 255 0
+Z 8 23794 255 0
 Y

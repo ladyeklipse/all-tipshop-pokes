@@ -1,5 +1,5 @@
-NLives = 255
-Z 8 24026 255 255
+NLives
+Z 8 24026 256 0
 NInfinite lives
 Z 8 25732 182 0
 NNo enemy fire

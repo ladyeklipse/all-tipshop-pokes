@@ -3,8 +3,8 @@ M 8 31109 0 0
 Z 8 31113 0 0
 NInfinite buildings
 Z 8 30673 0 0
-NAliens to kill 1-48
-Z 8 29928 1 48
-NBombs to catch 1-48
-Z 8 29933 1 48
+NAliens to kill (1-48)
+Z 8 29928 256 0
+NBombs to catch (1-48)
+Z 8 29933 256 0
 Y

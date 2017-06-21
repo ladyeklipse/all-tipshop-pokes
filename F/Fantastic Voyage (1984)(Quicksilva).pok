@@ -2,13 +2,13 @@ NInfinite Lives
 Z 8 54492 0 0
 NInfinite Temperature
 Z 8 54227 0 0
-NInfinite energy -you don't disappear-
+NInfinite energy - you don't disappear
 M 8 53468 0 0
 Z 8 54019 24 0
 NInfinite time
-Z 8  63784 126 0
-NThere are infections but temperature doesn't change
-Z 8 	 61016 0  0
+Z 8 63784 126 0
+NTemperature doesn't change
+Z 8 61016 0 0
 NImmunity on/off
-Z 8  60213  201 205 0
+Z 8 60213 256 205
 Y

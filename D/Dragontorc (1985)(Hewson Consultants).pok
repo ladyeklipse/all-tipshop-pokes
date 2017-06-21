@@ -1,12 +1,62 @@
-NImmunity	
+NInfinite energy
 Z 8 58337 255 0
-NInfinite energy 
-Z 8 58337 255 0 
-NTo remove the protection system
-Z 8 24728 0 0
-NMakes the game easier 
+NMake game easier
 M 8 58337 0 0
-Z 8 51339 255 0 
+Z 8 51339 255 0
 NInfinite magic tokens
 Z 8 59890 0 0
+NChests are open in rooms or items activated/shown
+Z 8 51341 143 0
+NGo through locked doors
+Z 8 50686 24 0
+N00 Move [project thy soul] - default
+M 8 27837 16 0
+Z 8 27872 5 0
+N01 Servant [a helping hand] - default
+Z 8 27853 16 0
+N02 Wall [turns missiles]
+M 8 27869 16 0
+Z 8 27888 5 0
+N03 Undo [remove magic curse]
+M 8 27885 16 0
+Z 8 27904 5 0
+N04 Missile [bolts of power]
+M 8 27901 16 0
+Z 8 27920 5 0
+N05 Energize [when spirits are low]
+M 8 27917 16 0
+Z 8 27936 5 0
+N06 Detect [see the unseen]
+M 8 27933 16 0
+Z 8 27952 5 0
+N07 Unseen [to go unnoticed]
+Z 8 27949 16 0
+N08 Mindkey [the final key]
+Z 8 27965 16 0
+N09 Light [see in the dark]
+M 8 27981 16 0
+Z 8 28000 5 0
+N0A Slow [more time]
+Z 8 27997 16 0
+N0B Warrior [deadly illusion]
+M 8 28013 16 0
+Z 8 28032 5 0
+N0C Return [to Halgors tomb]
+Z 8 28029 16 0
+N0D Bane [Wraithbane] - default
+Z 8 28045 16 0
+N0E Leyrod [opens the way]
+M 8 28061 16 0
+Z 8 28080 5 0
+N0F Locate [two doors side by side what can they hide]
+M 8 28077 16 0
+Z 8 28096 5 0
+N10 Demon [go on be a devil]
+Z 8 28093 16 0
+N11 Mantle [wards off evil]
+Z 8 28109 16 0
+N12 Heal [mend yourself]
+Z 8 28125 16 0
+NInfinite magic tokens (alt)
+Z 8 59891 0 0
 Y

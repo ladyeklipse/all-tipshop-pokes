@@ -1,0 +1,15 @@
+NInfinite Lives
+Z 8 35899 0 0
+NPick up items automatically
+Z 8 37874 0 0
+NDon't die when fall
+Z 8 36477 1 0
+NSuper jumps
+Z 8 36358 0 0
+NNo enemies
+Z 8 35123 0 0
+NSame as 'WRITETYPER'
+Z 8 34275 10 0
+NStarting screen (0-127)
+Z 8 34795 256 0
+Y

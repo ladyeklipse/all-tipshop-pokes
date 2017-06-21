@@ -1,0 +1,25 @@
+NTime left (0-99 min)
+Z 8 44220 256 0
+NCredits (0-99)
+Z 8 44304 256 0
+N[P1]Infinite Lives
+Z 8 41561 58 0
+N[P1]Lives (max 32)
+Z 8 44223 256 0
+N[P1]Strength (0-3) updates when enter a new level
+Z 8 44295 256 0
+N[P1]Speed (0-3) updates when enter a new level
+Z 8 44297 256 0
+N[P1]Armor (249=yes 246=no)
+Z 8 59764 256 0
+N[P2]Infinite Lives
+Z 8 41515 58 0
+N[P2]Number of Lives (max 32)
+Z 8 44224 256 0
+N[P2]Strength (0-3) updates when enter a new level
+Z 8 44296 256 0
+N[P2]Speed(0-3) updates when enter a new level
+Z 8 44298 256 0
+N[P2]Armor (249=yes 246=no)
+Z 8 59782 256 0
+Y

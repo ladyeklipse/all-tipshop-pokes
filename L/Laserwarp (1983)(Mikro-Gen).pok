@@ -1,7 +1,11 @@
 NInfinite lives
 Z 8 38025 0 0
-NLives = 255
-Z 8 38641 255 255
+NLives
+Z 8 38641 256 0
 NInfinite fuel
 Z 8 35977 0 0
+NInfinite lives (Turboload)
+Z 8 39118 0 0
+NInfinite fuel (Turboload)
+Z 8 37020 0 0
 Y

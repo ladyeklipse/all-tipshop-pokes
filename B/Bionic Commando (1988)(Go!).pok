@@ -1,8 +1,28 @@
-NInfinite Lives
+N[128K]Infinite Lives
+Z 8 34690 0 0
+N[128K]Infinite Time
+Z 8 49298 201 0
+N[128K]Lives
+Z 8 34741 256 0
+N[48K]Infinite Lives
 M 8 34248 0 0
 Z 8 34275 0 0
-NInfinite Time
+N[48K]Infinite Time
 Z 8 34199 0 0
-NImmune To Enemies
+N[48K]Immune To Enemies
 Z 8 48969 201 0
+N[48K]Infinite Lives (alt)
+M 8 34659 0 0
+Z 8 34690 0 0
+N[48K]Infinite Time (alt)
+Z 8 34610 0 0
+N[48K]Immune To Enemies (alt)
+Z 8 49624 201 0
+N[128K]Infinite Time (No Freezing)
+M 8 34610 116 0
+Z 8 34612 0 0
+N[48K]Infinite Time (No Freezing)
+Z 8 34201 248 0
+N[128K]Infinite Time (No Freezing) (alt)
+Z 8 34612 248 0
 Y

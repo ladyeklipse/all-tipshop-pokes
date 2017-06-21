@@ -1,5 +1,5 @@
-NGoals scored by Player 1
-Z 8 46550 90 0
-NGoals scored by Player 2
-Z 8 46551 0 90
+N[P1]Goals scored
+Z 8 46550 256 0
+N[P2]Goals scored
+Z 8 46551 256 0
 Y

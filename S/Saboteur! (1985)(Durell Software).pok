@@ -1,0 +1,21 @@
+NInfinite Energy
+M 8 29894 0 0
+Z 8 29094 0 0
+NInfinite Time
+M 8 46998 0 0
+Z 8 47007 0 0
+NEverlasting clock
+M 8 47009 0 0
+M 8 47010 0 0
+Z 8 47011 0 0
+NFigure in 1st 3 places of starting sum (50 gives $22200)
+Z 8 46575 256 0
+NNo dogs
+Z 8 40004 201 0
+NNo guards
+Z 8 42036 201 0
+NInfinite energy
+Z 8 46558 0 0
+NReturn to BASIC after game (USR 63975)
+Z 8 63991 0 0
+Y

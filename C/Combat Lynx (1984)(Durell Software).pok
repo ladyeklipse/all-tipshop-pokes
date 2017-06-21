@@ -1,24 +1,27 @@
-NInfinite Lives	
+NInfinite Lives
 M 8 42525 0 0
 M 8 42526 0 0
 Z 8 42527 0 0
 NInfinite fuel
-Z 8 43210 201 0 
+Z 8 43210 201 0
 NInfinite temperature
-Z 8 42610 201 0 
+Z 8 42610 201 0
 NWithout limits of load
 M 8 38232 0 0
 M 8 38233 0 0
 M 8 38287 0 0
 M 8 38450 0 0
-Z 8 38451 0 0 
+Z 8 38451 0 0
 NInfinite armament
 M 8 42521 0 0
 M 8 42522 0 0
 M 8 42523 0 0
 M 8 42538 0 0
 M 8 42539 0 0
-Z 8 42540 0 0 
-NMaximum of sent mines = 255
-Z 8 47290 255 63
+Z 8 42540 0 0
+NMaximum of sent mines
+Z 8 47290 256 63
+NInfinite Lives (alt)
+M 8 42521 58 0
+Z 8 28757 24 0
 Y

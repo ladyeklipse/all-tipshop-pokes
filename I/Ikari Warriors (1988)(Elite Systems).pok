@@ -1,15 +1,15 @@
-NInfinite Lives	
+NInfinite Lives
 Z 8 39273 0 0
-NInfinite Fuel	
+NInfinite Fuel
 Z 8 40618 0 0
-NInfinite Ammo	
+NInfinite Ammo
 Z 8 39917 167 0
-NInfinite Grenades	
+NInfinite Grenades
 Z 8 40076 167 0
-NTanks	
+NTanks
 Z 8 62384 190 0
-NImmunity	
+NImmunity
 Z 8 40272 0 0
-NLives = 255
-Z 8 41178 255 55
+NLives
+Z 8 41178 256 0
 Y

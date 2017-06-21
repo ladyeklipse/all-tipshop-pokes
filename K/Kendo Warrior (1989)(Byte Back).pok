@@ -1,9 +1,9 @@
 NInfinite Lives
-Z 8 38342 0  0
+Z 8 38342 0 0
 NInfinite Energy
 Z 8 38225 183 0
-N1 Hit Kills
+N1Hit Kills
 Z 8 38986 0 0
-NLives = 255
-Z 8	37126 255 255
+NLives
+Z 8 37126 256 0
 Y

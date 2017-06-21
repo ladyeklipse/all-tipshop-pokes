@@ -1,3 +1,41 @@
-NInfinite Stamina	
+NInfinite Stamina
 Z 8 33152 24 0
+NInfinite Stamina (alt)
+M 8 33152 24 0
+M 8 33141 0 0
+Z 8 33206 0 0
+NSet location (108=start)
+Z 8 44941 256 0
+NStamina [00-99H/153]
+Z 8 44849 153 0
+NSkill [00-99H/153]
+Z 8 44850 153 0
+NLuck [00-99H/153]
+Z 8 44851 153 0
+NGrade [1-10]
+Z 8 44852 9 0
+NExperience points [00-99H/153]
+Z 8 44853 153 0
+NInitiate Stamina Skill & Luck to maximum
+M 8 43413 54 0
+M 8 43414 153 0
+M 8 43423 54 0
+M 8 43424 153 0
+M 8 43435 54 0
+Z 8 43436 153 0
+NLocked doors are open
+Z 8 31298 0 0
+NImmunity to flames & enemies
+Z 8 39743 24 0
+NKill enemy with 1 blast
+Z 8 38409 0 0
+NAppearing in room
+Z 8 39030 195 0
+N?
+Z 8 39070 195 0
+NEntering from adjacent room
+Z 8 39155 195 0
+NReturn to options at any point
+M 8 30593 24 0
+Z 8 31092 0 0
 Y

@@ -1,7 +1,7 @@
 NInfinite Money
 Z 8 25392 0 0
-NDamage = 61
-Z 8 52065 61 0
+NDamage (0-61)
+Z 8 52065 256 0
 NInfinite damage
 Z 8 61221 0 0
 Y

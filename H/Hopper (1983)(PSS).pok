@@ -1,7 +1,7 @@
-NInfinite lives	
+NInfinite lives
 Z 8 25393 0 0
-NLives = 255
-Z 8 26379 255 255
-NSafe from cars	
+NLives
+Z 8 26379 256 0
+NSafe from cars
 Z 8 25388 24 0
 Y

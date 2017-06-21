@@ -1,0 +1,47 @@
+N[48K]Infinite Lives
+Z 8 36902 0 0
+N[48K]Infinite Time
+Z 8 32006 0 0
+N[48K]Infinite Ammo
+Z 8 33462 0 0
+N[128K]Infinite Lives
+Z 8 36940 0 0
+N[128K]Infinite Time
+Z 8 32044 0 0
+N[128K]Infinite Ammo
+Z 8 33500 0 0
+N[48K]Infinite Smart bombs [Smart Bombs do not reduce the kill count!]
+Z 8 35542 0 0
+N[48K]1 smart bomb ends level
+Z 8 35534 136 0
+N[48K]Immunity
+M 8 31980 0 0
+M 8 33110 0 0
+M 8 33483 0 0
+M 8 34433 24 0
+Z 8 35642 24 0
+N[48K]Only need one kill for next level
+M 8 33759 1 0
+M 8 34289 33 0
+M 8 34290 1 0
+Z 8 34291 0 0
+N[48K]No craft or enemies [still need immunity]
+Z 8 34172 24 0
+N[48K]Scroll amount - the programme loops 10 rows & can be altered for mapping 6 or 7 best
+Z 8 31956 7 0
+N[128K]Infinite Smart bombs [Smart Bombs do not reduce the kill count!]
+Z 8 35580 0 0
+N[128K]1 smart bomb ends level
+Z 8 35572 136 0
+N[128K]Immunity
+M 8 32018 0 0
+M 8 33148 0 0
+M 8 33521 0 0
+M 8 34471 24 0
+Z 8 35680 24 0
+N[128K]Only need one kill for next level
+M 8 33797 1 0
+M 8 34327 33 0
+M 8 34328 1 0
+Z 8 34329 0 0
+Y

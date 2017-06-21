@@ -1,25 +1,11 @@
 NInfinite Lives
 Z 8 37230 0 0
-NLives=255
-Z 8 37852 255 255
-NLevel=0
-Z 8 37664 0 0
-NLevel=1
-Z 8 37664 1 0
-NLevel=2
-Z 8 37664 2 0
-NLevel=3
-Z 8 37664 3 0
-NLevel=4
-Z 8 37664 4 0
-NLevel=5
-Z 8 37664 5 0
-NLevel=6
-Z 8 37664 6 0
-NLevel=7
-Z 8 37664 7 0
-NLevel=8
-Z 8 37664 8 0
+NLives
+Z 8 37852 256 0
+NLevel (0-8)
+Z 8 37664 256 0
+N1898
+Z 8 37852 255 0
 NImmunity
 Z 8 37019 33 0
 Y

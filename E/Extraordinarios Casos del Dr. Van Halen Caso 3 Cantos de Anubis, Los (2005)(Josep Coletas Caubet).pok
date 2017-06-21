@@ -1,0 +1,55 @@
+NSewer at Torrington Square is open (0no 255yes)
+Z 8 34302 256 0
+NSewer at Charlotte Street is open (0no 255yes)
+Z 8 34303 256 0
+NWhere's lantern (turned on)
+M 8 34496 256 0
+Z 8 34507 252 0
+NWhere's lantern (turned off)
+M 8 34496 252 0
+Z 8 34507 256 0
+NWhere's suitcase
+Z 8 34497 256 0
+NWhere's ticket (clothes cleaner's shop)
+Z 8 34498 256 0
+NWhere's cane (without knife)
+M 8 34499 256 0
+Z 8 34500 0 0
+NWhere's cane (with knife)
+M 8 34499 0 0
+Z 8 34500 256 0
+NWhere's spyglass
+Z 8 34501 256 0
+NWhere's the coin
+Z 8 34503 256 0
+NWhere's Tenebrarum (the book)
+Z 8 34504 256 0
+NWhere's bar
+Z 8 34505 256 0
+NWhere's Anubis' chest
+Z 8 34506 256 0
+NWhere's newspaper
+Z 8 34508 256 0
+NWhere's telegram
+Z 8 34509 256 0
+NWhere's Sherlock Holmes' pipe
+Z 8 34510 256 0
+NWhere's money
+Z 8 34511 256 0
+NWhere's whisky
+Z 8 34512 256 0
+NWhere's ticket (Royal Opera House)
+Z 8 34513 256 0
+NWhere's dress suit
+Z 8 34514 256 0
+NYou've the cane (with knife)
+M 8 34499 0 0
+Z 8 34500 254 0
+NYou've the lantern (turned on)
+M 8 34496 254 0
+Z 8 34507 252 0
+NWhisky is inside hospital's room
+Z 8 34512 33 0
+NTicket (clothes cleaner's shop) is at docks
+Z 8 34498 14 0
+Y

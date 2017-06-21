@@ -1,40 +1,34 @@
-NInfinite Lives	
+N's come to the rescue ifyou were unlucky last time
 Z 8 34124 0 0
-NLives=255 
-Z 8 28287 255 255
-NLevel=10 	
-Z 8 28275 10 10
-NLevel=20 	
-Z 8 28275 20 20
-NInfinite Lives	(2)
+NLives
+Z 8 28287 256 0
+NLevel
+Z 8 28275 256 0
+NInfinite Lives
 Z 8 33718 0 0
-NLives=255	(2)
-Z 8 28277 255 255
-NLevel=10 (2)
-Z 8 28265 10 10
-NLevel=20 (2)
-Z 8 28265 20 20
+NLives (alt)
+Z 8 28277 256 0
+NLevel (alt)
+Z 8 28265 256 0
 NComplete immunity
 M 8 36152 127 0
-M 8  35879 127 0
+M 8 35879 127 0
 M 8 36407 127 0
 M 8 33173 195 0
 M 8 33137 195 0
 M 8 32339 195 0
 M 8 33764 0 0
-Z 8 42496 0  0
-NInfinite lives (3)
-Z 8 34124 0 0
-NInfinite lives (4)
+Z 8 42496 0 0
+NInfinite Lives (Original)
 M 8 28277 0 0
 Z 8 28278 0 0
 NInfinite energy
 M 8 36047 0 0
-M 8 36048  0 0
-Z 8 36049  0 0
-NSet number of lives
-Z 8 28277 255 0 
-NSet starting level
+M 8 36048 0 0
+Z 8 36049 0 0
+NLives (alt) (alt)
+Z 8 28277 255 0
+NStarting level
 Z 8 28265 255 0
 NInfinite time/energy
 Z 8 33577 0 0

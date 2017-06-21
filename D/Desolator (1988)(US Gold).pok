@@ -1,0 +1,40 @@
+NInfinite Energy
+Z 8 45205 201 0
+NInfinite Flips
+Z 8 36770 0 0
+NInfinite Lives
+Z 8 39636 183 0
+NSet bomb count (max 26)
+Z 8 41874 256 0
+NInfinite Bombs [stored in 41874]
+Z 8 36949 0 0
+NNo Mask fireballs [stored in 41891]
+Z 8 39729 201 0
+NNo baddies
+Z 8 44493 201 0
+NSet level
+M 8 32752 256 0
+Z 8 33812 256 0
+NSet score (49=1,50=2,58=9)
+M 8 32537 256 0
+M 8 32538 256 0
+M 8 32539 256 0
+M 8 32540 256 0
+M 8 32541 256 0
+M 8 32542 256 0
+Z 8 32543 256 0
+NGuards
+M 8 44747 0 0
+M 8 44748 0 0
+Z 8 44749 0 0
+NNo Energy Bar [Mapping - dumps to ROM]
+M 8 35601 49 0
+M 8 35602 0 0
+M 8 35603 16 0
+M 8 35604 0 0
+M 8 35627 33 0
+M 8 35628 0 0
+M 8 35629 16 0
+M 8 45150 0 0
+Z 8 45151 0 0
+Y

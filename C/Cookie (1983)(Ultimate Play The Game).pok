@@ -1,9 +1,15 @@
-NInfinite Lives	
+NCookie
+Z 8 26197 0 0
+NInfinite Lives
 Z 8 28697 0 0
 NImmunity
 Z 8 27206 201 0
-Number of lives = 99 
-Z 8 24366 99 99
-Number of ghosts you've to kill = 0
-Z 8 24367 0 0
+NNumber of lives
+Z 8 24366 256 0
+NNumber of ghosts you've to kill (0-153)
+Z 8 24367 256 0
+N10 ghosts
+Z 8 24367 16 0
+N60 ghosts
+Z 8 24367 96 0
 Y

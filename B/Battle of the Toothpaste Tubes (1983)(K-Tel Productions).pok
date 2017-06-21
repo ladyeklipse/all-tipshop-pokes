@@ -1,6 +1,6 @@
-NLives = 255
-Z 8 25363 255 255
-NInfinite lives	
+NLives
+Z 8 25363 256 0
+NInfinite lives
 Z 8 24596 0 0
 NImmunity
 Z 8 24520 24 0

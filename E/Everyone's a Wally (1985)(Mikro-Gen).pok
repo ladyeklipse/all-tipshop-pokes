@@ -6,59 +6,121 @@ NChange characters anywhere
 Z 8 59320 24 0
 NCharacters don't move
 Z 8 43308 201 0
-Nfreezes the gang members not in your control. 
-Z 8  43308  201 0
-NFood is at Bakers & Bar 
-Z 8  63506 233 0 
-NFood is at Workshed & Butchers 
-Z 8  63506 237 0
-NFood is at Bar & Wally's House 
-Z 8  63506 241 0 
-NFood is at Butchers & Bakers 
-Z 8  63506 245 0 
-NFood is at Wally's House & Workshed 
-Z 8  63506 249 0  
-NNo letters  for the safe(default) 
-M 8  60670 0 0
-Z 8 60869 1 0 
-N1 letter  for the safe 
-M 8  60670 2 0
-Z 8  60869 2 0 
-N2 letters  for the safe 
-M 8  60670 4 0
-Z 8  60869 3 0 
-N3 letters  for the safe 
-M 8  60670 6 0
-Z 8  60869 4 0 
-N4 letters  for the safe
-M 8  60670 8 0
-Z 8 60869 5 0 
-NThe hook is working 
-Z 8  60434 1 0 
-NFountain repaired 
-Z 8  60439 1 0 
-NWall is built 
-Z 8  60440 1 0 
-NPhone box' stage completed 
-Z 8  60444 1 0 
-NThe Bottle Full 
-Z 8  60431 1 0 
-NThe Fuse Rewired 
-Z 8  60432 1 0 
-NThe Parcel Stamped 
-Z 8  60433 1 0 
-NThe hook is working 
-Z 8  60434 1 0 
-NThe Bucket Full 
-Z 8  60435 1 0 
-NThe Pipe patched 
-Z 8  60436 1 0 
-NThe Battery charged 
-Z 8  60437 1 0 
-NThe Oil Can Full 
-Z 8  60438 1 0 
-NFountain repaired 
-Z 8  60439 1 0 
-NWall is built 
-Z 8  60440 1 0 
+NFreezes the gang members not in your control
+Z 8 43308 256 0
+NFood is at Bakers & Bar
+Z 8 63506 233 0
+NFood is at Workshed & Butchers
+Z 8 63506 237 0
+NFood is at Bar & Wally's House
+Z 8 63506 241 0
+NFood is at Butchers & Bakers
+Z 8 63506 245 0
+NFood is at Wally's House & Workshed
+Z 8 63506 249 0
+NNo letters (default)
+M 8 60670 0 0
+Z 8 60869 1 1
+N1letter (you see "B" at bank)
+M 8 60670 2 0
+Z 8 60869 2 1
+N2letters (you see "BR" at bank)
+M 8 60670 4 0
+Z 8 60869 3 1
+N3letters (you see "BRE" at bank)
+M 8 60670 6 0
+Z 8 60869 4 1
+N4letters (you see "BREA" at bank)
+M 8 60670 8 0
+Z 8 60869 5 1
+NThe hook is working
+Z 8 60434 1 0
+NFountain repaired
+Z 8 60439 1 0
+NWall is built
+Z 8 60440 1 0
+NNumber of lives of Wally (max 255)
+Z 8 48276 256 0
+NNumber of lives of Wilma (max 255)
+Z 8 48277 256 0
+NNumber of lives of Tom (max 255)
+Z 8 48278 256 0
+NNumber of lives of Dick (max 255)
+Z 8 48279 256 0
+NNumber of lives of Harry (max 255)
+Z 8 48280 256 0
+NPhone box' stage completed
+Z 8 60444 1 0
+NThe Bottle Full
+Z 8 60431 1 0
+NThe Fuse Rewired
+Z 8 60432 1 0
+NThe Parcel Stamped
+Z 8 60433 1 0
+NThe Bucket Full
+Z 8 60435 1 0
+NThe Pipe patched
+Z 8 60436 1 0
+NThe Battery charged
+Z 8 60437 1 0
+NThe Oil Can Full
+Z 8 60438 1 0
+NItem at Supermarket [floor] (0-40 the same for all)
+Z 8 48373 256 0
+NItem at Park
+Z 8 48378 256 0
+NItem at Wall Street [engine]
+Z 8 48385 256 0
+NItem at Workshed [on left table]
+Z 8 48399 256 0
+NItem at Workshed [under left table]
+Z 8 48403 256 0
+NItem at Workshed [under right table]
+Z 8 48407 256 0
+NItem at School
+Z 8 48417 256 0
+NItem at Kemco Lab [on left table]
+Z 8 48434 256 0
+NItem at Kemco Lab [on right table]
+Z 8 48438 256 0
+NItem at Garage
+Z 8 48443 256 0
+NItem at Wally's House
+Z 8 48461 256 0
+NItem at Bank
+Z 8 48463 256 0
+NItem at Butchers [bottom]
+Z 8 48474 256 0
+NItem at Station
+Z 8 48490 256 0
+NItem at Sewer
+Z 8 48504 256 0
+N1st item [Wally] (0-40)
+Z 8 48311 256 0
+N2nd item [Wally] (0-40)
+Z 8 48316 256 0
+N1st item [Wilma] (0-40)
+Z 8 48312 256 0
+N2nd item [Wilma] (0-40)
+Z 8 48317 256 0
+N1st item [Tom] (0-40)
+Z 8 48313 256 0
+N2nd item [Tom] (0-40)
+Z 8 48318 256 0
+N1st item [Dick] (0-40)
+Z 8 48314 256 0
+N2nd item [Dick] (0-40)
+Z 8 48319 256 0
+N1st item [Harry] (0-40)
+Z 8 48315 256 0
+N2nd item [Harry] (0-40)
+Z 8 48320 256 0
+NRemove colours from the main characters
+M 8 45444 0 0
+M 8 45446 0 0
+Z 8 45453 0 0
+NCharacters can't pick up objects
+M 8 43504 0 0
+M 8 43505 0 0
+Z 8 43506 0 0
 Y

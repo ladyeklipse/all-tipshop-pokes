@@ -1,15 +1,16 @@
-NInfinite Lives	
+NInfinite Lives
 M 8 52678 0 0
 Z 8 57035 0 0
-NNo Enemies	
+NNo Enemies
 Z 8 58770 201 0
 NManipulate teleports
-M 8 59093 201 0
+Z 8 59093 201 0
+N59093201
 Z 8 51558 0 0
-NWater can't kill you 
-Z 8 56359 0 25 
-NNumber of dynamite sticks found (x=0-8) 
-Z 8 51320 8 0
-Npicked up an oxygen bottle (= it avoids death when you take a bath -only once-).
-Z 8  51326 64 0
+NWater can't kill you (on/off)
+Z 8 56359 0 25
+NNumber of dynamite sticks found (0-8)
+Z 8 51320 256 0
+NPicked up an oxygen bottle (it avoids death when you take a bath -only once-)
+Z 8 51326 64 0
 Y

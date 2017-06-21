@@ -1,0 +1,15 @@
+NNumber of goals [Left](0-99)
+Z 8 48816 256 0
+NNumber of goals [Right](0-99)
+Z 8 48827 256 0
+NTime left 20:30
+M 8 48829 32 0
+Z 8 48828 48 0
+NTime left 00:01
+M 8 48829 0 0
+Z 8 48828 1 0
+NLeft Team scores 10 goals
+Z 8 48816 10 0
+NRight Team scores 5 goals
+Z 8 48827 5 0
+Y

@@ -1,29 +1,45 @@
-NInfinite Energy Level 1
+N[L1]Infinite Energy
 Z 8 62714 0 0
-NInfinite Time Level 1
+N[L1]Infinite Time
 Z 8 50939 0 0
-NInfinite Power Level 2
+N[L2]Infinite Power
 M 8 50947 0 0
 M 8 59445 0 0
 Z 8 60627 0 0
-NInfinite Energy Level 2
+N[L2]Infinite Energy
 Z 8 58914 0 0
-NInfinite Power Level 3
+N[L3,6]Infinite Power
 Z 8 59232 0 0
-NInfinite Time Level 3
+N[L3,6]Infinite Time
 Z 8 59013 0 0
-NInfinite Power Level 4
+N[L4]Infinite Power
 M 8 50993 0 0
 M 8 58576 0 0
 Z 8 59765 0 0
-NInfinite Energy Level 4
+N[L4]Infinite Energy
 Z 8 58045 0 0
-NInfinite Power Level 5
+N[L5]Infinite Power
 M 8 60321 0 0
 M 8 61686 0 0
 Z 8 63067 0 0
-NInfinite Power Level 6
-Z 8 59232 0 0
-NInfinite Time Level 6
-Z 8 59013 0 0
+N[L1]Infinite Time (re-release)
+Z 8 50956 0 0
+N[L1]Infinite Energy (re-release)
+Z 8 62731 0 0
+N[L2]Infinite Energy (re-release)
+Z 8 58920 0 0
+N[L4]Infinite Energy (re-release)
+Z 8 58050 0 0
+N[L2]Infinite Power (re-release)
+M 8 50953 0 0
+M 8 59451 0 0
+Z 8 60633 0 0
+N[L4]Infinite Power (re-release)
+M 8 50998 0 0
+M 8 58581 0 0
+Z 8 59770 0 0
+N[L5]Infinite Power (re-release)
+M 8 60327 0 0
+M 8 61692 0 0
+Z 8 63073 0 0
 Y

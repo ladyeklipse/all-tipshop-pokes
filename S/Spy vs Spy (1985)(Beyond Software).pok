@@ -1,16 +1,22 @@
-NPlayer 1 time = 63 minutes (Must be inserted during the game).
+N[P1]63 minutes (in-game)
 Z 8 34598 99 0
-NTime = 99:59 [White Spy]
-M 8 34598 153  0
-Z 8 34597 89  0
-NTime = 10:00 [Black Spy]
+NWhite Spy's Time M:S (0-153)
+M 8 34598 256 0
+Z 8 34597 256 0
+NBlack Spy's Time (M:S) (0-153)
+M 8 34737 256 0
+Z 8 34736 256 0
+NTime 99:59 [White Spy]
+M 8 34598 153 0
+Z 8 34597 89 0
+NTime 10:00 [Black Spy]
 M 8 34737 16 0
-Z 8 34736 0  0
-NTime = 1:30 [Black Spy]
-M 8 34737 1  0
-Z 8 34736 48  0
+Z 8 34736 0 0
+NTime 13:0 [Black Spy]
+M 8 34737 1 0
+Z 8 34736 48 0
 NTime off/on
-Z 8 51443  0 2
+Z 8 51443 0 2
 NTraps don't subtract time
 Z 8 51366 0 0
 Y

@@ -1,17 +1,39 @@
 NEnergy
-Z 8 33370 255 255
-NEnergy
+Z 8 33370 256 0
+NEnergy (alt)
 M 8 34650 0 0
-Z 8 34651 195   0
+Z 8 34651 195 0
 NClouds=energy
-Z 8 34768 107	 0
+Z 8 34768 107 0
 NTurn whenever
-M 8 52004 0  0
-Z 8 52005 0  0
+M 8 52004 0 0
+Z 8 52005 0 0
 NTurbo speed
-Z 8 52150 81	 0
+Z 8 52150 81 0
 NTurbo slow
-Z 8 52163 62	 0
+Z 8 52163 62 0
 NHit wall speed
-Z 8 52591 0	 0
+Z 8 52591 0 0
+NImmunity against enemies
+Z 8 34707 201 0
+NOne shot to kill enemies
+Z 8 34533 0 0
+NDestroy eggs
+Z 8 34527 0 0
+NGo through all webs
+Z 8 52488 24 0
+NGo through barrier walls
+M 8 52428 195 0
+M 8 52440 195 0
+M 8 52463 24 0
+Z 8 52481 24 0
+NWeb doesn't reduce energy
+Z 8 57916 201 0
+NETUs never deplete or overload
+M 8 34966 0 0
+M 8 35014 0 0
+M 8 57015 0 0
+Z 8 57051 0 0
+NNo webs produced [eggs won't grow into larvae tho']
+Z 8 50168 201 0
 Y

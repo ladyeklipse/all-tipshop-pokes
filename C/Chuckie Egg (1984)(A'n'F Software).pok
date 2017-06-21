@@ -1,0 +1,39 @@
+NReturn to BASIC
+Z 8 24501 195 0
+NInfinite Lives
+Z 8 42837 0 0
+NInfinite Lives (alt)
+Z 8 42837 182 0
+NInfinite Bonus
+Z 8 39151 0 0
+NInfinite Time
+Z 8 39205 0 0
+N[P1]Lives
+Z 8 28400 256 0
+N[P2]Lives
+Z 8 28401 256 0
+N[P3]Lives
+Z 8 28402 256 0
+N[P4]Lives
+Z 8 28403 256 0
+NInfinite Lives (alt) (alt)
+Z 8 42837 190 0
+NNo Sound after death
+M 8 42001 33 0
+Z 8 42753 33 0
+NNo Sound after death (alt)
+M 8 42001 33 0
+M 8 42753 33 0
+M 8 43365 0 0
+Z 8 43366 201 0
+NPass level instead of dying
+Z 8 42610 202 0
+NVery Slow Big Bird
+Z 8 39164 0 0
+NBig Bird Doesn't Exist
+Z 8 39165 24 0
+NSlower hens
+Z 8 39224 0 0
+NNo hens (bit boring sorry)
+Z 8 37532 201 0
+Y

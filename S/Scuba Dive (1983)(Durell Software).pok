@@ -1,7 +1,11 @@
 NInfinite Lives
 Z 8 55845 0 0
-NLives = 255
-Z 8 55711 255 255
+NLives
+Z 8 55711 256 0
 NMakes clams open and close REALLY fast
 Z 8 45696 0 0
+N255 Lives
+Z 8 55711 255 0
+NImmunity to most (moving) sea life
+Z 8 58426 201 0
 Y

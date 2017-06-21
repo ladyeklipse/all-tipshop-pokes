@@ -6,11 +6,9 @@ NNo Enemies
 Z 8 45018 201 0
 NWeapons Don't Move
 Z 8 59591 0 0
-NLives = 255
-Z 8 36980 255 255
-NSelect easy weapon position
-Z 8 59588 2 62
-NRun on 128K models
-M 8 38117 0  0
+NLives
+Z 8 36980 256 0
+N[128K]Bugfix
+M 8 38117 0 0
 Z 8 38118 0 0
 Y

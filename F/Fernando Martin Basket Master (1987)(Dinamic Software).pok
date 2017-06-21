@@ -1,0 +1,23 @@
+NInfinite Energy
+Z 8 31735 0 0
+NGet all rebounds
+Z 8 27002 201 0
+NViolent Public
+Z 8 33276 0 0
+N[P1]Endless Personales
+Z 8 25303 0 0
+N[P2]Endless Personales
+Z 8 25309 195 0
+NTime (m:ss) [48-57]
+M 8 28913 256 0
+M 8 28914 256 0
+Z 8 28915 256 0
+N[P1]Points scored (max 255)
+Z 8 28939 256 0
+N[P2/CPU]Points scored (max 255)
+Z 8 28940 256 0
+NTime 9:50
+M 8 28913 57 0
+M 8 28914 53 0
+Z 8 28915 48 0
+Y

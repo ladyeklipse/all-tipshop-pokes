@@ -1,57 +1,42 @@
-NInfinite lives
-Z 8 49690 0  0
-NInfinite time
-Z 8 41416 0 0
-NImmune to devils
-M 8 43361 201  0
-Z 8 47159 201  0
-NImmune to skulls
-M 8 47501 195 0
-M 8 47976 195 0
-M 8 48481 195 0
-Z 8 48937 195  0
-NImmune to ghosts
-M 8 50685 195 0
-M 8 51216 195 0
-M 8 51837 195 0
-M 8 52384 195 0
-Z 8 52892 195 0
-N48K Infinite Strength: YOURS 
-M 8 27871 0  0
+NInfinite Time
+M 8 55066 0 0
+M 8 55070 0 0
+M 8 55071 0 0
+Z 8 55072 0 0
+NInfinite Energy
+M 8 27871 0 0
 Z 8 36133 0 0
-N48K Infinite Strength: THEIRS 
-M 8 55122 126  0
+N[48K]Infinite Strength (theirs)
+M 8 55122 126 0
 Z 8 33486 126 0
-N48K Infinite Spell Power: YOURS 
-Z 8 33509 58  0
-N48K Infinite Spell Power: THEIRS 
+N[48K]Infinite Spell Power (yours)
+Z 8 33509 58 0
+N[48K]Infinite Spell Power (theirs)
 Z 8 55155 126 0
-N48K Infinite Happiness: THEIRS 
-M 8 55133 126  0
+N[48K]Infinite Happiness (theirs)
+M 8 55133 126 0
 Z 8 33494 126 0
-N48K Infinite Stamina: THEIRS 
-M 8 55144 126  0
+N[48K]Infinite Stamina (theirs)
+M 8 55144 126 0
 Z 8 33502 126 0
-N48K Infinite time
-M 8 55066 183  0
-Z 8 23404 35  0
-N128K Infinite Strength: YOURS 
-M 8 28606 0  0
+N[48K]Infinite time
+M 8 55066 183 0
+Z 8 23404 35 0
+N[128K]Infinite Strength (yours)
+M 8 28606 0 0
 Z 8 36532 0 0
-N128K Infinite Strength: THEIRS 
-M 8 43143 126  0
+N[128K]Infinite Strength (theirs)
+M 8 43143 126 0
 Z 8 34008 126 0
-N128K Infinite Spell Power: YOURS 
-Z 8 34031 58 0
-N128K Infinite Spell Power: THEIRS 
+N[128K]Infinite Spell Power (theirs)
 Z 8 43176 126 0
-N128K Infinite Happiness: THEIRS 
-M 8 43154 126  0
+N[128K]Infinite Happiness (theirs)
+M 8 43154 126 0
 Z 8 34016 126 0
-N128K Infinite Stamina: THEIRS 
-M 8 43165 126  0
+N[128K]Infinite Stamina (theirs)
+M 8 43165 126 0
 Z 8 34024 126 0
-N128K Infinite time
-M 8 43087 183  0
-Z 8 25755 35  0
+N[128K]Infinite time
+M 8 43087 183 0
+Z 8 25755 35 0
 Y

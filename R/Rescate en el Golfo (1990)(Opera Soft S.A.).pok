@@ -1,0 +1,17 @@
+NUnlock Entry Password
+Z 8 37088 0 0
+N[Pt1]Infinite Energy
+Z 8 60602 201 0
+N[Pt1]Infinite Lives
+Z 8 60657 201 0
+N[Pt2]Infinite Energy
+Z 8 62080 201 0
+N[Pt2]Infinite Lives
+Z 8 62135 201 0
+NProtect Code Killer
+M 8 37073 0 0
+Z 8 37088 0 0
+N[Pt2]Entry Code Killer
+M 8 23646 62 0
+Z 8 23687 0 0
+Y

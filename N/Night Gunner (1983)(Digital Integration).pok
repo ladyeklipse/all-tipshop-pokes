@@ -4,19 +4,19 @@ NBypass security
 M 8 24001 195 0
 M 8 24002 194 0
 Z 8 24003 94 0
-NSecurity POKE after loading the game
-Z 8 24248 24  0
+NEasier way just after loading the game
+Z 8 24248 24 0
 NInfinite lives
-Z 8 31802 0  0
+Z 8 31802 0 0
 NImmunity
-M 8 30965 24  0
-M 8 30966 226  0
-M 8 30996 24  0
-Z 8 30997 195  0
+M 8 30965 24 0
+M 8 30966 226 0
+M 8 30996 24 0
+Z 8 30997 195 0
 NInfinite bullets
-Z 8 60129 0  0
+Z 8 60129 0 0
 NInfinite bombs
-Z 8 39996 0  0
+Z 8 39996 0 0
 NInfinite missiles
 Z 8 40155 0 0
 Y

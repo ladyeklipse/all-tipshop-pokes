@@ -1,8 +1,8 @@
 NImmunity
 Z 8 37319 201 0
-NLives = 255
-Z 8 38059 255 255
-NImmunity
+NLives
+Z 8 38059 256 0
+NImmunity (alt)
 Z 8 37315 201 0
 NInfinite Lives
 Z 8 37319 0 0

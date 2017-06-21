@@ -1,5 +1,5 @@
 NInfinite Lives
 Z 8 41502 0 0
-NLives = 255
-Z 8 40344 255 255
+NLives
+Z 8 40344 256 0
 Y

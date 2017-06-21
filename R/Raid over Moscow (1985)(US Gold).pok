@@ -7,10 +7,9 @@ Z 8 49130 182 0
 NSkip hangar level
 M 8 37473 174 0
 Z 8 37473 157 0
-NInfinite time (before beginning)
+NInfinite time
 M 8 38108 0 0
-Z 8 38118 24 0
-NInfinite time (when playing)
+M 8 38118 24 0
 M 8 24690 0 0
-Z 8 24700 24  0
+Z 8 24700 24 0
 Y

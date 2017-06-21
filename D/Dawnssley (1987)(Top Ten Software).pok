@@ -1,19 +1,19 @@
-NHOBBO: Infinite Strength
+NInfinite Strength (Hobbo)
 M 8 40123 0 0
 M 8 40131 175 0
 Z 8 40132 50 0
-NHOBBO: Infinite Keys
+NInfinite Keys (Hobbo)
 M 8 34839 0 0
 Z 8 34903 0 0
-NHOBBO: Infinite Spells
-Z 8	47206 0 0
-NTHOR: Infinite Strength
+NInfinite Spells (Hobbo)
+Z 8 47206 0 0
+NInfinite Strength (Thor)
 M 8 40052 0 0
 M 8 40061 175 0
 Z 8 40062 50 0
-NTHOR: Infinite Keys
+NInfinite Keys (Thor)
 M 8 34870 0 0
 Z 8 34934 0 0
-NTHOR: Infinite Spells
+NInfinite Spells (Thor)
 Z 8 47155 0 0
 Y

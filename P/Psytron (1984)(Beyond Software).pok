@@ -9,15 +9,15 @@ NInfinite Lives
 M 8 40625 0 0
 M 8 41098 17 0
 Z 8 41099 32 0
-NInfinite Lives
+NInfinite Lives (alt)
 M 8 40625 0 0
 M 8 41098 17 0
 M 8 41099 32 0
 M 8 41100 1 0
 Z 8 41101 0 0
 NYou always pass the mark
-Z 8 31920 178  0
-NHow many scores between levels
-M 8 31911 1 5
-Z 8 31998 1 5
+Z 8 31920 178 0
+NScores between levels (1-5)
+M 8 31911 256 0
+Z 8 31998 256 0
 Y

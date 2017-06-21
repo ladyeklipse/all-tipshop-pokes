@@ -1,7 +1,9 @@
-NLives = 255
-Z 8 44424 255 255
+NAutomata's Pi-Balled
+Z 8 44416 256 0
+NLives
+Z 8 44424 256 0
 NInfinite Lives
 Z 8 46457 0 0
-NLives (2)
+NLives (alt)
 Z 8 44416 5 0
 Y

@@ -1,7 +1,7 @@
-NEnergy = 255
-Z 8 55475 255 255
-NAmmo = 255
-Z 8 55493 255 255
+NEnergy
+Z 8 55475 256 0
+NAmmo
+Z 8 55493 256 0
 NInfinite Energy
 Z 8 52958 33 0
 NInfinite Ammo

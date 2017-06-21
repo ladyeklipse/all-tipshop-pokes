@@ -5,4 +5,13 @@ Z 8 42528 0 0
 NImmunity
 M 8 48985 201 0
 Z 8 42457 42 0
+NTime left for current level (0-153)
+M 8 49778 256 0
+Z 8 49779 256 0
+NTime left 2000 seconds
+M 8 49778 0 0
+Z 8 49779 32 0
+NTime left 750 seconds
+M 8 49778 80 0
+Z 8 49779 7 0
 Y

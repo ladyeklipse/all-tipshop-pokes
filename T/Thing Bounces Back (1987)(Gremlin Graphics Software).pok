@@ -2,10 +2,8 @@ NInfinite Lives
 Z 8 45255 0 0
 NInfinite Oil
 Z 8 44994 0 0
-NOil (2)
+NInfinite Lives (alt)
 Z 8 63852 107 0
-NLives
-Z 8 63853 175 0
 NQuits
 M 8 63855 145 0
 Z 8 63856 176 0
@@ -15,12 +13,12 @@ Z 8 63859 178 0
 NNo laser
 M 8 63861 205 0
 Z 8 63862 177 0
-NOil (3)
+NOil
 Z 8 44911 62 0
-NQuits (2)
+NLives
 Z 8 45219 201 0
-NInfinite Quits
-Z 8 45219 201 0
+NChanges
+Z 8 38157 256 0
 NImmunity in pipes
 Z 8 38614 24 0
 NImmunity from aliens

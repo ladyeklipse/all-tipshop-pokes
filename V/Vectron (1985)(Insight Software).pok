@@ -2,4 +2,42 @@ NInfinite energy
 Z 8 49640 201 0
 NInfinite Time
 Z 8 49526 183 0
+NZone number (0-19 A to T)
+Z 8 65535 256 0
+N[L1]Kill all Randomizers
+M 8 53770 144 0
+M 8 53778 144 0
+M 8 53786 144 0
+Z 8 53794 144 0
+N[L1]Kill all Tanx
+M 8 56942 128 0
+M 8 56948 128 0
+M 8 56954 128 0
+Z 8 56960 128 0
+N[L2]Robot stays still
+M 8 57488 0 0
+Z 8 57498 0 0
+N[L2]ROM Robot eyes flash
+Z 8 57783 0 0
+N[L3]Find Matrix exit immediately
+Z 8 60106 0 0
+N[L3]View yourself on map
+M 8 60059 189 0
+M 8 60060 242 0
+M 8 62141 205 0
+M 8 62142 65 0
+M 8 62143 189 0
+M 8 62144 205 0
+M 8 62145 223 0
+M 8 62146 198 0
+Z 8 62147 201 0
+N[L4]Pursing Forces immediately
+M 8 60195 0 0
+Z 8 60196 0 0
+NMap on immediately
+M 8 48726 24 0
+M 8 48727 22 0
+M 8 48750 62 0
+M 8 48751 0 0
+Z 8 48755 195 0
 Y

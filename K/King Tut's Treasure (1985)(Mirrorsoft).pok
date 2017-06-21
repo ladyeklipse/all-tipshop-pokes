@@ -1,5 +1,5 @@
-NLives = 255
-Z 8 41474 255 255
+NLives
+Z 8 41474 256 0
 NImmunity
 Z 8 38600 0 0
 Y

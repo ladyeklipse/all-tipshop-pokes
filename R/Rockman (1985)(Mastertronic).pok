@@ -4,23 +4,16 @@ NInfinite Time
 Z 8 52549 0 0
 NFreeze Nasties
 Z 8 46353 0 0
-NFull Invincibility
-M 8 46441  195  0
-M 8 48894  195  0
-M 8  52561  195  0
-M 8  52599  195  0
-M 8  52630  195  0
-Z 8  52661  195  0
-NInvincibility (to [unknown])
-Z 8 46441  195  0
-NInvincibility (to [unknown])
-Z 8 48894  195  0
-NInvincibility (to time)
-Z 8  52561  195  0
-NInvincibility (to skulls  DON'T get stuck)
-Z 8  52599  195  0
-NInvincibility (to vampac #1)
-Z 8  52630  195  0
-NInvincibility (to vampac #2)
-Z 8  52661  195  0
+NImmune to ?
+Z 8 46441 256 0
+NImmune to ??
+Z 8 48894 256 0
+NImmune to time
+Z 8 52561 256 0
+NImmune to skulls
+Z 8 52599 256 0
+NImmune to vampac #1
+Z 8 52630 256 0
+NImmune to vampac #2
+Z 8 52661 256 0
 Y

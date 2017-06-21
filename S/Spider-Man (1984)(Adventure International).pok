@@ -1,0 +1,51 @@
+NHydroman and the aquarium are frozen
+Z 8 25724 31 0
+NHydroman and the aquarium aren't frozen
+Z 8 25724 51 0
+NYou've the formula (the one at Sandman's room)
+Z 8 36864 255 0
+NDoc Octopus defeated
+M 8 36847 0 0
+Z 8 36850 34 0
+NElectro defeated
+M 8 36849 0 0
+Z 8 36851 34 0
+NRingMaster defeated
+M 8 36878 0 0
+Z 8 36833 3 0
+NLizard defeated (Doc Conners appears)
+M 8 36854 0 0
+Z 8 36867 1 0
+NFan's speed
+M 8 25733 256 244
+Z 8 25734 256 1
+NFan's speed=500 (default)
+M 8 25733 244 0
+Z 8 25734 1 0
+NFan stopped
+M 8 36836 0 244
+Z 8 36837 7 1
+NYou can teleport wherever you want (use LOOK after this) (1-40)
+Z 8 25722 256 0
+NFan's speed=50 (you can stop it)
+M 8 25733 50 244
+Z 8 25734 0 1
+NAppear at Lizard's room
+Z 8 25722 1 0
+NAppear at RingMaster's room (here's the computer)
+Z 8 25722 3 0
+NAppear at fan's room (if you get lost)
+Z 8 25722 7 0
+NYou appear at dr Octopus and Electro's room
+Z 8 25722 34 0
+NYou appear at death screen (when Electro kills you for example)
+Z 8 25722 40 0
+NNo egg
+Z 8 36832 0 0
+NBio Gem is at its starting room (you can use this one after egg explodes)
+Z 8 36831 36 0
+NBio Gem is at Madame Web's room
+Z 8 36831 37 0
+NBio Gem is in your inventory
+Z 8 36831 255 0
+Y

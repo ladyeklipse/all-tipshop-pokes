@@ -1,11 +1,11 @@
-NHits=1-99
-Z 8 25434 99 1
-NMaximum Hits=99
-Z 8 25435 99 1
-NStrength=1-99
-Z 8 25436 99 1
-NMaximum Strength1-99
-Z 8 25437 99 1
+NHits (1-99)
+Z 8 25434 256 0
+NMaximum Hits (1-99)
+Z 8 25435 256 0
+NStrength (1-99)
+Z 8 25436 256 0
+NMaximum Strength (1-99)
+Z 8 25437 256 0
 NInfinite Hits
 M 8 43280 182 0
 Z 8 54096 0 0

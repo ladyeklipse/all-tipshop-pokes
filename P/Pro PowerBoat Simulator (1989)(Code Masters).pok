@@ -1,0 +1,13 @@
+NInfinite Lives Both Players
+Z 8 37780 0 0
+NInfinite Mines Both Players
+Z 8 38421 0 0
+N[P1]Lives
+Z 8 39387 256 0
+N[P2]Lives
+Z 8 39375 256 0
+N[P1]Mines
+Z 8 39393 256 0
+N[P2]Mines
+Z 8 39380 256 0
+Y

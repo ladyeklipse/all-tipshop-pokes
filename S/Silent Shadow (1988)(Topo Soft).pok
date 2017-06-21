@@ -1,35 +1,25 @@
+NInfinite Bombs
+Z 8 34624 182 0
 NInfinite State Energy
 Z 8 37841 0 0
 NInfinite Lives
 Z 8 33191 182 0
-NInfinite Bombs
-Z 8 34624 182 0
 NInfinite Energy
 Z 8 39172 201 0
-NInfinite State Energy
-Z 8 37841 0 0
-NInfinite Lives
-Z 8 33191 182 0
-NInfinite Bombs
-Z 8 34624 182 0
-NInfinite Energy
-Z 8 39172 201 0
+N[es]Infinite State Energy
+Z 8 37844 0 0
+N[es]Infinite Energy
+Z 8 39171 201 0
 NImmunity
 Z 8 33080 201 0
 NNo attacking ships
 Z 8 37937 201 0
+NStart level (1-4)
+Z 8 40291 256 0
+NMapping - no craft [still need immunity]
+Z 8 42563 201 0
 NNo bump up screen from mothership when too slow.
 M 8 40849 0 0
 M 8 40850 0 0
 Z 8 40851 0 0
-NStart level = 1
-Z 8 40291 1 1
-NStart level = 2
-Z 8 40291 2 2
-NStart level = 3
-Z 8 40291 3 3
-NStart level = 4
-Z 8 40291 4 4
-NMapping - no craft [still need immunity]
-Z 8 42563 201 0
 Y

@@ -1,7 +1,7 @@
 NInfinite Lives
 Z 8 31060 0 0
-NNumber of lives 
-Z 8 31415 99 99 
+NNumber of lives
+Z 8 31415 256 0
 NInmunity + Enemies can't move
 Z 8 34469 0 0
 Y

@@ -1,6 +1,34 @@
-............:::::::::::POKEs Database for ZX Spectrum V1.1:::::::::::::...........
-Number of files: 2828.
+............:::::::::::POKEs Database for ZX Spectrum V2.0:::::::::::::...........
+Number of files: 2967.
 Work done by: Lady Eklipse
+
+Version history:
+2.0 (22.06.2017)
+This is entirely NEW version of the database.
+ - The POK files are scraped from Gerard's website by a web crawler written in Python.
+ - I'm trying to keep cheats' names as short as possible, rephrasing where necessary.
+ - Each game has one and only one POK file in this database.
+ - Abbreviations are used in cheats' names to help find a cheat more easily 
+	(especially when full cheat description cannot be displayed by your software):
+ [48K] - works on 48K ZX Spectrum models.
+ [128K] - works on 128K models (often this includes +2A/+3  unless mentioned otherwise.
+ [+2A] - cheat made specifically for ZX Spectrum +2A
+ [+3] - cheat made with +3 (disk-based) model in mind.
+ [1P] - 1 player mode.
+ [2P] - 2 players mode.
+ [en] - English version of the game.
+ [es] - Spanish version of the game.
+ [L*] - Level, where * is level number. Level is also equal to Mission or Stage.
+ [Pt*] - Part, where * is part number, as mentioned on TheTipShop.
+
+Eventually it will become part of my ZX Pokemaster project - a tool to sort ZX Spectrum files in different ways. It will find all ZX Spectrum games on your computer by MD5 hashes, place them in one folder and sort according to your needs (by year, by publisher, by genre etc.)
+Also ZX Pokemaster Frontend is planned - a replacement for SGD and GameBase Speccymania databases, which will be based on ZXDB and be able to easily launch any ZX Spectrum game in any emulator found on your computer - with minimal tweaking and tuning to get the frontend up and running.
+This database will then complement ZX Pokemaster and ZX Pokemaster Frontend.
+Current dev status of the project can be watched here:
+https://github.com/eklipse2009/ZX-Pokemaster
+
+
+1.0-1.1 - First version created by hand.
 
 Contents.
 1. About this database.
@@ -10,7 +38,7 @@ Contents.
 4. Using the database on a real ZX Spectrum machine.
 
 1. About this database.
-	This is a collection of cheat codes (infinite lives, bullets, level warping etc.) for more than 2500 games for ZX Spectrum microcomputer. The main source for the codes in this database is the website http://www.the-tipshop.co.uk/ which is run by Gerard Sweeney.
+	This is a collection of cheat codes (infinite lives, bullets, level warping etc.) for more than 2900 games for ZX Spectrum microcomputer. The main source for the codes in this database is the website http://www.the-tipshop.co.uk/ which is run by Gerard Sweeney.
 	The purpose of the database is to simplify entering codes in games as much as possible. The .pok format is supported by many popular Speccy emulators for all platforms and you can even enter those if you have got a DivIDE interface along with a real ZX Spectrum machine.
 	The database was created entirely by hand, using Notepad++ and a few simple macroses. Most of the files have been tested just to be opened, but I can't guarantee that all the cheat codes do what they are said to do: I have just assembled them in a convenient format.
 	Files in the database are created after the full names of the games, most include year and developer name, but if I don't have a game in my romset, but the poke for it exist on the-tipshop.co.uk, I just create a new file with just a game name. Since I had absolutely no feedback I used the naming scheme comfortable for me personally.

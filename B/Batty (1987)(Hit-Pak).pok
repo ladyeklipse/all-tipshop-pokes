@@ -1,5 +1,7 @@
 NInfinite Lives
 Z 8 48440 0 0
-NLives=255
-Z 8 47633 255 255
+NLives
+Z 8 47633 256 0
+NEaster egg (at start)
+Z 8 47475 0 0
 Y

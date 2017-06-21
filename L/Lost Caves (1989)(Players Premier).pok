@@ -1,0 +1,12 @@
+N[128K]Infinite lives
+Z 8 33078 0 0
+N[128K]Immunity
+Z 8 33881 183 0
+N[48K]Infinite Lives
+Z 8 32936 0 0
+N[48K]Immunity (alt)
+Z 8 33718 183 0
+N[48K]Select any level from start (0-15)
+M 8 32826 15 0
+Z 8 32827 16 0
+Y

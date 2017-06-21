@@ -10,6 +10,6 @@ NNo weapon loss
 Z 8 49017 33 0
 NNo overheat
 Z 8 45188 0 0
-NTime = 255
-Z 8 52634 255 255
+NTime
+Z 8 52634 256 0
 Y

@@ -1,0 +1,40 @@
+NScreen Jumper
+M 8 24584 255 0
+M 8 24585 255 0
+M 8 45322 255 0
+M 8 45323 255 0
+M 8 41456 0 0
+Z 8 41457 0 0
+N[48K]Infinite strength
+Z 8 27813 256 0
+N[48K]Infinite Strength (yours)
+Z 8 27814 58 0
+N[48K]Infinite Strength (theirs)
+Z 8 53615 126 0
+N[48K]Infinite Happiness (theirs)
+M 8 53626 126 0
+Z 8 33582 126 0
+N[48K]Infinite Stamina (theirs)
+Z 8 53637 126 0
+N[48K]Infinite Charisma (theirs)
+Z 8 53648 126 0
+N[48K]Infinite Fuel
+Z 8 32008 58 0
+N[48K]Infinite time
+Z 8 53565 183 0
+N[128K]Infinite Strength (yours)
+Z 8 28112 58 0
+N[128K]Infinite Strength (theirs)
+Z 8 44955 126 0
+N[128K]Infinite Happiness (theirs)
+M 8 44966 126 0
+Z 8 35099 126 0
+N[128K]Infinite Stamina (theirs)
+Z 8 44977 126 0
+N[128K]Infinite Charisma (theirs)
+Z 8 44988 126 0
+N[128K]Infinite Fuel
+Z 8 33064 58 0
+N[128K]Infinite time
+Z 8 44905 183 0
+Y

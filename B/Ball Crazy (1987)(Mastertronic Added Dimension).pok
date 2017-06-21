@@ -1,7 +1,7 @@
 NInfinite Lives
 Z 8 28489 201 0
-NLives = 255
-Z 8 28086 255 255
+NLives
+Z 8 28086 256 0
 NImmunity
 Z 8 32995 0 0
 NInfinite Ammo

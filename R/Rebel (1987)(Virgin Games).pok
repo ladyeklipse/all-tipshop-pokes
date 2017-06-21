@@ -1,43 +1,27 @@
 NImmunity
 Z 8 49958 0 0
-NMinutes = 255
-M 8 49319 255 255
-Z 8 57847 255 255
-NSeconds = 255
-M 8 49318 255 255
-Z 8 57846 255 255
+NMinutes
+M 8 49319 256 0
+Z 8 57847 256 0
+NSeconds
+M 8 49318 256 0
+Z 8 57846 256 0
 NInfinite Time
 Z 8 52295 0 0
-NLives = 255
-M 8 49324 255 255
-Z 8 54060 255 255
+NLives
+M 8 49324 256 0
+Z 8 54060 256 0
 NInfinite Lives
 Z 8 49235 0 0
-NMirrors = 255
-M 8 49328 255 255
-Z 8 54061 255 255
+NMirrors
+M 8 49328 256 0
+Z 8 54061 256 0
 NInfinite Mirrors
 Z 8 53110 0 0
 NPlace mirrors anytime
 Z 8 53109 0 0
-NLevel = 1
-Z 8 49313 1 1
-NLevel = 2
-Z 8 49313 2 2
-NLevel = 3
-Z 8 49313 3 3
-NLevel = 4
-Z 8 49313 4 4
-NLevel = 5
-Z 8 49313 5 5
-NLevel = 6
-Z 8 49313 6 6
-NLevel = 7
-Z 8 49313 7 7
-NLevel = 8
-Z 8 49313 8 8
-NLevel = 9
-Z 8 49313 9 9
+NLevel
+Z 8 49313 256 0
 NNo Horizontal Enemies
 Z 8 49351 0 0
 Y

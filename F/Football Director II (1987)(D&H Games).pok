@@ -1,0 +1,11 @@
+N[+2A]Weeks Contract [max 255]
+Z 8 51343 256 0
+N[+2A]Money per week [max 121] (hex)
+Z 8 51321 256 0
+N[+2A]Money (£50)
+Z 8 51321 72 0
+N[+2A]Money (£994)
+Z 8 51321 120 0
+N[+2A]Money (£998)
+Z 8 51321 121 0
+Y

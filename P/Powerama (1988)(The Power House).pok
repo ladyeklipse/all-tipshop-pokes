@@ -1,10 +1,10 @@
 NInfinite Lives
 Z 8 33791 0 0
-NLives = 128
-Z 8 33734 128 128
+NLives (1-128)
+Z 8 33734 256 0
 NImmunity
 M 8 37769 1 0
 Z 8 37832 201 0
-NFire 4 Bullets
-Z 8 37124 4 1
+NFire x Bullets
+Z 8 37124 256 0
 Y

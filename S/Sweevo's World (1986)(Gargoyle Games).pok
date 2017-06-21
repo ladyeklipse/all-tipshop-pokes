@@ -1,15 +1,12 @@
-NLives = 255 YS covertape version
-M 8 24858 255 255
-Z 8 36957 255 255
-NInfinite Lives YS covertape version
+NLives (YS covertape)
+M 8 24858 256 0
+Z 8 36957 256 0
+NInfinite Lives (YS covertape)
 Z 8 33122 182 0
-NInfinite Ouches YS covertape version
+NInfinite Ouches (YS covertape)
 Z 8 33599 182 0
-NLives = 255 Other versions
-Z 8 37008 255 255
-NInfinite Lives	Other versions
+NLives (Other versions)
+Z 8 37008 256 0
+NInfinite Lives (Other versions)
 Z 8 33219 0 0
-NMake tins  bears and boots disappear as soon as you enter a room containing one
-M 8 35732 37 0
-Z 8 34912 10 0
 Y

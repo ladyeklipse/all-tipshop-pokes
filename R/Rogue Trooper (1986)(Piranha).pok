@@ -7,6 +7,6 @@ Z 8 30882 42 0
 NGet 9999 bullets (display updates when you shoot)
 M 8 25815 15 0
 Z 8 25816 39 0
-NNumber of tapes collected (max 8)
-Z 8 25817 8 0
+NTapes collected (max 8)
+Z 8 25817 256 0
 Y
