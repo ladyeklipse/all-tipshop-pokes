@@ -25,11 +25,11 @@ M 8 39906 0 0
 Z 8 39906 143 0
 NInfinite Jumps/Speed/Shield when get them
 Z 8 31690 0 0
-NPoke Shields required
+NShields required
 Z 8 36608 256 0
-NPoke Springs required
+NSprings required
 Z 8 36607 256 0
-NPoke Speeds required
+NSpeeds required
 Z 8 36606 256 0
 NNo bonus decrease
 Z 8 31686 201 0
@@ -37,7 +37,7 @@ NParalyzed enemies
 Z 8 33256 201 0
 NNo interaction with objects
 Z 8 39854 201 0
-NBat-Ghost ! Try it and see
+NBat-Ghost!
 Z 8 40658 201 0
 NDisplay ONLY objects & doors
 Z 8 30521 256 0

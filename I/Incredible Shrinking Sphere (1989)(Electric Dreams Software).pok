@@ -12,7 +12,7 @@ NNo shield decrease [not relevant with Immunity]
 M 8 29481 0 0
 M 8 29482 0 0
 Z 8 29483 0 0
-NLevel no [Poke during ammo placement screen]
+NLevel no (during ammo placement screen)
 Z 8 27900 0 0
 NStart Level (0-30)
 M 8 30875 62 0
