@@ -109,13 +109,10 @@ http://velesoft.speccy.cz/zx/divide/divide-demfir.htm
 There is a readme inside, so I hope you will get to know it yourself. I just have to add that it doesn't like filenames with a symbol '+' in it and you really should place your ISO on a fresh formatted CF card or place it manually in the beginning of the CF space, otherwise Demfir can take a long time to determine where the ISO is. Also don't forget that your ISO should have a bootsector for Demfir itself, there is a sample ISO file inside of the package, but you can use ImgBurn to create yours, just click "Write files/folders to disk" - then click "Advanced", choose "Bootable disk" and add demfirboot.img as Boot image.
 
 Thanks for using this database, it took me a lot of time to create it for you.
-You may always ask me questions using one of these emails:
-elleonore [at] list.ru
-eklipse [at] te.net.ua
+You may always ask me questions:
+email: eklipse2009 [@] gmail.com
+skype: eklipse2009
+facebook: http://facebook.com/ladyeklipsegamer
+vk: http://vk.com/ladyeklipse
 Sincerely yours,
 Lady Eklipse.
-http://lady-eklipse.livejournal.com/
-
-
-
-
