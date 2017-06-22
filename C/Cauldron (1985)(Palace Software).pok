@@ -5,7 +5,7 @@ Z 8 40056 0 0
 NInfinite Magic
 M 8 28602 0 0
 Z 8 34756 0 0
-NMagic -for current life only- (0-255)
+NMagic (current life)
 Z 8 41313 256 0
 NLives (0-255)
 Z 8 41315 256 0

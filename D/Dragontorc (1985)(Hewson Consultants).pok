@@ -9,10 +9,10 @@ NChests are open in rooms or items activated/shown
 Z 8 51341 143 0
 NGo through locked doors
 Z 8 50686 24 0
-N00 Move [project thy soul] - default
+N00 Move [project thy soul]
 M 8 27837 16 0
 Z 8 27872 5 0
-N01 Servant [a helping hand] - default
+N01 Servant [a helping hand]
 Z 8 27853 16 0
 N02 Wall [turns missiles]
 M 8 27869 16 0
@@ -43,7 +43,7 @@ M 8 28013 16 0
 Z 8 28032 5 0
 N0C Return [to Halgors tomb]
 Z 8 28029 16 0
-N0D Bane [Wraithbane] - default
+N0D Bane [Wraithbane]
 Z 8 28045 16 0
 N0E Leyrod [opens the way]
 M 8 28061 16 0

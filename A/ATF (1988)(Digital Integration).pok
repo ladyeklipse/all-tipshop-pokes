@@ -9,7 +9,7 @@ M 8 36452 100 0
 Z 8 36453 0 0
 NLives
 Z 8 32815 256 0
-NNo SAM missle
+NNo SAM missile
 Z 8 45213 175 0
 NImmune to SAM missile
 Z 8 45346 175 0
@@ -17,9 +17,9 @@ NNo ground collision
 Z 8 37686 0 0
 NImmune to plane collision
 Z 8 37560 24 0
-NImunity to enemy fire
+NImmunity to enemy fire
 Z 8 40768 24 0
-NInfinite maverick missle
+NInfinite maverick missile
 Z 8 42071 0 0
 NInfinite fuel
 Z 8 36834 0 0
