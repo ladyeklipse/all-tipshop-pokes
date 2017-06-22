@@ -31,29 +31,29 @@ NPoke Springs required
 Z 8 36607 256 0
 NPoke Speeds required
 Z 8 36606 256 0
-N>No bonus decrease
+NNo bonus decrease
 Z 8 31686 201 0
-N>Paralyzed enemies
+NParalyzed enemies
 Z 8 33256 201 0
-N>No interaction with objects
+NNo interaction with objects
 Z 8 39854 201 0
-N>Bat-Ghost ! Try it and see
+NBat-Ghost ! Try it and see
 Z 8 40658 201 0
-N>Display ONLY objects & doors
+NDisplay ONLY objects & doors
 Z 8 30521 256 0
-N>Display NO objects & doors
+NDisplay NO objects & doors
 Z 8 27716 256 0
-N>Don't update floor texture
+NDon't update floor texture
 Z 8 35479 256 0
-N>"Object rain" **
+NObject rain
 Z 8 38010 256 0
-N>No annoying bat-music
+NNo music
 Z 8 34170 256 0
-N>No ATTR update (looks weird)
+NNo ATTR update (looks weird)
 Z 8 26496 256 0
-N>Floating enemies
+NFloating enemies
 Z 8 33240 256 0
-N>Monstrous twists **
+NMonstrous twists
 Z 8 38938 256 0
 NInfinite Lives (alt)
 Z 8 36797 0 0
@@ -61,11 +61,9 @@ NEnemies can't move (but they can kill you)
 Z 8 33333 33 0
 NInmunity on/off
 Z 8 39915 0 12
-NSuper jump ON [only works when you have boots!]
-Z 8 36934 52 0
-NSuper jump OFF
-Z 8 36934 53 0
-NLives [1-153]
+NSuper jump on/off
+Z 8 36934 52 53
+NLives (1-153)
 Z 8 36609 256 0
 N99 lives (max)
 Z 8 36609 153 0

@@ -1,8 +1,8 @@
-NInfinite lives day 1
+N[L1]Infinite lives
 Z 8 24000 0 0
-NInfinite lives day 2
+NInfinite lives
 Z 8 24085 0 0
-NConvert 400M to 060M (Day 1)
+N[L1]400M to 060M
 M 8 26396 1 0
 M 8 26397 7 0
 M 8 44173 48 0
@@ -11,7 +11,7 @@ M 8 42558 60 0
 M 8 42559 0 0
 M 8 42565 40 0
 Z 8 42566 0 0
-NConvert 1500M TO 800M (DAY 2)
+N[L2]1500M TO 800M
 M 8 26501 1 0
 M 8 26502 9 0
 M 8 44180 48 0
@@ -20,7 +20,7 @@ M 8 42645 32 0
 M 8 42646 3 0
 M 8 42651 12 0
 Z 8 42652 3 0
-NConvert 1500M to Mile (1609M) (DAY 2)
+N[L2]1500M to Mile (1609M)
 M 8 26502 7 0
 M 8 26504 10 0
 M 8 44180 77 0
@@ -32,7 +32,7 @@ M 8 42645 73 0
 M 8 42646 6 0
 M 8 42651 53 0
 Z 8 42652 6 0
-NThe Long Jump bugfix s (Day One)
+N[L1]Long Jump bugfix
 M 8 23717 58 0
 M 8 23718 74 0
 M 8 23719 131 0
@@ -53,10 +53,10 @@ M 8 23733 138 0
 M 8 35439 195 0
 M 8 35440 165 0
 Z 8 35441 92 0
-NLives (Day 1) [ lives+1 - EG 3 lives]
+N[L1]Lives (x+1)
 M 8 26423 256 0
 Z 8 26423 4 0
-NLives (Day 2) [ lives+1 - 9 lives]
+N[L2]Lives [x+1]
 M 8 26529 256 0
 Z 8 26529 10 0
 Y
