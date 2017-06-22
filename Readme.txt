@@ -4,22 +4,31 @@ Work done by: Lady Eklipse
 
 Version history:
 2.0 (22.06.2017)
-This is entirely NEW version of the database.
- - The POK files are scraped from Gerard's website by a web crawler written in Python.
- - I'm trying to keep cheats' names as short as possible, rephrasing where necessary.
- - Each game has one and only one POK file in this database.
+This is entirely NEW version of the database. Here is the list of major changes.
+ - The POK files are scraped from Gerard's website by a web crawler written in Python;
+ - POK files were then extracted into XLSX sheet for easy manual check (side by side with original content on the website);
+ - POK files are imported from that XLSX sheet and extracted programmatically, while checking for correctness, thus I can give 100% guarantee that every POK file will be opened in an emulator, if .POK format implementation is correct;
+ - Cheats with variables (value=256) are added (for some reason I've overlooked those when I read the specification of POK format in 2010);
+	(Note: variables can be anywhere from 0 to 255 unless mentioned otherwise)
+ - I'm trying to keep cheats' names as short as possible, rephrasing where necessary;
+ - Each game has one and only one POK file in this database;
  - Abbreviations are used in cheats' names to help find a cheat more easily 
-	(especially when full cheat description cannot be displayed by your software):
+	(especially when full cheat description cannot be displayed by your software).
+	
+List of abbreviations.
  [48K] - works on 48K ZX Spectrum models.
  [128K] - works on 128K models (often this includes +2A/+3  unless mentioned otherwise.
  [+2A] - cheat made specifically for ZX Spectrum +2A
  [+3] - cheat made with +3 (disk-based) model in mind.
  [1P] - 1 player mode.
  [2P] - 2 players mode.
+ [P1] - Cheat for player 1 only.
+ [P2] - Cheat for player 2 only.
  [en] - English version of the game.
  [es] - Spanish version of the game.
  [L*] - Level, where * is level number. Level is also equal to Mission or Stage.
  [Pt*] - Part, where * is part number, as mentioned on TheTipShop.
+ 
 
 Eventually it will become part of my ZX Pokemaster project - a tool to sort ZX Spectrum files in different ways. It will find all ZX Spectrum games on your computer by MD5 hashes, place them in one folder and sort according to your needs (by year, by publisher, by genre etc.)
 Also ZX Pokemaster Frontend is planned - a replacement for SGD and GameBase Speccymania databases, which will be based on ZXDB and be able to easily launch any ZX Spectrum game in any emulator found on your computer - with minimal tweaking and tuning to get the frontend up and running.
