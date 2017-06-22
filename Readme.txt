@@ -26,8 +26,8 @@ List of abbreviations.
  [P2] - Cheat for player 2 only.
  [en] - English version of the game.
  [es] - Spanish version of the game.
- [L*] - Level, where * is level number. Level is also equal to Mission or Stage.
- [Pt*] - Part, where * is part number, as mentioned on TheTipShop.
+ [L*] - Level, where * is level number(s). Level is also equal to Mission or Stage.
+ [Pt*] - Part, where * is part number(s), as mentioned on TheTipShop.
  
 
 Eventually it will become part of my ZX Pokemaster project - a tool to sort ZX Spectrum files in different ways. It will find all ZX Spectrum games on your computer by MD5 hashes, place them in one folder and sort according to your needs (by year, by publisher, by genre etc.)
