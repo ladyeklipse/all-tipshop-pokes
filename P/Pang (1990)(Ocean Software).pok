@@ -8,14 +8,14 @@ N[+2/+3][P1]Immunity on/off
 Z 8 35420 195 194
 N[+2/+3][P2]Immunity on/off
 Z 8 35452 195 194
-N[+2][P1]Lives(max 127)
+N[+2][P1]Lives(0-127)
 Z 8 28638 256 0
-N[+2][P2]Lives(max 127)
+N[+2][P2]Lives(0-127)
 Z 8 28639 256 0
 N[+3]Infinite Time
 Z 8 28179 0 0
-N[+3][P1]Lives(max 127)
+N[+3][P1]Lives(0-127)
 Z 8 28615 256 0
-N[+3][P2]Lives(max 127)
+N[+3][P2]Lives(0-127)
 Z 8 28616 256 0
 Y

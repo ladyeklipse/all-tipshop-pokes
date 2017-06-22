@@ -18,7 +18,7 @@ M 8 49260 256 0
 Z 8 51485 256 0
 NHorse Speed (1-18)
 Z 8 43481 256 0
-NBad Guy (max 19)
+NBad Guy (0-19)
 Z 8 41570 256 0
 NQuick reload
 Z 8 51617 0 0

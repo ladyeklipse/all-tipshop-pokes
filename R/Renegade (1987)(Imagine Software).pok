@@ -27,6 +27,6 @@ N[48K]Infinite time
 Z 8 40366 0 0
 N[48K]Lives (0-127)
 Z 8 23343 256 0
-N[128K]Lives (max 127)
+N[128K]Lives (0-127)
 Z 8 28873 256 0
 Y

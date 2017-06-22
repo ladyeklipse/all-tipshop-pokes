@@ -1,13 +1,13 @@
 NInfinite lives
 Z 8 34823 0 0
-NNumber of lives
+NLives
 Z 8 32227 256 0
 NComplete level (Enter then move your character)
 M 8 32232 255 0
 Z 8 32235 255 0
 NCurrent level
 Z 8 32226 256 0
-NLives
+NLives (alt)
 Z 8 34638 0 0
 NSet start level
 M 8 32160 62 0

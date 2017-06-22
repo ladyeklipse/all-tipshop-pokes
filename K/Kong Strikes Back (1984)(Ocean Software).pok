@@ -8,7 +8,7 @@ NNo cars
 Z 8 45599 0 0
 NStart level
 Z 8 40167 256 0
-NSets time to 9990 -current level
+NTime=9990 (current level)
 M 8 44805 42 0
 M 8 44806 42 0
 Z 8 44807 42 0

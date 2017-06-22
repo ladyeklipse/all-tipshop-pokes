@@ -4,7 +4,7 @@ NInfinite Flips
 Z 8 36770 0 0
 NInfinite Lives
 Z 8 39636 183 0
-NSet bomb count (max 26)
+NSet bomb count (0-26)
 Z 8 41874 256 0
 NInfinite Bombs [stored in 41874]
 Z 8 36949 0 0

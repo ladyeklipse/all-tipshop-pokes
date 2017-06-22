@@ -6,7 +6,7 @@ NLives
 Z 8 39125 256 0
 NStart level (1-8)
 Z 8 39130 256 0
-NStrength (max 255)
+NStrength (0-255)
 Z 8 23366 256 0
 NHave key (1yes 0no)
 Z 8 23343 256 0

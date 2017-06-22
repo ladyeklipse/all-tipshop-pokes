@@ -59,14 +59,13 @@ NInfinite Lives (alt)
 Z 8 36797 0 0
 NEnemies can't move (but they can kill you)
 Z 8 33333 33 0
-NInmunity (you can turn it off with )
-M 8 39915 0 0
-Z 8 39915 12 0
+NInmunity on/off
+Z 8 39915 0 12
 NSuper jump ON [only works when you have boots!]
 Z 8 36934 52 0
 NSuper jump OFF
 Z 8 36934 53 0
-NNumber of Lives [1-153] (*)
+NLives [1-153]
 Z 8 36609 256 0
 N99 lives (max)
 Z 8 36609 153 0

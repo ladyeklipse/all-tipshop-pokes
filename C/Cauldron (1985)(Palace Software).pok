@@ -5,9 +5,9 @@ Z 8 40056 0 0
 NInfinite Magic
 M 8 28602 0 0
 Z 8 34756 0 0
-NMagic -for current life only- (max 255)
+NMagic -for current life only- (0-255)
 Z 8 41313 256 0
-NNumber of Lives (max 255)
+NLives (0-255)
 Z 8 41315 256 0
 NFinish game
 Z 8 41289 1 0

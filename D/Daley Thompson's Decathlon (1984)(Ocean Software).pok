@@ -53,10 +53,10 @@ M 8 23733 138 0
 M 8 35439 195 0
 M 8 35440 165 0
 Z 8 35441 92 0
-NNumber of lives (Day 1) [ lives+1 - EG 3 lives]
+NLives (Day 1) [ lives+1 - EG 3 lives]
 M 8 26423 256 0
 Z 8 26423 4 0
-NNumber of lives (Day 2) [ lives+1 - 9 lives]
+NLives (Day 2) [ lives+1 - 9 lives]
 M 8 26529 256 0
 Z 8 26529 10 0
 Y

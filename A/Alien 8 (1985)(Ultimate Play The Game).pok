@@ -10,7 +10,7 @@ NFreeze Enemies & Objects
 Z 8 49078 201 0
 NMegajumps
 Z 8 49864 0 0
-NNumber of lives (max 128)
+NLives (0-128)
 Z 8 23322 256 0
 NSets Time Left to 999
 M 8 23350 144 0

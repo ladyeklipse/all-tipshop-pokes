@@ -17,6 +17,6 @@ NMakes it easier to steal (once the traders look the other way they don't look b
 Z 8 39699 62 0
 NInfinite energy
 Z 8 38818 0 0
-NNumber of lives (max 127)
+NLives (0-127)
 Z 8 43674 256 0
 Y

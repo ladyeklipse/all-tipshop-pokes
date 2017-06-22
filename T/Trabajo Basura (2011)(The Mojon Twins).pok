@@ -1,13 +1,13 @@
 NInfinite lives
 M 8 46677 0 0
 Z 8 49166 0 0
-NNumber of lives
+NLives
 Z 8 50915 256 0
-NNumber of keys
+NKeys
 Z 8 50917 256 0
-NNumber of apprentices
+NApprentices
 Z 8 50919 256 0
-NNumber of diskettes
+NDiskettes
 M 8 50916 1 0
 Z 8 50548 256 0
 NInfinite Keys

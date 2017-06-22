@@ -69,6 +69,6 @@ NThe ring is at precipice
 Z 8 34518 13 0
 NWhich ending you will see when you complete game (0-2) (*)
 Z 8 34318 256 0
-NNumber of commands you can type in the moat before monster kills you -when light is on-(**)
+NCommands you can type in the moat before monster kills you -when light is on-(**)
 Z 8 34338 256 0
 Y

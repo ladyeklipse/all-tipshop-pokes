@@ -11,9 +11,9 @@ M 8 27804 182 0
 Z 8 35690 182 0
 NInfinite Energy
 Z 8 34846 183 0
-NNumber of bullets (max 153)
+NBullets (0-153)
 Z 8 38494 256 0
-NNumber of rockets (max 153)
+NRockets (0-153)
 Z 8 38496 256 0
 N99 rockets
 Z 8 38496 153 0

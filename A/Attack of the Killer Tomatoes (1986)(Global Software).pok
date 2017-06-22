@@ -1,8 +1,8 @@
 NInfinite Time
 Z 8 25323 0 0
-NTime
+NInfinite Lives
 Z 8 49433 81 0
-NSets time (XX:XX)(0-9)
+NTime (XX:XX)(0-9)
 M 8 26521 256 0
 M 8 26522 256 0
 M 8 26523 256 0

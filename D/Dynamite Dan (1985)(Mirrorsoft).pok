@@ -9,7 +9,7 @@ N59093201
 Z 8 51558 0 0
 NWater can't kill you (on/off)
 Z 8 56359 0 25
-NNumber of dynamite sticks found (0-8)
+NDynamite sticks found (0-8)
 Z 8 51320 256 0
 NPicked up an oxygen bottle (it avoids death when you take a bath -only once-)
 Z 8 51326 64 0

@@ -4,16 +4,16 @@ NOnly need 1 chip
 Z 8 41606 175 0
 NInfinite Time (alt)
 Z 8 44126 0 0
-NSets time left to 9999
+NTime left=9999
 M 8 53560 153 0
 Z 8 53561 153 0
-NNumber of RED keys (max 127)
+NRED keys (0-127)
 Z 8 53021 256 0
-NNumber of BLUE keys (max 127)
+NBLUE keys (0-127)
 Z 8 53022 256 0
-NNumber of YELLOW keys (max 127)
+NYELLOW keys (0-127)
 Z 8 53023 256 0
-NNumber of GREEN keys (max 127)
+NGREEN keys (0-127)
 Z 8 53024 256 0
 NHave the Boots (1=yes, 0=no)
 Z 8 53025 256 0

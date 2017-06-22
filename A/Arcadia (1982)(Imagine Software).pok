@@ -2,7 +2,7 @@ NInfinite Lives
 Z 8 25776 0 0
 NInfinite lives
 Z 8 26776 0 0
-NNumber of lives (max 255)
+NLives (0-255)
 Z 8 27334 256 0
 NKempston support
 M 8 29234 31 0

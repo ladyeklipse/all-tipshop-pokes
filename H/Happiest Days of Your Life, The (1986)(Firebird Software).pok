@@ -1,24 +1,24 @@
 NInfinite Lives
 Z 8 55886 60 0
-NEnergy at Dining Hall (48 (Yes) or 128 (No))
+NEnergy at Dining Hall (48=Yes,128=No)
 Z 8 29811 256 0
-NEnergy at Common Room (49 (Yes) or 128 (No))
+NEnergy at Common Room (49=Yes,128=No)
 Z 8 30195 256 0
-NEnergy at Crumbled Tower (51 (Yes) or 128 (No))
+NEnergy at Crumbled Tower (51=Yes,128=No)
 Z 8 31219 256 0
-NEnergy at The Copse (52 (Yes) or 128 (No))
+NEnergy at The Copse (52=Yes,128=No)
 Z 8 31347 256 0
-NEnergy at Dolesville (50 (Yes) or 128 (No))
+NEnergy at Dolesville (50=Yes,128=No)
 Z 8 32627 256 0
-NNumber of lives ( even numbers between 118 [ 1 life] and 254 [69 lives])
+NLives (118[1]-254[69])
 Z 8 53642 256 0
 N50 lives
 Z 8 53642 216 0
-N69 lives [the max]
+N69 lives (max)
 Z 8 53642 254 0
-N1st item you carry [53-127]
+N1st item you carry (53-127)
 Z 8 53647 256 0
-N2nd item you carry [53-127]
+N2nd item you carry (53-127)
 Z 8 53649 256 0
 NWhich item is at "Study no 1" (table)
 Z 8 28849 256 0

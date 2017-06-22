@@ -2,13 +2,13 @@ NImmunity
 Z 8 45295 195 0
 NInfinite Lives
 Z 8 47684 0 0
-NNumber of lives
+NLives
 Z 8 49290 256 0
 NTransform objects
 Z 8 45877 201 0
 NTransform yourself
 Z 8 47656 0 0
-NLives (max 255)
+NLives (0-255)
 Z 8 38818 256 0
 NInfinite lives
 Z 8 47693 0 0

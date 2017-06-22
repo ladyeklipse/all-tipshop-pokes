@@ -13,7 +13,7 @@ Z 8 34429 10 0
 NTime [minutes:seconds]
 M 8 52572 256 0
 Z 8 52571 256 0
-NEnergy (max 129)
+NEnergy (0-129)
 Z 8 52617 256 0
 NTime = 99:59
 M 8 52572 153 0

@@ -2,7 +2,7 @@ NInfinite Lives
 Z 8 43546 0 0
 NInfinite Bonus
 Z 8 43405 0 0
-NNumber of lives (max 255)
+NLives (0-255)
 Z 8 60820 256 0
 NAlways paints (for current life only)
 Z 8 60772 1 0

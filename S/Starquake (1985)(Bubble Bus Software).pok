@@ -17,7 +17,7 @@ NCard For Cheops
 Z 8 52516 33 0
 NSecurity Door
 Z 8 52273 62 0
-NNumber of lives (max 255)
+NLives (0-255)
 Z 8 53964 256 0
 NAccess authorised [Doors+Pyramids]
 Z 8 55093 0 0

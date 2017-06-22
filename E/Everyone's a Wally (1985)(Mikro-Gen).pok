@@ -39,15 +39,15 @@ NFountain repaired
 Z 8 60439 1 0
 NWall is built
 Z 8 60440 1 0
-NNumber of lives of Wally (max 255)
+NLives of Wally (0-255)
 Z 8 48276 256 0
-NNumber of lives of Wilma (max 255)
+NLives of Wilma (0-255)
 Z 8 48277 256 0
-NNumber of lives of Tom (max 255)
+NLives of Tom (0-255)
 Z 8 48278 256 0
-NNumber of lives of Dick (max 255)
+NLives of Dick (0-255)
 Z 8 48279 256 0
-NNumber of lives of Harry (max 255)
+NLives of Harry (0-255)
 Z 8 48280 256 0
 NPhone box' stage completed
 Z 8 60444 1 0

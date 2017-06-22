@@ -1,14 +1,14 @@
 NTeleport to another room (use M to see where you are when you use this poke)
 Z 8 34278 256 0
-NWhere's the octopus (use to get rid of it ))) )
+NWhere's the octopus (use to get rid of it)
 M 8 34314 256 0
 Z 8 34314 0 0
 NWhere's the cylinder (use 254 when it's in your inventory or 1 when it's inside suitcase)
 Z 8 34498 256 0
 NCylinder is inside suitcase
 Z 8 34498 1 0
-NYou appear inside the lake in the screen where you've to move mirror to left -)
+NYou appear inside the lake in the screen where you've to move mirror to left
 Z 8 34278 17 0
-NYou appear outside mysterious structure -)
+NYou appear outside mysterious structure
 Z 8 34278 18 0
 Y
