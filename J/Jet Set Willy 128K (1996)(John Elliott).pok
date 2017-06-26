@@ -6,7 +6,7 @@ NNo death from fall
 Z 8 36477 1 50
 NItems
 Z 8 37874 0 0
-NScreen where you appear (after death) (0-127) (doesn't work if you pass to another screen)
+NScreen after death (0-127)
 Z 8 33824 256 0
 NSuper jump on/off
 Z 8 36358 0 60

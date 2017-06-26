@@ -73,7 +73,7 @@ N[es]Time 1:23
 M 8 36934 49 0
 M 8 36936 50 0
 Z 8 36937 51 0
-N[es]Number of lifes
+N[es] lifes
 Z 8 40356 256 0
 N[es]Infinite Lives
 M 8 39656 201 0
@@ -89,7 +89,7 @@ M 8 36932 48 0
 M 8 36934 49 0
 Z 8 36935 51 0
 NPartial Immunity
-Z 8 33110 256 0
+Z 8 33110 201 0
 NRemove moving enemies
-Z 8 42403 256 0
+Z 8 42403 201 0
 Y

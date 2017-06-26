@@ -3,4 +3,7 @@ Z 8 25454 57 0
 NStart with $19,00
 M 8 29727 49 0
 Z 8 29730 57 0
+NStart with any sum (x+48, y+48)
+M 8 29727 256 0
+Z 8 29730 256 0
 Y

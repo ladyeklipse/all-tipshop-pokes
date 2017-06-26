@@ -21,6 +21,10 @@ N3rd item in your inventory
 Z 8 23524 256 0
 NCurrent day
 Z 8 23481 256 0
-N9starting lives
+N9starting Lives
 Z 8 44947 10 0
+NCurrent day=0
+Z 8 23481 0 0
+NCurrent day=15
+Z 8 23481 21 0
 Y

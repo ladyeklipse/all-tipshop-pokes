@@ -23,4 +23,8 @@ NHelicopters/ships (0-153)
 Z 8 39614 256 0
 NTanks (0-153)
 Z 8 39615 256 0
+N0soldiers
+Z 8 39613 0 0
+N9helicopters [or ships when you're in level 2]
+Z 8 39614 9 0
 Y

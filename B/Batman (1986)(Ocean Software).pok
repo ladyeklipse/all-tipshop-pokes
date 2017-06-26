@@ -6,24 +6,23 @@ NFast Batman (in empty rooms)
 Z 8 26052 58 0
 NImmunity
 Z 8 39908 201 0
-NPoke Faster Batman
+NFaster Batman
 Z 8 37430 0 0
-NPoke Static Monsters
+NStatic Monsters
 Z 8 33466 0 0
-NPoke To start with Jump Boots
+NStart with Jump Boots
 Z 8 36605 4 0
-NPoke To start with Bag
+NStart with Bag
 Z 8 36605 8 0
-NPoke To start with Jetpac
+NStart with Jetpac
 Z 8 36605 1 0
-NPoke To start with Bat Belt
+NStart with Bat Belt
 Z 8 36605 2 0
 NStart with all items
 Z 8 36605 15 0
-NPoke InfShield If stuck
-M 8 39906 0 0
-Z 8 39906 143 0
-NInfinite Jumps/Speed/Shield when get them
+NInfinite Shield on/off
+Z 8 39906 0 143
+NInfinite Jumps/Speed/Shield
 Z 8 31690 0 0
 NShields required
 Z 8 36608 256 0
@@ -39,22 +38,6 @@ NNo interaction with objects
 Z 8 39854 201 0
 NBat-Ghost!
 Z 8 40658 201 0
-NDisplay ONLY objects & doors
-Z 8 30521 256 0
-NDisplay NO objects & doors
-Z 8 27716 256 0
-NDon't update floor texture
-Z 8 35479 256 0
-NObject rain
-Z 8 38010 256 0
-NNo music
-Z 8 34170 256 0
-NNo ATTR update (looks weird)
-Z 8 26496 256 0
-NFloating enemies
-Z 8 33240 256 0
-NMonstrous twists
-Z 8 38938 256 0
 NInfinite Lives (alt)
 Z 8 36797 0 0
 NEnemies can't move (but they can kill you)
@@ -65,8 +48,24 @@ NSuper jump on/off
 Z 8 36934 52 53
 NLives (1-153)
 Z 8 36609 256 0
-N99 lives (max)
+N99 Lives (max)
 Z 8 36609 153 0
-N50 lives
+N50 Lives
 Z 8 36609 80 0
+NDisplay ONLY objects & doors
+Z 8 30521 201 0
+NDisplay NO objects & doors
+Z 8 27716 201 0
+NDon't update floor texture
+Z 8 35479 201 0
+N"Object rain"
+Z 8 38010 201 0
+NNo annoying bat-music
+Z 8 34170 201 0
+NNo ATTR update (looks weird)
+Z 8 26496 201 0
+NFloating enemies
+Z 8 33240 201 0
+NMonstrous twists
+Z 8 38938 201 0
 Y

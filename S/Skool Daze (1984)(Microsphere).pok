@@ -11,7 +11,7 @@ NSet Mr Withit's Letter(65=A,90=Z)
 Z 8 32677 256 0
 NSet Mr Creak's Letter(65=A,90=Z)
 Z 8 32678 256 0
-NSet number of lines (in-game)
+NSet  lines (in-game)
 M 8 32710 256 0
 Z 8 32711 256 0
 NLines=0
@@ -40,7 +40,7 @@ Z 8 31677 0 0
 NNo lines for being in the Staff Room or Head's Study
 M 8 30609 7 0
 Z 8 30621 7 0
-NLess number of lines given (easier game)
+NLess  lines given (easier game)
 M 8 30488 0 0
 Z 8 30489 0 0
 NOnly given 100 lines per telling off
@@ -74,4 +74,6 @@ M 8 63048 0 0
 M 8 64853 1 0
 M 8 64918 1 0
 Z 8 65000 1 0
+NMr Wacker's Letter "B"
+Z 8 32675 66 0
 Y

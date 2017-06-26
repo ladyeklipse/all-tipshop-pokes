@@ -4,7 +4,7 @@ NItems ON/OFF
 Z 8 37874 0 61
 NNo death from fall
 Z 8 36477 1 50
-NWRITETYPER on (a boot appears beside lives)
+NWRITETYPER on (a boot appears beside Lives)
 Z 8 34275 10 0
 NScreen after death (0-22)
 Z 8 33824 256 0

@@ -1,4 +1,4 @@
-NInfinite lives (Software Project)
+NInfinite Lives (Software Project)
 Z 8 35142 0 0
 NAir supply (Bug Byte)
 M 8 34795 195 0
@@ -18,14 +18,13 @@ NChange nasties' speed
 Z 8 36123 0 0
 NInfinite Lives
 Z 8 35136 0 53
+NInfinite Lives - destroys meanies
+M 8 36160 0 0
+Z 8 36106 0 0
 NInfinite Oxygen
 M 8 34798 0 0
 M 8 34799 0 0
 Z 8 34800 0 0
-NNo collision
-Z 8 36106 0 107
-NNo Horizontal Nasties
-Z 8 36160 0 0
 NMystery ?
 Z 8 35160 0 0
 NAlter Enemies
@@ -56,7 +55,7 @@ NNo vertical enemies (except L5 Eugene)
 Z 8 36611 201 0
 NNo horizontal enemies
 Z 8 36331 201 0
-NStarting lives (Software Project)
+NStarting Lives (Software Project)
 Z 8 34275 256 0
 NSlow air drain (Software Project)
 Z 8 35398 1 0
