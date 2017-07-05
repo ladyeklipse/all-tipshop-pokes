@@ -12,7 +12,7 @@ NNo enemy
 Z 8 37176 195 0
 NStart level (0-7)
 Z 8 61551 256 0
-NInitialise score & finances to 555555555 [48 to 57 480 491 579] Start game then quit
+NInitialise score & finances to 555555555
 Z 8 35331 53 0
 NMapping - No you [still need 'Immunity' or 'No enemy']
 Z 8 62226 201 0
