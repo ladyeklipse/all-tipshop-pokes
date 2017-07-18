@@ -1,0 +1,95 @@
+N[en]Lives
+Z 8 36739 256 0
+N[en]Infinite Lives
+M 8 39696 0 0
+Z 8 39698 58 0
+N[en]Energy items appear at 1st place
+Z 8 50468 38 0
+N[en]Energy items appear at 2nd place
+Z 8 50468 41 0
+N[en]Energy items appear at 3rd place
+Z 8 50468 44 0
+N[en]Energy items appear at 4th place
+Z 8 50468 47 0
+N[en]The 'chocolate ten pence' transforms in 'real ten pence'
+Z 8 51880 1 0
+N[en]The torch is working
+Z 8 51893 1 0
+N[en]The pop gun is loaded
+Z 8 51894 1 0
+N[en]The catapult is loaded
+Z 8 51897 1 0
+N[en]1st item (0-29)
+Z 8 51876 256 0
+N[en]2nd item (0-29)
+Z 8 51877 256 0
+N[en]Which item is available at library (0-29)
+Z 8 33329 256 0
+N[en]Which item is available at music equipment room (0-29)
+Z 8 33308 256 0
+N[en]Which item is available at 4 doors' room (0-29)
+Z 8 33311 256 0
+N[en]Which item is available at door with hand's room (0-29)
+Z 8 33365 256 0
+N[en]Your 1st item is the bouncy space hopper
+Z 8 51876 3 0
+N[en]Your 2nd item is the glove
+Z 8 51877 4 0
+N[en]Bouncy space hopper appears at library
+Z 8 33329 3 0
+N[en]Glove appears at door with hand's room
+Z 8 33365 4 0
+N[es]Energy items appear at 1st place (alt)
+Z 8 50387 213 0
+N[es]Energy items appear at 2nd place (alt)
+Z 8 50387 216 0
+N[es]Energy items appear at 3rd place (alt)
+Z 8 50387 219 0
+N[es]Energy items appear at 4th place (alt)
+Z 8 50387 222 0
+N[es]1st item (0-29)
+Z 8 51795 256 0
+N[es]2nd item (0-29)
+Z 8 51796 256 0
+N[es]The Chocolate ten pence transforms in Real ten pence
+Z 8 51799 1 0
+N[es]The Torch is working
+Z 8 51812 1 0
+N[es]The Pop Gun is loaded
+Z 8 51813 1 0
+N[es]The Catapult is loaded
+Z 8 51816 1 0
+N[es]1st item is the bomb
+Z 8 51795 0 0
+N[es]Cannon Ball appears at 4 doors' room
+Z 8 33311 7 0
+N[es]Infinite Time
+Z 8 36990 201 0
+N[es]Set Time (48-57)
+M 8 36934 256 0
+M 8 36936 256 0
+Z 8 36937 256 0
+N[es]Time 1:23
+M 8 36934 49 0
+M 8 36936 50 0
+Z 8 36937 51 0
+N[es] lifes
+Z 8 40356 256 0
+N[es]Infinite Lives
+M 8 39656 201 0
+Z 8 39688 201 0
+N[es]Infinite Time (alt)
+Z 8 36950 201 0
+N[es]Set Time (48-57) (alt)
+M 8 36932 256 0
+M 8 36934 256 0
+Z 8 36935 256 0
+N[es]Time 0:13
+M 8 36932 48 0
+M 8 36934 49 0
+Z 8 36935 51 0
+NPartial Immunity
+Z 8 33110 201 0
+NRemove moving enemies
+Z 8 42403 201 0
+Y

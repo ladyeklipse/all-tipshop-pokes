@@ -1,0 +1,44 @@
+NInfinite Lives
+Z 8 48658 0 0
+NInfinite Energy
+Z 8 33832 0 0
+NInfinite Lives (alt)
+Z 8 48670 0 0
+NInfinite Energy (alt)
+Z 8 33835 0 0
+NLives
+Z 8 43883 256 0
+NBucket is full (Popcorn)
+Z 8 61818 1 0
+NFuel Can is full (Popcorn)
+Z 8 61822 1 0
+NLaser Gun is full (Popcorn)
+Z 8 61817 1 0
+NWhere are energy items (Popcorn)
+Z 8 61069 256 0
+N1st item [0-31] (Popcorn)
+Z 8 35280 256 0
+N2nd item [0-31] (Popcorn)
+Z 8 35281 256 0
+NPlace the item you want at Wally's bedroom (0-31) (Popcorn)
+Z 8 34163 256 0
+NPlace the item you want at barrels' room (0-31) (Popcorn)
+Z 8 34145 256 0
+N1st item [0-31]
+Z 8 35279 256 0
+NLaser gun is Full
+Z 8 62015 1 0
+NBucket is Full
+Z 8 62016 1 0
+NFuel Can is Full
+Z 8 62020 1 0
+NYou place the item you want at barrels' room (0-31)
+Z 8 34144 256 0
+NYou place the item you want at Wally's bedroom (0-31)
+Z 8 34162 256 0
+NWhere are energy items
+Z 8 61267 256 0
+NImmunity
+M 8 33904 201 0
+Z 8 33767 201 0
+Y

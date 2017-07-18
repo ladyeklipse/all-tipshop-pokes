@@ -1,0 +1,56 @@
+N[48K]Lives (1-20)
+Z 8 47713 256 0
+N[48K][L1]Infinite Lives
+Z 8 55802 0 0
+N[48K][L2]Infinite Lives
+Z 8 48181 183 0
+N[48K][L3]Infinite Lives
+Z 8 48428 183 0
+N[48K][L4]Infinite Lives
+Z 8 48633 183 0
+N[48K][L5]Infinite Lives
+Z 8 59174 183 0
+N[48K][L6]Infinite Lives
+Z 8 59285 183 0
+N[48K]Infinite Lives
+M 8 48633 183 0
+Z 8 55802 0 0
+N[48K]Infinite Energy
+M 8 59400 0 0
+M 8 54604 0 0
+M 8 57078 0 0
+Z 8 58646 0 0
+N[48K]Infinite Bonus
+Z 8 47372 239 0
+N[48K]Infinite Ammo
+Z 8 54919 0 0
+N[48K]Infinite Time
+Z 8 57927 0 0
+N[48K]Immune To Boats
+Z 8 56241 0 0
+N[128K]Lives
+Z 8 47701 256 0
+N[128K][L1]Infinite Lives
+Z 8 55816 0 0
+N[128K][L2]Infinite Lives
+Z 8 48180 183 0
+N[128K][L3]Infinite Lives
+Z 8 48432 183 0
+N[128K][L4]Infinite Lives
+Z 8 48640 183 0
+N[128K][L5]Infinite Lives
+Z 8 59210 183 0
+N[128K][L6]Infinite Lives
+Z 8 59321 183 0
+N[128K]Infinite Energy
+M 8 59436 0 0
+M 8 54608 0 0
+M 8 57106 0 0
+Z 8 58674 0 0
+N[128K]Infinite Ammo
+Z 8 54933 182 0
+N[128K]Infinite Time
+Z 8 57952 0 0
+N[128K]Immune To Boats
+Z 8 56270 0 0
+Y

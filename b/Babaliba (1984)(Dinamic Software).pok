@@ -1,0 +1,45 @@
+N[es]Infinite Lives
+Z 8 56749 0 0
+N[es]Infinite Ammo
+Z 8 49732 0 0
+N[en]Infinite Lives
+Z 8 56734 0 0
+N[en]Infinite Ammo
+Z 8 49685 0 0
+N[es]Infinite Time
+Z 8 49323 0 0
+N[es]Immunity
+Z 8 56720 201 0
+N[en]Infinite Time (alt)
+Z 8 49294 0 0
+N[en]Immunity (alt)
+Z 8 56705 201 0
+N[es]Number of bombs (0-255)
+Z 8 59449 256 0
+N[es]Number of lives (0-255)
+Z 8 59489 256 0
+N[es]Prisoner rescued(1=yes,0=no)
+Z 8 59445 256 0
+N[es]Treasure found(1=yes,0=no) - green key appears if you haven't picked it up
+Z 8 59517 256 0
+N[es]Princess rescued(1=yes,0=no) - purple key appears if you haven't picked it up
+Z 8 59525 256 0
+N[es]Time=9999
+M 8 59481 15 0
+Z 8 59482 39 0
+N[en]Number of bombs (0-255)
+Z 8 59432 256 0
+N[en]Number of lives (0-255)
+Z 8 59472 256 0
+N[en]Prisoner rescued(1=yes,0=no)
+Z 8 59428 256 0
+N[en]Treasure found(1=yes,0=no) - green key appears if you haven't picked it up
+Z 8 59500 256 0
+N[en]Princess rescued(1=yes,0=no) - purple key appears if you haven't picked it up
+Z 8 59508 256 0
+N[en]Time=9999
+M 8 59464 15 0
+Z 8 59465 39 0
+N[es]Infinite time
+Z 8 49318 0 0
+Y

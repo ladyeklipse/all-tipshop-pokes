@@ -1,0 +1,12 @@
+NInfinite Lives
+Z 8 25680 183 0
+NImmunity
+M 8 25772 0 0
+M 8 25773 0 0
+Z 8 25774 0 0
+NFinish level any time [except when generators active]
+Z 8 26907 0 0
+NStraight to next level [just loops through all levels]
+M 8 25779 0 0
+Z 8 25780 0 0
+Y

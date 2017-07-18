@@ -1,0 +1,39 @@
+N[Part1]Immunity
+Z 8 37904 201 0
+N[Part1]Infinite Lives
+Z 8 37923 58 0
+N[Part1]Infinite Bombs
+Z 8 48949 0 0
+N[Part1]Infinite Fireballs
+Z 8 49442 0 0
+N[Part1]Infinite Arrows
+Z 8 49308 0 0
+N[Part2]Password Always Correct
+Z 8 27009 201 0
+N[Part2]Immunity
+Z 8 37950 201 0
+N[Part2]Infinite Lives
+Z 8 37969 58 0
+N[Part2]Infinite Bombs
+Z 8 48471 0 0
+N[Part2]Infinite Fireballs
+Z 8 49968 0 0
+N[Part2]Infinite Arrows
+Z 8 49834 0 0
+N[Part2]Infinite Smart Bombs
+Z 8 53359 0 0
+N[Part3]Immunity
+Z 8 37860 201 0
+N[Part3]Infinite Lives
+Z 8 37879 58 0
+N[Part3]Infinite Bombs
+Z 8 48647 0 0
+N[Part3]Infinite Fireballs
+Z 8 49144 0 0
+N[Part3]Infinite Arrows
+Z 8 49010 0 0
+N[Part3]Infinite Smart Bombs
+Z 8 52787 0 0
+N[Part2,3]Code Killer
+Z 8 26958 201 0
+Y

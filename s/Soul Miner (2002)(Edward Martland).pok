@@ -1,0 +1,16 @@
+NInfinite Lives
+Z 8 35899 0 0
+NItems
+M 8 37874 0 61
+Z 8 37874 61 0
+NNo death from fall
+Z 8 36477 1 50
+NSuper jumps
+Z 8 36358 0 60
+NWRITETYPER on
+Z 8 34275 10 0
+NScreen after death (0-63)
+Z 8 33824 256 0
+NScreen at beginning (0-63)
+Z 8 34795 256 0
+Y

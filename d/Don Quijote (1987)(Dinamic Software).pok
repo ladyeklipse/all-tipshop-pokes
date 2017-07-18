@@ -1,0 +1,48 @@
+NYou've picked up the bread
+Z 8 41471 255 0
+NWhere's the bread (number of screen; 0=you've eaten it)
+Z 8 41471 256 0
+NYou've picked up the armor
+M 8 41483 255 0
+Z 8 41484 127 0
+NWhere's the armor (number of screen)
+M 8 41483 256 0
+Z 8 41484 0 0
+NYou've put on the armor
+M 8 41483 0 0
+Z 8 41484 0 0
+NYou've picked up the key
+Z 8 41485 255 0
+NWhere's the key (number of screen)
+Z 8 41485 256 0
+NYou've picked up the step
+M 8 41487 255 0
+Z 8 41488 127 0
+NWhere's the step (number of screen)
+M 8 41487 256 0
+Z 8 41488 0 0
+NYou've picked up the sword
+M 8 41489 255 0
+Z 8 41490 127 0
+NWhere's the sword (number of screen)
+M 8 41489 256 0
+Z 8 41490 0 0
+NYou've picked up the hammer
+Z 8 41495 255 0
+NWhere's the hammer (number of screen)
+Z 8 41495 256 0
+NYou've picked up the stone
+Z 8 41499 255 0
+NWhere's the stone (number of screen)
+Z 8 41499 256 0
+NArmor is at starting screen
+M 8 41483 1 0
+Z 8 41484 0 0
+NStone is at the kitchen
+Z 8 41499 4 0
+NSword is at starting screen
+M 8 41489 1 0
+Z 8 41490 0 0
+NBread is at bedroom (inside your house)
+Z 8 41471 2 0
+Y

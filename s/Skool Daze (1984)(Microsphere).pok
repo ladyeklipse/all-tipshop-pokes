@@ -1,0 +1,79 @@
+NInfinite Lines
+M 8 63935 255 0
+Z 8 63937 0 0
+NImmunity
+Z 8 30464 201 0
+NSet Mr Wacker's Letter(65=A,90=Z)
+Z 8 32675 256 0
+NSet Mr Rockitt's Letter(65=A,90=Z)
+Z 8 32676 256 0
+NSet Mr Withit's Letter(65=A,90=Z)
+Z 8 32677 256 0
+NSet Mr Creak's Letter(65=A,90=Z)
+Z 8 32678 256 0
+NSet  lines (in-game)
+M 8 32710 256 0
+Z 8 32711 256 0
+NLines=0
+M 8 32710 0 0
+Z 8 32711 0 0
+NLines=2000
+M 8 32710 200 0
+Z 8 32711 0 0
+NLines=5120
+M 8 32710 0 0
+Z 8 32711 2 0
+NShow current lesson in Demo Mode
+Z 8 63912 0 0
+NAngelface never has mumps
+Z 8 41459 176 0
+NEinstein does not grass on Eric to Mr Wacker during playtime
+Z 8 41460 196 0
+NBoy Wander does not hide a pea-shooter on the fire escape
+Z 8 41461 202 0
+NNo teachers on Dinner Duty
+M 8 41953 198 0
+Z 8 42464 188 0
+NTeachers do not look for Eric if he is absent during a lesson
+M 8 31676 0 0
+Z 8 31677 0 0
+NNo lines for being in the Staff Room or Head's Study
+M 8 30609 7 0
+Z 8 30621 7 0
+NLess  lines given (easier game)
+M 8 30488 0 0
+Z 8 30489 0 0
+NOnly given 100 lines per telling off
+M 8 30480 62 0
+M 8 30481 0 0
+Z 8 30482 0 0
+NTeachers only walk when looking for an AWOL Eric
+M 8 31651 0 0
+M 8 31652 0 0
+Z 8 31653 0 0
+NMore realistic Demo mode
+M 8 43510 176 0
+M 8 43512 176 0
+M 8 43514 176 0
+M 8 43516 176 0
+M 8 43518 176 0
+M 8 56331 6 0
+M 8 56332 14 0
+M 8 56333 17 0
+M 8 56334 21 0
+M 8 56337 81 0
+M 8 63912 0 0
+M 8 62948 0 0
+M 8 62949 0 0
+M 8 62950 0 0
+M 8 62951 0 0
+M 8 62952 0 0
+M 8 62953 0 0
+M 8 63047 0 0
+M 8 63048 0 0
+M 8 64853 1 0
+M 8 64918 1 0
+Z 8 65000 1 0
+NMr Wacker's Letter "B"
+Z 8 32675 66 0
+Y

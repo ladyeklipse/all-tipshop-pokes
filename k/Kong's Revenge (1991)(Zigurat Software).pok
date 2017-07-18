@@ -1,0 +1,36 @@
+N[Pt1]Infinite lives
+Z 8 60167 0 0
+N[Pt1]Lives
+Z 8 58437 256 0
+N[Pt2]Infinite energy
+Z 8 61058 0 0
+N[Pt2]1 hit kills Kong
+Z 8 61198 0 0
+N[Pt2]Safe to shoot box at end
+Z 8 60927 201 0
+N[Pt1]No sticky slime
+Z 8 59009 0 0
+N[Pt1]Immune to stamper
+Z 8 62498 24 0
+N[Pt1]Immune to crane
+Z 8 62598 24 0
+N[Pt1]Immune to fire
+Z 8 62634 24 0
+N[Pt1]Immune to pile driver
+Z 8 62684 24 0
+N[Pt1]Immune to barrels
+Z 8 63023 24 0
+N[Pt2]Immune to barrels
+Z 8 60582 201 0
+N[Pt2]Immune to fire
+Z 8 60702 201 0
+N[Pt2]Immune to hooks
+Z 8 60662 201 0
+N[Pt2]Kong without Maza
+Z 8 60633 201 0
+N[Pt2]Any code at start works
+Z 8 30028 58 0
+N[Pt2]Code Killer
+M 8 30015 33 0
+Z 8 30019 148 0
+Y

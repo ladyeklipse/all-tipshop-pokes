@@ -1,0 +1,29 @@
+N[Pt1]Infinite Lives
+Z 8 35204 0 0
+N[Pt1]Immunity (Except Magma & Plants)
+Z 8 39373 201 0
+N[Pt1]Infinite Batteries
+Z 8 34213 0 0
+N[Pt1]Infinite Charge
+Z 8 34204 182 0
+N[Pt1]Infinite Subgame Lives
+Z 8 43333 0 0
+N[Pt1]Infinite Subgame Time
+Z 8 42947 0 0
+N[Pt2]Infinite Lives (alt)
+Z 8 35181 0 0
+N[Pt2]Immunity
+M 8 34910 201 0
+M 8 35004 201 0
+Z 8 39344 201 0
+N[Pt2]Infinite Batteries (alt)
+Z 8 34279 0 0
+N[Pt2]Infinite Charge (alt)
+Z 8 34270 182 0
+N[Pt2]Infinite Subgame Time (alt)
+Z 8 42830 0 0
+N[Pt1]Lives
+Z 8 58788 256 0
+N[Pt2]Lives
+Z 8 58808 256 0
+Y

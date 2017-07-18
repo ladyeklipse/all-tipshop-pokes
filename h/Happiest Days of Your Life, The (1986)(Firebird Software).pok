@@ -1,0 +1,87 @@
+NInfinite Lives
+Z 8 55886 60 0
+NEnergy at Dining Hall (48=Yes,128=No)
+Z 8 29811 256 0
+NEnergy at Common Room (49=Yes,128=No)
+Z 8 30195 256 0
+NEnergy at Crumbled Tower (51=Yes,128=No)
+Z 8 31219 256 0
+NEnergy at The Copse (52=Yes,128=No)
+Z 8 31347 256 0
+NEnergy at Dolesville (50=Yes,128=No)
+Z 8 32627 256 0
+NLives (118[1]-254[69])
+Z 8 53642 256 0
+N50 lives
+Z 8 53642 216 0
+N69 lives (max)
+Z 8 53642 254 0
+N1st item you carry (53-127)
+Z 8 53647 256 0
+N2nd item you carry (53-127)
+Z 8 53649 256 0
+NWhich item is at "Study no 1" (table)
+Z 8 28849 256 0
+NWhich item is at "Study no 1" (floor)
+Z 8 28851 256 0
+NWhich item is at "Study no 2" (left)
+Z 8 28913 256 0
+NWhich item is at "Study no 2" (right)
+Z 8 28915 256 0
+NWhich item is at "Study no 3"
+Z 8 28977 256 0
+NWhich item is at "Study no 4" (left)
+Z 8 29045 256 0
+NWhich item is at "Study no 4" (right)
+Z 8 29043 256 0
+NWhich item is at "Fifth Form"
+Z 8 29553 256 0
+NWhich item is at "Fifth Study" (floor)
+Z 8 29169 256 0
+NWhich item is at "Fifth Study" (table)
+Z 8 29171 256 0
+NWhich item is at "Sixth Study" (left)
+Z 8 29299 256 0
+NWhich item is at "Sixth Study" (right)
+Z 8 29297 256 0
+NWhich item is at "Fourth form"
+Z 8 30705 256 0
+NWhich item is at "Ruined Chapel"
+Z 8 31153 256 0
+NWhich item is at "Crumbled Tower"
+Z 8 31217 256 0
+N1st Item is Pound Note
+Z 8 53647 60 0
+N2nd item is 17p stamp
+Z 8 53649 93 0
+NPassage Key is at "Ruined Chapel"
+Z 8 31153 58 0
+NYou placed an energy item at "Fifth Study" (table) -)
+Z 8 29171 50 0
+NThe Gun is loaded
+Z 8 53533 1 0
+NThe Torch is charged
+Z 8 53534 1 0
+NThe Kettle is full
+Z 8 53535 1 0
+NThe envelope is stamped
+Z 8 53536 1 0
+NThe computer is loaded
+Z 8 53537 1 0
+NThe tape deck is running
+Z 8 53538 1 0
+NThe Paper is typed
+Z 8 53539 1 0
+NThe camera is loaded
+Z 8 53540 1 0
+NThe Flash is Working
+Z 8 53541 1 0
+NYou placed the Saddlebag at 'Cycle Sheds' (needed to pick up 17p stamp)
+Z 8 53564 1 0
+NYou placed the 100 lines at 'Head Study' (needed to pick up the map)
+Z 8 53569 1 0
+NImmunity to most moving enemies
+Z 8 59330 201 0
+NRemove most moving enemies (a bit boring to be honest)
+Z 8 58455 201 0
+Y

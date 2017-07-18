@@ -1,0 +1,34 @@
+NImmunity
+Z 8 27935 201 0
+NInfinite Ammo
+Z 8 28055 0 0
+NInfinite Time
+Z 8 46016 182 0
+NFreeze Enemies
+Z 8 46497 201 0
+NLaser prism
+Z 8 60633 0 0
+NSolar key
+Z 8 60642 0 0
+NPyramid
+Z 8 60650 0 0
+NPyramid (alt)
+M 8 23129 120 0
+Z 8 55901 0 0
+NSolar key (alt)
+M 8 23130 120 0
+Z 8 55829 0 0
+NLaser prism (alt)
+M 8 23131 120 0
+Z 8 56491 0 0
+NWalk through objects (cannot climb)
+Z 8 64672 201 0
+NNo characters on screen
+Z 8 64794 201 0
+NSet starting map
+Z 8 59655 256 0
+NLaser prism (alt) (alt)
+M 8 23131 120 0
+M 8 56491 0 0
+Z 8 59569 7 0
+Y

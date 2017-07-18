@@ -1,0 +1,17 @@
+NWithout fires on board
+Z 8 43821 0 0
+NWith fires but they don't burn the engines
+Z 8 43837 0 0
+NInfinite extinguishers
+M 8 50654 0 0
+M 8 50655 0 0
+M 8 50656 0 0
+M 8 50676 24 0
+Z 8 50677 2 0
+NDon't lose the rudder
+Z 8 41559 0 0
+NDon't lose the height lights
+Z 8 43901 0 0
+NBarrage balloons don't affect
+Z 8 45585 0 0
+Y

@@ -1,0 +1,73 @@
+NInfinite Missiles
+Z 8 39724 0 0
+NInfinite Flares
+Z 8 39628 0 0
+NInfinite Chaff
+Z 8 39595 0 0
+NInfinite Fuel
+Z 8 46282 182 0
+NImmune To Wind
+Z 8 46903 58 0
+NInfinite Time
+Z 8 36431 0 0
+NInfinite Sleeping Gas
+Z 8 43940 0 0
+NInfinite Gas Grenades
+Z 8 43995 0 0
+NNo Alert Outside The Rooms
+Z 8 44253 201 0
+NNo Alert In The Rooms
+Z 8 39382 195 0
+NImmune To Guards In The Rooms
+Z 8 36007 0 0
+NEnsure levels load OK
+Z 8 65182 0 0
+N[Pt1]Fly to base prior to each mission
+M 8 30506 55 0
+M 8 30507 50 0
+Z 8 30508 56 0
+N[Pt1]Immediate successful landing after takeoff
+Z 8 30550 1 0
+N[Pt1]Reply code always right
+M 8 45088 0 0
+Z 8 46163 0 0
+N[Pt2]Security Card
+Z 8 33880 3 0
+N[Pt2]Alarm Key
+Z 8 33881 2 0
+N[Pt2]Pill
+Z 8 37537 11 0
+N[Pt2]Security doors opened [enter at 'Stop Tape' screen]
+M 8 41391 201 0
+Z 8 41397 201 0
+N[Pt1]Complete mission level without tasks [Just go to helicopter]
+Z 8 37539 1 0
+N[Pt2][L1]Security door A2 opened
+Z 8 25218 84 0
+N[Pt2][L1]Security door B2 opened
+Z 8 25506 93 0
+N[Pt2][L1]Security door C2Left opened
+Z 8 25666 0 0
+N[Pt2][L1]Security door C2Middle opened
+Z 8 25678 0 0
+N[Pt2][L1]Security door C2Right opened
+Z 8 25690 0 0
+N[Pt2][L2]Security door A1 opened (Dr Phineas)
+Z 8 25278 77 0
+N[Pt2][L2]Security door A3 opened (Laboratory)
+Z 8 26286 117 0
+N[Pt2][L3]Security door A1 opened
+Z 8 25224 81 0
+N[Pt2][L3]Security door B1Row6 opened
+Z 8 25314 81 0
+N[Pt2][L3]Security door B1Row4 opened
+Z 8 25398 73 0
+N[Pt2][L3]Security door B1Row3 opened
+Z 8 25434 121 0
+N[Pt2][L3]Security door B1Row2 opened
+Z 8 25470 69 0
+N[Pt2][L3]Security door C1 opened
+Z 8 25560 64 0
+N[Pt2][L3]Security door C2 opened
+Z 8 26178 117 0
+Y

@@ -1,0 +1,29 @@
+N[48K]Lives
+Z 8 30096 256 0
+N[48K]Infinite Lives
+Z 8 30462 0 0
+N[48K]Level
+Z 8 30101 256 0
+N[48K]Infinite Bonus
+Z 8 30989 182 0
+N[48K]Infinite Energy
+Z 8 31458 42 0
+N[48K]Immunity (Except Fall From Height)
+M 8 33712 201 0
+Z 8 36828 201 0
+N[48K]Fall From Any Height
+M 8 32817 6 0
+Z 8 32821 24 0
+N[128K]Infinite Lives
+Z 8 30736 0 0
+N[128K]Infinite Bonus
+Z 8 31263 182 0
+N[128K]Infinite Energy
+Z 8 31791 42 0
+N[128K]Immunity (Except Fall From Height)
+M 8 34154 201 0
+Z 8 37382 201 0
+N[128K]Fall From Any Height
+M 8 33219 152 0
+Z 8 33223 24 0
+Y

@@ -1,0 +1,26 @@
+NInfinite Oxygen
+Z 8 53673 0 0
+NInfinite Weapon
+Z 8 56502 0 0
+NInfinite Clones
+Z 8 54802 182 0
+NImmunity In Space
+Z 8 58760 183 0
+NInfinite Ships In Space
+Z 8 54819 0 0
+NInfinite Ships On Strategic Display
+Z 8 50115 183 0
+NJust go through Stargate [diamond] or shoot the Seiddab satellite once & dock
+M 8 58165 55 0
+Z 8 58166 227 0
+NGo to any Sector
+Z 8 49296 0 0
+NSet 1st 7 sectors as locations [Ultron always bottom right]
+M 8 47287 62 0
+M 8 47288 1 0
+Z 8 47296 0 0
+NGo through locked doors & beams
+Z 8 56931 24 0
+NChests are open in rooms or items activated/shown
+Z 8 51907 202 0
+Y

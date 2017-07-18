@@ -1,0 +1,32 @@
+NNo Flak
+Z 8 27048 201 0
+NInfinite fuel
+M 8 28662 0 0
+M 8 28663 0 0
+Z 8 28664 0 0
+NInfinite rockets
+M 8 28621 0 0
+M 8 28622 0 0
+Z 8 28623 0 0
+NInfinite bombs
+M 8 28212 0 0
+M 8 28213 0 0
+Z 8 28214 0 0
+NAll three with only one poke
+Z 8 27644 0 0
+NImmune to collisions (use with infinite fuel)
+M 8 28104 0 0
+Z 8 28787 0 0
+NImmune to rockets
+M 8 27294 0 0
+Z 8 28815 0 0
+NOr infinite harriers (but you will die in large collisions)
+M 8 29440 0 0
+Z 8 28815 0 0
+NInfinite fuel (alt)
+Z 8 28662 1 0
+NInfinite rockets (alt)
+Z 8 28621 33 0
+NInfinite bombs (alt)
+Z 8 28212 58 0
+Y

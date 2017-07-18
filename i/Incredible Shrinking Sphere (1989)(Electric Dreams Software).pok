@@ -1,0 +1,26 @@
+NInfinite lives
+Z 8 31224 182 0
+NInfinite ammo
+Z 8 29682 182 0
+NImmunity
+Z 8 27555 201 0
+NNo aliens
+Z 8 27464 0 0
+NNo floor crack [required even with Immunity]
+Z 8 34279 201 0
+NNo shield decrease [not relevant with Immunity]
+M 8 29481 0 0
+M 8 29482 0 0
+Z 8 29483 0 0
+NLevel no (during ammo placement screen)
+Z 8 27900 0 0
+NStart Level (0-30)
+M 8 30875 62 0
+M 8 30876 256 0
+M 8 30877 0 0
+Z 8 30878 0 0
+NScroll through Ammo levels
+M 8 42645 0 0
+M 8 42646 0 0
+Z 8 42647 0 0
+Y

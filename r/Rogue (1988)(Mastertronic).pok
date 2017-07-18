@@ -1,0 +1,23 @@
+NHits (1-99)
+Z 8 25434 256 0
+NMaximum Hits (1-99)
+Z 8 25435 256 0
+NStrength (1-99)
+Z 8 25436 256 0
+NMaximum Strength (1-99)
+Z 8 25437 256 0
+NInfinite Hits
+M 8 43280 182 0
+Z 8 54096 0 0
+NInfinite Strength
+M 8 49713 183 0
+Z 8 52343 0 0
+NInfinite Objects
+Z 8 51555 182 0
+NInfinite Gold
+Z 8 49740 0 0
+NInfinite Armour
+Z 8 49540 183 0
+NNever Die
+Z 8 51227 201 0
+Y

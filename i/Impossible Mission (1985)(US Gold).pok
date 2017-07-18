@@ -1,0 +1,31 @@
+NInfinite bonus
+Z 8 45256 0 0
+NInfinite time
+Z 8 45271 0 0
+NAgency message bug-fix
+Z 8 44441 167 0
+NInits
+Z 8 48934 256 0
+NInfinite inits
+Z 8 30198 0 0
+NSnoozes
+Z 8 48935 256 0
+NInfinite snoozes
+Z 8 30217 0 0
+NSearch instantly
+Z 8 41452 175 0
+NUse Freeze Robots menu anytime
+Z 8 30216 0 0
+NRobots stay frozen forever (when Freeze Robots is used)
+Z 8 36862 0 0
+NUse Reset Lifts menu anytime
+Z 8 30197 0 0
+NImmunity
+Z 8 44988 0 0
+NNo time penalties for dialling the agency's main computer
+M 8 45355 0 0
+M 8 45356 0 0
+Z 8 45357 0 0
+NNo waiting for dialling the agency's main computer
+Z 8 44094 201 0
+Y

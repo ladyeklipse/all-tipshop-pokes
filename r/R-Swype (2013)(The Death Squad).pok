@@ -1,0 +1,16 @@
+NTime Left (max 32767) for current life and level
+M 8 50348 256 0
+Z 8 50349 256 0
+NMax Time (32767 seconds)
+M 8 50348 255 0
+Z 8 50349 127 0
+NMax displayed time (9999 seconds)
+M 8 50348 15 0
+Z 8 50349 39 0
+N[+3]Fix
+Z 8 63946 59 0
+NLives
+Z 8 49565 0 0
+NTime
+Z 8 53581 0 0
+Y

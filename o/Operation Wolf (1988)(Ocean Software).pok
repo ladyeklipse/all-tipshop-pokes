@@ -1,0 +1,30 @@
+N[128K]Infinite Magazines
+Z 8 40727 183 0
+N[128K]Infinite Damage
+M 8 41150 0 0
+Z 8 41762 0 0
+N[128K]Infinite Continues
+Z 8 40838 0 0
+N[48K]Infinite grenades
+Z 8 40710 0 0
+N[48K]Infinite ammo
+Z 8 40681 0 0
+N[48K]Infinite continues
+Z 8 40784 0 0
+N[48K]Damage
+Z 8 40733 256 0
+N[48K]Infinite Damage
+Z 8 41708 0 0
+N[L5,6]Hostages rescued (0-5)
+Z 8 39610 256 0
+NSoldiers (0-153)
+Z 8 39613 256 0
+NHelicopters/ships (0-153)
+Z 8 39614 256 0
+NTanks (0-153)
+Z 8 39615 256 0
+N0soldiers
+Z 8 39613 0 0
+N9helicopters [or ships when you're in level 2]
+Z 8 39614 9 0
+Y

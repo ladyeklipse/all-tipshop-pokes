@@ -1,0 +1,35 @@
+N[128K]Immunity
+Z 8 41769 2 0
+N[128K]Infinite Grenades
+Z 8 33873 0 0
+N[128K]Infinite Special Ammo
+Z 8 34059 0 0
+N[128K]Infinite Tank Energy
+M 8 37915 0 0
+Z 8 42059 201 0
+N[128K]Infinite Tank Ammo
+M 8 34047 0 0
+Z 8 34184 0 0
+N[48K]Infinite Lives
+Z 8 40848 0 0
+N[48K]Don't Lose Tank
+Z 8 40574 0 0
+N[48K]Immunity
+Z 8 41740 2 0
+N[48K]Infinite Grenades
+Z 8 33852 0 0
+N[48K]Infinite Special Ammo
+Z 8 34033 0 0
+N[48K]Infinite Tank Energy
+M 8 37911 0 0
+Z 8 42030 201 0
+N[48K]Infinite Tank Ammo
+M 8 34021 0 0
+Z 8 34153 0 0
+N[128K]Infinite Lives
+Z 8 40872 0 0
+N[128K]Don't Lose Tank
+Z 8 40593 0 0
+NLives
+Z 8 48010 0 0
+Y

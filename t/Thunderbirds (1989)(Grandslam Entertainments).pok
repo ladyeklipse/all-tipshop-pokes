@@ -1,0 +1,31 @@
+NThe Mine Rescue time
+Z 8 41280 256 0
+NThe Sub Crash time
+Z 8 37762 256 0
+NThe Bank Job time
+Z 8 35744 256 0
+NThe Evil Hood time
+Z 8 36530 256 0
+NRemove passwords
+M 8 57442 0 0
+M 8 57443 0 0
+Z 8 57444 0 0
+N[Pt2-4]Password Always Correct
+Z 8 57725 0 0
+N[Pt1]Infinite Energy
+Z 8 53131 0 0
+N[Pt1]Infinite Time
+Z 8 42296 0 0
+N[Pt2]Infinite Energy
+Z 8 51578 0 0
+N[Pt2]Infinite Time
+Z 8 38778 0 0
+N[Pt3]Infinite Energy
+Z 8 49285 0 0
+N[Pt3]Infinite Time
+Z 8 36760 0 0
+N[Pt4]Infinite Energy
+Z 8 50862 0 0
+N[Pt4]Infinite Time
+Z 8 37546 0 0
+Y

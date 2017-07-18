@@ -1,0 +1,84 @@
+NWhere's lantern (turned on)
+M 8 34496 256 0
+Z 8 34507 252 0
+NWhere's lantern (turned off)
+M 8 34496 252 0
+Z 8 34507 256 0
+NWhere's suitcase
+Z 8 34497 256 0
+NWhere's invitation
+Z 8 34498 256 0
+NWhere's cane (without knife)
+M 8 34499 256 0
+Z 8 34500 0 0
+NWhere's cane (with knife)
+M 8 34499 0 0
+Z 8 34500 256 0
+NWhere's spyglass
+Z 8 34501 256 0
+NWhere's the crucifix
+Z 8 34502 256 0
+NWhere's the coin
+Z 8 34503 256 0
+NWhere's Tenebrarum (the book)
+Z 8 34504 256 0
+NWhere's the picture
+Z 8 34505 256 0
+NWhere's the chalice
+Z 8 34506 256 0
+NWhere's the key
+Z 8 34508 256 0
+NWhere's the rope
+Z 8 34509 256 0
+NWhere's the money
+Z 8 34511 256 0
+NWhere's the gold chain
+Z 8 34514 256 0
+NWhere's the hat
+Z 8 34515 256 0
+NWhere's the cloak
+Z 8 34516 256 0
+NWhere's the monocle
+Z 8 34517 256 0
+NWhere's the mask
+Z 8 34518 256 0
+NYou've cane (with knife)
+M 8 34499 0 0
+Z 8 34500 254 0
+NYou've put on the mask
+Z 8 34518 253 0
+NThe mask is inside gothic church
+Z 8 34518 20 0
+NYou've lantern inside suitcase (turned off)
+M 8 34496 252 0
+Z 8 34507 1 0
+NThe invitation is outside of Gallerie dell' Accademia
+Z 8 34498 29 0
+NWhere's the chalice (empty)
+M 8 34312 0 0
+M 8 34314 0 0
+Z 8 34506 256 0
+NWhere's the chalice (full)
+M 8 34312 255 0
+M 8 34314 255 0
+Z 8 34506 256 0
+NWhere's the rope (alt)
+M 8 34320 0 0
+Z 8 34509 256 0
+NYou've tied the rope
+M 8 34320 255 0
+Z 8 34509 252 0
+NYou've the chalice (full)
+M 8 34312 255 0
+M 8 34314 255 0
+Z 8 34506 254 0
+NYou've the rope
+M 8 34320 0 0
+Z 8 34509 254 0
+NThe hat is inside catacombs
+Z 8 34515 21 0
+NDoor inside gothic church is open
+Z 8 34307 255 0
+NPalazzo Balbi's door to street is open
+Z 8 34337 255 0
+Y

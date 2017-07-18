@@ -1,0 +1,179 @@
+NGeneral:Plate shield bard
+Z 8 46318 15 0
+NGeneral:Dis drilled wild
+Z 8 46321 31 0
+NG.Chariots:Morale
+Z 8 46374 10 0
+NG.Chariots:Fighting ability
+Z 8 46375 256 0
+NG.Chariots:Dis drilled wild
+Z 8 46376 31 0
+NG.Chariots:Weapon skill
+Z 8 46378 256 0
+NG.Chariots:% armed
+Z 8 46379 256 0
+NG.Cavalry:Plate shield bard
+Z 8 46428 15 0
+NG.Cavalry:HCL
+Z 8 46427 5 0
+NG.Cavalry:Morale
+Z 8 46429 10 0
+NG.Cavalry:Fighting ability
+Z 8 46430 256 0
+NG.Cavalry:Dis drilled wild
+Z 8 46431 31 0
+NG.Cavalry:Weapon Skill
+Z 8 46433 256 0
+NG.Cavalry:% armed
+Z 8 46434 256 0
+NG.Infantry:Plate shield
+Z 8 46461 7 0
+NG.Infantry:Morale
+Z 8 46462 10 0
+NG.Infantry:Fighting ability
+Z 8 46463 256 0
+NG.Infantry:Dis drilled wild
+Z 8 46464 31 0
+NG.Infantry:Skill with weapon
+Z 8 46466 256 0
+NG.Infantry:% armed
+Z 8 46467 256 0
+NChariots:Morale
+Z 8 46548 10 0
+NChariots:Fighting ability
+Z 8 46449 256 0
+NChariots:Dis drilled wild
+Z 8 46550 31 0
+NChariots:Weapon skill
+Z 8 46552 256 0
+NChariots:% armed
+Z 8 46553 256 0
+NCavalry:HCL
+Z 8 46659 5 0
+NCavalry:Plate shield bard
+Z 8 46660 1 0
+NCavalry:Morale
+Z 8 46661 10 0
+NCavalry:Fighting ability
+Z 8 46662 10 0
+NCavalry:Dis drilled wild
+Z 8 46663 31 0
+NCavalry:Weapon skill
+Z 8 46665 256 0
+NCavalry:% armed
+Z 8 46666 256 0
+NR.Infantry:Plate shield
+Z 8 46723 7 0
+NR.Infantry:Morale
+Z 8 46724 10 0
+NR.Infantry:Fighting ability
+Z 8 46725 10 0
+NR.Infantry:Dis drilled wild
+Z 8 46726 31 0
+NR.Infantry:Weapon skill
+Z 8 46728 256 0
+NR.Infantry:% armed
+Z 8 46729 256 0
+NR.Archers:Plate shield
+Z 8 46792 7 0
+NR.Archers:Morale
+Z 8 46793 10 0
+NR.Archers:Fighting ability
+Z 8 46794 256 0
+NR.Archers:Dis drilled wild
+Z 8 46795 31 0
+NR.Archers:Weapon skill
+Z 8 46797 256 0
+NR.Archers:% armed
+Z 8 46798 256 0
+NR.Slingers:Plate shield
+Z 8 46824 7 0
+NR.Slingers:Morale
+Z 8 46825 10 0
+NR.Slingers:Ability
+Z 8 46826 256 0
+NR.Slingers:Dis drilled wild
+Z 8 46827 31 0
+NR.Slingers:Skill
+Z 8 46829 256 0
+NR.Slingers:% armed
+Z 8 46830 256 0
+NSpearmen:Plate shield
+Z 8 46909 7 0
+NSpearmen:Morale
+Z 8 46910 10 0
+NSpearmen:Ability
+Z 8 46911 256 0
+NSpearmen:Dis drilled wild
+Z 8 46912 31 0
+NSpearmen:Skill
+Z 8 46914 256 0
+NSpearmen:% armed
+Z 8 46915 256 0
+NArchers:Plate shield
+Z 8 46975 7 0
+NArchers:Morale
+Z 8 46976 10 0
+NArchers:Ability
+Z 8 46977 256 0
+NArchers:Dis drilled wild
+Z 8 46978 13 0
+NArchers:Skill
+Z 8 46980 256 0
+NArchers:% armed
+Z 8 46981 256 0
+NDikut Mati:Plate Shield
+Z 8 47023 7 0
+NDikut Mati:Morale
+Z 8 47024 10 0
+NDikut Mati:Ability
+Z 8 47025 256 0
+NDikut Mati:Dis drilled wild
+Z 8 47026 31 0
+NDikut Mati:Skill
+Z 8 47028 256 0
+NDikut Mati:% armed
+Z 8 47029 256 0
+NS.Spearmen:Plate shield
+Z 8 47055 7 0
+NS.Spearmen:Morale
+Z 8 47056 10 0
+NS.Spearmen:Ability
+Z 8 47057 256 0
+NS.Spearmen:Dis drilled wild
+Z 8 47058 31 0
+NS.Spearmen:Weapon(1-4)
+Z 8 47059 256 0
+NS.Spearmen:Skill
+Z 8 47060 256 0
+NS.Spearmen:% armed
+Z 8 47061 256 0
+NA.Archers:Plate Shield
+Z 8 47095 7 0
+NA.Archers:Morale
+Z 8 47096 10 0
+NA.Archers:Ability
+Z 8 47097 256 0
+NA.Archers:Disabled wild
+Z 8 47098 31 0
+NA.Archers:Skill
+Z 8 47100 256 0
+NA.Archers:% armed
+Z 8 47101 256 0
+NCythians:Plate shield bard
+Z 8 47134 15 0
+NCythians:Morale
+Z 8 47135 10 0
+NCythians:Ability
+Z 8 47136 256 0
+NCythians:Dis drilled wild
+Z 8 47137 31 0
+NCythians:Skill
+Z 8 47139 256 0
+NCythians:% armed
+Z 8 47140 256 0
+NChange regular Hi to Sp
+Z 8 46722 6 0
+NIncrease regular Hi strength
+Z 8 46730 200 0
+Y
