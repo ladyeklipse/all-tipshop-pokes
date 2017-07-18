@@ -1,0 +1,56 @@
+NYou've 2100 coins
+M 8 57793 255 0
+M 8 57794 255 0
+Z 8 57795 255 0
+NYou've 1800 coins
+M 8 57788 255 0
+M 8 57789 255 0
+Z 8 57790 255 0
+NYou've 3700 coins
+M 8 57778 255 0
+M 8 57779 255 0
+Z 8 57780 255 0
+NYou've 2400 coins
+M 8 57783 255 0
+M 8 57784 255 0
+Z 8 57785 255 0
+NYou've beggar clothes
+M 8 57798 255 0
+M 8 57799 255 0
+M 8 57800 255 0
+Z 8 58033 0 0
+NYou wear beggar clothes
+M 8 57798 0 0
+M 8 57799 0 0
+M 8 57800 0 0
+Z 8 58033 1 0
+N2100 coins appear where you want
+M 8 57793 0 0
+M 8 57794 256 0
+Z 8 57795 0 0
+N1800 coins appear where you want
+M 8 57788 0 0
+M 8 57789 256 0
+Z 8 57790 0 0
+N3700 coins appear where you want
+M 8 57778 0 0
+M 8 57779 256 0
+Z 8 57780 0 0
+N2400 coins appear where you want
+M 8 57783 0 0
+M 8 57784 256 0
+Z 8 57785 0 0
+NBeggar clothes appear where you want
+M 8 57798 0 0
+M 8 57799 256 0
+M 8 57800 0 0
+Z 8 58033 0 0
+N3700 coins are at King Trifels' room
+M 8 57778 0 0
+M 8 57779 29 0
+Z 8 57780 0 0
+NTeleport to another screen (Use LOOK command)
+Z 8 57945 256 0
+NTeleport to King Trifels' room
+Z 8 57945 29 0
+Y

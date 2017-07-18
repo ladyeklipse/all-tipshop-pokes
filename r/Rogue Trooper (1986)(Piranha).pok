@@ -1,0 +1,12 @@
+NInfinite Lives
+Z 8 30924 0 0
+NInfinite Ammo
+Z 8 35091 0 0
+NInfinite Strength
+Z 8 30882 42 0
+NGet 9999 bullets (display updates when you shoot)
+M 8 25815 15 0
+Z 8 25816 39 0
+NTapes collected (0-8)
+Z 8 25817 256 0
+Y

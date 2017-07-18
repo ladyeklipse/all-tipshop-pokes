@@ -1,0 +1,69 @@
+N[en][Pt1]Infinite Lives
+M 8 39096 0 0
+Z 8 39345 0 0
+N[en][Pt1]Infinite Energy
+M 8 39361 0 0
+Z 8 39377 0 0
+N[en][Pt1]Lives
+Z 8 48790 256 0
+N[en][Pt1]Grenades
+Z 8 48794 256 0
+N[en][Pt1]Infinite Grenades
+Z 8 32417 0 0
+N[en][Pt2]Infinite Power
+Z 8 38665 0 0
+N[en][Pt2]Infinite Laser
+Z 8 32379 0 0
+N[en][Pt2]Infinite Lives
+Z 8 38705 201 0
+N[en][Pt1,2]Mines don't kill you
+Z 8 33530 33 0
+N[en][Pt2]Bypass access code
+Z 8 37878 33 0
+N[es][Pt1]Infinite Lives
+M 8 39085 0 0
+Z 8 39334 0 0
+N[es][Pt1]Infinite Energy
+M 8 39351 0 0
+Z 8 39367 0 0
+N[es][Pt1]Lives
+Z 8 31870 256 0
+N[es][Pt1]Grenades
+Z 8 31880 256 0
+N[es][Pt2]Infinite Power
+Z 8 38652 0 0
+N[es][Pt2]Infinite Lives
+Z 8 38692 201 0
+N[es][Pt2]Bypass access code
+Z 8 37868 33 0
+N[en][128K][Pt1]Energy
+Z 8 39292 0 0
+N[en][128K][Pt1]Grenades
+Z 8 32356 0 0
+N[en][128K][Pt2]Energy
+Z 8 38839 0 0
+N[en][128K][Pt2]Life
+Z 8 38879 0 0
+N[en][128K][Pt2]Weapon
+Z 8 32348 0 0
+N[es][128K][Pt1]No small enemies
+Z 8 36789 201 0
+N[es][128K][Pt1]Starting screen (0-19)
+Z 8 31865 256 0
+N[es][128K][Pt1]Infinite lives+appear where died
+Z 8 39324 201 0
+N[es][128K][Pt1]Walk through walls
+Z 8 33333 201 0
+N[es][128K][Pt1]Get rid of green yeti (biggest monster in game)
+Z 8 31875 255 0
+N[es][128K][Pt1]Appear at screen with green yeti
+Z 8 31865 10 0
+N[es][128K][Pt1]See password for 2nd part
+Z 8 31865 19 0
+N[es][128K][Pt2]Infinite Lives
+Z 8 38692 0 0
+N[es][128K][Pt2]Mines don't kill you
+Z 8 33447 0 0
+N[es][128K][Pt2]Infinite Power
+Z 8 32529 185 0
+Y

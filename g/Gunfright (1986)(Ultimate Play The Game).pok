@@ -1,0 +1,73 @@
+NInfinite Lives
+Z 8 49233 0 0
+NInfinite Ammo
+Z 8 51711 0 0
+NInfinite Ammo (Quick reload)
+Z 8 51711 201 0
+NInfinite Money
+Z 8 54122 201 0
+NQuickdraw Bandit Can't Move
+Z 8 47604 24 0
+NQuickdraw Bandit Can't Shoot
+Z 8 47609 58 0
+NTonwfolk don't move
+M 8 46891 24 0
+Z 8 46892 4 0
+NWalk Speed (1-18)
+M 8 49260 256 0
+Z 8 51485 256 0
+NHorse Speed (1-18)
+Z 8 43481 256 0
+NBad Guy (0-19)
+Z 8 41570 256 0
+NQuick reload
+Z 8 51617 0 0
+N10 FOR a1 TO 7 LOAD "" CODE NEXT a RANDOMIZE USR 23424
+M 8 47919 0 0
+Z 8 47920 0 0
+NTelegram prices don't change
+Z 8 42968 201 0
+NNo horses
+Z 8 43391 201 0
+NNo jumping boys
+Z 8 45846 201 0
+NNo townfolks
+Z 8 46735 201 0
+NSets money to $999999 - use all pokes while playing
+M 8 41561 153 0
+M 8 41562 153 0
+Z 8 41563 153 0
+NSet starting level
+Z 8 42642 256 0
+NSets price of fine [0-153]
+M 8 41564 256 0
+Z 8 41565 256 0
+NSets price of horse [0-153]
+M 8 41566 256 0
+Z 8 41567 256 0
+NSets price of bullets [0-153]
+M 8 41568 256 0
+Z 8 41569 256 0
+NFine $999
+M 8 41564 153 0
+Z 8 41565 9 0
+NFine 0 (You can kill everybody you won't lose money for that)
+M 8 41564 0 0
+Z 8 41565 0 0
+NHorse $250
+M 8 41566 80 0
+Z 8 41567 2 0
+NFree horses
+M 8 41566 0 0
+Z 8 41567 0 0
+N$1 per bullet
+M 8 41568 1 0
+Z 8 41569 0 0
+NFree bullets
+M 8 41568 0 0
+Z 8 41569 0 0
+NTo avoid this side effect one may enter following S
+M 8 49234 54 0
+M 8 49235 2 0
+Z 8 49236 0 0
+Y

@@ -1,0 +1,15 @@
+N[P1,2]Infinite ammo
+Z 8 42511 0 0
+N[P1]Infinite grenades
+Z 8 42328 0 0
+N[P1]Infinite energy
+Z 8 42918 183 0
+N[P2]Infinite grenades
+Z 8 42396 0 0
+N[P2]Infinite energy
+Z 8 42853 183 0
+NInfinite Credits
+Z 8 41214 0 0
+NStart level (0-6)
+Z 8 37910 256 0
+Y

@@ -1,0 +1,19 @@
+NInfinite Tanks
+Z 8 47420 0 0
+NInfinite Lives
+Z 8 42456 0 0
+NInfinite Tank Ammo
+M 8 50145 0 0
+Z 8 50163 183 0
+NImmunity In Tank
+Z 8 47340 201 0
+NImmune To Moving Objects
+M 8 35115 58 0
+Z 8 35496 58 0
+NImmune To Falling From Height
+Z 8 39904 58 0
+NImmune To Thorns
+M 8 41616 58 0
+M 8 41622 58 0
+Z 8 41628 58 0
+Y

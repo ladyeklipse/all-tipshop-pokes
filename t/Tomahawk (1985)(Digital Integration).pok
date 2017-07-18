@@ -1,0 +1,33 @@
+NLives
+Z 8 35508 256 0
+NLives (alt)
+Z 8 24601 0 0
+NRockets
+Z 8 37140 167 0
+NHellfires
+Z 8 37206 167 0
+NBullets
+Z 8 37087 24 0
+NFall any height
+Z 8 32646 195 0
+NRemove protection(Tape)
+M 8 58050 1 0
+M 8 58051 66 0
+M 8 58052 99 0
+M 8 58053 197 0
+M 8 58054 241 0
+M 8 58055 193 0
+Z 8 58056 201 0
+N[+3]Remove protection
+Z 8 59675 24 0
+N[+3]Lives
+Z 8 24594 0 0
+N[+3]Rockets
+Z 8 36993 167 0
+N[+3]Hellfires
+Z 8 37059 167 0
+N[+3]Bullets
+Z 8 36940 24 0
+N[+3]Fall any height
+Z 8 32527 195 0
+Y

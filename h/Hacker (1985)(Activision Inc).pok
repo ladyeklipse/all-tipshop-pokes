@@ -1,0 +1,17 @@
+NThere are satellites but they don't detect you
+M 8 26638 0 0
+Z 8 26655 0 0
+NWithout sattelites
+Z 8 39870 0 0
+NDon't damage telemetry guidance unit
+Z 8 39874 0 0
+NDon't exceed computer time limit
+M 8 39882 61 0
+M 8 39883 50 0
+M 8 39884 45 0
+Z 8 39886 201 0
+NNo restricted areas
+Z 8 40493 0 0
+NYou don't need to collect all the information to see the end
+Z 8 46449 24 0
+Y

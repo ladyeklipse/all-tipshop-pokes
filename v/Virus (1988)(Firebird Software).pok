@@ -1,0 +1,35 @@
+NLives
+Z 8 48128 256 0
+NInfinite Ammo
+Z 8 56447 99 0
+NInfinite Lives
+Z 8 44945 0 0
+NInfinite Lives (alt)
+Z 8 44912 0 0
+NInfinite Lives (alt) (alt)
+Z 8 44942 0 0
+NInfinite Bombs
+Z 8 37835 0 0
+NInfinite Fuel
+M 8 37601 0 0
+M 8 37602 0 0
+M 8 46152 0 0
+M 8 46153 0 0
+M 8 46287 0 0
+Z 8 46288 0 0
+NImmune to landscape
+M 8 47255 2 0
+Z 8 47257 0 0
+NImmune to bullets
+Z 8 37604 0 0
+NImmune to trees
+Z 8 37684 24 0
+NImmunity
+Z 8 37766 24 0
+NNo pollution of land
+M 8 38795 0 0
+Z 8 38796 113 0
+N1Kill for next level
+M 8 57610 195 0
+Z 8 57611 202 0
+Y

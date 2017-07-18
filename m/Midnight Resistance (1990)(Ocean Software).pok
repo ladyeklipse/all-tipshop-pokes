@@ -1,0 +1,23 @@
+N[128K]Infinite Lives
+Z 8 36633 0 0
+N[128K]Infinite Weapons
+Z 8 40131 0 0
+N[128K]Infinite Backpacks
+Z 8 40152 0 0
+N[128K]Infinite Keys
+M 8 47577 0 0
+M 8 47578 0 0
+Z 8 47579 0 0
+N[48K]Infinite Lives
+Z 8 36480 0 0
+N[48K]Lives
+Z 8 31760 256 0
+N[48K]Infinite Weapons
+Z 8 39975 0 0
+N[48K]Infinite Backpacks
+Z 8 39996 0 0
+NInvincible after dying once
+Z 8 40364 0 0
+NResets bullets to maximum amount
+Z 8 40126 231 0
+Y

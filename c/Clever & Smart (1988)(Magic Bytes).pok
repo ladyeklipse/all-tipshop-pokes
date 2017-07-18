@@ -1,0 +1,46 @@
+N[Pt1]Infinite lives
+Z 8 28729 0 0
+N[Pt2]Infinite lives
+Z 8 30746 0 0
+N[Pt2]Infinite energy
+Z 8 30716 0 0
+N[Pt2]Immunity to cars
+M 8 28727 58 0
+Z 8 28735 24 0
+N[Pt2]Immunity to walls
+Z 8 28704 24 0
+N[Pt2]1digit level code
+Z 8 57635 16 0
+NInfinite Energy
+Z 8 60239 0 0
+NInfinite Lives
+Z 8 50437 1 0
+NNever lose items
+Z 8 53801 201 0
+NDon't die of hunger
+Z 8 60298 201 0
+NCable's length is 99m (you've to buy it first)
+M 8 51954 57 0
+Z 8 51955 57 0
+NSets Money [0-153]
+M 8 23687 256 0
+Z 8 23688 256 0
+NSets Hunger [0-153 for 1st poke; 0-9 for 2nd poke]
+M 8 23661 256 0
+Z 8 23662 256 0
+NMoney $9999 (max)
+M 8 23687 153 0
+Z 8 23688 153 0
+NMoney $1700
+M 8 23687 0 0
+Z 8 23688 11 0
+NMoney $780
+M 8 23687 50 0
+Z 8 23688 7 0
+NHunger 0
+M 8 23661 0 0
+Z 8 23662 0 0
+NHunger 830
+M 8 23661 48 0
+Z 8 23662 8 0
+Y

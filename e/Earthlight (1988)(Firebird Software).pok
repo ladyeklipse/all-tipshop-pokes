@@ -1,0 +1,21 @@
+N[48K]Infinite Lives
+Z 8 50027 182 0
+N[48K]Infinite Ammo
+Z 8 51618 0 0
+N[48K]Infinite Fuel
+Z 8 51284 0 0
+N[128K]Infinite Lives
+M 8 50119 0 0
+Z 8 50120 62 0
+N[128K]Infinite Ammo
+Z 8 51708 62 0
+N[128K]Infinite Shields
+M 8 50607 83 0
+Z 8 50610 62 0
+N[128K]Infinite Fuel
+M 8 50668 83 0
+M 8 50671 62 0
+Z 8 50853 83 0
+N[128K]Land To finish
+Z 8 49944 195 0
+Y

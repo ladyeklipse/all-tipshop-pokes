@@ -1,0 +1,35 @@
+N[L3]Bug Fix
+M 8 28032 255 0
+M 8 28087 8 0
+M 8 29243 8 0
+Z 8 30543 8 0
+NFires don't spread
+Z 8 63648 201 0
+NInfinite time
+Z 8 33332 0 0
+NCollision off/on
+Z 8 35487 0 1
+NInfinite damage
+Z 8 35541 254 0
+NAlways arrive on time
+Z 8 27302 2 0
+NFix congratulations message
+Z 8 32395 154 0
+NInfinite time (alt)
+Z 8 28160 0 0
+NInfinite dynamite
+Z 8 28631 0 0
+NAny code deactivate
+Z 8 29197 0 0
+N[Pt2]Code Killer
+M 8 27272 118 0
+Z 8 27325 201 0
+N[Pt3]Code Killer
+M 8 29869 81 0
+Z 8 29928 201 0
+NCode Killer (Ending Part)
+M 8 43661 75 0
+Z 8 43714 201 0
+NInfinite time (alt) (alt)
+Z 8 62894 201 0
+Y

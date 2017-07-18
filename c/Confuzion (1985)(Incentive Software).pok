@@ -1,0 +1,12 @@
+NInfinite Fuse
+Z 8 54394 182 0
+NInfinite Sparks
+Z 8 55286 182 0
+NNever Die (No Explosion)
+M 8 55156 201 0
+Z 8 55163 201 0
+NLevel (0-9, 2 values)
+M 8 54607 17 0
+M 8 54608 256 0
+Z 8 54609 256 0
+Y

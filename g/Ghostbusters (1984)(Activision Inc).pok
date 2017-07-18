@@ -1,0 +1,36 @@
+NNever lose a buster once slimed
+M 8 24578 251 0
+Z 8 24579 207 0
+NInfinite Lives
+M 8 40191 0 0
+M 8 40192 167 0
+M 8 40625 0 0
+M 8 40845 0 0
+Z 8 42173 0 0
+N$999999 (use before buying car)
+M 8 55651 153 0
+M 8 55652 153 0
+Z 8 55653 153 0
+NInfinite lives (alt)
+M 8 40642 0 0
+Z 8 42190 0 0
+NInfinite traps
+Z 8 40862 0 0
+NInfinite backpack power
+M 8 40209 0 0
+Z 8 40210 167 0
+NMen left
+Z 8 55664 256 0
+NEmpty traps
+Z 8 55665 256 0
+NBackpack power (in BCD/Hex; ie 99% 99 he 153 dec)
+Z 8 55666 256 0
+NPK energy least significant digits in BCD/Hex
+Z 8 55573 256 0
+NPK energy most significant digits in BCD/Hex
+Z 8 55574 256 0
+NMoney middle digits in BCD/Hex (least significant digits are always 0)
+Z 8 55652 256 0
+NMoney most significant digits in BCD/Hex
+Z 8 55653 256 0
+Y

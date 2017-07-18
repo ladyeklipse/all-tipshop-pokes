@@ -1,0 +1,31 @@
+NInfinite Energy
+Z 8 61893 0 0
+NNo Weight Limit
+Z 8 62797 24 0
+NNo Locked Doors
+Z 8 63478 24 0
+NShow Room Drawing
+M 8 58813 62 0
+Z 8 58814 6 0
+NBlindfold Nasties
+Z 8 32054 0 0
+NStarting room
+Z 8 65460 256 0
+NInfinite energy
+Z 8 61893 58 0
+N[+2A/+3]Fix
+M 8 30222 80 0
+M 8 30190 80 0
+M 8 30176 81 0
+M 8 30215 83 0
+M 8 46858 83 0
+Z 8 30167 84 0
+NInfinite Energy (alt)
+Z 8 61846 0 0
+NNo Weight Limit (alt)
+Z 8 62750 24 0
+NNo Locked Doors (alt)
+Z 8 63431 24 0
+NBlindfold Nasties (alt)
+Z 8 62152 201 0
+Y

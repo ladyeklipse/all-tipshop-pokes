@@ -1,0 +1,30 @@
+NInfinite Lives
+M 8 36966 224 0
+Z 8 36945 3 0
+NInfinite Lives (alt)
+Z 8 36965 0 0
+NInfinite Lives (corrected)
+M 8 36964 224 0
+Z 8 36965 3 0
+NInfinite Lives (alt) (alt)
+M 8 36965 0 0
+Z 8 23439 201 0
+NInfinite Fuel
+M 8 36268 0 0
+Z 8 36269 0 0
+NLevel
+Z 8 43092 256 0
+N[P1]Lives
+Z 8 43093 256 0
+N[P2]Lives
+Z 8 43117 256 0
+NNo enemy
+Z 8 37999 201 0
+NOne shot to destroy missile
+Z 8 44906 24 0
+NInfinite time
+Z 8 43997 24 0
+NImmunity
+M 8 45776 195 0
+Z 8 45781 167 0
+Y

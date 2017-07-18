@@ -1,0 +1,29 @@
+NLivesDURING the game)
+Z 8 24595 256 0
+N[L1]Infinite lives
+Z 8 35622 182 0
+N[L1]Time frozen
+Z 8 36934 0 0
+N[L1]Immunity
+Z 8 28109 182 0
+N[L2]Infinite lives
+Z 8 34363 182 0
+N[L2]Time frozen
+Z 8 35448 0 0
+N[L2]Immunity
+Z 8 27588 182 0
+N[L3,4]Infinite Lives
+Z 8 35214 182 0
+N[L3,4]Time frozen
+Z 8 36604 0 0
+N[L3,4]Imunity
+Z 8 28191 182 0
+N[L5]Infinite Lives
+Z 8 27719 182 0
+N[L5]Time frozen
+Z 8 35382 0 0
+N[L5]Imunity
+Z 8 34398 182 0
+N255 Lives
+Z 8 37071 255 0
+Y

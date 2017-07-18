@@ -1,0 +1,17 @@
+NPress ups/monkey bars/squat thrusts/weight lifting you've to do
+Z 8 53944 256 0
+NPass any level
+Z 8 53944 0 0
+NEvent Time (E) (M:S) (0-59)
+M 8 53962 256 0
+Z 8 53961 256 0
+NTotal Time (T) (M:S) (0-59)
+M 8 40737 256 0
+Z 8 40736 256 0
+NEvent Time 10:00
+M 8 53962 10 0
+Z 8 53961 0 0
+NTotal Time 59:30
+M 8 40737 59 0
+Z 8 40736 30 0
+Y
