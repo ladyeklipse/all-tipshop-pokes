@@ -10,8 +10,10 @@ M 8 28839 112 0
 Z 8 28856 0 0
 NAvoid death by objects [chemicals foxes etc]
 Z 8 28518 0 0
-NSet 'Weakness' level
+N'Weakness' level
 Z 8 36162 256 0
-NSet 'Sadness' level
+N'Sadness' level
 Z 8 36163 256 0
+NSet start time to an hour before he falls asleep
+Z 8 36011 20 0
 Y

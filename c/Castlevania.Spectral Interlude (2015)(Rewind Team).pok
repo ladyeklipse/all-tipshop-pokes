@@ -1,28 +1,28 @@
-NMax Coins (after screen change)
+NLives
+Z 8 47630 256 0
+NMax Coins
 M 8 38566 13 0
 Z 8 38567 39 0
 NInfinite Hearts
 Z 8 35961 0 0
-NLife Points
-Z 8 47630 256 16
-NImmune to monsters hits
+NNo life lost by monsters hits
 Z 8 28055 0 0
-NImmune to waterfalls
+NNo life lost by waterfalls
 Z 8 27377 0 0
-NImmune to ceiling spikes
+NNo life lost by ceiling spikes
 Z 8 26997 0 0
-NImmune to floor spikes
+NNo life lost by floor spikes
 Z 8 27127 0 0
-NWhip Power (9=Vampire Killer)
+NWhip Power (0-9)
 Z 8 47627 256 0
 NInfinite Hearts (buggy)
 Z 8 35999 0 0
 NMax life bar
 Z 8 38594 48 0
-NImmune to monsters hits (alt)
+NNo life lost by monsters hits (alt)
 Z 8 28060 0 0
-N38586y Coinds (256*x + y)
+NCoins (updated)
 Z 8 38585 256 0
-NHearts
+NNumber of hearts (updated)
 Z 8 38592 256 0
 Y

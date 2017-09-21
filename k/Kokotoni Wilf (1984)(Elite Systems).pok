@@ -9,9 +9,9 @@ NLives
 Z 8 42214 256 0
 NEnemies can't move
 Z 8 42730 201 0
-NEnemies can't kill you (their color change to white)
+NEnemies can't kill you
 Z 8 29199 201 0
-NYou can pass through all (this incluides the ages)
+NPass through all (on/off)
 Z 8 28901 201 229
 NInfinite Lives (Encore,MCM)
 Z 8 43797 0 0

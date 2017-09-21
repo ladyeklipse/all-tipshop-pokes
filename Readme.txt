@@ -1,8 +1,12 @@
-............:::::::::::POKEs Database for ZX Spectrum V2.0:::::::::::::...........
+............:::::::::::POKEs Database for ZX Spectrum V2.1:::::::::::::...........
 Number of files: 2967.
 Work done by: Lady Eklipse
 
 Version history:
+2.1 (20.09.2017)
+- Added new pokes (to match August update of the-tipshop.co.uk)
+- Renamed all files to match the upcoming TOSEC update.
+
 2.0 (22.06.2017)
 This is entirely NEW version of the database. Here is the list of major changes.
  - The POK files are scraped from Gerard's website by a web crawler written in Python;

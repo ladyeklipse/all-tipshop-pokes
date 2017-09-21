@@ -1,0 +1,35 @@
+NYellow keys
+Z 8 41990 256 0
+NRed keys
+Z 8 41991 256 0
+NBlue Keys
+Z 8 41992 256 0
+NLevel
+Z 8 41979 256 0
+N25000 health points
+Z 8 41981 100 0
+NSword
+Z 8 41984 256 0
+N25000 Sword points
+Z 8 41985 100 0
+NShield
+Z 8 41986 256 0
+N25000 shield points
+Z 8 41987 100 0
+NGold
+Z 8 41988 256 0
+N25000 gold pieces
+Z 8 41989 100 0
+NInf Yellow Keys
+Z 8 46357 0 0
+NInf Red Keys
+Z 8 46527 0 0
+NInf Blue Keys
+Z 8 46442 0 0
+NInf Health Points
+Z 8 45856 0 0
+NInf Sword Points
+Z 8 46796 0 0
+NInf Shield Points
+Z 8 46964 0 0
+Y

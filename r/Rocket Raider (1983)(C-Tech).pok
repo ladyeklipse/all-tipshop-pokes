@@ -2,4 +2,11 @@ N[1P]Infinite lives
 Z 8 28639 182 0
 N[2P]Infinite lives
 Z 8 28646 182 0
+NUnlimited fuel
+Z 8 28152 182 0
+NRockets stay on ground
+Z 8 29850 201 0
+NFlying objects stay in position
+M 8 28343 0 0
+Z 8 28358 0 0
 Y

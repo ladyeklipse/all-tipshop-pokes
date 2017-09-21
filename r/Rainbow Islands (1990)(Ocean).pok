@@ -1,0 +1,17 @@
+NLives (1-128) At Start
+Z 8 25471 256 0
+NLives (1-128) During Game
+Z 8 25456 256 0
+NInfinite Lives
+Z 8 65110 0 0
+NImmune except to water
+Z 8 57119 254 0
+NPress P for next level
+M 8 23532 195 0
+M 8 23533 59 0
+Z 8 23534 254 0
+NMerge the first basic and add the following s before RANDOMIZE USR 41850
+M 8 42175 195 0
+M 8 42176 59 0
+Z 8 42177 254 0
+Y

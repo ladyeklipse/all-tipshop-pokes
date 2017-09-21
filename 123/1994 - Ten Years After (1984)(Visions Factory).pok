@@ -1,0 +1,31 @@
+NInfinite Lives
+Z 8 40315 0 0
+NInfinite Strength
+Z 8 38762 0 0
+NLives
+Z 8 39125 256 0
+NStart level (1-8)
+Z 8 39130 256 0
+NStrength
+Z 8 23366 256 0
+NHave key (1=yes, 0=no)
+Z 8 23343 256 0
+NTime left (0-9)
+M 8 23363 256 0
+M 8 23364 256 0
+Z 8 23365 256 0
+NTime left=25000 sec
+M 8 23363 0 0
+M 8 23364 0 0
+Z 8 23365 250 0
+NImmunity on/off
+M 8 39764 86 117
+Z 8 39765 155 157
+NEagle doesn't catch you
+Z 8 37854 201 0
+NImmunity on/off (alt)
+M 8 39764 86 0
+M 8 39765 155 0
+M 8 39764 117 0
+Z 8 39765 157 0
+Y

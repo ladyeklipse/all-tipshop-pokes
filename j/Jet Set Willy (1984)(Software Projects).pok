@@ -393,7 +393,7 @@ NAdd a platform to go to the cross
 M 8 56350 0 0
 M 8 56358 0 0
 Z 8 56365 85 0
-NInfinite Time  (may be useful to someone) (Try GS)
+NInfinite TimeВ  (may be useful to someone) (Try GS)
 M 8 35414 0 0
 M 8 35415 0 0
 M 8 35416 0 0
@@ -405,4 +405,6 @@ M 8 52197 13 0
 M 8 52198 60 0
 M 8 52199 242 0
 Z 8 52200 192 0
+NTo prevent this from happening
+Z 8 35674 126 0
 Y

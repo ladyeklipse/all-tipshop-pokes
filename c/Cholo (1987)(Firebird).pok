@@ -1,0 +1,44 @@
+NNever Die
+Z 8 62346 201 0
+NLog Password Always Correct
+Z 8 59986 24 0
+NControl RatRizzo
+Z 8 40092 0 0
+NControl Leadie Gort
+Z 8 40093 0 0
+NControl Cola Koke
+Z 8 40094 0 0
+NControl Hacker Igor
+Z 8 40095 0 0
+NControl Camera Ridley
+Z 8 40096 0 0
+NControl Doctor DrJohn
+Z 8 40097 0 0
+NControl Flyeye Anneka
+Z 8 40098 0 0
+NControl Camera Felini
+Z 8 40099 0 0
+NControl Plane Aviata
+Z 8 40100 0 0
+NControl Ship Queen
+Z 8 40101 0 0
+NControl Guard Skum01
+Z 8 40102 0 0
+NControl Guard Skum02
+Z 8 40103 0 0
+NControl Guard Skum03
+Z 8 40104 0 0
+NControl Guard Skum04
+Z 8 40105 0 0
+NPlane 'killed' each time you go to menu
+Z 8 41266 0 0
+N????
+Z 8 48591 0 0
+N["Got you!"]
+Z 8 55764 201 0
+N["Killed you!"]
+Z 8 55810 201 0
+NPlane 'killed' each time you go to menu (alt)
+M 8 48591 0 0
+Z 8 55764 201 0
+Y

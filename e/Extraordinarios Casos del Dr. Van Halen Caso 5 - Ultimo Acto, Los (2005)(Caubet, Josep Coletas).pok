@@ -1,0 +1,83 @@
+NWhere's the lantern (turned on)
+M 8 34496 256 0
+Z 8 34507 252 0
+NWhere's the lantern (turned off)
+M 8 34496 252 0
+Z 8 34507 256 0
+NWhere's the suitcase (closed)
+M 8 34497 256 0
+Z 8 34310 0 0
+NWhere's the suitcase (opened)
+M 8 34497 256 0
+Z 8 34310 255 0
+NWhere's the figure
+Z 8 34498 256 0
+NWhere's the cane (without knife)
+M 8 34499 256 0
+Z 8 34500 256 0
+NWhere's the cane (with knife)
+M 8 34499 252 0
+Z 8 34500 256 0
+NWhere's the spyglass
+Z 8 34501 256 0
+NWhere's the key
+Z 8 34502 256 0
+NWhere's the coin
+Z 8 34503 256 0
+NWhere's the Tenebrarum (the book)
+Z 8 34504 256 0
+NWhere's the trap (closed)
+M 8 34505 256 0
+Z 8 34506 252 0
+NWhere's the trap (opened)
+M 8 34505 252 0
+Z 8 34506 256 0
+NWhere's the obituary
+Z 8 34508 256 0
+NWhere's the scepter
+Z 8 34509 256 0
+NWhere's the dagger
+Z 8 34510 256 0
+NWhere's the money
+Z 8 34511 256 0
+NWhere's the rope
+Z 8 34512 256 0
+NWhere's the file
+Z 8 34513 256 0
+NWhere's the medal (use CONSULTAR NIHIL)
+Z 8 34514 256 0
+NWhere's the hat
+Z 8 34515 256 0
+NWhere's the black cloak
+Z 8 34516 256 0
+NWhere's the monocle
+Z 8 34517 256 0
+NWhere's the ring (use CONSULTAR OBSTAT)
+Z 8 34518 256 0
+NThe ring is at the left of starting room
+Z 8 34518 4 0
+NThe trap (closed) is at the right of starting room
+M 8 34505 5 0
+Z 8 34506 252 0
+NThe medal is at the top of the tree (inside the forest)
+Z 8 34514 6 0
+NThe monocle is inside suitcase
+Z 8 34517 1 0
+NThe rope is at starting room
+Z 8 34512 3 0
+NThe ring is at precipice
+Z 8 34518 13 0
+NWorst Ending
+Z 8 34318 0 0
+NBad Ending
+Z 8 34318 1 0
+NGood Ending
+Z 8 34318 2 0
+NCommands you can type before monster kills you
+Z 8 34338 256 0
+NWhere's the cane (without knife) (alt)
+M 8 34499 256 0
+Z 8 34500 252 0
+NWhich ending you see (0-2)
+Z 8 34318 256 0
+Y

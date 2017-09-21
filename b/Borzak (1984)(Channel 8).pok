@@ -1,0 +1,45 @@
+NInfinite Lives
+Z 8 56117 0 0
+NLives
+Z 8 58583 256 0
+NStart level (1-6)
+M 8 58576 33 0
+M 8 58577 256 0
+Z 8 58578 0 0
+N[en]Do not fall through the holes
+Z 8 45196 195 0
+N[es]Do not fall through the holes
+Z 8 45223 195 0
+N[en]Do not fall into the water
+Z 8 45329 195 0
+N[es]Do not fall into the water
+Z 8 45356 195 0
+N[en]Immunity to the nasties
+Z 8 45028 195 0
+N[es]Immunity to the nasties
+Z 8 45055 195 0
+N[en]Infinite antigrav power
+Z 8 44359 0 0
+N[es]Infinite antigrav power
+Z 8 44383 0 0
+N[en]Infinite Lives
+Z 8 56066 0 0
+N[en]Lives
+Z 8 58538 256 0
+N[en]Start level (1-6)
+M 8 58531 33 0
+M 8 58532 256 0
+Z 8 58533 0 0
+NDo not fall through the holes
+M 8 45196 195 0
+Z 8 45223 195 0
+NDo not fall into the water
+M 8 45329 195 0
+Z 8 45356 195 0
+NImmunity to the nasties
+M 8 45028 195 0
+Z 8 45055 195 0
+NInfinite antigrav power
+M 8 44359 0 0
+Z 8 44383 0 0
+Y

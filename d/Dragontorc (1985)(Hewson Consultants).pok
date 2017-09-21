@@ -59,4 +59,34 @@ N12 Heal [mend yourself]
 Z 8 28125 16 0
 NInfinite magic tokens (alt)
 Z 8 59891 0 0
+N02 Wall [turns missiles] (alt)
+M 8 27869 16 0
+Z 8 27872 5 0
+N03 Undo [remove magic curse] (alt)
+M 8 27885 16 0
+Z 8 27888 5 0
+N04 Missile [bolts of power] (alt)
+M 8 27901 16 0
+Z 8 27904 5 0
+N05 Energize [when spirits are low] (alt)
+M 8 27917 16 0
+Z 8 27920 5 0
+N06 Detect [see the unseen] (alt)
+M 8 27933 16 0
+Z 8 27936 5 0
+N07 Unseen [to go unnoticed] (alt)
+M 8 27949 16 0
+Z 8 27952 5 0
+N0A Slow [more time] (alt)
+M 8 27997 16 0
+Z 8 28000 5 0
+N0C Return [to Halgors tomb] (alt)
+M 8 28029 16 0
+Z 8 28032 5 0
+N0F Locate [two doors side by side what can they hide] (alt)
+M 8 28077 16 0
+Z 8 28080 5 0
+N10 Demon [go on be a devil] (alt)
+M 8 28093 16 0
+Z 8 28096 5 0
 Y

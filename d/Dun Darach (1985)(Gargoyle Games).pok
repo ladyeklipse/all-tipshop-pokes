@@ -24,4 +24,20 @@ NMoney=999999
 M 8 45395 153 0
 M 8 45396 153 0
 Z 8 45397 153 0
+NYour 1st item is a barrel
+Z 8 45391 6 0
+NYour 2nd item is a *stolen* goldbar (it shows the "S" beside the item)
+Z 8 45392 131 0
+NYour 3rd item is a moleskin
+Z 8 45393 2 0
+NYou don't carry 3rd item
+Z 8 45393 0 0
+NYou get 500000 iridi
+M 8 45395 0 0
+M 8 45396 0 0
+Z 8 45397 80 0
+NYou get 10203 iridi
+M 8 45395 3 0
+M 8 45396 2 0
+Z 8 45397 1 0
 Y

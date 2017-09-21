@@ -1,0 +1,54 @@
+N[Pt1]Immunity (except oxygen)
+M 8 33386 0 0
+Z 8 33387 0 0
+N[Pt2]Infinite Rockets
+Z 8 38631 0 0
+N[Pt2]Infinite Grenades
+Z 8 33773 0 0
+N[128K]Lives
+Z 8 32002 256 0
+N[48K][Pt1]Infinite Lives
+M 8 33448 0 0
+Z 8 34064 0 0
+N[128K][Pt1]Infinite Lives
+M 8 33335 0 0
+Z 8 33728 0 0
+N[48K][Pt2]Infinite Lives
+M 8 34139 0 0
+Z 8 34203 0 0
+N[128K][Pt2]Infinite Lives
+M 8 34057 0 0
+Z 8 34121 0 0
+N[48K][Pt3]Infinite Lives
+Z 8 35055 0 0
+N[128K][Pt3]Infinite Lives
+Z 8 34899 0 0
+N[128K][Pt2]Infinite Rockets
+Z 8 38625 0 0
+N[48K][Pt3]Infinite Time
+Z 8 34364 0 0
+N[128K][Pt3]Infinite Time
+Z 8 34208 0 0
+NInfinite Lives
+M 8 33488 0 0
+Z 8 34064 0 0
+N[Pt1]Infinite lives
+M 8 33448 0 0
+M 8 34064 0 0
+M 8 33335 0 0
+Z 8 33728 0 0
+N[Pt2]Infinite lives
+M 8 34139 0 0
+M 8 34203 0 0
+M 8 34057 0 0
+Z 8 34121 0 0
+N[Pt3]Infinite lives
+M 8 35055 0 0
+Z 8 34899 0 0
+N[Pt2]Infinite rockets
+M 8 38631 0 0
+Z 8 38625 0 0
+N[Pt3]Infinite time
+M 8 34364 0 0
+Z 8 34208 0 0
+Y

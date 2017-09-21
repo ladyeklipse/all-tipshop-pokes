@@ -1,0 +1,75 @@
+NAft torpedoes
+M 8 25991 255 0
+Z 8 25997 255 0
+NBow torpedoes
+M 8 25993 255 0
+Z 8 25995 255 0
+NGuns
+Z 8 26006 255 0
+NExtra Lives
+Z 8 34202 19 0
+NInfinite Guns (Original)
+M 8 35665 62 0
+M 8 35666 80 0
+M 8 35667 0 0
+M 8 30454 62 0
+M 8 30455 80 0
+M 8 30456 50 0
+M 8 30457 150 0
+M 8 30458 101 0
+Z 8 30505 0 0
+NInfinite Aft Torpedoes (Original)
+M 8 35652 62 0
+M 8 35653 10 0
+M 8 35654 0 0
+Z 8 30584 0 0
+NInfinite Bow Torpedoes (Original)
+M 8 35637 62 0
+M 8 35638 10 0
+M 8 35639 0 0
+Z 8 30556 0 0
+NInfinite Guns (Erbe)
+M 8 35467 62 0
+M 8 35468 80 0
+M 8 35469 0 0
+M 8 30205 62 0
+M 8 30206 80 0
+M 8 30207 50 0
+M 8 30208 22 0
+M 8 30209 90 0
+Z 8 30260 0 0
+NInfinite Aft Torpedoes (Erbe)
+M 8 35454 62 0
+M 8 35455 10 0
+M 8 35456 0 0
+Z 8 30339 0 0
+NInfinite Bow Torpedoes (Erbe)
+M 8 35439 62 0
+M 8 35440 10 0
+M 8 35441 0 0
+Z 8 30311 0 0
+NInfinite Guns (Kixx)
+M 8 35468 62 0
+M 8 35469 80 0
+M 8 35470 0 0
+M 8 30208 62 0
+M 8 30209 80 0
+M 8 30210 50 0
+M 8 30211 22 0
+M 8 30212 91 0
+Z 8 30263 0 0
+NInfinite Aft Torpedoes (Kixx)
+M 8 35455 62 0
+M 8 35455 10 0
+M 8 35455 0 0
+Z 8 30342 0 0
+NInfinite Bow Torpedoes (Kixx)
+M 8 35440 62 0
+M 8 35441 10 0
+M 8 35442 0 0
+Z 8 30314 0 0
+NBow torpedoes (alt)
+M 8 25993 255 0
+M 8 25995 255 0
+Z 8 26006 255 0
+Y
