@@ -1,10 +1,18 @@
-NImmunity
+N[128K]Infinite Time
+Z 8 41074 0 0
+N[128K]Infinite Lives
+M 8 43788 24 0
+Z 8 43766 176 0
+N[128K]Immunity
+M 8 43147 58 0
+Z 8 44485 33 0
+N[128K]Fall Any Height
+Z 8 43201 255 0
+N[128K]Walk Thru Walls
+Z 8 44492 0 0
+NImmunity (may freeze the game)
 M 8 43147 33 0
 Z 8 44485 24 0
-NFall from any height
-Z 8 43201 255 0
-NWalk through walls
-Z 8 44492 0 0
 NMore time
 Z 8 41067 0 0
 Y
