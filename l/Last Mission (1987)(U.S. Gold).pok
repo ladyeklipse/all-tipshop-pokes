@@ -26,9 +26,9 @@ NPulse Full Spec
 Z 8 64998 1 0
 NPulse
 Z 8 64999 256 0
-NK-CannoFull Spec
+NK-Cannon Full Spec
 Z 8 65000 1 0
-NK-Canno [1-255]
+NK-Cannon [1-255]
 Z 8 65001 256 0
 NHyper Laser Full Spec
 Z 8 65002 1 0

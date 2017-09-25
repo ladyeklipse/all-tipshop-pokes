@@ -14,7 +14,7 @@ NStart with Jump Boots
 Z 8 36605 4 0
 NStart with Bag
 Z 8 36605 8 0
-NStart with Jetpac
+NStart with Jetpack
 Z 8 36605 1 0
 NStart with Bat Belt
 Z 8 36605 2 0
@@ -42,7 +42,7 @@ NInfinite Lives (alt)
 Z 8 36797 0 0
 NEnemies can't move (but they can kill you)
 Z 8 33333 33 0
-NInmunity on/off
+NImmunity on/off
 Z 8 39915 0 12
 NSuper jump on/off
 Z 8 36934 52 53
@@ -68,7 +68,4 @@ NFloating enemies
 Z 8 33240 201 0
 NMonstrous twists
 Z 8 38938 201 0
-NPoke InfShield If stuck
-M 8 39906 0 0
-Z 8 39906 143 0
 Y

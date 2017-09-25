@@ -2881,15 +2881,15 @@
 0025250;/zxdb/sinclair/pokes/t/Teodoro no Sabe Volar (2010)(RetroWorks).pok
 0025269;/zxdb/sinclair/pokes/k/Kyd Cadet II - The Rescue of Pobbleflu (2010)(Jenkinson, Paul).pok
 0025374;/zxdb/sinclair/pokes/c/Crimbo (2010)(Little Shop of Pixels).pok
-0025409;/zxdb/sinclair/pokes/s/Sid Spanners (2010)(Prawn, Digital).pok
-0025461;/zxdb/sinclair/pokes/s/Sid Spanners 2 - The Slackening (2011)(Prawn, Digital).pok
+0025409;/zxdb/sinclair/pokes/s/Sid Spanners (2010)(Digital Prawn).pok
+0025461;/zxdb/sinclair/pokes/s/Sid Spanners 2 - The Slackening (2011)(Digital Prawn).pok
 0025468;/zxdb/sinclair/pokes/s/Stamp Quest (2011)(Stonechat Productions).pok
 0025517;/zxdb/sinclair/pokes/m/Magic Land of Landlords, The (1986)(Load 'n' Run).pok
 0025640;/zxdb/sinclair/pokes/g/Gimme Bright (2011)(Climacus).pok
-0026012;/zxdb/sinclair/pokes/s/Sid Spanners 3 - The Nuthouse (2011)(Prawn, Digital).pok
+0026012;/zxdb/sinclair/pokes/s/Sid Spanners 3 - The Nuthouse (2011)(Digital Prawn).pok
 0026114;/zxdb/sinclair/pokes/f/Flynn's Adventure in Bombland (2011)(Dalby, Tom).pok
 0026115;/zxdb/sinclair/pokes/c/Cray 5 (2011)(RetroWorks).pok
-0026120;/zxdb/sinclair/pokes/s/Sid Spanners 4 - Timeloop (2011)(Prawn, Digital).pok
+0026120;/zxdb/sinclair/pokes/s/Sid Spanners 4 - Timeloop (2011)(Digital Prawn).pok
 0026193;/zxdb/sinclair/pokes/r/Retrobsesion (2011)(J.B.G.V.).pok
 0026331;/zxdb/sinclair/pokes/s/Space Flight (1986)(Load 'n' Run).pok
 0026332;/zxdb/sinclair/pokes/v/Voleur, Le (1986)(Load 'n' Run).pok
@@ -3004,7 +3004,7 @@
 0030053;/zxdb/sinclair/pokes/b/Biogen (2013)(SimonSoft).pok
 0030054;/zxdb/sinclair/pokes/g/Goku Mal (2013)(Mojon Twins, The).pok
 0030055;/zxdb/sinclair/pokes/m/My Rendition of Horace to the Rescue (2013)(Broad, Steve A.J.).pok
-0030056;/zxdb/sinclair/pokes/e/El Hombre Que Susurraba A Las Balas (2013)(Radastan).pok
+0030056;/zxdb/sinclair/pokes/h/Hombre Que Susurraba A Las Balas, El (2013)(Radastan).pok
 0030057;/zxdb/sinclair/pokes/e/Escape From Asylum (2013)(Dantoine Retro Studios).pok
 0030058;/zxdb/sinclair/pokes/s/Spiker - Basic Training (2013)(Black Jet).pok
 0030059;/zxdb/sinclair/pokes/s/Sector (2013)(RetroSouls).pok
@@ -3027,7 +3027,7 @@
 0030086;/zxdb/sinclair/pokes/p/Pyromania II - Chopper Rescue (2014)(Amore, Gabriele).pok
 0030087;/zxdb/sinclair/pokes/g/GraviBots (2014)(RetroSouls).pok
 0030091;/zxdb/sinclair/pokes/l/Leonardo's Lost Last Invention (2014)(Amore, Gabriele).pok
-0030092;/zxdb/sinclair/pokes/a/Altair (2014)(Inmensa Bola de Manteca (IBM)).pok
+0030092;/zxdb/sinclair/pokes/a/Altair (2014)(Inmensa Bola de Manteca).pok
 0030095;/zxdb/sinclair/pokes/z/ZX Destroyer (2014)(Retrobytes Productions).pok
 0030098;/zxdb/sinclair/pokes/g/Guerrero Ninja (2014)(Didone, Fabio).pok
 0030101;/zxdb/sinclair/pokes/d/Donkey Kong Reloaded Again (2014)(Amore, Gabriele).pok
@@ -3122,20 +3122,20 @@
 0030298;/zxdb/sinclair/pokes/c/Car Wars (2016)(salvaKantero).pok
 0030301;/zxdb/sinclair/pokes/a/Angry Birds - Opposition (2016)(kas29).pok
 0030302;/zxdb/sinclair/pokes/s/Sewer Rage (2016)(Death Squad, The).pok
-0030307;/zxdb/sinclair/pokes/a/A Yankee in Iraq (2016)(Moore, Ast A.).pok
+0030307;/zxdb/sinclair/pokes/y/Yankee in Iraq, A (2016)(Moore, Ast A.).pok
 0030312;/zxdb/sinclair/pokes/m/Mysterious Dimensions (2016)(Hooy-Program).pok
 0030313;/zxdb/sinclair/pokes/h/Harbinger - Convergence (2016)(APSIS).pok
 0030318;/zxdb/sinclair/pokes/m/Merry Christmas From Horace (2016)(My Cat).pok
-0030323;/zxdb/sinclair/pokes/l/Lala Lah (19xx)(-).pok
-0030324;/zxdb/sinclair/pokes/d/D'Veel'Ng (19xx)(-).pok
-0030325;/zxdb/sinclair/pokes/j/Julifrustris in the City (19xx)(-).pok
-0030326;/zxdb/sinclair/pokes/b/Bootee (19xx)(-).pok
-0030327;/zxdb/sinclair/pokes/j/Jet Paco (19xx)(-).pok
-0030329;/zxdb/sinclair/pokes/b/BALOWWWN! (19xx)(-).pok
+0030323;/zxdb/sinclair/pokes/l/Lala Lah (2013)(Mojon Twins, The).pok
+0030324;/zxdb/sinclair/pokes/d/D'Veel'Ng (2013)(Mojon Twins, The).pok
+0030325;/zxdb/sinclair/pokes/j/Julifrustris in the City (2013)(Mojon Twins, The).pok
+0030326;/zxdb/sinclair/pokes/b/Bootee (2013)(Mojon Twins, The).pok
+0030327;/zxdb/sinclair/pokes/j/Jet Paco (2013)(Mojon Twins, The).pok
+0030329;/zxdb/sinclair/pokes/b/BALOWWWN! (2013)(Mojon Twins, The).pok
 0030330;/zxdb/sinclair/pokes/d/Dogmole Tuppowski vs. the Mesmerizing Meemaid From Miskatonic (19xx)(-).pok
-0030331;/zxdb/sinclair/pokes/m/Monono (19xx)(-).pok
-0030332;/zxdb/sinclair/pokes/j/Journey to the Centre of the Nose (19xx)(-).pok
-0030333;/zxdb/sinclair/pokes/m/Mega Meghan (19xx)(-).pok
+0030331;/zxdb/sinclair/pokes/m/Monono (2013)(Mojon Twins, The).pok
+0030332;/zxdb/sinclair/pokes/j/Journey to the Centre of the Nose (2013)(Mojon Twins, The).pok
+0030333;/zxdb/sinclair/pokes/m/Mega Meghan (2013)(Mojon Twins, The).pok
 0030335;/zxdb/sinclair/pokes/n/Nextipede (2016)(Cauldwell, Jonathan).pok
 0030336;/zxdb/sinclair/pokes/s/Stela II (2016)(Moderna Soft, La).pok
 0030338;/zxdb/sinclair/pokes/z/Zombo's Christmas Capers (2016)(Monsterbytes).pok
@@ -3155,6 +3155,3 @@
 0030385;/zxdb/sinclair/pokes/w/Wolfcastle McBain (2017)(Garcia, C. Oscar).pok
 0030393;/zxdb/sinclair/pokes/c/Computerspielemuseum's Museum Guide (2017)(Mojon Twins, The).pok
 0030401;/zxdb/sinclair/pokes/m/Metal Man Remixed (2015)(Origin, Oleg).pok
-9000902;/zxdb/sinclair/pokes/c/Castlevania (19xx)(2014-02).pok
-9002427;/zxdb/sinclair/pokes/j/Jet-Power Jack (19xx)(-).pok
-9003212;/zxdb/sinclair/pokes/m/My Rendition of Horace to the Rescue 2 (2014)(Broad, Steve A.J.).pok

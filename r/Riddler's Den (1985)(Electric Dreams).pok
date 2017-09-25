@@ -17,16 +17,16 @@ Z 8 52126 30 0
 NTime 00:00
 M 8 52125 255 0
 Z 8 52126 0 0
-NSet status of bank -use while playing- [65 (Closed) or 69 (Opened)]
+NSet status of bank (65=Closed, 69=Opened)
 Z 8 53013 256 0
-NGargoyle blocks the path [0Yes 128No]
+NGargoyle blocks the path (0=Yes, 128=No)
 Z 8 52137 256 0
-NRed Dragon blocks the path [0Yes 128No]
+NRed Dragon blocks the path (0=Yes, 128=No)
 Z 8 52138 256 0
-NBlue Dragon has all teeth [0No 46Yes]
+NBlue Dragon has all teeth (0=No, 46=Yes)
 Z 8 52139 256 0
-NBlue Dragon blocks the path [0Yes 128No]
+NBlue Dragon blocks the path (0=Yes, 128=No)
 Z 8 52142 256 0
-NYellow Dragon blocks the path [0Yes 128No]
+NYellow Dragon blocks the path (0=Yes, 128=No)
 Z 8 52143 256 0
 Y

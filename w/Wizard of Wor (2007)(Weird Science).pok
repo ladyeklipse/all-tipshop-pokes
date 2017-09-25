@@ -1,4 +1,4 @@
-NStop yellow worrior's countdown
+NStop yellow warrior's countdown
 M 8 33674 23 0
 Z 8 33675 3 0
 NWorians's speed will not increase
@@ -10,10 +10,10 @@ Z 8 24921 0 0
 NInfinite lives for blue
 M 8 25156 0 0
 Z 8 25157 0 0
-NInvulnerability from bulletts for yellow
+NInvulnerability from bullets for yellow
 M 8 26174 24 0
 Z 8 26175 121 0
-NInvulnerability from bulletts for blue
+NInvulnerability from bullets for blue
 M 8 26311 24 0
 Z 8 26312 121 0
 NInvulnerability from Worians for yellow

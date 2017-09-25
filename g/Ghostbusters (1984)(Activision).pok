@@ -23,7 +23,7 @@ NMen left
 Z 8 55664 256 0
 NEmpty traps
 Z 8 55665 256 0
-NBackpack power (in BCD/Hex; ie 99% 99 he 153 dec)
+NBackpack power (in BCD/Hex)
 Z 8 55666 256 0
 NPK energy least significant digits in BCD/Hex
 Z 8 55573 256 0

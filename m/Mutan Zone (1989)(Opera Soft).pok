@@ -6,21 +6,21 @@ N[Pt1]Infinite Batteries
 Z 8 34213 0 0
 N[Pt1]Infinite Charge
 Z 8 34204 182 0
-N[Pt1]Infinite Subgame Lives
+N[Pt1]Infinite Minigame Lives
 Z 8 43333 0 0
-N[Pt1]Infinite Subgame Time
+N[Pt1]Infinite Minigame Time
 Z 8 42947 0 0
-N[Pt2]Infinite Lives (alt)
+N[Pt2]Infinite Lives
 Z 8 35181 0 0
 N[Pt2]Immunity
 M 8 34910 201 0
 M 8 35004 201 0
 Z 8 39344 201 0
-N[Pt2]Infinite Batteries (alt)
+N[Pt2]Infinite Batteries
 Z 8 34279 0 0
-N[Pt2]Infinite Charge (alt)
+N[Pt2]Infinite Charge
 Z 8 34270 182 0
-N[Pt2]Infinite Subgame Time (alt)
+N[Pt2]Infinite Minigame Time
 Z 8 42830 0 0
 N[Pt1]Lives
 Z 8 58788 256 0

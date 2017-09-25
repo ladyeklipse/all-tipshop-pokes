@@ -1,5 +1,9 @@
 NInfinite Lives
 Z 8 49233 0 0
+NNo screen corrupt after draw
+M 8 49234 54 0
+M 8 49235 2 0
+Z 8 49236 0 0
 NInfinite Ammo
 Z 8 51711 0 0
 NInfinite Ammo (Quick reload)
@@ -10,7 +14,7 @@ NQuickdraw Bandit Can't Move
 Z 8 47604 24 0
 NQuickdraw Bandit Can't Shoot
 Z 8 47609 58 0
-NTonwfolk don't move
+NTownsfolk don't move
 M 8 46891 24 0
 Z 8 46892 4 0
 NWalk Speed (1-18)
@@ -22,7 +26,7 @@ NBad Guy (0-19)
 Z 8 41570 256 0
 NQuick reload
 Z 8 51617 0 0
-N10 FOR a1 TO 7 LOAD "" CODE NEXT a RANDOMIZE USR 23424
+NStop bandit drawing
 M 8 47919 0 0
 Z 8 47920 0 0
 NTelegram prices don't change
@@ -31,7 +35,7 @@ NNo horses
 Z 8 43391 201 0
 NNo jumping boys
 Z 8 45846 201 0
-NNo townfolks
+NNo townsfolk
 Z 8 46735 201 0
 NSets money to $999999 - use all pokes while playing
 M 8 41561 153 0
@@ -51,7 +55,7 @@ Z 8 41569 256 0
 NFine $999
 M 8 41564 153 0
 Z 8 41565 9 0
-NFine 0 (You can kill everybody you won't lose money for that)
+NFine=0 (Don't lose money after kill)
 M 8 41564 0 0
 Z 8 41565 0 0
 NHorse $250
@@ -66,8 +70,4 @@ Z 8 41569 0 0
 NFree bullets
 M 8 41568 0 0
 Z 8 41569 0 0
-NTo avoid this side effect one may enter following S
-M 8 49234 54 0
-M 8 49235 2 0
-Z 8 49236 0 0
 Y

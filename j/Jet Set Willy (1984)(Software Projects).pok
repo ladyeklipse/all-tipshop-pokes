@@ -19,11 +19,11 @@ NNo G-Force
 Z 8 36358 0 0
 NUse Interface 1
 Z 8 36635 239 0
-NStop Colourcode
+NStop Colour code
 Z 8 34493 195 0
 NWRITETYPER on
 Z 8 34275 10 0
-NStoopid Music
+NStupid Music
 Z 8 56250 0 0
 NBug Fix (???)
 M 8 42138 11 0
@@ -39,7 +39,7 @@ Z 8 37438 0 0
 NStart in room 1-63
 M 8 34795 256 0
 Z 8 33824 256 0
-NStart the cassette again and after the main part of the program has loaded enter
+NFix Attic bug
 M 8 60231 0 0
 M 8 42183 11 0
 M 8 59901 82 0
@@ -47,15 +47,15 @@ Z 8 56876 4 0
 NInfinite Lives - destroys meanies
 M 8 35899 0 0
 Z 8 35123 0 0
-NXWhere X is the  objects to be collected
+NObjects to be collected
 Z 8 41963 256 0
 NMakes the Banyan Tree a bit easier
 Z 8 36545 0 0
-NYou have only to collect the tap to see the finale effect
+NCollect the tap to see the finale effect
 Z 8 41983 255 0
-NYou need only one item to enter bedroom
+NOne item to enter bedroom
 Z 8 37925 0 0
-NRemoves colour code (works with 1st try only)
+NRemoves colour code (First try only)
 Z 8 34507 201 0
 NNo death from fall OFF
 Z 8 36477 50 0
@@ -341,17 +341,14 @@ M 8 35415 0 0
 Z 8 35416 0 0
 NInfinite Time (alt)
 Z 8 35415 126 0
-NStop ingame tune deteriorating after each loss of life
+NStop in game tune deteriorating after each loss of life
 M 8 35665 62 0
 M 8 35666 8 0
 Z 8 35667 0 0
-NStop screeching on scrolling title message (still flashes paper and ink etc just silently)
+NStop screeching on scrolling title
 M 8 38636 0 0
 Z 8 38637 0 0
-NUnlimited attempts at keypad code (this only really works as a type-in hack)
-M 8 34497 182 0
-Z 8 34498 134 0
-NStop attribute cycling on title screen message
+NStop attribute cycling on title screen
 M 8 34997 0 0
 M 8 34998 0 0
 M 8 34999 0 0
@@ -380,11 +377,11 @@ NDisable all guardians
 M 8 37334 195 0
 M 8 37335 52 0
 Z 8 37336 146 0
-NPrevent ""top exit"" from The Watch Tower
+NPrevent "top exit" from The Watch Tower
 M 8 62167 171 0
 M 8 62169 9 0
 Z 8 62173 4 0
-NPrevent ""top exit"" from Rescue Esmerelda
+NPrevent "top exit" from Rescue Esmeralda
 M 8 52742 10 0
 Z 8 52743 170 0
 NImmunity to arrows
@@ -393,7 +390,7 @@ NAdd a platform to go to the cross
 M 8 56350 0 0
 M 8 56358 0 0
 Z 8 56365 85 0
-NInfinite TimeВ  (may be useful to someone) (Try GS)
+NInfinite Time В (Try GS)
 M 8 35414 0 0
 M 8 35415 0 0
 M 8 35416 0 0

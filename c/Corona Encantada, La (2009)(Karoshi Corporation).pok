@@ -10,7 +10,7 @@ M 8 34515 60 0
 M 8 34516 4 0
 M 8 34428 198 0
 Z 8 34429 10 0
-NTime [minutes:seconds]
+NTime [MM:SS]
 M 8 52572 256 0
 Z 8 52571 256 0
 NEnergy (0-129)

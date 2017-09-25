@@ -19,7 +19,7 @@ M 8 44548 58 0
 Z 8 44245 58 0
 N[48K]Infinite Magic Level (theirs)
 Z 8 62539 126 0
-N[48K]Infinite Hapiness (theirs)
+N[48K]Infinite Happiness (theirs)
 M 8 62517 126 0
 M 8 44533 126 0
 Z 8 45447 126 0
@@ -41,7 +41,7 @@ M 8 33907 58 0
 Z 8 33623 58 0
 N[128K]Infinite Magic Level (theirs)
 Z 8 43888 126 0
-N[128K]Infinite Hapiness (theirs)
+N[128K]Infinite Happiness (theirs)
 M 8 43866 126 0
 M 8 33892 126 0
 Z 8 35120 126 0
@@ -50,8 +50,8 @@ M 8 43877 126 0
 Z 8 33900 126 0
 N[128K]Infinite Time
 Z 8 43766 58 0
-N[48K]Always enable TICKLE A CHARACTER, SMELL SOMETHING, HAVE A WISH and HAVE A DRINK
+N[48K]Always enable TICKLE, SMELL, HAVE A WISH, HAVE A DRINK
 Z 8 46185 29 0
-N[48K]Shift Command Selection Window up one character so all commands will fit
+N[48K]All commands will fit to window
 Z 8 49036 3 0
 Y

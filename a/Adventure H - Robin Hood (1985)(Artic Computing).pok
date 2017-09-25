@@ -1,19 +1,19 @@
-NWhere's the safe (it's open) (0-77)
+NWhere's the safe (open) (0-77)
 M 8 23340 0 0
 Z 8 23341 256 0
-NWhere's the safe (it's closed) (0-77)
+NWhere's the safe (closed) (0-77)
 M 8 23340 256 0
 Z 8 23341 0 0
-NAn Unlocked wooden door [house in forest]
+NUnlocked wooden door (house in forest)
 M 8 23343 0 0
 Z 8 23344 7 0
-NALocked wooden door [house in forest]
+NLocked wooden door (house in forest)
 M 8 23343 7 0
 Z 8 23344 0 0
-NAn Unlocked Iron studded door [castle - small tower]
+NUnlocked Iron studded door (castle - small tower)
 M 8 23356 0 0
 Z 8 23357 256 0
-NALocked Iron studded door [castle - small tower]
+NLocked Iron studded door (castle - small tower)
 M 8 23356 256 0
 Z 8 23357 0 0
 NWhere's Maid (tied)
@@ -67,16 +67,16 @@ Z 8 33334 254 0
 NWhere's the Lit Lamp
 M 8 23333 256 0
 Z 8 33334 252 0
-NYou carry a Bucket [Full]
+NYou carry a Bucket (Full)
 M 8 23361 252 0
 Z 8 23362 254 0
-NYou carry a Bucket [Empty]
+NYou carry a Bucket (Empty)
 M 8 23361 254 0
 Z 8 23362 252 0
-NWhere's Bucket [Full]
+NWhere's Bucket (Full)
 M 8 23361 256 0
 Z 8 23362 254 0
-NWhere's Bucket [Empty]
+NWhere's Bucket (Empty)
 M 8 23361 256 0
 Z 8 23362 252 0
 NWhere's the armour (needed to rescue Marion)
@@ -93,7 +93,7 @@ NWhere's the torch
 Z 8 23338 256 0
 NWhere's the curious looking key
 Z 8 23339 256 0
-NWhere's the crock of gold (useless item) -it appears only when you open safe with key
+NWhere's the crock of gold (useless)
 Z 8 23342 256 0
 NWhere's the bone key
 Z 8 23345 256 0
@@ -103,13 +103,13 @@ NWhere's the ham (needed to rescue Marion)
 Z 8 23349 256 0
 NWhere's the flint
 Z 8 23350 256 0
-NWhere's the silver key (useless) -it appears when you examine throne
+NWhere's the silver key (useless)
 Z 8 23351 256 0
 NWhere's the pin
 Z 8 23354 256 0
-NWhere's the book [you can read it] -it appears when you examine library
+NWhere's the book
 Z 8 23366 256 0
-NWhere's the suit of lincoln green
+NWhere's the suit of Lincoln Green
 Z 8 23367 256 0
 NWhere's the gold coin
 Z 8 23370 256 0

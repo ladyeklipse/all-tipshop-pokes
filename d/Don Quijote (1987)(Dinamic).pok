@@ -2,13 +2,13 @@ NYou've picked up the bread
 Z 8 41471 255 0
 NWhere's the bread (number of screen; 0=you've eaten it)
 Z 8 41471 256 0
-NYou've picked up the armor
+NYou've picked up the armour
 M 8 41483 255 0
 Z 8 41484 127 0
-NWhere's the armor (number of screen)
+NWhere's the armour (number of screen)
 M 8 41483 256 0
 Z 8 41484 0 0
-NYou've put on the armor
+NYou've put on the armour
 M 8 41483 0 0
 Z 8 41484 0 0
 NYou've picked up the key
@@ -35,7 +35,7 @@ NYou've picked up the stone
 Z 8 41499 255 0
 NWhere's the stone (number of screen)
 Z 8 41499 256 0
-NArmor is at starting screen
+NArmour is at starting screen
 M 8 41483 1 0
 Z 8 41484 0 0
 NStone is at the kitchen

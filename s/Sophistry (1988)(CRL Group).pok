@@ -33,13 +33,13 @@ M 8 49123 0 0
 Z 8 49124 0 0
 NRations required
 Z 8 64513 256 0
-NPoints[tens units]
+NPoints [tens units]
 Z 8 64676 256 0
-NPoints[thousands hundreds]
+NPoints [thousands hundreds]
 Z 8 64677 256 0
-NPoints[100 thousands 10 thousands]
+NPoints [100 thousands 10 thousands]
 Z 8 64678 256 0
-NPoints[millions]
+NPoints [millions]
 Z 8 64679 256 0
 NIn-game Information Access level [1-8]
 Z 8 64710 256 0
@@ -51,7 +51,7 @@ NIn-game lives
 Z 8 64733 256 0
 NIn-game level
 Z 8 64734 256 0
-NTimelocked screens opened [requires ing for each screen]
+NTime locked screens opened (Poke on each screen)
 M 8 40655 0 0
 M 8 40656 0 0
 M 8 64760 1 0

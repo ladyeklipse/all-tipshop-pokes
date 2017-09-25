@@ -21,11 +21,11 @@ M 8 43175 255 0
 Z 8 43176 127 0
 N[Pt2]Can beg coin(y/n), can enter temple(y/n), disk given(y/n) (0-28)
 Z 8 42118 256 0
-N[Pt2]You can beg a coin and you can enter temple [and you gave disk]
+N[Pt2]Can beg a coin, can enter temple, disk given
 Z 8 42118 16 0
-N[Pt2]You can beg a coin and you can't enter temple [you gave disk(+16) and shout inside temple(+8)]
+N[Pt2]Can beg coin, can't enter temple, disk given
 Z 8 42118 24 0
-N[Pt2][This happens when you gave disk(+16) beg for coin(+4) and shout in the temple(+8)]
+N[Pt2]Coin, Temple, Disk, Shout
 Z 8 42118 28 0
 N[Pt2]Coin is in your inventory
 M 8 41501 255 0

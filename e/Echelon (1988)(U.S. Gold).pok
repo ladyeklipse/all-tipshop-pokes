@@ -17,7 +17,7 @@ NTeleport while moving
 Z 8 28308 151 0
 NTeleport doesn't need to have 'down' view on
 Z 8 28317 0 0
-NTeleport object from anywhere within same sector
+NTeleport object (same sector)
 Z 8 28408 0 0
 NNever lose overhead view
 Z 8 24083 0 0
@@ -26,23 +26,23 @@ M 8 56036 0 0
 Z 8 56064 0 0
 NSee all Pirate codes
 Z 8 56187 24 0
-NSee Pirate codes in English! No numbers but also messes up other text
+NSee Pirate codes in English
 Z 8 32757 64 0
 NChange start sector
 Z 8 23952 256 0
 NChange sector during game
 Z 8 23335 256 0
-N[L1]Xcoord lo
+N[L1]X coordinate low
 Z 8 23326 72 0
-N[L1]Xcoord hi
+N[L1]X coordinate high
 Z 8 23327 244 0
-N[L1]Alt lo
+N[L1]Altitude low
 Z 8 23328 30 0
-N[L1]Alt hi
+N[L1]Altitude high
 Z 8 23329 0 0
-N[L1]Zcoord lo
+N[L1]Z coordinate low
 Z 8 23330 208 0
-N[L1]Zcoord hi
+N[L1]Z coordinate high
 Z 8 23331 7 0
 N[L1]Heading
 Z 8 23332 224 0
@@ -54,15 +54,15 @@ N[L1]Set 'previous site completed' for fresh start
 Z 8 23895 0 0
 N[L1-6]Front view
 Z 8 25316 0 0
-N[L2]Xcoord lo
+N[L2]X coordinate low
 Z 8 23326 0 0
-N[L2,6]Xcoord hi
+N[L2,6]X coordinate high
 Z 8 23327 0 0
-N[L2]Alt lo
+N[L2]Altitude low
 Z 8 23328 10 0
-N[L2]Zcoord lo
+N[L2]Z coordinate low
 Z 8 23330 0 0
-N[L2]Zcoord hi
+N[L2]Z coordinate high
 Z 8 23331 0 0
 N[L2]Heading
 Z 8 23332 43 0
@@ -76,15 +76,15 @@ N[L2]Missiles selected
 Z 8 36413 3 0
 N[L2,5]Trigger from previous
 Z 8 38930 1 0
-N[L3,4]Xcoord lo
+N[L3,4]X coordinate low
 Z 8 23326 219 0
-N[L3,4]Xcoord hi
+N[L3,4]X coordinate high
 Z 8 23327 245 0
-N[L3,4]Alt lo
+N[L3,4]Altitude low
 Z 8 23328 210 0
-N[L3]Zcoord lo
+N[L3]Z coordinate low
 Z 8 23330 151 0
-N[L3,4]Zcoord hi
+N[L3,4]Z coordinate high
 Z 8 23331 255 0
 N[L3,4]Heading
 Z 8 23332 199 0
@@ -94,15 +94,15 @@ N[L3,4]Area
 Z 8 23884 11 0
 N[L3,4]Set no previous site completed
 Z 8 23895 3 0
-N[L5]Xcoord lo
+N[L5]X coordinate low
 Z 8 23326 36 0
-N[L5]Xcoord hi
+N[L5]X coordinate high
 Z 8 23327 250 0
-N[L5]Alt lo
+N[L5]Altitude low
 Z 8 23328 110 0
-N[L5]Zcoord lo
+N[L5]Z coordinate low
 Z 8 23330 60 0
-N[L5]Zcoord hi
+N[L5]Z coordinate high
 Z 8 23331 246 0
 N[L5]Heading
 Z 8 23332 132 0
@@ -114,7 +114,7 @@ N[L5]Set previous site completed
 Z 8 23895 6 0
 N[L5]Photon selected
 Z 8 36413 2 0
-N[L5]Alt lo (alt)
+N[L5]Altitude low (alt)
 Z 8 23328 160 0
 N[L5]Heading (alt)
 Z 8 23332 11 0
@@ -126,13 +126,13 @@ N[L5]Set previous site completed (alt)
 Z 8 23895 10 0
 N[L5]Trigger from previous
 Z 8 38930 0 0
-N[L6]Xcoord lo
+N[L6]X coordinate low
 Z 8 23326 200 0
-N[L6]Alt lo
+N[L6]Altitude low
 Z 8 23328 90 0
-N[L6]NZcoord lo
+N[L6]Z coordinate low
 Z 8 23330 254 0
-N[L6]Zcoord hi
+N[L6]Z coordinate high
 Z 8 23331 12 0
 N[L6]Heading
 Z 8 23332 32 0

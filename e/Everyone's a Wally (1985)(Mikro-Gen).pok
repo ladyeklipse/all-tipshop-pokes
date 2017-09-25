@@ -65,7 +65,7 @@ NThe Battery charged
 Z 8 60437 1 0
 NThe Oil Can Full
 Z 8 60438 1 0
-NItem at Supermarket [floor] (0-40 the same for all)
+NItem at Supermarket [floor](0-40 the same for all)
 Z 8 48373 256 0
 NItem at Park
 Z 8 48378 256 0
@@ -95,25 +95,25 @@ NItem at Station
 Z 8 48490 256 0
 NItem at Sewer
 Z 8 48504 256 0
-N1st item [Wally] (0-40)
+N1st item [Wally](0-40)
 Z 8 48311 256 0
-N2nd item [Wally] (0-40)
+N2nd item [Wally](0-40)
 Z 8 48316 256 0
-N1st item [Wilma] (0-40)
+N1st item [Wilma](0-40)
 Z 8 48312 256 0
-N2nd item [Wilma] (0-40)
+N2nd item [Wilma](0-40)
 Z 8 48317 256 0
-N1st item [Tom] (0-40)
+N1st item [Tom](0-40)
 Z 8 48313 256 0
-N2nd item [Tom] (0-40)
+N2nd item [Tom](0-40)
 Z 8 48318 256 0
-N1st item [Dick] (0-40)
+N1st item [Dick](0-40)
 Z 8 48314 256 0
-N2nd item [Dick] (0-40)
+N2nd item [Dick](0-40)
 Z 8 48319 256 0
-N1st item [Harry] (0-40)
+N1st item [Harry](0-40)
 Z 8 48315 256 0
-N2nd item [Harry] (0-40)
+N2nd item [Harry](0-40)
 Z 8 48320 256 0
 NRemove colours from the main characters
 M 8 45444 0 0

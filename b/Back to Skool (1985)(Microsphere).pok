@@ -10,10 +10,6 @@ NInfinite kisses
 Z 8 24401 0 0
 NNo noise for lines
 Z 8 29838 62 0
-NInfinite Lines (alt)
-Z 8 29643 256 0
-NNo tellings off
-Z 8 29716 256 0
 NNo items
 Z 8 32747 0 0
 NYellow Key
@@ -26,7 +22,7 @@ NGun (Water) Teachers say numbers
 Z 8 32747 8 0
 NGun (Wine) Teachers say letters
 Z 8 32747 24 0
-N1bombs
+N1bomb
 Z 8 32747 128 0
 N2bombs
 Z 8 32747 192 0
@@ -34,13 +30,13 @@ N3bombs
 Z 8 32747 224 0
 NBoth keys
 Z 8 32747 3 0
-NGun (Wine)+1 bomb
+NGun (Wine) +1 bomb
 Z 8 32747 152 0
-NGun (Water)+2 bombs
+NGun (Water) +2 bombs
 Z 8 32747 200 0
-NGun (Water)+3 bombs
+NGun (Water) +3 bombs
 Z 8 32747 232 0
-NGun (Water)+3 bombs+both keys
+NGun (Water) +3 bombs + both keys
 Z 8 32747 235 0
 NSet Mr Rockitt's number to "9"
 M 8 32669 57 0
@@ -75,7 +71,7 @@ M 8 51746 3 0
 M 8 52002 10 0
 M 8 52513 88 0
 Z 8 52257 76 0
-NEinstien stays inside skool
+NEinstein stays inside skool
 M 8 53284 68 0
 M 8 53303 14 0
 M 8 53304 14 0
@@ -116,9 +112,9 @@ NOnly given 100 lines per telling off
 M 8 29743 62 0
 M 8 29744 0 0
 Z 8 29745 0 0
-NInfinite Lines (alt) (alt)
+NInfinite Lines (alt)
 Z 8 29643 201 0
-NNo tellings off (alt)
+NNo tellings off
 Z 8 29716 201 0
 NTeachers tell themselves off if hit with a catapult
 Z 8 28029 201 0
