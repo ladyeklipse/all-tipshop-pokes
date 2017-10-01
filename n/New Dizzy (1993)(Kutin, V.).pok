@@ -5,4 +5,14 @@ NImmune toВ Flame
 Z 8 35431 63 0
 NImmune to Rain
 Z 8 51934 63 0
+NLives
+Z 8 62789 256 0
+NWalk Speed (1=Fast, 7=Slow)
+Z 8 59644 256 0
+NInfinite Lives (alt)
+Z 8 62745 0 0
+NImmunity
+Z 8 54216 0 0
+NWalk through walls
+Z 8 60137 201 0
 Y

@@ -358,6 +358,7 @@
 0000881;/zxdb/sinclair/pokes/c/Chambers of Horrors (1984)(Omega).pok
 0000888;/zxdb/sinclair/pokes/c/Championship Run (1991)(Impulze).pok
 0000894;/zxdb/sinclair/pokes/c/Chaos (1985)(Games Workshop).pok
+0000897;/zxdb/sinclair/pokes/s/Space Chaos - Battle in Future (19xx)(Blindmouse).pok
 0000903;/zxdb/sinclair/pokes/c/Chase H.Q. (1989)(Ocean).pok
 0000906;/zxdb/sinclair/pokes/c/Chase H.Q. II - Special Criminal Investigation (1990)(Ocean).pok
 0000910;/zxdb/sinclair/pokes/c/Cheekah's Exploits (1986)(Your Computer).pok
@@ -452,6 +453,7 @@
 0001130;/zxdb/sinclair/pokes/c/Crazy House (1990)(Bulldog).pok
 0001134;/zxdb/sinclair/pokes/c/Crazy Pingoin (1986)(Magic Team).pok
 0001136;/zxdb/sinclair/pokes/c/Cred Breaks Out (1986)(TSB).pok
+0001154;/zxdb/sinclair/pokes/c/Crimebusters inc. (1986)(Strobe).pok
 0001155;/zxdb/sinclair/pokes/c/Crime Busters (1988)(Players).pok
 0001158;/zxdb/sinclair/pokes/c/Critical Mass (1985)(Durell).pok
 0001164;/zxdb/sinclair/pokes/c/Crossfire (1985)(Your Computer).pok
@@ -630,6 +632,7 @@
 0001541;/zxdb/sinclair/pokes/d/Dungeon Dare (1986)(Central Solutions).pok
 0001543;/zxdb/sinclair/pokes/d/Dustin (1987)(Dinamic).pok
 0001546;/zxdb/sinclair/pokes/d/Dustman (1984)(Timescape).pok
+0001547;/zxdb/sinclair/pokes/d/Dusty Droid and the Garbage Gobblers (1988)(Pirate).pok
 0001548;/zxdb/sinclair/pokes/d/Dyna Star (1988)(Pirate).pok
 0001549;/zxdb/sinclair/pokes/d/Dynamic Duo (1989)(Firebird).pok
 0001551;/zxdb/sinclair/pokes/d/Dynamite Dan (1985)(Mirrorsoft).pok
@@ -794,6 +797,7 @@
 0001957;/zxdb/sinclair/pokes/g/Game Mix (1987)(Suzy Soft).pok
 0001958;/zxdb/sinclair/pokes/g/Game Over (1987)(Dinamic).pok
 0001970;/zxdb/sinclair/pokes/g/Games Designer (1983)(Quicksilva).pok
+0001975;/zxdb/sinclair/pokes/g/Gangplank (1987)(Pirate).pok
 0001977;/zxdb/sinclair/pokes/g/Garfield - Big, Fat, Hairy Deal (1988)(Edge, The).pok
 0001979;/zxdb/sinclair/pokes/g/Garfield - Winter's Tail (1990)(Edge, The).pok
 0001982;/zxdb/sinclair/pokes/g/Gary Lineker's Hot-Shot! (1988)(Gremlin Graphics).pok
@@ -895,6 +899,7 @@
 0002231;/zxdb/sinclair/pokes/h/Happiest Days of Your Life, The (1986)(Firebird).pok
 0002232;/zxdb/sinclair/pokes/h/Hard Cheese (1983)(DK'Tronics).pok
 0002233;/zxdb/sinclair/pokes/h/Hard Drivin' (1989)(Domark).pok
+0002235;/zxdb/sinclair/pokes/h/H.A.R.D. (1986)(Tynesoft).pok
 0002241;/zxdb/sinclair/pokes/h/Harrier Attack! (1983)(Durell).pok
 0002245;/zxdb/sinclair/pokes/h/Harry Hare's Lair (1985)(Artic Computing).pok
 0002247;/zxdb/sinclair/pokes/h/H.A.T.E. (1989)(Gremlin Graphics).pok
@@ -1046,6 +1051,16 @@
 0002589;/zxdb/sinclair/pokes/j/Jet Set Willy (1984)(Software Projects).pok
 0002594;/zxdb/sinclair/pokes/j/Jet Set Willy 128K (1996)(Elliott, John).pok
 0002595;/zxdb/sinclair/pokes/j/Jet Set Willy II (1985)(Software Projects).pok
+0002596;/zxdb/sinclair/pokes/j/JetSet Willy III (1985)(MB).pok
+0002597;/zxdb/sinclair/pokes/j/Jet Set Willy - The Continuing Adventures (1998)(Britton, Adam).pok
+0002602;/zxdb/sinclair/pokes/j/Jet-Set Willy in Space (1997)(Halsoft).pok
+0002603;/zxdb/sinclair/pokes/j/Jet-Set Willy Ivy (1998)(Filsoft).pok
+0002604;/zxdb/sinclair/pokes/j/J4 - The Fourth Remix (1999)(Eddy, Geoff).pok
+0002605;/zxdb/sinclair/pokes/j/Join the Jet-Set (1985)(Halsoft).pok
+0002606;/zxdb/sinclair/pokes/d/Deadly Mission, The (1985)(Britton, Adam).pok
+0002607;/zxdb/sinclair/pokes/w/Willy the Hacker (1999)(Eddy, Geoff).pok
+0002608;/zxdb/sinclair/pokes/w/Willy's Holiday (1985)(Britton, Adam).pok
+0002609;/zxdb/sinclair/pokes/w/Willy's New Hat (1985)(-).pok
 0002610;/zxdb/sinclair/pokes/j/Jet Man Silly (1993)(Proxima).pok
 0002611;/zxdb/sinclair/pokes/j/Jetsons, The (1992)(Hi-Tec).pok
 0002612;/zxdb/sinclair/pokes/j/Jet-Story (1992)(Ultrasoft).pok
@@ -1165,6 +1180,7 @@
 0002908;/zxdb/sinclair/pokes/l/Loco (1986)(Alligata).pok
 0002910;/zxdb/sinclair/pokes/l/Loco-Motion (1985)(Mastertronic).pok
 0002912;/zxdb/sinclair/pokes/l/Lode Runner (1984)(Software Projects).pok
+0002915;/zxdb/sinclair/pokes/l/Lode Runner - New Game set (19xx)(-).pok
 0002919;/zxdb/sinclair/pokes/l/Lombrix (1984)(ERE Informatique).pok
 0002920;/zxdb/sinclair/pokes/l/Lone Wolf - The Mirror of Death (1991)(Audiogenic).pok
 0002925;/zxdb/sinclair/pokes/l/Loony Zoo (1983)(Phipps Associates).pok
@@ -1207,6 +1223,12 @@
 0003007;/zxdb/sinclair/pokes/m/Mango Jones (1990)(Crash).pok
 0003008;/zxdb/sinclair/pokes/m/Maniac (19xx)(Prospec).pok
 0003012;/zxdb/sinclair/pokes/m/Manic Miner (1983)(Bug-Byte).pok
+0003015;/zxdb/sinclair/pokes/m/Manic Miner 3 - Tales From a Parallel Universe (1996)(Cheese Freak).pok
+0003016;/zxdb/sinclair/pokes/m/Manic Miner 4 (1997)(Broadsoft).pok
+0003017;/zxdb/sinclair/pokes/m/Manic Miner 5 - Los Peligros del LSD (1998)(Gil, Ignacio Perez).pok
+0003018;/zxdb/sinclair/pokes/m/Manic Miner 6 - The Buddha of Suburbia (1998)(Broadsoft).pok
+0003019;/zxdb/sinclair/pokes/m/Manic Miner 7 (1998)(Rothwell, Craig).pok
+0003021;/zxdb/sinclair/pokes/e/Eugene - Lord of the Bathroom (1999)(Manic Miner Technologies).pok
 0003026;/zxdb/sinclair/pokes/m/Mantronix (1986)(Probe).pok
 0003030;/zxdb/sinclair/pokes/m/Marauder (1988)(Hewson Consultants).pok
 0003032;/zxdb/sinclair/pokes/m/Marble Madness (1986)(Melbourne House).pok
@@ -1277,6 +1299,7 @@
 0003203;/zxdb/sinclair/pokes/m/Millimon (1984)(Artic Computing).pok
 0003206;/zxdb/sinclair/pokes/m/Millipede (1983)(Softek).pok
 0003207;/zxdb/sinclair/pokes/m/Mimzoid Death Dude (1988)(Jaquest, Grant).pok
+0003209;/zxdb/sinclair/pokes/m/Mind Your Head (1986)(Tynesoft).pok
 0003210;/zxdb/sinclair/pokes/m/Minder (1985)(DK'Tronics).pok
 0003211;/zxdb/sinclair/pokes/m/Mindtrap (1989)(Mastertronic).pok
 0003232;/zxdb/sinclair/pokes/m/Mission Collission (1987)(Gommeren, David J.).pok
@@ -1340,6 +1363,7 @@
 0003338;/zxdb/sinclair/pokes/m/Mutant Fortress (1989)(Players Premier).pok
 0003339;/zxdb/sinclair/pokes/m/Mutant Monty (1984)(Artic Computing).pok
 0003340;/zxdb/sinclair/pokes/m/Mutants (1987)(Ocean).pok
+0003344;/zxdb/sinclair/pokes/m/Mutations (1986)(Tynesoft).pok
 0003346;/zxdb/sinclair/pokes/m/Myla Di'Kaich (1986)(Global).pok
 0003352;/zxdb/sinclair/pokes/m/Mystical (1991)(Infogrames).pok
 0003354;/zxdb/sinclair/pokes/m/Myth - History in the Making (1989)(System 3).pok
@@ -1417,6 +1441,7 @@
 0003515;/zxdb/sinclair/pokes/o/Omega Zone, The (1991)(Crash).pok
 0003516;/zxdb/sinclair/pokes/o/Ometron (1983)(Software Projects).pok
 0003520;/zxdb/sinclair/pokes/o/On the Run (1985)(Design Design).pok
+0003522;/zxdb/sinclair/pokes/o/One for the Road (1986)(Tynesoft).pok
 0003523;/zxdb/sinclair/pokes/o/One Man and His Droid (1985)(Mastertronic).pok
 0003525;/zxdb/sinclair/pokes/o/One Man and His Droid II (2001)(Brooker, Clive).pok
 0003527;/zxdb/sinclair/pokes/o/Oops (1988)(Big Apple Entertainment Company, The).pok
@@ -1958,6 +1983,7 @@
 0004889;/zxdb/sinclair/pokes/s/Star Wars Droids (1988)(Mastertronic Added Dimension).pok
 0004891;/zxdb/sinclair/pokes/s/Stay Kool (1984)(Bug-Byte).pok
 0004892;/zxdb/sinclair/pokes/s/Steel Eagle (1990)(Players Premier).pok
+0004894;/zxdb/sinclair/pokes/s/Steelyard Blues, The (1987)(Tynesoft).pok
 0004895;/zxdb/sinclair/pokes/s/Steep Way (1987)(Uros Justin).pok
 0004910;/zxdb/sinclair/pokes/s/Stomp (1985)(DK'Tronics).pok
 0004912;/zxdb/sinclair/pokes/s/Stomping Stan (1983)(Britannia).pok
@@ -2100,6 +2126,7 @@
 0005259;/zxdb/sinclair/pokes/t/Thundercats (1987)(Elite Systems).pok
 0005263;/zxdb/sinclair/pokes/t/Thunderceptor (1987)(Go!).pok
 0005266;/zxdb/sinclair/pokes/t/Ticket to Ride, A (1986)(Mastertronic).pok
+0005269;/zxdb/sinclair/pokes/t/Tidy Tony (1987)(Tynesoft).pok
 0005270;/zxdb/sinclair/pokes/t/Tiler (1984)(Interceptor).pok
 0005275;/zxdb/sinclair/pokes/t/Time Flies (1988)(Firebird).pok
 0005276;/zxdb/sinclair/pokes/t/Time Flight (1986)(Power House, The).pok
@@ -2251,6 +2278,7 @@
 0005670;/zxdb/sinclair/pokes/w/Wheelie (1983)(Microsphere).pok
 0005671;/zxdb/sinclair/pokes/w/Where Time Stood Still (1988)(Ocean).pok
 0005673;/zxdb/sinclair/pokes/w/Who Dares Wins II (1986)(Alligata).pok
+0005676;/zxdb/sinclair/pokes/w/Who Said That (1987)(Tynesoft).pok
 0005678;/zxdb/sinclair/pokes/w/Whole New Ball Game, A (1989)(Crash).pok
 0005679;/zxdb/sinclair/pokes/w/Whopper Chase (1987)(Erbe).pok
 0005682;/zxdb/sinclair/pokes/w/Wiking (1987)(M.K.).pok
@@ -2527,12 +2555,30 @@
 0010512;/zxdb/sinclair/pokes/f/Frontiers (1988)(Zafiro Division).pok
 0010515;/zxdb/sinclair/pokes/g/Galactians (1983)(DK'Tronics).pok
 0010534;/zxdb/sinclair/pokes/h/Hypertron (1987)(Scorpio Gamesworld).pok
+0010541;/zxdb/sinclair/pokes/j/JSW 1-1 (2000)(Aldridge, Nick).pok
+0010544;/zxdb/sinclair/pokes/b/Bulgarian Requiem, A (2000)(Corcy, Adban de).pok
+0010545;/zxdb/sinclair/pokes/j/Jet Set Willy - April Showers (1984)(Your Spectrum).pok
+0010546;/zxdb/sinclair/pokes/j/JSW dup Moor en t' Panat (2002)(Aldridge, Nick).pok
+0010548;/zxdb/sinclair/pokes/j/Jet Set Willy - Lord of the Rings (2000)(Broadsoft).pok
+0010549;/zxdb/sinclair/pokes/m/Monstrum! (2000)(Hill, Stuart J.).pok
+0010550;/zxdb/sinclair/pokes/s/Strangel (2001)(Sendy).pok
+0010552;/zxdb/sinclair/pokes/j/JSW Stupid (2001)(Aldridge, Nick).pok
+0010553;/zxdb/sinclair/pokes/c/Colossal Cave, The (2000)(Wyatt, James).pok
+0010554;/zxdb/sinclair/pokes/t/Time Hole, The (1999)(Martland, Edward).pok
+0010555;/zxdb/sinclair/pokes/u/Utility Cubicles, The (2000)(Hill, Stuart J.).pok
+0010557;/zxdb/sinclair/pokes/w/We Pretty (1999)(Broadsoft).pok
+0010558;/zxdb/sinclair/pokes/w/Where's Woody (2000)(Sendy).pok
+0010559;/zxdb/sinclair/pokes/w/Willy Comes Home (2000)(Gawp!).pok
+0010561;/zxdb/sinclair/pokes/w/Willy Takes a Trip (2000)(Eddy, Geoff).pok
+0010562;/zxdb/sinclair/pokes/w/Willy to the Rescue! (2000)(Sendy).pok
+0010563;/zxdb/sinclair/pokes/w/Willy's Afterlife (2000)(Corcy, Adban de).pok
 0010565;/zxdb/sinclair/pokes/j/Jungle Jie (1985)(Gadtek Games).pok
 0010567;/zxdb/sinclair/pokes/k/Kamikaze Collector (1985)(Century City).pok
 0010568;/zxdb/sinclair/pokes/k/Khazzad-Dum (1987)(Idealogic).pok
 0010572;/zxdb/sinclair/pokes/k/Kung Fu Knights (1988)(Top Ten).pok
 0010574;/zxdb/sinclair/pokes/l/Laser Lord (1985)(Century City).pok
 0010581;/zxdb/sinclair/pokes/m/Mambo (1989)(Positive).pok
+0010584;/zxdb/sinclair/pokes/m/Manic Miner - The Hobbit (2000)(Broadsoft).pok
 0010594;/zxdb/sinclair/pokes/m/Mike Gunner (1988)(Dinamic).pok
 0010597;/zxdb/sinclair/pokes/m/Mines of Moriez (1986)(Hektic).pok
 0010599;/zxdb/sinclair/pokes/m/Mole on the Dole (1986)(Gadtek Games).pok
@@ -2565,6 +2611,7 @@
 0011668;/zxdb/sinclair/pokes/d/Dyslexia Beater (1984)(Dunitz).pok
 0011820;/zxdb/sinclair/pokes/j/Judge Dredd (1990)(Virgin Games).pok
 0011860;/zxdb/sinclair/pokes/l/Logo - Part I (1991)(Rainbow Dreams).pok
+0011910;/zxdb/sinclair/pokes/m/Mission Venom (1991)(Woods, Nigel).pok
 0011919;/zxdb/sinclair/pokes/m/Mount Challenge (1985)(Aasvoguelle Productions).pok
 0012031;/zxdb/sinclair/pokes/q/Quondam (1989)(Ocean).pok
 0012061;/zxdb/sinclair/pokes/s/Spectrum Scramble (1982)(Work Force).pok
@@ -2605,7 +2652,9 @@
 0012809;/zxdb/sinclair/pokes/d/Dizzy 'A' (2000)(n-Discovery).pok
 0012810;/zxdb/sinclair/pokes/l/Last Will Dizzy (1993)(Moscalenco, Oleg).pok
 0012811;/zxdb/sinclair/pokes/n/New Dizzy (1993)(Kutin, V.).pok
+0012815;/zxdb/sinclair/pokes/d/Dizzy XX (1995)(Magic Soft).pok
 0012825;/zxdb/sinclair/pokes/d/Drunk Dizzy (1995)(Black Eagle Company).pok
+0012831;/zxdb/sinclair/pokes/e/Elite III (1993)(THD).pok
 0012833;/zxdb/sinclair/pokes/e/Elopement - Back to The Earth (1997)(Omega Hackers Group).pok
 0012838;/zxdb/sinclair/pokes/f/FBI-13 (1995)(Black Eagle Company).pok
 0012847;/zxdb/sinclair/pokes/f/Fizzy (1997)(Rykov, Denis).pok
@@ -2614,6 +2663,7 @@
 0012900;/zxdb/sinclair/pokes/k/Kolobok (1995)(Softwarrior).pok
 0012902;/zxdb/sinclair/pokes/k/Kolobok Zoom 2 - In The Unfair World (1998)(Asphyxia).pok
 0012923;/zxdb/sinclair/pokes/l/Leprekon (1998)(Omega Hackers Group).pok
+0012926;/zxdb/sinclair/pokes/l/Lode Runner 3 (1995)(Biotech).pok
 0012935;/zxdb/sinclair/pokes/m/Main Blow, The (1994)(Inforcom).pok
 0012959;/zxdb/sinclair/pokes/m/Mini Fly (1994)(Galaxy).pok
 0012966;/zxdb/sinclair/pokes/m/Mortal Kombat (1997)(XL-Design).pok
@@ -2663,17 +2713,42 @@
 0014427;/zxdb/sinclair/pokes/t/Time Out (1988)(Zafiro Division).pok
 0014428;/zxdb/sinclair/pokes/t/Tokyo Gang (1990)(G.LL.).pok
 0014431;/zxdb/sinclair/pokes/v/Vega Solaris (1989)(Quasar).pok
+0014490;/zxdb/sinclair/pokes/j/Jet Set Willy - Willy's Flashback (2001)(JET_VISY).pok
+0014492;/zxdb/sinclair/pokes/m/Manic Miner - 2000 (2000)(FELL).pok
+0014496;/zxdb/sinclair/pokes/m/Madam Blavskja's Carnival Macabre (2002)(Corcy, Adban de).pok
+0014498;/zxdb/sinclair/pokes/j/JSW The Sun Is No Longer Producing Heat (2002)(Aldridge, Nick).pok
 0014510;/zxdb/sinclair/pokes/j/Jump About (1984)(Computronic).pok
 0014513;/zxdb/sinclair/pokes/a/Adventures of Sid Spider, The (2002)(Pegg, David).pok
+0014518;/zxdb/sinclair/pokes/f/Frosya the Cat (2002)(Makovsky, Igor).pok
+0014519;/zxdb/sinclair/pokes/j/Jet Set Willy - Spectrum Computing (1984)(Spectrum Computing).pok
 0014522;/zxdb/sinclair/pokes/s/Soul Miner (2002)(Martland, Edward).pok
+0014524;/zxdb/sinclair/pokes/w/Willy the Rogue (2002)(BaSe1 PrOdUcTiOnZ).pok
+0014526;/zxdb/sinclair/pokes/m/Manic Miner - comp.sys.sinclair (2002)(Fishwick, Nigel).pok
+0014527;/zxdb/sinclair/pokes/z/ZX Willy the Bug Slayer (2002)(Eddy, Geoff).pok
+0014528;/zxdb/sinclair/pokes/g/Goodnite Luddite (2002)(Broadsoft).pok
+0014529;/zxdb/sinclair/pokes/j/Jet Set Willy 5 - ZX Heroes (2002)(Makovsky, Igor).pok
+0014532;/zxdb/sinclair/pokes/j/Jet Set Willy - FTB (2003)(Martland, Edward).pok
+0014533;/zxdb/sinclair/pokes/s/Skint Willy (2002)(BaSe1 PrOdUcTiOnZ).pok
+0014534;/zxdb/sinclair/pokes/s/Still Stealin' (2002)(BaSe1 PrOdUcTiOnZ).pok
+0014538;/zxdb/sinclair/pokes/m/Mr Top Hat (2003)(Aldridge, Nick).pok
 0014541;/zxdb/sinclair/pokes/p/Pedro v Strasidelnom Zamku (1993)(Ultrasoft).pok
 0014542;/zxdb/sinclair/pokes/p/Piggy (1997)(E. Productions).pok
+0014551;/zxdb/sinclair/pokes/m/Maria vs. Some Bastards (2001)(Manic Miner Technologies).pok
 0014569;/zxdb/sinclair/pokes/p/Pacman (2000)(SuperSoft).pok
 0014570;/zxdb/sinclair/pokes/p/Pacman II - Razbunarea lui Phantom (2002)(SuperSoft).pok
+0014578;/zxdb/sinclair/pokes/m/Ma Jolie (2003)(Broadsoft).pok
+0014590;/zxdb/sinclair/pokes/w/Willy vs. the Vampire Lord (2001)(Tatlock, Lee).pok
+0014591;/zxdb/sinclair/pokes/j/Jet Set Willy - The DrUnKeN MAsTeR!!! (2002)(BaSe1 PrOdUcTiOnZ).pok
+0014596;/zxdb/sinclair/pokes/j/Jet Set Emily - Baby on the Go (2002)(Doctor Who).pok
+0014597;/zxdb/sinclair/pokes/f/Fantasy World Willy (2002)(BaSe1 PrOdUcTiOnZ).pok
+0014610;/zxdb/sinclair/pokes/m/Manic Miner Patch (19xx)(Elliott, John).pok
 0014617;/zxdb/sinclair/pokes/b/Brautrydjandinn (1985)(Mjukvara sf).pok
 0014654;/zxdb/sinclair/pokes/e/Extraordinarios Casos del Dr. Van Halen Caso 2 - El Cuervo de la Tormenta, Los (2004)(Caubet, Josep Coletas).pok
 0014655;/zxdb/sinclair/pokes/h/Higgledy Piggledy (2005)(Cronosoft).pok
 0014773;/zxdb/sinclair/pokes/a/Alien Attack (1984)(R.D. Foord).pok
+0014780;/zxdb/sinclair/pokes/d/Dr. Jet Set Willy (1986)(R.D. Foord).pok
+0014784;/zxdb/sinclair/pokes/j/Jet Set Willy (1985)(R.D. Foord).pok
+0014789;/zxdb/sinclair/pokes/m/Manic Miner #2 (1985)(R.D. Foord).pok
 0014790;/zxdb/sinclair/pokes/m/Moonlight Magic (1984)(ESP).pok
 0014793;/zxdb/sinclair/pokes/p/Pop Quizz (19xx)(R.D. Foord).pok
 0014819;/zxdb/sinclair/pokes/e/Existenz (2000)(Triumph Game Labs).pok
@@ -2738,6 +2813,7 @@
 0015418;/zxdb/sinclair/pokes/t/Turbomania (2005)(Cauldwell, Jonathan).pok
 0015419;/zxdb/sinclair/pokes/c/Cowboy (1984)(Spectrum Computing).pok
 0015577;/zxdb/sinclair/pokes/123/4 Minute Warning (1984)(Magination).pok
+0015616;/zxdb/sinclair/pokes/s/Spaceman Willy (1985)(Marwick, Leslie).pok
 0015623;/zxdb/sinclair/pokes/l/Loco Bingo (2005)(Cronosoft).pok
 0015645;/zxdb/sinclair/pokes/s/Shaws III (1995)(Gadtek Games).pok
 0015716;/zxdb/sinclair/pokes/r/Red Sphere, The (1988)(Bautista, Martin Tosas).pok
@@ -2753,6 +2829,10 @@
 0015926;/zxdb/sinclair/pokes/c/Classic Invaders (1990)(Alternative).pok
 0016120;/zxdb/sinclair/pokes/r/Randax (1985)(MicroHobby).pok
 0016147;/zxdb/sinclair/pokes/d/Diamonds (1985)(MicroHobby).pok
+0016702;/zxdb/sinclair/pokes/w/Willy's New Mansion (2004)(Gromann, Daniel).pok
+0016707;/zxdb/sinclair/pokes/m/Manic Miner - Neighbours - Allana Truman (2004)(Broadsoft).pok
+0016710;/zxdb/sinclair/pokes/j/Jet Set Willy - Wet Sunday Afternoon Graphical Remix (2001)(McCowan, Darren).pok
+0016711;/zxdb/sinclair/pokes/j/Jet Set Willy - The '96 Remix (1996)(Howard, Paul).pok
 0016712;/zxdb/sinclair/pokes/m/Maria's Revenge (2004)(Mat Doughty).pok
 0016716;/zxdb/sinclair/pokes/p/Party Willy (2004)(Broadsoft).pok
 0016791;/zxdb/sinclair/pokes/g/Gamex (2006)(Cronosoft).pok
@@ -2764,6 +2844,11 @@
 0016855;/zxdb/sinclair/pokes/p/Petter the Pacifist (1987)(X).pok
 0016913;/zxdb/sinclair/pokes/c/Chip (1985)(-).pok
 0017064;/zxdb/sinclair/pokes/p/Phantomasa in the Land of the Grunge Wizards (2006)(WOPR2K).pok
+0017070;/zxdb/sinclair/pokes/m/Manic Scribbler (2005)(Melkor, Darth).pok
+0017072;/zxdb/sinclair/pokes/j/Jet Set Willy - The 2005 Megamix (2005)(Gromann, Daniel).pok
+0017073;/zxdb/sinclair/pokes/u/Ultimate Manic Miner (2006)(Makovsky, Igor).pok
+0017074;/zxdb/sinclair/pokes/w/Willy's Hoard (2006)(Gromann, Daniel).pok
+0017075;/zxdb/sinclair/pokes/j/Jet Set Willy - Again (2005)(Filsoft).pok
 0017185;/zxdb/sinclair/pokes/l/Lethargy - The Apathetic Dream (2003)(Studio Stall).pok
 0017188;/zxdb/sinclair/pokes/d/Diamond Mine (1997)(Shuric Program).pok
 0017200;/zxdb/sinclair/pokes/s/Sliders (2000)(MSD Group).pok
@@ -2775,11 +2860,29 @@
 0017308;/zxdb/sinclair/pokes/n/Nanako in Classic Japanese Monster Castle (2007)(Computer Emuzone).pok
 0017309;/zxdb/sinclair/pokes/p/Phantomasa (2007)(Computer Emuzone).pok
 0017348;/zxdb/sinclair/pokes/j/Jet Set Willy 64 (2005)(Elliott, John).pok
+0017349;/zxdb/sinclair/pokes/j/Jet Set Willy 64 - Dragon (2006)(Elliott, John).pok
+0017350;/zxdb/sinclair/pokes/j/Jet Set Willy 64 - Manic Miner - Dragon (2006)(Elliott, John).pok
+0017351;/zxdb/sinclair/pokes/j/Jet Set Willy 64 - Manic Miner (2005)(Elliott, John).pok
+0017352;/zxdb/sinclair/pokes/e/Escape of the Snails (2006)(Herve Ast).pok
+0017353;/zxdb/sinclair/pokes/j/Jet Set Willy in Paris (2005)(Herve Ast).pok
+0017354;/zxdb/sinclair/pokes/l/Lena vs. Margo (2006)(Makovsky, Igor).pok
+0017355;/zxdb/sinclair/pokes/m/Maria on Tour (2005)(BaSe1 PrOdUcTiOnZ).pok
+0017356;/zxdb/sinclair/pokes/j/Jet Set Willy - Mind Control (2005)(Gromann, Daniel).pok
+0017357;/zxdb/sinclair/pokes/w/Willy on a Transatlantic Cruise (2006)(Herve Ast).pok
 0017362;/zxdb/sinclair/pokes/i/Iron Sphere (2006)(Cronosoft).pok
 0017489;/zxdb/sinclair/pokes/c/Carmania (1984)(Video).pok
 0017497;/zxdb/sinclair/pokes/g/Galactic Mechanic (1986)(K'Soft).pok
 0017505;/zxdb/sinclair/pokes/m/Manic Muslim (2005)(Boniosoft).pok
 0017512;/zxdb/sinclair/pokes/p/Pooyan (19xx)(Marx, M.).pok
+0017533;/zxdb/sinclair/pokes/j/Jet Cat Frosya (2004)(Makovsky, Igor).pok
+0017534;/zxdb/sinclair/pokes/j/Jet Set Wibble (19xx)(Elliott, John).pok
+0017535;/zxdb/sinclair/pokes/j/Jet Set Willy - Manic Miner (2004)(Broadsoft).pok
+0017536;/zxdb/sinclair/pokes/j/Jet Set Willy - Mono (19xx)(Elliott, John).pok
+0017537;/zxdb/sinclair/pokes/j/Jet Set Willy - Perpetual Motion (2005)(Melkor, Darth).pok
+0017538;/zxdb/sinclair/pokes/y/YlliW teS teJ (2004)(Broadsoft).pok
+0017540;/zxdb/sinclair/pokes/m/Manic Miner - Jet Set Willy (2004)(Broadsoft).pok
+0017541;/zxdb/sinclair/pokes/m/Manic Miner - Perpetual Motion (2005)(Melkor, Darth).pok
+0017542;/zxdb/sinclair/pokes/r/ReniM CinaM (2004)(Broadsoft).pok
 0017551;/zxdb/sinclair/pokes/i/Izzy Wizzy (2007)(Cronosoft).pok
 0017562;/zxdb/sinclair/pokes/b/Blizzard's Rift (2007)(Cauldwell, Jonathan).pok
 0017573;/zxdb/sinclair/pokes/c/Cannon Bubble (2007)(Computer Emuzone).pok
@@ -2788,21 +2891,27 @@
 0017589;/zxdb/sinclair/pokes/p/Pandemia (2006)(OCTOCOM).pok
 0017607;/zxdb/sinclair/pokes/c/Ciudadela (1984)(U.S.W.).pok
 0017623;/zxdb/sinclair/pokes/d/Dizzy Lord (1990)(Konczolsoft).pok
+0017662;/zxdb/sinclair/pokes/m/Manic Mining Robot's Day Out (2003)(Manic Miner Technologies).pok
+0017663;/zxdb/sinclair/pokes/f/Fucked Internet Trilogy, The (2004)(BaSe1 PrOdUcTiOnZ).pok
 0017665;/zxdb/sinclair/pokes/r/REdIvIvUs (2006)(Cronosoft).pok
 0017752;/zxdb/sinclair/pokes/b/Brad Zotes (1988)(MicroHobby).pok
 0017753;/zxdb/sinclair/pokes/b/Bunker (1987)(MicroHobby).pok
 0017754;/zxdb/sinclair/pokes/g/God Save the Punk (1989)(MicroHobby).pok
 0017755;/zxdb/sinclair/pokes/z/Zblast SD (2003)(Marks, Russell).pok
+0017876;/zxdb/sinclair/pokes/h/Holy Shit!!! (2007)(BaSe1 PrOdUcTiOnZ).pok
 0017905;/zxdb/sinclair/pokes/p/Phantomasa 2 (2007)(Computer Emuzone).pok
 0018058;/zxdb/sinclair/pokes/b/BeTiled! (2007)(Computer Emuzone).pok
 0018325;/zxdb/sinclair/pokes/b/Big Baps (2007)(Cauldwell, Jonathan).pok
 0018334;/zxdb/sinclair/pokes/m/Moonshade (1987)(Computer Games).pok
+0018446;/zxdb/sinclair/pokes/b/Bizarre (2005)(BaSe1 PrOdUcTiOnZ).pok
 0018448;/zxdb/sinclair/pokes/e/Egghead 5 - Egghead Round the Med (2007)(Cauldwell, Jonathan).pok
 0018543;/zxdb/sinclair/pokes/w/Wizard of Wor (2007)(Weird Science).pok
 0018603;/zxdb/sinclair/pokes/d/Disparo (1985)(VideoSpectrum).pok
 0018775;/zxdb/sinclair/pokes/p/Pamela the Zombie Hunter (2005)(Miazga, Rafal).pok
 0018778;/zxdb/sinclair/pokes/b/Bug Zum (1985)(Load 'n' Run).pok
 0018829;/zxdb/sinclair/pokes/v/Viaje al Centro de la Tierra - Version Extendida (2007)(Topo Siglo XXI).pok
+0018831;/zxdb/sinclair/pokes/w/Willy in the Islands of Mystery - Part 1 - Exploration (2007)(Herve Ast).pok
+0018832;/zxdb/sinclair/pokes/j/Jet Set Willy 64 - Manic Miner - James Bond (2007)(Broadsoft).pok
 0018834;/zxdb/sinclair/pokes/b/Brisca (1985)(Investronica).pok
 0018836;/zxdb/sinclair/pokes/e/Extraordinarios Casos del Dr. Van Halen Volumen 2 Relato I - Las Calles del Miedo, Los (2008)(Caubet, Josep Coletas).pok
 0018840;/zxdb/sinclair/pokes/s/Space Rocks (2007)(Penedo, Nuno Miguel).pok
@@ -2814,19 +2923,23 @@
 0019185;/zxdb/sinclair/pokes/b/Big Trouble! (1986)(Suzy Soft).pok
 0019226;/zxdb/sinclair/pokes/i/It's Wet Jelly (2008)(Collins, Paul E.).pok
 0019832;/zxdb/sinclair/pokes/b/Blob, The (1984)(Goble, Andrew).pok
+0020661;/zxdb/sinclair/pokes/j/Jet Set Willy X (2006)(Twibright Labs).pok
 0020686;/zxdb/sinclair/pokes/s/Super Crap Invaders (2004)(Woodmass, Mark).pok
+0020687;/zxdb/sinclair/pokes/w/Willy - The Man Who Sold the World! (2008)(BaSe1 PrOdUcTiOnZ).pok
 0020723;/zxdb/sinclair/pokes/r/Red Cap (1986)(Load 'n' Run).pok
 0020731;/zxdb/sinclair/pokes/a/Armageddon (1993)(SVC).pok
 0020783;/zxdb/sinclair/pokes/m/Myth II - Return to Hell (2008)(Kuznetsov, Denis).pok
 0020896;/zxdb/sinclair/pokes/r/Retro Fusion Game, The (2008)(Cauldwell, Jonathan).pok
 0020934;/zxdb/sinclair/pokes/p/Phantomasa v.2 (1993)(LOKOsoft).pok
 0020940;/zxdb/sinclair/pokes/c/Classic Japanese Monster Castle (1991)(LOKOsoft).pok
+0020998;/zxdb/sinclair/pokes/m/Marina - The Fire Quest (2007)(Makovsky, Igor).pok
 0021092;/zxdb/sinclair/pokes/d/Dice (19xx)(Rojersoft).pok
 0021139;/zxdb/sinclair/pokes/l/Little Ghost (1997)(Dr. Dash).pok
 0021241;/zxdb/sinclair/pokes/p/Pecinski Heroj (1987)(Suzy Soft).pok
 0021316;/zxdb/sinclair/pokes/r/Rallybug (2008)(Cauldwell, Jonathan).pok
 0021377;/zxdb/sinclair/pokes/r/RIP (2002)(Petrov, Roman).pok
 0021506;/zxdb/sinclair/pokes/g/Gallows (2000)(Taras).pok
+0021611;/zxdb/sinclair/pokes/w/Willy and the Dodecahedron (2008)(Hill, Stuart J.).pok
 0021623;/zxdb/sinclair/pokes/n/Nipik 2 (2008)(Triumph Game Labs).pok
 0021638;/zxdb/sinclair/pokes/i/ILogicAll (2008)(Computer Emuzone).pok
 0021793;/zxdb/sinclair/pokes/b/B.A.D. (1993)(MQM Team).pok
@@ -2834,6 +2947,7 @@
 0021813;/zxdb/sinclair/pokes/k/Kljuc (1988)(Suzy Soft).pok
 0021953;/zxdb/sinclair/pokes/n/Nonocross (2008)(Digital Brains).pok
 0022226;/zxdb/sinclair/pokes/j/Jet Set Willy 64 - Flash Manic Miner (2008)(Broadsoft).pok
+0022700;/zxdb/sinclair/pokes/m/Manic Miner - Matthew Smith 2008 Remix (2008)(Broadsoft).pok
 0022903;/zxdb/sinclair/pokes/n/Ninja Grannies (19xx)(Hickingbottom, Dean).pok
 0022904;/zxdb/sinclair/pokes/f/Frogger (2009)(Deanysoft).pok
 0023027;/zxdb/sinclair/pokes/s/Skyscraper of Doom (2009)(Miazga, Rafal).pok
@@ -2841,6 +2955,7 @@
 0023316;/zxdb/sinclair/pokes/e/Extraordinarios Casos del Dr. Van Halen Volumen 2 Relato III - El Hijo del Crepusculo, Los (2009)(Caubet, Josep Coletas).pok
 0023326;/zxdb/sinclair/pokes/c/Corona Encantada, La (2009)(Karoshi Corporation).pok
 0023328;/zxdb/sinclair/pokes/i/Insert Coins 2 (2009)(OCTOCOM).pok
+0023330;/zxdb/sinclair/pokes/m/Manic Miner - 3D Demo (2004)(Langmead, Jim).pok
 0023351;/zxdb/sinclair/pokes/n/Nanako Descends to Hell (2009)(Ubhres Productions).pok
 0023487;/zxdb/sinclair/pokes/g/Gommy, Defensor Medieval (2009)(RetroWorks).pok
 0023540;/zxdb/sinclair/pokes/m/More Tea, Vicar (2012)(Cronosoft).pok
@@ -2864,6 +2979,7 @@
 0024410;/zxdb/sinclair/pokes/v/Viaje al Centro de la Napia (2010)(Ubhres Productions).pok
 0024417;/zxdb/sinclair/pokes/m/Moggy Adventure (2010)(Ubhres Productions).pok
 0024441;/zxdb/sinclair/pokes/g/Galactic Jailbreak + Snake (1983)(Apocalypse).pok
+0024553;/zxdb/sinclair/pokes/w/What Willy Did Next (2010)(NorthSim Publications).pok
 0024601;/zxdb/sinclair/pokes/i/Invasion of the Zombie Monsters (2010)(RELEVO Videogames).pok
 0024706;/zxdb/sinclair/pokes/k/Kyd Cadet (2010)(Jenkinson, Paul).pok
 0024820;/zxdb/sinclair/pokes/g/Ghost Castle (2010)(CodenameV).pok
@@ -2878,10 +2994,12 @@
 0025106;/zxdb/sinclair/pokes/s/Super Lopez - El Senor de los Chupetes (1989)(Rino-Soft).pok
 0025136;/zxdb/sinclair/pokes/h/Horace in the Mystic Woods (2010)(Smith, Bob).pok
 0025145;/zxdb/sinclair/pokes/o/Oddi the Viking (2010)(Digital Brains).pok
+0025226;/zxdb/sinclair/pokes/j/Jet Set Chile (2010)(London Circus Cats).pok
 0025250;/zxdb/sinclair/pokes/t/Teodoro no Sabe Volar (2010)(RetroWorks).pok
 0025269;/zxdb/sinclair/pokes/k/Kyd Cadet II - The Rescue of Pobbleflu (2010)(Jenkinson, Paul).pok
 0025374;/zxdb/sinclair/pokes/c/Crimbo (2010)(Little Shop of Pixels).pok
 0025409;/zxdb/sinclair/pokes/s/Sid Spanners (2010)(Digital Prawn).pok
+0025421;/zxdb/sinclair/pokes/j/Jet Set Willy - The 2010 Megamix (2010)(Gromann, Daniel).pok
 0025461;/zxdb/sinclair/pokes/s/Sid Spanners 2 - The Slackening (2011)(Digital Prawn).pok
 0025468;/zxdb/sinclair/pokes/s/Stamp Quest (2011)(Stonechat Productions).pok
 0025517;/zxdb/sinclair/pokes/m/Magic Land of Landlords, The (1986)(Load 'n' Run).pok
@@ -2891,6 +3009,7 @@
 0026115;/zxdb/sinclair/pokes/c/Cray 5 (2011)(RetroWorks).pok
 0026120;/zxdb/sinclair/pokes/s/Sid Spanners 4 - Timeloop (2011)(Digital Prawn).pok
 0026193;/zxdb/sinclair/pokes/r/Retrobsesion (2011)(J.B.G.V.).pok
+0026268;/zxdb/sinclair/pokes/f/Frankenstein Jnr. (1990)(Cartoon Time).pok
 0026331;/zxdb/sinclair/pokes/s/Space Flight (1986)(Load 'n' Run).pok
 0026332;/zxdb/sinclair/pokes/v/Voleur, Le (1986)(Load 'n' Run).pok
 0026353;/zxdb/sinclair/pokes/r/Roadstar (1986)(Load 'n' Run).pok
@@ -2911,8 +3030,13 @@
 0026509;/zxdb/sinclair/pokes/e/Explorer (1988)(Load 'n' Run).pok
 0026513;/zxdb/sinclair/pokes/m/Micronauts (1988)(Load 'n' Run).pok
 0026527;/zxdb/sinclair/pokes/s/Stela (2011)(J.B.G.V.).pok
+0026534;/zxdb/sinclair/pokes/d/Dizzy & ZX (1986)(K-Soft).pok
+0026536;/zxdb/sinclair/pokes/e/Elite 3 (1993)(Shadow Soft).pok
 0026539;/zxdb/sinclair/pokes/a/Aahku al Rescate (2011)(Kabuto Factory).pok
+0026550;/zxdb/sinclair/pokes/s/Sunni Gummy (2002)(Rover Soft).pok
 0026555;/zxdb/sinclair/pokes/d/Dizzy Y - Return to Russia (1995)(Speed Code).pok
+0026556;/zxdb/sinclair/pokes/b/Barbarian 128K (19xx)(Bitmunchers).pok
+0026568;/zxdb/sinclair/pokes/e/Elite 2 (19xx)(Mild Soft).pok
 0026574;/zxdb/sinclair/pokes/d/Dex (2011)(Cheese Freak).pok
 0026600;/zxdb/sinclair/pokes/h/Horace Goes to the Tower (2011)(Mojon Twins, The).pok
 0026822;/zxdb/sinclair/pokes/t/Tetris II Returns (2011)(Hippiman).pok
@@ -2925,15 +3049,19 @@
 0027161;/zxdb/sinclair/pokes/d/Devil's Castle (2011)(Caubet, Josep Coletas).pok
 0027162;/zxdb/sinclair/pokes/d/Dingo (2011)(Tardis Remakes).pok
 0027212;/zxdb/sinclair/pokes/h/Heroes of Magic (2011)(Caubet, Josep Coletas).pok
+0027215;/zxdb/sinclair/pokes/c/Clopit! (2011)(BaSe1 PrOdUcTiOnZ).pok
+0027225;/zxdb/sinclair/pokes/v/Vampire Hunter Willy (2011)(Lee, Simon D.).pok
 0027226;/zxdb/sinclair/pokes/e/Escape From the Holy Tower (2011)(Jevilon Soft).pok
 0027253;/zxdb/sinclair/pokes/s/Streets of Doom (2011)(Miazga, Rafal).pok
 0027261;/zxdb/sinclair/pokes/q/Quest for Witchcraft (2011)(Scene+).pok
 0027279;/zxdb/sinclair/pokes/f/Future Looter (2011)(Timmy).pok
 0027294;/zxdb/sinclair/pokes/p/Phantomas Tales #4 - Severin Sewers (2012)(Ubhres Productions).pok
 0027305;/zxdb/sinclair/pokes/g/Gloop Troops - The Lost Crown (2011)(Little Shop of Pixels).pok
+0027310;/zxdb/sinclair/pokes/w/Willy Meets the Beatles (2012)(Lee, Simon D.).pok
 0027372;/zxdb/sinclair/pokes/m/Maritrini, Freelance Monster Slayer (2012)(Ubhres Productions).pok
 0027381;/zxdb/sinclair/pokes/j/JINJ 2 - Belmonte's Revenge (2012)(RetroWorks).pok
 0027389;/zxdb/sinclair/pokes/r/Retrobsesion II (2012)(J.B.G.V.).pok
+0027443;/zxdb/sinclair/pokes/p/Pip the Pipistrelle (2012)(Purple Unicorn).pok
 0027446;/zxdb/sinclair/pokes/j/Julieta Noseque (19xx)(Mojon Twins, The).pok
 0027464;/zxdb/sinclair/pokes/s/Sprite Spring (1986)(MicroHobby Especial).pok
 0027482;/zxdb/sinclair/pokes/f/Freddie Laker's Airline Capers (2012)(Rutlemore Games).pok
@@ -2941,6 +3069,7 @@
 0027506;/zxdb/sinclair/pokes/a/Antiquity Jones (2012)(Jenkinson, Paul).pok
 0027587;/zxdb/sinclair/pokes/l/Lost Tapes of Albion, The (2012)(Stonechat Productions).pok
 0027593;/zxdb/sinclair/pokes/b/Brian vs. the Bullies (2012)(Potts, Andrew).pok
+0027597;/zxdb/sinclair/pokes/d/Dizzy Z (19xx)(Speed Code).pok
 0027624;/zxdb/sinclair/pokes/m/Majikazo (2012)(RetroWorks).pok
 0027653;/zxdb/sinclair/pokes/p/Phantomas en el Museo (2012)(Ubhres Productions).pok
 0027677;/zxdb/sinclair/pokes/s/Speccy Bros (2012)(Climacus).pok
@@ -2977,8 +3106,10 @@
 0028160;/zxdb/sinclair/pokes/f/Funky Fungus (2013)(Grussu, Alessandro).pok
 0028162;/zxdb/sinclair/pokes/c/Cattivik (2013)(Amore, Gabriele).pok
 0028165;/zxdb/sinclair/pokes/a/ABYDOS (2013)(J.B.G.V.).pok
+0028169;/zxdb/sinclair/pokes/t/Terry the Turtle (2013)(Purple Unicorn).pok
 0028172;/zxdb/sinclair/pokes/s/Souls (2013)(Retrobytes Productions).pok
 0028175;/zxdb/sinclair/pokes/k/Knights & Demons DX (2013)(Kabuto Factory).pok
+0028176;/zxdb/sinclair/pokes/t/Terry the Turtle-Vektor (2013)(Purple Unicorn).pok
 0028179;/zxdb/sinclair/pokes/t/Thunderturds (2013)(Death Squad, The).pok
 0028186;/zxdb/sinclair/pokes/l/Lost Treasure, The (2013)(Watson, Andy).pok
 0028187;/zxdb/sinclair/pokes/l/Larry The Lander II - Cosmic Carnage (2013)(Purple Unicorn).pok
@@ -3142,10 +3273,12 @@
 0030341;/zxdb/sinclair/pokes/i/In the Walls of Eryx (2016)(Monster's Legs Productions).pok
 0030347;/zxdb/sinclair/pokes/p/Pietro Bros (2016)(Gonzalez, Cristian M.).pok
 0030362;/zxdb/sinclair/pokes/h/Heroes Rescue (2016)(Defecto Digital Studios).pok
+0030363;/zxdb/sinclair/pokes/w/Willy Games - The First 30 Years Quiz (2016)(Gromann, Daniel).pok
 0030366;/zxdb/sinclair/pokes/m/Monty's Honey Run (2017)(Bubblesoft).pok
 0030369;/zxdb/sinclair/pokes/m/Monty Mole and The Lost Souls (2017)(Bubblesoft).pok
 0030370;/zxdb/sinclair/pokes/f/Foggy's Quest (2017)(Rucksack Games).pok
 0030374;/zxdb/sinclair/pokes/t/Takeout Freakout (2017)(Nichol, Stephen).pok
+0030375;/zxdb/sinclair/pokes/j/Jet Set Willy II+ (2017)(Rowson, Derrick P.).pok
 0030377;/zxdb/sinclair/pokes/o/Ooze (2017)(Bubblesoft).pok
 0030378;/zxdb/sinclair/pokes/g/Globus (2017)(Sanchis, Paco Lafuente).pok
 0030379;/zxdb/sinclair/pokes/b/Big Javi's Adventure, The (2017)(Metsuke).pok
@@ -3154,4 +3287,11 @@
 0030383;/zxdb/sinclair/pokes/d/Dead Space (2017)(Radastan).pok
 0030385;/zxdb/sinclair/pokes/w/Wolfcastle McBain (2017)(Garcia, C. Oscar).pok
 0030393;/zxdb/sinclair/pokes/c/Computerspielemuseum's Museum Guide (2017)(Mojon Twins, The).pok
+0030399;/zxdb/sinclair/pokes/h/Hobbit 128, The (19xx)(-).pok
 0030401;/zxdb/sinclair/pokes/m/Metal Man Remixed (2015)(Origin, Oleg).pok
+0030409;/zxdb/sinclair/pokes/h/Hobbit, The - 128K Edition (2015)(-).pok
+0030435;/zxdb/sinclair/pokes/j/Jet Set Mini (2017)(Rushforth, Ian).pok
+0030436;/zxdb/sinclair/pokes/j/Jet Set Mixup (2017)(Ford, Andy).pok
+0030438;/zxdb/sinclair/pokes/j/Jet Set Willy - Heaven and Hell (2016)(R.F., Ian).pok
+0030439;/zxdb/sinclair/pokes/j/Jet Set Luis - Rumbo a la Costa Blanca (2015)(Softwarecete).pok
+0030440;/zxdb/sinclair/pokes/m/Manic Miner Hard (2017)(-).pok
