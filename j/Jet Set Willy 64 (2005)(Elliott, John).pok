@@ -401,13 +401,13 @@ M 8 35414 0 0
 M 8 35415 0 0
 M 8 35416 0 0
 Z 8 35415 126 0
-NHaving already applied the poke simply add these
+NMoves invisible object from First Landing to The Hall
 M 8 42183 11 0
 M 8 52196 10 0
 M 8 52197 13 0
 M 8 52198 60 0
 M 8 52199 242 0
 Z 8 52200 192 0
-NTo prevent this from happening
+NNo pitch decrease when life lost
 Z 8 35674 126 0
 Y
