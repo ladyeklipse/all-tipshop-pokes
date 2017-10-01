@@ -38,10 +38,10 @@ NGun (Water) +3 bombs
 Z 8 32747 232 0
 NGun (Water) +3 bombs + both keys
 Z 8 32747 235 0
-NSet Mr Rockitt's number to "9"
+NSet Mr Rockitt's number to ""9""
 M 8 32669 57 0
 Z 8 32677 57 0
-NSet Mr Withit's number to "4"
+NSet Mr Withit's number to ""4""
 M 8 32670 52 0
 Z 8 32678 52 0
 NMiss Take attends Assembly duty (Useful as she will leave the doors open)
@@ -86,7 +86,7 @@ M 8 52024 14 0
 M 8 52025 14 0
 M 8 52026 14 0
 Z 8 52027 14 0
-NSlow down Eric a little bit in demo mode (always walks instead of runs)
+NSlow down Eric (demo mode)
 M 8 62525 0 0
 Z 8 62526 0 0
 NIncrease lines (demo mode)
@@ -126,4 +126,23 @@ NYellow Room/Study Door open/shut (alt)
 Z 8 28767 203 0
 NNo key for Science room door
 Z 8 29685 0 0
+NHayley in boys skool during Playtime/Dinner/Assembly
+M 8 53559 14 0
+M 8 53560 14 0
+M 8 53561 14 0
+M 8 53562 14 0
+M 8 53563 14 0
+M 8 53556 14 0
+M 8 53557 14 0
+Z 8 53558 14 0
+NAlbert busy during Playtime
+M 8 52535 70 0
+M 8 52536 70 0
+M 8 52537 70 0
+M 8 52538 70 0
+Z 8 52539 70 0
+NSkool door and gate remain open
+M 8 59740 1 0
+M 8 59753 1 0
+Z 8 62577 194 0
 Y

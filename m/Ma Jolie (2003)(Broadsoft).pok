@@ -110,4 +110,54 @@ M 8 33885 7 0
 Z 8 33885 0 0
 NTurns off 'infinite lives' poke
 Z 8 35136 53 0
+NEugene not interested in guarding portal (Bug Byte)
+M 8 36348 0 0
+M 8 36349 0 0
+Z 8 36438 24 0
+NEugene not interested in guarding portal (Software Project)
+M 8 36359 0 0
+M 8 36360 0 0
+Z 8 36449 24 0
+NPortal not required (Bug Byte)
+M 8 36809 176 0
+M 8 36810 128 0
+M 8 36815 177 0
+Z 8 36816 128 0
+NPortal not Required (Software Project)
+M 8 36820 176 0
+M 8 36821 128 0
+M 8 36826 177 0
+Z 8 36827 128 0
+NEugene completely harmless (Bug Byte)
+Z 8 36408 0 0
+NEugene completely harmless (Software Project)
+Z 8 36419 0 0
+NSkylabs harmless (Bug Byte)
+Z 8 36552 0 0
+NSkylabs harmless (Software Project)
+Z 8 36563 0 0
+NNext cavern instead of loss of life (Bug Byte)
+M 8 34799 40 0
+Z 8 34800 144 0
+NNext cavern instead of loss of life (Software Project)
+M 8 34805 51 0
+Z 8 34806 144 0
+NLarger bonus for cavern completion (Bug Byte)
+Z 8 37051 45 0
+NLarger bonus for cavern completion (Software Project)
+Z 8 37062 45 0
+NReduce air drain in Solar Power Generator (Bug Byte)
+M 8 36236 0 0
+M 8 36237 0 0
+M 8 36238 0 0
+M 8 36239 0 0
+M 8 36240 0 0
+Z 8 36241 0 0
+NReduce air drain in Solar Power Generator (Software Project)
+M 8 36247 0 0
+M 8 36248 0 0
+M 8 36249 0 0
+M 8 36250 0 0
+M 8 36251 0 0
+Z 8 36252 0 0
 Y

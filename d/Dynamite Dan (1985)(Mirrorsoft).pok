@@ -12,4 +12,6 @@ NDynamite sticks found (0-8)
 Z 8 51320 256 0
 NPicked up oxygen bottle
 Z 8 51326 64 0
+NEnergy bar never decreases
+Z 8 51519 0 0
 Y
