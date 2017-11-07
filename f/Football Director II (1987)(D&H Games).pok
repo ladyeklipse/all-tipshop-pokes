@@ -1,11 +1,9 @@
-N[+2A]Weeks Contract [max 255]
+N[+2]Weeks Contract [max 255]
 Z 8 51343 256 0
-N[+2A]Money per week [max 121](hex)
+N[+2]Money per week [max 121]
 Z 8 51321 256 0
-N[+2A]Money (ВЈ50)
+N[+2]Money per week = 50
 Z 8 51321 72 0
-N[+2A]Money (ВЈ994)
-Z 8 51321 120 0
-N[+2A]Money (ВЈ998)
+N[+2]Money per week = 998
 Z 8 51321 121 0
 Y

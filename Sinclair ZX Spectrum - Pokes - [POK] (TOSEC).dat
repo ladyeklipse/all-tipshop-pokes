@@ -8,7 +8,7 @@
 		<category>TOSEC</category>
 		<version>2017-11-07</version>
 		<author>Lady Eklipse</author>
-		<date>07.11.2017 22:31:11</date>
+		<date>07.11.2017 22:54:22</date>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
@@ -720,7 +720,7 @@
 	</game>
 	<game name="Arkos (1988)(Zigurat)">
 		<description>Arkos (1988)(Zigurat)</description>
-		<rom name="Arkos (1988)(Zigurat).pok" size="269" crc="2ac2f078" md5="ac4a9e5da900dc0c5836f0127edea63d" sha1="c92ebbf5f0350160ad753e9d500f618d4b63a845"/>
+		<rom name="Arkos (1988)(Zigurat).pok" size="266" crc="71adc812" md5="731bb3f0aba572b04a7bb62b82bb4f4e" sha1="221c606006b457758ddd73a583fe173db555fca2"/>
 	</game>
 	<game name="Armageddon (1983)(Fashionsoft)">
 		<description>Armageddon (1983)(Fashionsoft)</description>
@@ -732,7 +732,7 @@
 	</game>
 	<game name="Army Moves (1987)(Dinamic)">
 		<description>Army Moves (1987)(Dinamic)</description>
-		<rom name="Army Moves (1987)(Dinamic).pok" size="1470" crc="cb8ab303" md5="11667b184f6a5df77a098673d43e5c62" sha1="e372062256a60a554f340a9cdffdfa0ed33118cb"/>
+		<rom name="Army Moves (1987)(Dinamic).pok" size="1480" crc="33c02ef9" md5="587c34a4e2b2162ad8f3c5c6abf098df" sha1="d2b9ce8ddbd6c5f0daa273246f862c09b10b4aec"/>
 	</game>
 	<game name="Artura (1989)(Gremlin Graphics)">
 		<description>Artura (1989)(Gremlin Graphics)</description>
@@ -3076,7 +3076,7 @@
 	</game>
 	<game name="Devil's Descent (1985)(Pocket Money)">
 		<description>Devil's Descent (1985)(Pocket Money)</description>
-		<rom name="Devil's Descent (1985)(Pocket Money).pok" size="40" crc="09beb621" md5="90f514b750877db77a7c694c6e8e5b19" sha1="6c848275ed5f9a08950463b83b8fa408fe698fbd"/>
+		<rom name="Devil's Descent (1985)(Pocket Money).pok" size="35" crc="79a04d26" md5="41199b8003400171906a7948ab0c9563" sha1="a420aac881484751a76cacc13c558bac643637a8"/>
 	</game>
 	<game name="Devils of the Deep (1983)(Richard Shepherd)">
 		<description>Devils of the Deep (1983)(Richard Shepherd)</description>
@@ -3636,7 +3636,7 @@
 	</game>
 	<game name="Electro (1984)(5D)">
 		<description>Electro (1984)(5D)</description>
-		<rom name="Electro (1984)(5D).pok" size="38" crc="0baf628c" md5="e03f56daec2c75c2395a5ff76d0b886d" sha1="4811d88cbb8f1bae1b771f2f58f694ee329a387e"/>
+		<rom name="Electro (1984)(5D).pok" size="33" crc="b5f5fd0f" md5="f4fadcc23907cd1a6382863a6ad133f7" sha1="2e03e2b648c0edf3f3242572b3498c2cfd826382"/>
 	</game>
 	<game name="Elektro Storm (1983)(PSS)">
 		<description>Elektro Storm (1983)(PSS)</description>
@@ -3896,7 +3896,7 @@
 	</game>
 	<game name="Extraordinarios Casos del Dr. Van Halen Caso 3 - Cantos de Anubis, Los (2005)(Caubet, Josep Coletas)">
 		<description>Extraordinarios Casos del Dr. Van Halen Caso 3 - Cantos de Anubis, Los (2005)(Caubet, Josep Coletas)</description>
-		<rom name="Extraordinarios Casos del Dr. Van Halen Caso 3 - Cantos de Anubis, Los (2005)(Caubet, Josep Coletas).pok" size="1198" crc="785ab3c9" md5="89b98da116d99eeda968f70dead68b02" sha1="866212122a13ef696633792cc0d4be89f64a56bd"/>
+		<rom name="Extraordinarios Casos del Dr. Van Halen Caso 3 - Cantos de Anubis, Los (2005)(Caubet, Josep Coletas).pok" size="1204" crc="341e434a" md5="a5f7e6af64a5efc913f56d62182f330c" sha1="3bc8e904a22924c442cc341e0d37b2d6e83a1c65"/>
 	</game>
 	<game name="Extraordinarios Casos del Dr. Van Halen Caso 4 - Tristes Alas del Destino, Los (2005)(Caubet, Josep Coletas)">
 		<description>Extraordinarios Casos del Dr. Van Halen Caso 4 - Tristes Alas del Destino, Los (2005)(Caubet, Josep Coletas)</description>
@@ -3992,7 +3992,7 @@
 	</game>
 	<game name="Fantastic Mister Fruity, The (2005)(Cronosoft)">
 		<description>Fantastic Mister Fruity, The (2005)(Cronosoft)</description>
-		<rom name="Fantastic Mister Fruity, The (2005)(Cronosoft).pok" size="108" crc="cdd64973" md5="14c1a6830caea9b681b33ea0104db01d" sha1="06685e673fe9f653ce4b2a0c2c9c6d0c439e665e"/>
+		<rom name="Fantastic Mister Fruity, The (2005)(Cronosoft).pok" size="102" crc="dbd11238" md5="789ebbd1e2d08b840cea05ddaa06ea2f" sha1="3d7d45f3574e13b5e94917257b5581ff285b69a8"/>
 	</game>
 	<game name="Fantastic Voyage (1984)(Quicksilva)">
 		<description>Fantastic Voyage (1984)(Quicksilva)</description>
@@ -4212,7 +4212,7 @@
 	</game>
 	<game name="Football Director II (1987)(D&amp;H Games)">
 		<description>Football Director II (1987)(D&amp;H Games)</description>
-		<rom name="Football Director II (1987)(D&amp;H Games).pok" size="222" crc="822d8789" md5="d6e09ee1e4693b065fa535c7f04eccd9" sha1="0d283ada8bc08027afa4bd30ed96440dfcfe63f4"/>
+		<rom name="Football Director II (1987)(D&amp;H Games).pok" size="183" crc="728adadc" md5="c658efdf10fb6ba5974507b216b10e55" sha1="9e2f89dd19aa7232e3222fc42b5a0109e5c58365"/>
 	</game>
 	<game name="Footballer of the Year (1986)(Gremlin Graphics)">
 		<description>Footballer of the Year (1986)(Gremlin Graphics)</description>
@@ -4484,7 +4484,7 @@
 	</game>
 	<game name="Galaxy Attack (1983)(Sunshine Books)">
 		<description>Galaxy Attack (1983)(Sunshine Books)</description>
-		<rom name="Galaxy Attack (1983)(Sunshine Books).pok" size="70" crc="931e2dfe" md5="a1de462a1537481061c6ec780d45cef5" sha1="374f8220dbde81d976f04ae4ac9e25db3646cdb6"/>
+		<rom name="Galaxy Attack (1983)(Sunshine Books).pok" size="65" crc="b56199a3" md5="722b4228d899f0332b0fcea1fc4d3de2" sha1="0a05b1bc90147d92c63db921f54f6608cf40fe86"/>
 	</game>
 	<game name="Galaxy Fighter (2004)(Computer Emuzone)">
 		<description>Galaxy Fighter (2004)(Computer Emuzone)</description>
@@ -4512,7 +4512,7 @@
 	</game>
 	<game name="Game Over (1987)(Dinamic)">
 		<description>Game Over (1987)(Dinamic)</description>
-		<rom name="Game Over (1987)(Dinamic).pok" size="1522" crc="0274c5d4" md5="f77b0f0a4a15ae536b108896b4a1b550" sha1="ba3e82b3d3303be6c7129df7cab3d672b8a1dc96"/>
+		<rom name="Game Over (1987)(Dinamic).pok" size="1520" crc="1509788d" md5="10c3bc5a653fb5fc97d5a233038e3189" sha1="2bbf802a05fbfc5704c85457220292fe4aeb0e9a"/>
 	</game>
 	<game name="Games Designer (1983)(Quicksilva)">
 		<description>Games Designer (1983)(Quicksilva)</description>
@@ -4780,7 +4780,7 @@
 	</game>
 	<game name="Gonzzalezz (1989)(Opera Soft)">
 		<description>Gonzzalezz (1989)(Opera Soft)</description>
-		<rom name="Gonzzalezz (1989)(Opera Soft).pok" size="234" crc="cec9327f" md5="c71a30ee0f4db0dcd303c1ba6258684f" sha1="d55ff65d1bb5be4ecade12a53da77413dd692ebd"/>
+		<rom name="Gonzzalezz (1989)(Opera Soft).pok" size="232" crc="4cb8b76f" md5="35daea494477098ead4aedeb0262c772" sha1="5157f05008732e23a35cb44c19a99fe072e6c32c"/>
 	</game>
 	<game name="Good Night Kanga (2016)(Amore, Gabriele)">
 		<description>Good Night Kanga (2016)(Amore, Gabriele)</description>
@@ -4908,7 +4908,7 @@
 	</game>
 	<game name="Gryzor (1987)(Ocean)">
 		<description>Gryzor (1987)(Ocean)</description>
-		<rom name="Gryzor (1987)(Ocean).pok" size="1827" crc="f7537406" md5="a7c0e41d5f45587ba9665a6901fc236f" sha1="631414563b8289334a63e7c8dd2a05eb6d8c4a1a"/>
+		<rom name="Gryzor (1987)(Ocean).pok" size="1821" crc="0033182a" md5="83b41096e59dd74017d65ef805b1a4cd" sha1="c74f14c56cba49cae2c5f60fc4b0c6829a0bce11"/>
 	</game>
 	<game name="Guardian II - Revenge of the Mutants (1990)(Hi-Tec)">
 		<description>Guardian II - Revenge of the Mutants (1990)(Hi-Tec)</description>
@@ -7376,7 +7376,7 @@
 	</game>
 	<game name="Metropolis (1988)(Power House, The)">
 		<description>Metropolis (1988)(Power House, The)</description>
-		<rom name="Metropolis (1988)(Power House, The).pok" size="143" crc="4c6a9df8" md5="0efda66efc427655c5d73e490be966e5" sha1="cc0462dba950760999bb8f1ca257ce6a76c24317"/>
+		<rom name="Metropolis (1988)(Power House, The).pok" size="133" crc="57663706" md5="b5ce1c493a577e94f87f44d44b2b5047" sha1="561c98f10541ab8fd9736dd3520ad0f71b64dac1"/>
 	</game>
 	<game name="Metropolis (1989)(Topo Soft)">
 		<description>Metropolis (1989)(Topo Soft)</description>
@@ -7956,7 +7956,7 @@
 	</game>
 	<game name="Navy SEALs (1991)(Ocean)">
 		<description>Navy SEALs (1991)(Ocean)</description>
-		<rom name="Navy SEALs (1991)(Ocean).pok" size="150" crc="166e60f6" md5="3c60cccbd0d158a7d7cf8d0f0ff253c0" sha1="dafc202e4275b1500c15d614dd906f3f1179a642"/>
+		<rom name="Navy SEALs (1991)(Ocean).pok" size="148" crc="cc999bb1" md5="b4796d5be781d723f5c79d30c31419d3" sha1="959480be8bd44c8b912414d255b12353f6024990"/>
 	</game>
 	<game name="Nebulus (1987)(Hewson Consultants)">
 		<description>Nebulus (1987)(Hewson Consultants)</description>
@@ -8024,7 +8024,7 @@
 	</game>
 	<game name="New Dizzy (1993)(Kutin, V.)">
 		<description>New Dizzy (1993)(Kutin, V.)</description>
-		<rom name="New Dizzy (1993)(Kutin, V.).pok" size="293" crc="fc6e2868" md5="d159a51bcd2450c62f410ab50b6d393d" sha1="55ea4f3a4cf0e68c671a60874e95836e7eb786d1"/>
+		<rom name="New Dizzy (1993)(Kutin, V.).pok" size="291" crc="9a4837e5" md5="4f0e419bae816de6cf67a34ffff9eec1" sha1="c33704d9f243ee08d53cb7e9db501a0fa84094f7"/>
 	</game>
 	<game name="New York Warriors (1990)(Virgin Games)">
 		<description>New York Warriors (1990)(Virgin Games)</description>
@@ -8660,7 +8660,7 @@
 	</game>
 	<game name="Phantis (1987)(Dinamic)">
 		<description>Phantis (1987)(Dinamic)</description>
-		<rom name="Phantis (1987)(Dinamic).pok" size="343" crc="752eef3d" md5="8f4194f80e82b30143e62b562cbd5698" sha1="c2bed7e6de92bfec65b3077adfb958e3564c6b6a"/>
+		<rom name="Phantis (1987)(Dinamic).pok" size="341" crc="911de7d5" md5="9b69f06740b607e4274681841edd3cd1" sha1="d97b60522f0d53583adf3ed30e6c3a89c088f9a6"/>
 	</game>
 	<game name="Phantom Club (1988)(Ocean)">
 		<description>Phantom Club (1988)(Ocean)</description>
@@ -11224,7 +11224,7 @@
 	</game>
 	<game name="Storm (1986)(Mastertronic)">
 		<description>Storm (1986)(Mastertronic)</description>
-		<rom name="Storm (1986)(Mastertronic).pok" size="89" crc="ee946696" md5="5299ace69d9401c850eb51abff6ab10d" sha1="9255f50f2c75049b0a93dd30f66cf3b3fbe1c52a"/>
+		<rom name="Storm (1986)(Mastertronic).pok" size="87" crc="e1e9932b" md5="32d0e5b882ef6bef271139e4d37c6b9e" sha1="85d287a92ccaa9923e6acfb1e269f3697fb107cf"/>
 	</game>
 	<game name="Stormbringer (1987)(Mastertronic Added Dimension)">
 		<description>Stormbringer (1987)(Mastertronic Added Dimension)</description>
@@ -11244,7 +11244,7 @@
 	</game>
 	<game name="Stranded (2005)(Cronosoft)">
 		<description>Stranded (2005)(Cronosoft)</description>
-		<rom name="Stranded (2005)(Cronosoft).pok" size="391" crc="7213899c" md5="8986da3996f5f9b3c25da901eec1ffdf" sha1="d50368a6a9f622ff3ba7c7b5ff5ae19a788cf5df"/>
+		<rom name="Stranded (2005)(Cronosoft).pok" size="385" crc="6c68d421" md5="e170e8299fa7c6c553341ced39006050" sha1="165ab7cd4f6b776291be7a4511ce753571ba3285"/>
 	</game>
 	<game name="Strangel (2001)(Sendy)">
 		<description>Strangel (2001)(Sendy)</description>
@@ -11304,11 +11304,11 @@
 	</game>
 	<game name="Strike Force Cobra (1986)(Piranha)">
 		<description>Strike Force Cobra (1986)(Piranha)</description>
-		<rom name="Strike Force Cobra (1986)(Piranha).pok" size="262" crc="1be8d954" md5="e8bb5ff689d315494c64987c3537c0cb" sha1="b0702fa1aed782099bcb55f406d7b08953470f96"/>
+		<rom name="Strike Force Cobra (1986)(Piranha).pok" size="261" crc="aaab33d5" md5="7177280f3d7ce0237fac7de1f350fa42" sha1="37b0793a21355d8d9d4fb6746fbc03364fe729d0"/>
 	</game>
 	<game name="Strike Force SAS (1987)(Mikro-Gen)">
 		<description>Strike Force SAS (1987)(Mikro-Gen)</description>
-		<rom name="Strike Force SAS (1987)(Mikro-Gen).pok" size="215" crc="9105f9eb" md5="ee0e54ee463a5de0ce59c2036270ef27" sha1="95f68ec2a16666c4ad2f70700ccb60b4497ec728"/>
+		<rom name="Strike Force SAS (1987)(Mikro-Gen).pok" size="213" crc="820d320a" md5="87404445f09e8cfdfb64df0a477047bd" sha1="cefe060756b2becbb37facf51acf03e3bcafeda1"/>
 	</game>
 	<game name="Striker (1989)(Cult Games)">
 		<description>Striker (1989)(Cult Games)</description>
@@ -11472,7 +11472,7 @@
 	</game>
 	<game name="Super Sam (1985)(Budgie)">
 		<description>Super Sam (1985)(Budgie)</description>
-		<rom name="Super Sam (1985)(Budgie).pok" size="73" crc="8155348f" md5="413069aef29db83073861b904b0ba1d2" sha1="62ae81f7ee1a70d3b51dad9338363f25bf569b65"/>
+		<rom name="Super Sam (1985)(Budgie).pok" size="68" crc="a5228e5b" md5="49604cad9bdf215bb174485996989118" sha1="d5505641a08dfebe56f12928d5d754f2cd5d1ea2"/>
 	</game>
 	<game name="Super Scramble Simulator (1989)(Gremlin Graphics)">
 		<description>Super Scramble Simulator (1989)(Gremlin Graphics)</description>
@@ -12148,7 +12148,7 @@
 	</game>
 	<game name="Train - Escape to Normandy, The (1988)(Electronic Arts)">
 		<description>Train - Escape to Normandy, The (1988)(Electronic Arts)</description>
-		<rom name="Train - Escape to Normandy, The (1988)(Electronic Arts).pok" size="550" crc="988b1e06" md5="b8aa79d58c137b7adf983162b848fe01" sha1="feb4d9f1e1a2878ea316b8a5df3a11b43d316718"/>
+		<rom name="Train - Escape to Normandy, The (1988)(Electronic Arts).pok" size="548" crc="6c068a6f" md5="3ce8eedce107983c5995af33c9571645" sha1="48bbfd76a4fd53867466b4153c5aee40d305c28a"/>
 	</game>
 	<game name="Train Game, The (1983)(Microsphere)">
 		<description>Train Game, The (1983)(Microsphere)</description>
@@ -12636,7 +12636,7 @@
 	</game>
 	<game name="WWF WrestleMania (1991)(Ocean)">
 		<description>WWF WrestleMania (1991)(Ocean)</description>
-		<rom name="WWF WrestleMania (1991)(Ocean).pok" size="514" crc="e947f55b" md5="719966487a0218c19725a4fc05e9b6c9" sha1="d44e15b8cfd0a3769ce15cc3566fa71d2913a9fb"/>
+		<rom name="WWF WrestleMania (1991)(Ocean).pok" size="512" crc="54e9baa6" md5="63ebf7ce139db91f9419ba778e4c01ed" sha1="391c5f3eb4b3a60d7ea3c0f1144a5cf419457993"/>
 	</game>
 	<game name="Wacky Darts (1991)(Code Masters)">
 		<description>Wacky Darts (1991)(Code Masters)</description>
@@ -13020,7 +13020,7 @@
 	</game>
 	<game name="Yeti (1988)(Destiny)">
 		<description>Yeti (1988)(Destiny)</description>
-		<rom name="Yeti (1988)(Destiny).pok" size="457" crc="0ab500ad" md5="f91be2224cc03277f988f0598d87534a" sha1="957254f9d99699833f87ae62e1ef5b01c37ed0d6"/>
+		<rom name="Yeti (1988)(Destiny).pok" size="455" crc="5546dabe" md5="f4f49e434ec5ab3c6a8e4240ecd37f23" sha1="e377614c85915be8d2a9e15be19804b72b47cd25"/>
 	</game>
 	<game name="Yie Ar Kung-Fu (1985)(Imagine)">
 		<description>Yie Ar Kung-Fu (1985)(Imagine)</description>
