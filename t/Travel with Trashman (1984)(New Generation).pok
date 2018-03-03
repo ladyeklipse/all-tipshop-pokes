@@ -1,0 +1,19 @@
+NDon't spend money
+Z 8 38656 142 0
+NYou've 9999 pounds (the max) -use these when you've to select city- (*)
+M 8 35893 153 0
+Z 8 35894 153 0
+NYou've 9999 pounds (the max) -these pokes ONLY work while you're playing a city
+M 8 61431 153 0
+Z 8 61432 153 0
+NDon't spend money (alt)
+M 8 38656 26 0
+Z 8 38657 0 0
+NThe game doesn't end when Cash arrives at 0
+M 8 34966 0 0
+Z 8 35172 98 0
+NThe bull doesn't kill
+Z 8 46857 58 0
+NYou are not deported from Moscow
+Z 8 51238 24 0
+Y
