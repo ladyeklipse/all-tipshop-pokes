@@ -18,4 +18,8 @@ N[128K]Sets time left (48-57)
 M 8 39226 256 0
 M 8 39227 256 0
 Z 8 39228 256 0
+N[48K]Infinite time
+Z 8 37138 0 0
+N[128K]Infinite time
+Z 8 37757 0 0
 Y

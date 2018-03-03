@@ -1,6 +1,6 @@
 NEnergy
 Z 8 33370 256 0
-NEnergy (alt)
+NEnergy
 M 8 34650 0 0
 Z 8 34651 195 0
 NClouds=energy
@@ -36,4 +36,8 @@ M 8 57015 0 0
 Z 8 57051 0 0
 NNo webs produced
 Z 8 50168 201 0
+NEnergy
+M 8 34650 0 0
+M 8 34651 195 0
+Z 8 34768 107 0
 Y

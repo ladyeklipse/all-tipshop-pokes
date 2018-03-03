@@ -6,9 +6,16 @@ NInfinite Cash
 M 8 30027 0 0
 M 8 30644 0 0
 Z 8 30762 0 0
-NSilences the (slightly) irritating noise on the title screen
+NNo noise on title screen
 M 8 28716 0 0
 Z 8 28717 0 0
 NFree ski hire
 Z 8 30027 201 0
+NNo fee for ambulances
+M 8 27225 7 0
+Z 8 30762 0 0
+NChange currency to Pounds
+M 8 24775 96 0
+M 8 27213 96 0
+Z 8 27249 96 0
 Y

@@ -62,10 +62,6 @@ NOne item to enter bedroom
 Z 8 37925 0 0
 NRemoves colour code (First try only)
 Z 8 34507 201 0
-NNo death from fall OFF
-Z 8 36477 50 0
-NSuper jumps OFF
-Z 8 36358 60 0
 NMakes game run faster/smoother
 M 8 65216 237 0
 M 8 65217 160 0
@@ -382,11 +378,11 @@ NDisable all guardians
 M 8 37334 195 0
 M 8 37335 52 0
 Z 8 37336 146 0
-NPrevent "top exit" from The Watch Tower
+NPrevent ""top exit"" from The Watch Tower
 M 8 62167 171 0
 M 8 62169 9 0
 Z 8 62173 4 0
-NPrevent "top exit" from Rescue Esmeralda
+NPrevent ""top exit"" from Rescue Esmeralda
 M 8 52742 10 0
 Z 8 52743 170 0
 NImmunity to arrows
@@ -409,4 +405,8 @@ M 8 52199 242 0
 Z 8 52200 192 0
 NNo pitch decrease when life lost
 Z 8 35674 126 0
+NNo death from fall OFF
+Z 8 36477 50 0
+NSuper jumps OFF
+Z 8 36358 60 0
 Y

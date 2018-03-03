@@ -38,7 +38,7 @@ NNo interaction with objects
 Z 8 39854 201 0
 NBat-Ghost!
 Z 8 40658 201 0
-NInfinite Lives (alt)
+NInfinite Lives
 Z 8 36797 0 0
 NEnemies can't move (but they can kill you)
 Z 8 33333 33 0
@@ -68,4 +68,6 @@ NFloating enemies
 Z 8 33240 201 0
 NMonstrous twists
 Z 8 38938 201 0
+NSuper jump OFF
+Z 8 36934 53 0
 Y
