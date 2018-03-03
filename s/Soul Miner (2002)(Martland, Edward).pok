@@ -1,17 +1,17 @@
-NInfinite Lives
+NInfinite Lives - destroys meanies
 Z 8 35899 0 0
 NItems
 M 8 37874 0 61
 Z 8 37874 61 0
-NNo death from fall on/off
+NNo death from fall
 Z 8 36477 1 50
-NSuper jumps on/off
+NNo G-Force
 Z 8 36358 0 60
 NWRITETYPER on
 Z 8 34275 10 0
-NScreen after death (0-63)
+NStart in room 1-63
 Z 8 33824 256 0
-NScreen at beginning (0-63)
+NStart in room 1-63
 Z 8 34795 256 0
 NEasier object in Nightmare Room
 Z 8 36353 44 0
@@ -336,11 +336,11 @@ M 8 35268 192 0
 Z 8 35269 254 0
 NPrevent game auto pause
 Z 8 35518 0 0
-NInfinite Time
+NInfinite Time В (Try GS)
 M 8 35414 0 0
 M 8 35415 0 0
 Z 8 35416 0 0
-NInfinite Time (alt)
+NInfinite Time В (Try GS)
 Z 8 35415 126 0
 NStop in game tune deteriorating after each loss of life
 M 8 35665 62 0
@@ -378,11 +378,11 @@ NDisable all guardians
 M 8 37334 195 0
 M 8 37335 52 0
 Z 8 37336 146 0
-NPrevent ""top exit"" from The Watch Tower
+NPrevent "top exit" from The Watch Tower
 M 8 62167 171 0
 M 8 62169 9 0
 Z 8 62173 4 0
-NPrevent ""top exit"" from Rescue Esmeralda
+NPrevent "top exit" from Rescue Esmeralda
 M 8 52742 10 0
 Z 8 52743 170 0
 NImmunity to arrows

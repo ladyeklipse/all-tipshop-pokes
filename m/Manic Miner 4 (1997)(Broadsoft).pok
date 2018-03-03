@@ -16,7 +16,7 @@ M 8 36245 160 0
 Z 8 36246 141 0
 NChange nasties' speed
 Z 8 36123 0 0
-NInfinite Lives
+NLives (alt)
 Z 8 35136 0 53
 NInfinite Lives - destroys meanies
 M 8 36160 0 0
@@ -86,14 +86,14 @@ NMystery (Software Project)
 Z 8 37114 43 0
 NMystery (Bug Byte)
 Z 8 37103 43 0
-NNo horizontal guardians (Bug Byte)
-Z 8 36266 200 0
-NNo horizontal guardians (Software Project)
-Z 8 36277 200 0
-NNo vertical guardians (Bug Byte)
-Z 8 36593 200 0
-NNo vertical guardians (Software Project)
-Z 8 36604 200 0
+NNo horizontal guardians on/off (Bug Byte)
+Z 8 36266 200 253
+NNo horizontal guardians on/off (Software Project)
+Z 8 36277 200 253
+NNo vertical guardians on/off (Bug Byte)
+Z 8 36593 200 253
+NNo vertical guardians on/off (Software Project)
+Z 8 36604 200 253
 NFinish final barrier (Bug Byte)
 Z 8 36923 255 0
 NFinish final barrier (Software Project)
@@ -105,11 +105,8 @@ Z 8 36837 0 0
 NTo disable this
 M 8 36106 0 0
 Z 8 36106 107 0
-NTeleport code activated (boot appears) [if you want to turn it off use ]
-M 8 33885 7 0
-Z 8 33885 0 0
-NTurns off 'infinite lives' poke
-Z 8 35136 53 0
+NTeleport code activated on/off
+Z 8 33885 0 7
 NEugene not interested in guarding portal (Bug Byte)
 M 8 36348 0 0
 M 8 36349 0 0
@@ -160,4 +157,12 @@ M 8 36249 0 0
 M 8 36250 0 0
 M 8 36251 0 0
 Z 8 36252 0 0
+NTeleport code activated (boot appears) [if you want to turn it off use ]
+M 8 33885 7 0
+Z 8 33885 0 0
+NTurns off 'infinite lives' poke
+Z 8 35136 53 0
+NInfinite oxygen (use to turn it off)
+M 8 34799 0 0
+Z 8 34799 255 0
 Y

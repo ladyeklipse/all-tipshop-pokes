@@ -1,6 +1,6 @@
 NEasier object in Nightmare Room
 Z 8 36353 44 0
-NInfinite Lives
+NInfinite Lives - destroys meanies
 Z 8 35899 0 0
 NInfinite Energy
 Z 8 36477 0 0
@@ -335,11 +335,11 @@ M 8 35268 192 0
 Z 8 35269 254 0
 NPrevent game auto pause
 Z 8 35518 0 0
-NInfinite Time
+NInfinite Time В (Try GS)
 M 8 35414 0 0
 M 8 35415 0 0
 Z 8 35416 0 0
-NInfinite Time (alt)
+NInfinite Time В (Try GS)
 Z 8 35415 126 0
 NStop in game tune deteriorating after each loss of life
 M 8 35665 62 0
@@ -395,6 +395,9 @@ M 8 35414 0 0
 M 8 35415 0 0
 M 8 35416 0 0
 Z 8 35415 126 0
+NUnlimited attempts at keypad code (this only really works as a type-in hack)
+M 8 34497 182 0
+Z 8 34498 134 0
 NMoves invisible object from First Landing to The Hall
 M 8 42183 11 0
 M 8 52196 10 0

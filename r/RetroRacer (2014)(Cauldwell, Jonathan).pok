@@ -1,8 +1,8 @@
 NTIME
 Z 8 34593 256 0
-NTIME (alt)
+NTIME
 Z 8 34594 256 0
-NTIME (alt) (alt)
+NTIME
 Z 8 34595 256 0
 NAMMO
 Z 8 34591 256 0
@@ -11,6 +11,6 @@ Z 8 37711 0 0
 NAmmo
 M 8 37711 0 0
 Z 8 37693 0 0
-NStarting time, 32+mins
+NStarting time - +mins (1-9 33-41)
 Z 8 40410 32 0
 Y

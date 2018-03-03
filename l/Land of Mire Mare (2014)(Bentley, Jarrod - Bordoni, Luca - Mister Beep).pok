@@ -1,15 +1,15 @@
 NInfinite lives
 Z 8 30899 0 0
-NNumber of lives (In game)
+NNumber of lives during the game
 Z 8 32028 256 0
-NNumber of lives (Main menu)
+NNumber of lives in the main menu
 Z 8 30567 256 0
-N[v1.06]Infinite lives
+NInfinite lives
 Z 8 30798 0 0
-N[v1.06]Number of lives (Main menu)
+NNumber of lives in the main menu
 Z 8 30471 256 0
-N[v1.05]Infinite lives
+NInfinite lives
 Z 8 30782 0 0
-N[v1.05]Lives (Main menu)
+NNumber of lives in the main menu
 Z 8 30440 256 0
 Y

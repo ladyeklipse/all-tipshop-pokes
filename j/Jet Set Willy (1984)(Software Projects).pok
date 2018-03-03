@@ -377,11 +377,11 @@ NDisable all guardians
 M 8 37334 195 0
 M 8 37335 52 0
 Z 8 37336 146 0
-NPrevent """"top exit"""" from The Watch Tower
+NPrevent "top exit" from The Watch Tower
 M 8 62167 171 0
 M 8 62169 9 0
 Z 8 62173 4 0
-NPrevent """"top exit"""" from Rescue Esmeralda
+NPrevent "top exit" from Rescue Esmeralda
 M 8 52742 10 0
 Z 8 52743 170 0
 NImmunity to arrows
