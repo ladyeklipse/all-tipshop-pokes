@@ -2,4 +2,18 @@ NLives
 Z 8 32028 256 0
 NLives (alt)
 Z 8 31034 0 0
+NInfinite Lives
+Z 8 31153 0 0
+NImmunity (except for fire water spikes)
+M 8 62174 0 0
+M 8 62523 0 0
+M 8 62855 0 0
+M 8 62931 0 0
+M 8 63048 0 0
+M 8 63102 0 0
+M 8 63156 0 0
+M 8 63210 0 0
+M 8 63366 0 0
+M 8 63684 0 0
+Z 8 63723 0 0
 Y

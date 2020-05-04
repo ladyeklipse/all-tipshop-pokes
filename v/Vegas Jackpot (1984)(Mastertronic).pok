@@ -1,4 +1,8 @@
 NStart with $500
 M 8 24421 80 0
 Z 8 24422 195 0
+NSpins now only cost 1p instead of 10p
+Z 8 24671 1 0
+NFreeplay (probably too easy!)
+Z 8 24671 0 0
 Y

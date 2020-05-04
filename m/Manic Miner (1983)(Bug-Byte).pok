@@ -51,9 +51,9 @@ NImmunity with backouts
 Z 8 36105 58 0
 NTeleport code activated (boot appears)
 Z 8 33885 7 0
-NNo vertical enemies (except L5 Eugene)
+NNo vertical Enemies (except L5 Eugene)
 Z 8 36611 201 0
-NNo horizontal enemies
+NNo horizontal Enemies
 Z 8 36331 201 0
 NStarting Lives (Software Project)
 Z 8 34275 256 0
@@ -157,4 +157,20 @@ M 8 36249 0 0
 M 8 36250 0 0
 M 8 36251 0 0
 Z 8 36252 0 0
+NTeleport code activated (boot appears) [if you want to turn it off use ]
+M 8 33885 7 0
+Z 8 33885 0 0
+NTurns off 'infinite Lives' poke
+Z 8 35136 53 0
+NInfinite oxygen (use to turn it off)
+M 8 34799 0 0
+Z 8 34799 255 0
+NDisable pause(oftware Projects Mastertronic and VentaMatic versions)
+Z 8 34842 0 0
+NDisable pause(Bug-Byte version)
+Z 8 34836 0 0
+NLess points per item(Software Projects Mastertronic and VentaMatic versions)
+Z 8 36750 43 0
+NLess points per item(Bug-Byte version)
+Z 8 36739 43 0
 Y

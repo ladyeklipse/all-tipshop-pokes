@@ -1,8 +1,10 @@
-NInfinite lives
+NInfinite Lives
 Z 8 34175 0 0
 NInfinite credits
 Z 8 34209 0 0
-NInfinite time
+NInfinite Time
 M 8 44025 0 0
 Z 8 44035 155 0
+NLevel after death [0-3]
+Z 8 46277 256 0
 Y

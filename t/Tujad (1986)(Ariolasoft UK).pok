@@ -1,5 +1,19 @@
-NInfinite lives
+NInfinite Lives
 Z 8 27214 58 0
 NInfinite energy
 Z 8 31443 0 0
+NImmunity
+Z 8 30158 62 0
+NInfinite Grenades (green)
+Z 8 34626 0 0
+NInfinite Cones (magenta)
+Z 8 34549 0 0
+NInfinite RC-Mines (yellow)
+Z 8 34474 0 0
+NQuick screen change
+Z 8 27730 62 0
+NQuick Teleporting
+M 8 30616 33 0
+M 8 30619 33 0
+Z 8 30765 33 0
 Y

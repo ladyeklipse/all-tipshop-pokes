@@ -15,5 +15,7 @@ Z 8 51326 64 0
 NEnergy bar never decreases
 Z 8 51519 0 0
 NSpeed up game
-Z 8 64585 0 0
+M 8 64585 0 0
+M 8 56359 0 0
+Z 8 56359 25 0
 Y

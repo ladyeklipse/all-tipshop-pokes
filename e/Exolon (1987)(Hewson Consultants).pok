@@ -30,6 +30,7 @@ NImmunity
 Z 8 40120 201 0
 NNo traps
 Z 8 39957 201 0
-NCan't move backwards
-Z 8 31658 201 245
+NCan't move backwards (on/off)
+M 8 31658 201 245
+Z 8 31658 245 0
 Y

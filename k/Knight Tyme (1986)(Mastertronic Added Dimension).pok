@@ -20,7 +20,7 @@ N[48K]Infinite Charisma (theirs)
 Z 8 53648 126 0
 N[48K]Infinite Fuel
 Z 8 32008 58 0
-N[48K]Infinite time
+N[48K]Infinite Time
 Z 8 53565 183 0
 N[128K]Infinite Strength (yours)
 Z 8 28112 58 0
@@ -35,6 +35,21 @@ N[128K]Infinite Charisma (theirs)
 Z 8 44988 126 0
 N[128K]Infinite Fuel
 Z 8 33064 58 0
-N[128K]Infinite time
+N[128K]Infinite Time
 Z 8 44905 183 0
+NInfinite Strength YOURS ; THEIRS
+M 8 27814 58 0
+Z 8 53615 126 0
+NInfinite Strength YOURS ;THEIRS
+M 8 28112 58 0
+Z 8 44955 126 0
+NTransporter always works / does not need repairing
+M 8 32341 84 0
+Z 8 32342 126 0
+NInvisibility Cloak not required
+Z 8 28475 201 0
+NBoots not required to be carried and worn
+Z 8 28487 201 0
+NGas Mask not required
+Z 8 28499 201 0
 Y

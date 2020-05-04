@@ -14,6 +14,7 @@ Z 8 56359 201 0
 NDisable sounds
 M 8 55687 201 0
 Z 8 55687 245 0
-NInfinite time on/off
-Z 8 58011 0 219
+NInfinite Time on/off
+M 8 58011 0 219
+Z 8 58011 219 0
 Y

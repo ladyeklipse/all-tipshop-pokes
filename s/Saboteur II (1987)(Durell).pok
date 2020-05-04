@@ -6,20 +6,30 @@ N[128K]Infinite energy
 Z 8 62046 201 0
 N[48K]Infinite energy
 Z 8 61340 201 0
-N[48K]Infinite time
+N[48K]Infinite Time
 Z 8 37741 0 0
-N[128K]Infinite time
+N[128K]Infinite Time
 Z 8 37121 0 0
-N[48K]Sets time left (48-57)
+N[48K]Sets Time left (48-57)
 M 8 38607 256 0
 M 8 38608 256 0
 Z 8 38609 256 0
-N[128K]Sets time left (48-57)
+N[128K]Sets Time left (48-57)
 M 8 39226 256 0
 M 8 39227 256 0
 Z 8 39228 256 0
-N[48K]Infinite time
+N[48K]Infinite Time
 Z 8 37138 0 0
-N[128K]Infinite time
+N[128K]Infinite Time
 Z 8 37757 0 0
+NExamples
+M 8 39226 57 0
+M 8 39227 57 0
+M 8 39228 57 0
+M 8 39226 98 0
+M 8 39227 48 0
+M 8 39228 48 0
+M 8 39226 255 0
+M 8 39227 255 0
+Z 8 39228 255 0
 Y

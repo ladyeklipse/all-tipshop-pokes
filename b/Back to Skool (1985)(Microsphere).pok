@@ -126,7 +126,7 @@ NYellow Room/Study Door open/shut (alt)
 Z 8 28767 203 0
 NNo key for Science room door
 Z 8 29685 0 0
-NHayley in boys skool during Playtime/Dinner/Assembly
+NHayley in boys skool during PlayTime/Dinner/Assembly
 M 8 53559 14 0
 M 8 53560 14 0
 M 8 53561 14 0
@@ -135,7 +135,7 @@ M 8 53563 14 0
 M 8 53556 14 0
 M 8 53557 14 0
 Z 8 53558 14 0
-NAlbert busy during Playtime
+NAlbert busy during PlayTime
 M 8 52535 70 0
 M 8 52536 70 0
 M 8 52537 70 0
@@ -145,4 +145,11 @@ NSkool door and gate remain open
 M 8 59740 1 0
 M 8 59753 1 0
 Z 8 62577 194 0
+NNo lines delay when text displayed and teachers dont bother you
+M 8 29805 0 0
+M 8 29806 0 0
+M 8 29807 0 0
+M 8 29824 0 0
+M 8 29825 0 0
+Z 8 29826 0 0
 Y

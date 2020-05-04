@@ -4,6 +4,7 @@ NImmunity
 Z 8 42165 201 0
 NInfinite Ammo
 Z 8 39724 0 0
-NNo enemies on/off
-Z 8 37065 201 58
+NNo Enemies on/off
+M 8 37065 201 58
+Z 8 37065 58 0
 Y

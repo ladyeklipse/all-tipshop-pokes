@@ -1,4 +1,4 @@
-NInfinite lives (One player mode)
+NInfinite Lives (One player mode)
 Z 8 52887 0 0
 N[P1]Infinite Lives
 Z 8 56997 0 0
@@ -9,4 +9,7 @@ Z 8 51210 201 0
 NImmunity
 M 8 51102 201 0
 Z 8 51161 201 0
+NPowerpills last forever
+M 8 47415 0 0
+Z 8 47422 0 0
 Y

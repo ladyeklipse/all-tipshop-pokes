@@ -1,4 +1,4 @@
-NInfinite lives (Early)
+NInfinite Lives (Early)
 Z 8 46967 0 0
 NLives (Early)
 Z 8 51101 256 0
@@ -6,7 +6,7 @@ NHealth points in fight (Early)
 Z 8 51102 256 0
 NMAD points in fight (Early)
 Z 8 51103 256 0
-NInfinite lives (Updated)
+NInfinite Lives (Updated)
 Z 8 47791 0 0
 NHealth points (Updated)
 Z 8 51765 256 0
@@ -21,5 +21,7 @@ M 8 38699 0 0
 M 8 38817 0 0
 M 8 38792 10 0
 M 8 40140 10 0
-Z 8 38674 10 0
+M 8 38674 10 0
+M 8 47791 0 0
+Z 8 44056 0 0
 Y

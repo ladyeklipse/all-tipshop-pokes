@@ -2,4 +2,8 @@ NLives (0-255)
 Z 8 36885 256 0
 NInfinite Lives
 Z 8 29170 0 0
+NFreeze road traffic (Still fatal to contact)
+Z 8 29285 201 0
+NImmunity
+Z 8 29478 201 0
 Y

@@ -1,3 +1,10 @@
-NInfinite lives
+NInfinite Lives
 Z 8 34486 0 0
+NShield immunity
+Z 8 36601 201 0
+NShoot one copter for full shield on start screen in garage
+M 8 36490 0 0
+M 8 36491 62 0
+M 8 36492 23 0
+Z 8 36493 0 0
 Y

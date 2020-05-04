@@ -1,3 +1,19 @@
 NLives
 Z 8 32028 256 0
+NInfinite Lives
+Z 8 31164 0 0
+NImmunity to Enemies
+M 8 62258 195 0
+M 8 62007 195 0
+M 8 61408 195 0
+M 8 61583 195 0
+Z 8 61756 195 0
+NImmunity to Bullets
+Z 8 62335 195 0
+NImmunity to Spikes
+Z 8 61043 195 0
+NOne shot one hit
+Z 8 61180 33 0
+NOnly need to kill one Enemy
+Z 8 61193 175 0
 Y

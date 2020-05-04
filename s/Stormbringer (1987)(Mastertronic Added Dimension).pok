@@ -54,4 +54,41 @@ N[48K]Always enable TICKLE, SMELL, HAVE A WISH, HAVE A DRINK
 Z 8 46185 29 0
 N[48K]All commands will fit to window
 Z 8 49036 3 0
+NInfinite Strength YOURS ; THEIRS
+M 8 38866 58 0
+M 8 40162 58 0
+M 8 46703 58 0
+M 8 40224 58 0
+M 8 62506 126 0
+Z 8 44525 126 0
+NInfinite Magic Level YOURS ; THEIRS
+M 8 44548 58 0
+M 8 44245 58 0
+Z 8 62539 126 0
+NInfinite Strength YOURS ; THEIRS
+M 8 28209 58 0
+M 8 29297 58 0
+M 8 36470 58 0
+M 8 29368 58 0
+M 8 43855 126 0
+Z 8 33884 126 0
+NInfinite Magic Level YOURS ; THEIRS
+M 8 33907 58 0
+M 8 33623 58 0
+Z 8 43888 126 0
+NEnter any dark rooms safely without Torch or Glow Shield
+M 8 40263 201 0
+M 8 40269 201 0
+M 8 40279 201 0
+Z 8 40289 201 0
+NPass by "Bearwoolf" safely at any Time
+Z 8 40603 201 0
+NFreely enter and leave the Castle without having either a newspaper and/or wearing a disguise
+M 8 40629 0 0
+M 8 40639 0 0
+Z 8 40645 0 0
+NUse mirror (shows objects and current strength etc) without carrying it!
+M 8 40147 0 0
+M 8 40148 0 0
+Z 8 40149 0 0
 Y

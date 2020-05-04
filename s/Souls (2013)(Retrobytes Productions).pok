@@ -1,6 +1,6 @@
 NInfinite stamina
 Z 8 24496 0 0
-NInfinite lives
+NInfinite Lives
 M 8 33211 0 0
 M 8 33286 0 0
 M 8 34497 0 0
@@ -11,4 +11,28 @@ M 8 26272 0 0
 Z 8 27322 0 0
 NInfinite magic
 Z 8 31466 0 0
+NInfinite Vida
+M 8 34607 0 0
+M 8 34682 0 0
+M 8 35873 0 0
+M 8 36201 0 0
+Z 8 47700 0 0
+NInfinite EStamina
+Z 8 25027 0 0
+NInfinite Magia
+Z 8 32843 0 0
+NInfinite Keys
+M 8 26945 0 0
+Z 8 28136 0 0
+NKill with one hit
+M 8 30912 175 0
+M 8 31013 175 0
+M 8 31113 175 0
+M 8 31558 175 0
+M 8 31659 175 0
+Z 8 31759 175 0
+NMore Lives (More not infinite)
+Z 8 41202 201 0
+NPartial immunity to moving Enemies
+Z 8 46153 201 0
 Y

@@ -1,7 +1,9 @@
-NInfinite lives
+NInfinite Lives
 Z 8 25942 0 0
 NLives
 Z 8 30512 256 0
 NBottles
-Z 8 30516 256 0
+M 8 30516 256 0
+M 8 25829 0 0
+Z 8 25811 175 0
 Y

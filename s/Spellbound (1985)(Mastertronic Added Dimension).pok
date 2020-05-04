@@ -19,7 +19,7 @@ Z 8 33494 126 0
 N[48K]Infinite Stamina (theirs)
 M 8 55144 126 0
 Z 8 33502 126 0
-N[48K]Infinite time
+N[48K]Infinite Time
 M 8 55066 183 0
 Z 8 23404 35 0
 N[128K]Infinite Strength (yours)
@@ -36,7 +36,32 @@ Z 8 34016 126 0
 N[128K]Infinite Stamina (theirs)
 M 8 43165 126 0
 Z 8 34024 126 0
-N[128K]Infinite time
+N[128K]Infinite Time
 M 8 43087 183 0
 Z 8 25755 35 0
+NInfinite Strength YOURS ; THEIRS
+M 8 27871 0 0
+M 8 36133 0 0
+M 8 55122 126 0
+Z 8 33486 126 0
+NInfinite Spell Power YOURS ; THEIRS
+M 8 33509 58 0
+Z 8 55155 126 0
+NInfinite Strength YOURS ; THEIRS 43143 126
+M 8 28606 0 0
+M 8 36532 0 0
+Z 8 34008 126 0
+NInfinite Spell Power YOURS ; THEIRS
+M 8 34031 58 0
+Z 8 43176 126 0
+NEnter dark rooms safely without candle or glow bottle
+M 8 29797 0 0
+M 8 29798 0 0
+M 8 29800 0 0
+Z 8 29801 0 0
+NEnter gas room without dying if not carrying and wearing the gas mask
+M 8 29880 0 0
+Z 8 29881 201 0
+NLift always works
+Z 8 33721 24 0
 Y

@@ -6,4 +6,9 @@ NTime 9:00
 M 8 31478 57 0
 M 8 31480 48 0
 Z 8 31481 48 0
+NTeam Black or left side never score
+M 8 39449 200 0
+Z 8 39450 0 0
+NTeam White or right side never score
+Z 8 39451 201 0
 Y

@@ -23,14 +23,16 @@ M 8 44677 84 0
 Z 8 44685 186 0
 NLives
 Z 8 43575 256 0
-NNo destructible enemies
+NNo destructible Enemies
 Z 8 39484 201 0
-NParalyzed enemies
+NParalyzed Enemies
 Z 8 42959 201 0
 NFloating rhinos
 Z 8 44435 201 0
 N"Ghost" jungle
 Z 8 47219 201 0
 NInvincibility to jungle animals
-Z 8 43830 201 0
+M 8 43830 201 0
+M 8 39702 30 0
+Z 8 43575 256 0
 Y

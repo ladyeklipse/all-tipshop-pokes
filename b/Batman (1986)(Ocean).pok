@@ -32,7 +32,7 @@ NSpeeds required
 Z 8 36606 256 0
 NNo bonus decrease
 Z 8 31686 201 0
-NParalyzed enemies
+NParalyzed Enemies
 Z 8 33256 201 0
 NNo interaction with objects
 Z 8 39854 201 0
@@ -64,10 +64,16 @@ NNo annoying bat-music
 Z 8 34170 201 0
 NNo ATTR update (looks weird)
 Z 8 26496 201 0
-NFloating enemies
+NFloating Enemies
 Z 8 33240 201 0
 NMonstrous twists
 Z 8 38938 201 0
 NSuper jump OFF
 Z 8 36934 53 0
+NPoke InfShield If stuck
+M 8 39906 0 0
+Z 8 39906 143 0
+NInmunity on/off
+M 8 39915 0 12
+Z 8 39915 12 0
 Y

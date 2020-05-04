@@ -395,4 +395,19 @@ M 8 35414 0 0
 M 8 35415 0 0
 M 8 35416 0 0
 Z 8 35415 126 0
+NUnlimited attempts at keypad code (this only really works as a type-in hack)
+M 8 34497 182 0
+Z 8 34498 134 0
+NHaving already applied the poke simply add these
+M 8 42183 11 0
+M 8 52196 10 0
+M 8 52197 13 0
+M 8 52198 60 0
+M 8 52199 242 0
+Z 8 52200 192 0
+NSlightly better/easier 'Conservatory Roof' bugfix
+M 8 60229 0 0
+Z 8 60231 0 0
+NTo prevent this from happening
+Z 8 35674 126 0
 Y

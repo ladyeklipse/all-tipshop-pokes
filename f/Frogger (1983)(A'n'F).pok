@@ -1,5 +1,7 @@
-NLives [max 15]
-Z 8 33998 2 254
+N15 Lives / 1 Life
+Z 8 33998 15 254
 NInfinite Lives
-Z 8 27500 0 0
+M 8 27500 0 0
+M 8 33998 2 0
+Z 8 33998 254 0
 Y

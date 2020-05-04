@@ -2,4 +2,15 @@ NInfinite Time
 Z 8 50476 0 0
 NInfinite Lives
 Z 8 50800 0 0
+NInfinite Time
+Z 8 50477 180 0
+NInfinite Lives
+Z 8 50800 180 0
+NImmunity
+M 8 50396 70 0
+M 8 52256 70 0
+Z 8 50316 86 0
+NFast Time-Scale Sets
+M 8 50595 33 0
+Z 8 52378 0 0
 Y

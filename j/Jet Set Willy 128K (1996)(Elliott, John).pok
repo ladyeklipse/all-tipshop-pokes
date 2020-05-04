@@ -1,6 +1,6 @@
 NEasier object in Nightmare Room
 Z 8 36353 44 0
-NInfinite Lives - destroys meanies
+NInfinite Lives
 Z 8 35899 0 0
 NInfinite Energy
 Z 8 36477 0 0
@@ -335,11 +335,11 @@ M 8 35268 192 0
 Z 8 35269 254 0
 NPrevent game auto pause
 Z 8 35518 0 0
-NInfinite Time В (Try GS)
+NInfinite Time
 M 8 35414 0 0
 M 8 35415 0 0
 Z 8 35416 0 0
-NInfinite Time В (Try GS)
+NInfinite Time (alt)
 Z 8 35415 126 0
 NStop in game tune deteriorating after each loss of life
 M 8 35665 62 0
@@ -395,4 +395,10 @@ M 8 35414 0 0
 M 8 35415 0 0
 M 8 35416 0 0
 Z 8 35415 126 0
+NNo death from fall (you can turn it off with )
+M 8 36477 1 0
+Z 8 36477 50 0
+NSuper jump ON (you can turn it off with )
+M 8 36358 0 0
+Z 8 36358 60 0
 Y

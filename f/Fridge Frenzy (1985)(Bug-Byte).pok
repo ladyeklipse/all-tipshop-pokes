@@ -4,12 +4,19 @@ NInfinite Lives
 Z 8 37254 182 0
 NStart in room x
 Z 8 36429 256 0
-NLoads of time
+NLoads of Time
 Z 8 37191 0 0
 NInfinite Time
 Z 8 37186 0 0
 NInfinite Time
 Z 8 37187 182 0
 NImmunity
-Z 8 43175 24 0
+M 8 43175 24 0
+M 8 37186 0 0
+Z 8 37187 182 0
+NInfinite Time
+Z 8 37187 180 0
+NImmunity
+M 8 37200 33 0
+Z 8 42708 33 0
 Y

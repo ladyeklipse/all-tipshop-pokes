@@ -1,4 +1,4 @@
-NStop time going down
+NStop Time going down
 Z 8 42249 24 0
 NKeep scrolling fast in all parts of the screen
 M 8 42585 2 0
@@ -14,4 +14,11 @@ M 8 42585 2 0
 Z 8 42596 2 0
 NLives
 Z 8 42404 256 0
+N39754for endless Lives for 'x' Lives (up to 14only) and for immortality!
+M 8 42404 256 0
+Z 8 42654 195 0
+NTo stopthe Time going down ands and to keep it scrolling fast in allparts of the| screen
+M 8 42249 24 0
+M 8 42585 2 0
+Z 8 52596 2 0
 Y

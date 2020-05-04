@@ -1,4 +1,4 @@
-NInfinite lives
+NInfinite Lives
 Z 8 46752 182 0
 NLives
 Z 8 46896 256 0
@@ -6,4 +6,8 @@ NInfinite energy
 Z 8 50294 58 0
 NInfinite fuel
 Z 8 46846 0 0
+NInfinite Ammo
+Z 8 47808 0 0
+NOne shot - one hit
+Z 8 50443 175 0
 Y

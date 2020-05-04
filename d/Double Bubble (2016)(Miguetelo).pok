@@ -2,4 +2,20 @@ NLives
 Z 8 31162 0 0
 NTime
 Z 8 55851 0 0
+NSpikes
+Z 8 54373 195 0
+NEnemies moving horizontally
+Z 8 54278 195 0
+NEnemies moving vertically
+Z 8 54231 195 0
+NEnemies moving chaotically
+Z 8 54325 195 0
+NSpikes
+Z 8 55167 195 0
+NEnemies moving horizontally
+Z 8 55191 195 0
+NEnemies moving vertically
+Z 8 55215 195 0
+NEnemies moving chaotically
+Z 8 55239 195 0
 Y

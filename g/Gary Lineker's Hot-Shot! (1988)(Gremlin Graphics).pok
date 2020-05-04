@@ -9,4 +9,11 @@ Z 8 32817 256 0
 NTime 50:59 (2nd half)
 M 8 32805 80 0
 Z 8 32804 89 0
+NPlayer 1 scores 10 goals
+Z 8 32816 16 0
+NPlayer 2 scores 3 goals
+Z 8 32817 3 0
+NTime 001 (1st half)
+M 8 32805 0 0
+Z 8 32804 1 0
 Y

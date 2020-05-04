@@ -6,4 +6,16 @@ N[48K]Infinite Lives (V1.1)
 Z 8 39686 0 0
 N[128K]Infinite Lives (V1.1)
 Z 8 39695 0 0
+NLives
+Z 8 38704 256 0
+NInfinite swaps
+Z 8 40849 0 0
+NLives
+Z 8 38710 256 0
+NInfinite swaps
+Z 8 40852 0 0
+NSwaps (48/128K)
+M 8 41898 62 0
+M 8 41899 256 0
+Z 8 41900 0 0
 Y

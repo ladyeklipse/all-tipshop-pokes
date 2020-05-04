@@ -1,16 +1,21 @@
-NInfinite lives
+NInfinite Lives
 Z 8 35789 0 0
-NInfinite time
+NInfinite Time
 Z 8 54435 201 0
-NInfinite time (alt)
+NInfinite Time (alt)
 M 8 34452 195 0
 Z 8 34632 195 0
-NInfinite lives (alt)
+NInfinite Lives (alt)
 Z 8 32822 201 0
-NInfinite lives (alt) (alt)
+NInfinite Lives (alt2)
 Z 8 35775 201 0
-NStop time
+NStop Time
 M 8 33205 0 0
 M 8 33206 0 0
 Z 8 33207 0 0
+NImmunity
+Z 8 44820 58 0
+NAlways have a Card Fuel Pump & TNT
+M 8 33104 1 0
+Z 8 33105 1 0
 Y

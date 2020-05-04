@@ -25,4 +25,11 @@ NCoins (updated)
 Z 8 38585 256 0
 NNumber of hearts (updated)
 Z 8 38592 256 0
+NInfinite Lives
+M 8 26998 0 0
+M 8 27128 0 0
+M 8 27378 0 0
+Z 8 28056 183 0
+NImmunity
+Z 8 27979 195 0
 Y

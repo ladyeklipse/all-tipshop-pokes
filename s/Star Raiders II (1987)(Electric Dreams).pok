@@ -2,4 +2,12 @@ NInfinite Energy
 Z 8 44111 0 0
 NInfinite Bombs
 Z 8 44178 0 0
+NInfinite Energy
+Z 8 44111 201 0
+NInfinite Bombs
+Z 8 44178 201 0
+NLaser does not overheat
+M 8 38443 62 0
+M 8 38445 254 0
+Z 8 38447 119 0
 Y
