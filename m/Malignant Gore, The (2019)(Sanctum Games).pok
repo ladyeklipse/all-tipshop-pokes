@@ -1,0 +1,15 @@
+NInfinite Spheres (restarts by pressing "R")
+M 8 30732 0 0
+Z 8 30742 0 0
+NInfinite Bullets
+Z 8 60084 0 0
+NImmunity to Mutants
+M 8 60626 195 0
+Z 8 62625 195 0
+NImmunity to Tentacles
+Z 8 61428 195 0
+NImmunity to Mummies
+Z 8 62415 195 0
+NImmunity to Octopuses
+Z 8 60645 195 0
+Y

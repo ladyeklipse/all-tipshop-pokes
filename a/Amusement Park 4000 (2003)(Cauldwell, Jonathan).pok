@@ -1,0 +1,15 @@
+NNew game starts with 5000 instead of 1000
+M 8 23800 136 0
+Z 8 23801 19 0
+NLower loan repayment rate
+M 8 26390 1 0
+Z 8 26391 0 0
+NNo purchase cost for some new scenery items (statues and trees)
+M 8 24587 0 0
+M 8 24588 0 0
+M 8 24632 0 0
+Z 8 24633 0 0
+NNo purchase cost for new rides
+M 8 24767 0 0
+Z 8 24768 0 0
+Y

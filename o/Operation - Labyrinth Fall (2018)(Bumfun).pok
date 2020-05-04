@@ -1,0 +1,23 @@
+NInfinite Lives
+Z 8 31213 0 0
+NImmunity to horizontally moving Enemies
+M 8 53949 195 0
+Z 8 54300 195 0
+NImmunity to vertically moving Enemies
+M 8 54021 195 0
+Z 8 54462 195 0
+NImmunity to chaotically moving Enemies
+Z 8 54144 195 0
+NStart with Item-D
+Z 8 30439 1 0
+NStart with Item-J
+Z 8 30464 1 0
+NStart with keys (Red Blue Yellow)
+M 8 30424 1 0
+M 8 30429 1 0
+Z 8 30434 1 0
+NComplete game without collecting all 50 gems
+Z 8 53564 175 0
+NImmunity to volcanoes lava spikes (Not recommended!)
+Z 8 53885 0 0
+Y

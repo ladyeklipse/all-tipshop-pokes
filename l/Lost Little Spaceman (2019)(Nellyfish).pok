@@ -1,0 +1,15 @@
+NInfinite Lives
+Z 8 30906 0 0
+NImmunity to lasers passing through them
+Z 8 59008 195 0
+NImmunity to lasers flying through them
+Z 8 58442 195 0
+NOpen the door with/without keys
+M 8 59321 1 0
+Z 8 59312 1 0
+NImmunity to Enemies that move vertically
+Z 8 59249 195 0
+NImmunity to Enemies that move horizontally
+M 8 59082 195 0
+Z 8 59156 195 0
+Y
