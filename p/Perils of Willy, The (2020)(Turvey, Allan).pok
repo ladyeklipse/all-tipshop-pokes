@@ -1,0 +1,6 @@
+NNo moving enemies
+M 8 42382 201 0
+Z 8 42671 201 0
+NStarting lives (only displays 5 - limit it to 16 max)
+Z 8 39622 256 0
+Y

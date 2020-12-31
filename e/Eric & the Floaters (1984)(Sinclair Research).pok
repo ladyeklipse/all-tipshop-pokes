@@ -2,4 +2,25 @@ NInfinite lives
 Z 8 33245 0 0
 NInfinite bonus time
 Z 8 34093 0 0
+NNumber of lives (1-255) to start with (do on main menu)
+Z 8 32851 256 0
+NNumber of lives (1-255) (takes immediate effect in game)
+Z 8 49169 256 0
+NStarting stage (1-255) (do on main menu) (game crashes if stage 255 completed)
+Z 8 32846 256 0
+NInvincibility
+Z 8 36040 201 0
+NStop floaters moving
+Z 8 34660 201 0
+NBomb flames go through indestructible walls
+Z 8 35840 0 0
+NWalk through walls
+M 8 36242 0 0
+Z 8 36247 0 0
+NEric moves much faster
+Z 8 36065 0 0
+NDrop bombs automatically (all stages become "Bomb Auto Setting" stage!)
+Z 8 35215 0 0
+NDestructible walls don't disappear when bonus reaches zero
+Z 8 34091 8 0
 Y

@@ -8,4 +8,12 @@ NFind out yourself what this does
 Z 8 26791 3 0
 NDo not pause after drawing each location picture
 Z 8 38561 32 0
+NEnable anti-capture
+Z 8 41770 202 0
+NDisable anti-capture
+Z 8 41770 194 0
+NEnable anti-capture
+Z 8 41978 202 0
+NDisable anti-capture
+Z 8 41978 194 0
 Y

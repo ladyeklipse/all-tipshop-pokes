@@ -18,4 +18,6 @@ NSpeed up game
 M 8 64585 0 0
 M 8 56359 0 0
 Z 8 56359 25 0
+NDisable "Q Quit" key
+Z 8 51301 164 0
 Y

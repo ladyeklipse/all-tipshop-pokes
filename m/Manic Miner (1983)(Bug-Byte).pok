@@ -159,13 +159,9 @@ M 8 36251 0 0
 Z 8 36252 0 0
 NTeleport code activated (boot appears) [if you want to turn it off use ]
 M 8 33885 7 0
-Z 8 33885 0 0
-NTurns off 'infinite Lives' poke
+M 8 33885 0 0
 Z 8 35136 53 0
-NInfinite oxygen (use to turn it off)
-M 8 34799 0 0
-Z 8 34799 255 0
-NDisable pause(oftware Projects Mastertronic and VentaMatic versions)
+NDisable pause(Software Projects Mastertronic and VentaMatic versions)
 Z 8 34842 0 0
 NDisable pause(Bug-Byte version)
 Z 8 34836 0 0
@@ -173,4 +169,12 @@ NLess points per item(Software Projects Mastertronic and VentaMatic versions)
 Z 8 36750 43 0
 NLess points per item(Bug-Byte version)
 Z 8 36739 43 0
+NSoftware Projects Mastertronic and Ventamatic releases
+Z 8 34804 1 0
+NBug Byte Version
+Z 8 34798 1 0
+NBug Byte version (RD)
+Z 8 36749 49 0
+NSoftware Projects version (AF)
+Z 8 36760 49 0
 Y

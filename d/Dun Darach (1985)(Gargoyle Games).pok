@@ -40,4 +40,10 @@ NYou get 10203 iridi
 M 8 45395 3 0
 M 8 45396 2 0
 Z 8 45397 1 0
+NStop items being stolen
+M 8 43397 0 0
+Z 8 43398 0 0
+NStop money being stolen
+M 8 44611 0 0
+Z 8 44612 0 0
 Y

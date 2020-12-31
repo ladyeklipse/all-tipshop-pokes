@@ -1,3 +1,30 @@
 NLimitless energy
 Z 8 44685 0 0
+NInfinite energy (doesn't corrupt energy counter)
+Z 8 37972 97 0
+NImmunity from aliens
+Z 8 41720 201 0
+NStop bonus timer decreasing
+Z 8 44785 201 0
+NOnly have to shoot 1 alien for a diamond to appear
+M 8 44432 0 0
+Z 8 44438 0 0
+NDiamonds don't get destroyed by aliens
+Z 8 37060 201 0
+NCan collect any colour diamond
+Z 8 37244 24 0
+NGunfire doesn't go to half length while holding fire
+Z 8 42655 20 0
+NGunfire is length of screen
+M 8 42140 50 0
+M 8 40441 50 0
+Z 8 42655 50 0
+NRight door always open
+M 8 44845 205 0
+M 8 44846 34 0
+Z 8 44847 146 0
+NLeft door always open
+M 8 44848 205 0
+M 8 44849 60 0
+Z 8 44850 146 0
 Y

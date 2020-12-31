@@ -1,0 +1,10 @@
+NInfinite Lives
+Z 8 34383 0 0
+NNumber of lives (1-255 but display corrupts over 9)
+Z 8 33144 256 0
+NNumber of gates (0-10; game crashes if you place over 10)
+Z 8 33174 256 0
+NDon't lose life if score reaches zero
+M 8 34315 43 0
+Z 8 34316 131 0
+Y

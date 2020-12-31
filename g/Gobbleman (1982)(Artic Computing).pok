@@ -5,4 +5,16 @@ M 8 25858 6 0
 M 8 25859 126 0
 M 8 25860 0 0
 Z 8 25861 0 0
+NInfinite lives
+Z 8 25865 23 0
+NImmunity
+Z 8 25719 201 0
+NPower pill effect lasts until you catch 4 ghosts
+Z 8 25658 0 0
+NTurbo game (speeds everything up)
+Z 8 24991 201 0
+NDisable colour cycling of in-game copyright message POKLE
+Z 8 29541 0 0
+NSet colour (0-7) of copyright message (set on title screen after disabling cycling)
+Z 8 28713 256 0
 Y

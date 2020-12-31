@@ -15,7 +15,7 @@ NInfinite Lives (alt)
 Z 8 53567 201 0
 N1st item in your inventory
 Z 8 23516 256 0
-N2nd item inР вЂ™Р’В your inventory
+N2nd item inР В РІР‚в„ўР вЂ™Р’В your inventory
 Z 8 23520 256 0
 N3rd item in your inventory
 Z 8 23524 256 0
@@ -27,4 +27,11 @@ NCurrent day=0
 Z 8 23481 0 0
 NCurrent day=15
 Z 8 23481 21 0
+NCauldron accepts any object
+Z 8 49747 0 0
+NCauldron Spell safe for Werewolf
+Z 8 47365 20 0
+NCauldron accepts anything except the correct object
+M 8 49746 40 0
+Z 8 49759 20 0
 Y

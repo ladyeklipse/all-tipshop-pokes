@@ -1,3 +1,14 @@
 NInfinite lives
 Z 8 46263 0 0
+NInfinite time
+Z 8 52483 0 0
+NTime in digits
+M 8 52422 128 0
+M 8 52423 61 0
+M 8 52676 128 0
+Z 8 52677 61 0
+NImmunity
+Z 8 60018 24 0
+NContinuous fire
+Z 8 58446 175 0
 Y

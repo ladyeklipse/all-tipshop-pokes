@@ -4,11 +4,11 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Pokes - [POK]</name>
-		<description>Sinclair ZX Spectrum - Pokes - [POK] (TOSEC-v2020-05-04).dat</description>
+		<description>Sinclair ZX Spectrum - Pokes - [POK] (TOSEC-v2020-12-31)</description>
 		<category>TOSEC</category>
-		<version>2020-05-04</version>
+		<version>2020-12-31</version>
+		<date>31.12.2020 19:03:44</date>
 		<author>Lady Eklipse</author>
-		<date>04.05.2020 22:26:52</date>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
 		<url>http://www.tosecdev.org/</url>
@@ -390,9 +390,9 @@
 		<description>Afteroids (1988)(Zigurat)</description>
 		<rom name="Afteroids (1988)(Zigurat).pok" size="157" crc="83107074" md5="08dbb7a995f7b352c1cf7973b8b61205" sha1="58264d49aa55d425b12295fa4d2cf2fe0ce1d7e9"/>
 	</game>
-	<game name="Agent Orange (1987)(A'n'F)">
-		<description>Agent Orange (1987)(A'n'F)</description>
-		<rom name="Agent Orange (1987)(A'n'F).pok" size="447" crc="b1d2976f" md5="fbb5ee444aa2e8d5c4c9467e1f1fcc88" sha1="db98ce80893e931bfa8f9d9a1cd737b8367f8584"/>
+	<game name="Agent Orange (1987)(A'n'F - Argus Press)">
+		<description>Agent Orange (1987)(A'n'F - Argus Press)</description>
+		<rom name="Agent Orange (1987)(A'n'F - Argus Press).pok" size="447" crc="b1d2976f" md5="fbb5ee444aa2e8d5c4c9467e1f1fcc88" sha1="db98ce80893e931bfa8f9d9a1cd737b8367f8584"/>
 	</game>
 	<game name="Agent X (1986)(Mastertronic)">
 		<description>Agent X (1986)(Mastertronic)</description>
@@ -418,9 +418,9 @@
 		<description>Airborne Ranger (1988)(MicroProse)</description>
 		<rom name="Airborne Ranger (1988)(MicroProse).pok" size="35" crc="5203b13e" md5="54c5da18044172b4cd87515f0ebf922d" sha1="9d92cd39e134dd738354be02b28b587104505273"/>
 	</game>
-	<game name="Airwolf (1984)(Elite Systems)">
-		<description>Airwolf (1984)(Elite Systems)</description>
-		<rom name="Airwolf (1984)(Elite Systems).pok" size="138" crc="99bdbd04" md5="636c4cedfe63456b47e28a16aecb8738" sha1="9d06fe8cb14fca066a54437d5101ac2da2ea000c"/>
+	<game name="Airwolf (1985)(Elite Systems)">
+		<description>Airwolf (1985)(Elite Systems)</description>
+		<rom name="Airwolf (1985)(Elite Systems).pok" size="138" crc="99bdbd04" md5="636c4cedfe63456b47e28a16aecb8738" sha1="9d06fe8cb14fca066a54437d5101ac2da2ea000c"/>
 	</game>
 	<game name="Airwolf II (1987)(Hit-Pak)">
 		<description>Airwolf II (1987)(Hit-Pak)</description>
@@ -526,6 +526,10 @@
 		<description>Alma de Guerrero (2003)(Beyker Soft)</description>
 		<rom name="Alma de Guerrero (2003)(Beyker Soft).pok" size="52" crc="3b34f2d2" md5="a68a094046cff8539b6d0982091e2aaf" sha1="7de682df3db58417740540df7f9c71cf3966de7d"/>
 	</game>
+	<game name="Alone in dark maze (2019)(Krapivin, Dmitry)">
+		<description>Alone in dark maze (2019)(Krapivin, Dmitry)</description>
+		<rom name="Alone in dark maze (2019)(Krapivin, Dmitry).pok" size="205" crc="410d9204" md5="bd195107ae24fbb608d07d46bbe20708" sha1="3e6febc0aeed8dd52675d542984411f90c58af24"/>
+	</game>
 	<game name="Alpine Games (1987)(Atlantis)">
 		<description>Alpine Games (1987)(Atlantis)</description>
 		<rom name="Alpine Games (1987)(Atlantis).pok" size="93" crc="4e82b93e" md5="5f1f1bc508a59bfacc169082ad102d49" sha1="d929b937b0e55413a27f79b761844574635de5ca"/>
@@ -545,6 +549,10 @@
 	<game name="Amaurote (1987)(Mastertronic Added Dimension)">
 		<description>Amaurote (1987)(Mastertronic Added Dimension)</description>
 		<rom name="Amaurote (1987)(Mastertronic Added Dimension).pok" size="238" crc="b2005e3f" md5="facdbbd9b6ccd6c79a177bd7c7684277" sha1="31e9e1ef53bc69ae2a1a8b81d686a3d1d0d19aff"/>
+	</game>
+	<game name="Amazing Rocketeer, The (2007)(Fotou, John)">
+		<description>Amazing Rocketeer, The (2007)(Fotou, John)</description>
+		<rom name="Amazing Rocketeer, The (2007)(Fotou, John).pok" size="33" crc="09aa7c36" md5="13c39cd5cfae8545d84cad7f32776000" sha1="b2632d571fbadd96571e2bb0bafd47c930de370d"/>
 	</game>
 	<game name="Amethyst Dagger, The (2018)(Costa, Rafael Vico)">
 		<description>Amethyst Dagger, The (2018)(Costa, Rafael Vico)</description>
@@ -628,7 +636,7 @@
 	</game>
 	<game name="Antics (1984)(Bug-Byte)">
 		<description>Antics (1984)(Bug-Byte)</description>
-		<rom name="Antics (1984)(Bug-Byte).pok" size="101" crc="a0dd08cf" md5="bc5ad3407c3fac5ae385324129a65ec0" sha1="e9cc040aafa5b2b4226beba2e6df47292a9404a1"/>
+		<rom name="Antics (1984)(Bug-Byte).pok" size="167" crc="74b9ff1a" md5="ca5a1f3be3adb6cb106218b6c10df499" sha1="e92c88aa75dae90d52b3aac94d7030ee9bb5fa81"/>
 	</game>
 	<game name="Antiquity Jones (2012)(Jenkinson, Paul)">
 		<description>Antiquity Jones (2012)(Jenkinson, Paul)</description>
@@ -780,11 +788,11 @@
 	</game>
 	<game name="Army Moves (1987)(Dinamic)">
 		<description>Army Moves (1987)(Dinamic)</description>
-		<rom name="Army Moves (1987)(Dinamic).pok" size="1478" crc="f9f78416" md5="5f4e1f4a96e886b21440aeb69b7d0826" sha1="12068de6a949c9199535d14b780fd8f0f4ecdb42"/>
+		<rom name="Army Moves (1987)(Dinamic).pok" size="1552" crc="87542fad" md5="e1d69019579e08ed7c8e4c17a5d28eba" sha1="9bcaf2d9def59a34aa70ca5872ddbf5d631be007"/>
 	</game>
-	<game name="Artura (1989)(Gremlin Graphics)">
-		<description>Artura (1989)(Gremlin Graphics)</description>
-		<rom name="Artura (1989)(Gremlin Graphics).pok" size="126" crc="b11423ff" md5="06178afd336b5e993aba1b4b850d55b1" sha1="72b3b33664bacaa2fc756ffa01d0481f588866d1"/>
+	<game name="Artura (1988)(Gremlin Graphics)">
+		<description>Artura (1988)(Gremlin Graphics)</description>
+		<rom name="Artura (1988)(Gremlin Graphics).pok" size="126" crc="b11423ff" md5="06178afd336b5e993aba1b4b850d55b1" sha1="72b3b33664bacaa2fc756ffa01d0481f588866d1"/>
 	</game>
 	<game name="Aspar GP Master (1988)(Dinamic)">
 		<description>Aspar GP Master (1988)(Dinamic)</description>
@@ -820,7 +828,7 @@
 	</game>
 	<game name="Astronaut Labyrinth (2018)(Grilo, Jaime)">
 		<description>Astronaut Labyrinth (2018)(Grilo, Jaime)</description>
-		<rom name="Astronaut Labyrinth (2018)(Grilo, Jaime).pok" size="178" crc="66795172" md5="6649f7d15baa5ca77dbf0f70006c5906" sha1="3738edd4b5471c45a7799d62e17e90eeaf7d3a79"/>
+		<rom name="Astronaut Labyrinth (2018)(Grilo, Jaime).pok" size="355" crc="77b34151" md5="4f5bd08f3c70ce68ad8f66ee1b15c3aa" sha1="6777fdea95dae13bb593d06ad0d2f895a0b6be8b"/>
 	</game>
 	<game name="Astronut (1984)(Software Projects)">
 		<description>Astronut (1984)(Software Projects)</description>
@@ -873,6 +881,10 @@
 	<game name="Automania (1984)(Mikro-Gen)">
 		<description>Automania (1984)(Mikro-Gen)</description>
 		<rom name="Automania (1984)(Mikro-Gen).pok" size="562" crc="38ef524f" md5="a1f74e4100a71c5343a141ca54ee157d" sha1="117671abb5a158a59f518d224a867210800a01ee"/>
+	</game>
+	<game name="Automated Cave Explorer (2019)(Borisov, Alexei)">
+		<description>Automated Cave Explorer (2019)(Borisov, Alexei)</description>
+		<rom name="Automated Cave Explorer (2019)(Borisov, Alexei).pok" size="29" crc="641830a8" md5="66576e8da2601510ea13999edd8a6845" sha1="3131c30c85e7a08023d251aad68e407bdc49d225"/>
 	</game>
 	<game name="Autostopista Galactico (1983)(Ventamatic)">
 		<description>Autostopista Galactico (1983)(Ventamatic)</description>
@@ -928,7 +940,7 @@
 	</game>
 	<game name="BC's Quest for Tires (1985)(Software Projects)">
 		<description>BC's Quest for Tires (1985)(Software Projects)</description>
-		<rom name="BC's Quest for Tires (1985)(Software Projects).pok" size="35" crc="6d244243" md5="131d10de6fdca6efd07fc97169d6588b" sha1="98e46629b997731b7113ae7d3b2cdd49f88a6110"/>
+		<rom name="BC's Quest for Tires (1985)(Software Projects).pok" size="270" crc="9ead7c5a" md5="3a261e4bb20ae33110e3dfa2cc8966d9" sha1="2d014d76515e453d65af2af04bb0dc2d4650da72"/>
 	</game>
 	<game name="BMX Freestyle (1989)(Code Masters)">
 		<description>BMX Freestyle (1989)(Code Masters)</description>
@@ -957,6 +969,10 @@
 	<game name="Babaliba (1984)(Dinamic)">
 		<description>Babaliba (1984)(Dinamic)</description>
 		<rom name="Babaliba (1984)(Dinamic).pok" size="1002" crc="353f189b" md5="307543503c42adbd04c2a8aae4804b29" sha1="5f50def6a6262df2ab60ae8e6ac45dee1c071469"/>
+	</game>
+	<game name="Baby Monkey Alba (2017)(Quero, Javier)">
+		<description>Baby Monkey Alba (2017)(Quero, Javier)</description>
+		<rom name="Baby Monkey Alba (2017)(Quero, Javier).pok" size="33" crc="3b3ba939" md5="7cc2ce5ab0b946274fa156493b5aa8e1" sha1="2f86d54a2a72eda354cef52cc76620dbff9aa6f8"/>
 	</game>
 	<game name="Back to Skool (1985)(Microsphere)">
 		<description>Back to Skool (1985)(Microsphere)</description>
@@ -1182,9 +1198,9 @@
 		<description>Being Left is Not Right (2019)(Pérezgrín, Carlos)</description>
 		<rom name="Being Left is Not Right (2019)(Pérezgrín, Carlos).pok" size="370" crc="3ea2852e" md5="f7901624b2e711f133b3db7de210a55c" sha1="4b176254f979875fe0e1ad6010e586945d237b91"/>
 	</game>
-	<game name="Benny Hill's Madcap Chase! (1985)(DK'Tronics)">
-		<description>Benny Hill's Madcap Chase! (1985)(DK'Tronics)</description>
-		<rom name="Benny Hill's Madcap Chase! (1985)(DK'Tronics).pok" size="33" crc="75da60c9" md5="ca0e32c903f722cdceffba76f9c25d99" sha1="34bf534611c4e68e14f1255adf112ec5071c69b7"/>
+	<game name="Benny Hill's Madcap Chase! (1986)(DK'Tronics)">
+		<description>Benny Hill's Madcap Chase! (1986)(DK'Tronics)</description>
+		<rom name="Benny Hill's Madcap Chase! (1986)(DK'Tronics).pok" size="33" crc="75da60c9" md5="ca0e32c903f722cdceffba76f9c25d99" sha1="34bf534611c4e68e14f1255adf112ec5071c69b7"/>
 	</game>
 	<game name="BerksMan (2012)(Fisher, Paul)">
 		<description>BerksMan (2012)(Fisher, Paul)</description>
@@ -1294,13 +1310,17 @@
 		<description>Birdy (1985)(Your Computer)</description>
 		<rom name="Birdy (1985)(Your Computer).pok" size="33" crc="c2952b5b" md5="8203eef2ea0ffdf0cac03cc4475411cf" sha1="9104dff8db113ad6673a343ae6144bed3b8d9739"/>
 	</game>
+	<game name="Birdy Cantabile (2019)(iadvd)">
+		<description>Birdy Cantabile (2019)(iadvd)</description>
+		<rom name="Birdy Cantabile (2019)(iadvd).pok" size="158" crc="884103f2" md5="8bd7ceb3fb3fc7e04fa9430b1336708b" sha1="442f0dd3676305b9ba54f811e759d10c75a9b900"/>
+	</game>
 	<game name="Bite the Dust (1988)(Crash)">
 		<description>Bite the Dust (1988)(Crash)</description>
 		<rom name="Bite the Dust (1988)(Crash).pok" size="91" crc="b905a3f1" md5="2d7da212673d645033a7823268cf02b4" sha1="5124a6b7c1615df0559b257ef738dcbeb08ed0a1"/>
 	</game>
 	<game name="Bizarre (2005)(BaSe1 PrOdUcTiOnZ)">
 		<description>Bizarre (2005)(BaSe1 PrOdUcTiOnZ)</description>
-		<rom name="Bizarre (2005)(BaSe1 PrOdUcTiOnZ).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Bizarre (2005)(BaSe1 PrOdUcTiOnZ).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Black Beard (1988)(Topo Soft)">
 		<description>Black Beard (1988)(Topo Soft)</description>
@@ -1312,7 +1332,7 @@
 	</game>
 	<game name="Black Horse (2009)(Digital Brains)">
 		<description>Black Horse (2009)(Digital Brains)</description>
-		<rom name="Black Horse (2009)(Digital Brains).pok" size="26" crc="a2f56e68" md5="8ce7591c9defb7241711517185771774" sha1="dc96d68ab224bfc0bdcc153176a32dff900706fc"/>
+		<rom name="Black Horse (2009)(Digital Brains).pok" size="73" crc="d4a019b0" md5="a47ed3df019cdefbf1351de60c20e5e3" sha1="64fd6464e9e09dd08518275dea7d274bd17735d8"/>
 	</game>
 	<game name="Black Lamp (1988)(Firebird)">
 		<description>Black Lamp (1988)(Firebird)</description>
@@ -1322,9 +1342,9 @@
 		<description>Black Magic (1987)(U.S. Gold)</description>
 		<rom name="Black Magic (1987)(U.S. Gold).pok" size="451" crc="ed32ac18" md5="3d1ba997cec65811f9597d65ef60ddbb" sha1="70785de62a0287ae0f24181943c55c384ce176f1"/>
 	</game>
-	<game name="Black Tiger (1989)(Go!)">
-		<description>Black Tiger (1989)(Go!)</description>
-		<rom name="Black Tiger (1989)(Go!).pok" size="174" crc="72476657" md5="746a3a08918e1281c81089450d263234" sha1="5b01dfa4e35b57285ca1c1317549d46f6b5a899b"/>
+	<game name="Black Tiger (1990)(Go!)">
+		<description>Black Tiger (1990)(Go!)</description>
+		<rom name="Black Tiger (1990)(Go!).pok" size="495" crc="30c50941" md5="809d848b6e76eb831edcdd27589e2cdd" sha1="830b00860afa30979399b62e2622f433ea1820c9"/>
 	</game>
 	<game name="Blade Alley (1983)(PSS)">
 		<description>Blade Alley (1983)(PSS)</description>
@@ -1436,7 +1456,7 @@
 	</game>
 	<game name="Bobby Carrot (2018)(Diver - Kyv - Quiet)">
 		<description>Bobby Carrot (2018)(Diver - Kyv - Quiet)</description>
-		<rom name="Bobby Carrot (2018)(Diver - Kyv - Quiet).pok" size="78" crc="a49ed2d1" md5="f86762f060ca2974cd614ca94e45f647" sha1="79c5d667397f0b1992247ba46b5f70f55b8be8f9"/>
+		<rom name="Bobby Carrot (2018)(Diver - Kyv - Quiet).pok" size="116" crc="066cd952" md5="0660b79e3e7d5cc0e6f3e11e4fad5d20" sha1="830391370998c52d4d55572dc2198a8a8f8d51f8"/>
 	</game>
 	<game name="Bobby Yazz Show, The (1991)(Crash)">
 		<description>Bobby Yazz Show, The (1991)(Crash)</description>
@@ -1469,6 +1489,10 @@
 	<game name="Bomb Jack II (1987)(Elite Systems)">
 		<description>Bomb Jack II (1987)(Elite Systems)</description>
 		<rom name="Bomb Jack II (1987)(Elite Systems).pok" size="105" crc="b07f6d37" md5="8497bd6b39934512edad686e8b322b7f" sha1="267863449af877379406523480725cfab056e940"/>
+	</game>
+	<game name="Bomb Munchies (2014)(Carrier, Matthew - Yerzmyey)">
+		<description>Bomb Munchies (2014)(Carrier, Matthew - Yerzmyey)</description>
+		<rom name="Bomb Munchies (2014)(Carrier, Matthew - Yerzmyey).pok" size="142" crc="eaa778a4" md5="6267f712792890afc4d821019ebd27d5" sha1="1862d530ebeba105582270011941e543bb45f62c"/>
 	</game>
 	<game name="Bomber (1995)(Excellent Four)">
 		<description>Bomber (1995)(Excellent Four)</description>
@@ -1505,6 +1529,10 @@
 	<game name="Bonkers (1983)(Procom)">
 		<description>Bonkers (1983)(Procom)</description>
 		<rom name="Bonkers (1983)(Procom).pok" size="77" crc="32ef13b5" md5="efb2bc71865f6bb828df8f884fbc249e" sha1="c36f7a8bf8cb0a39dd95c2c47e4c8b77d605b2d5"/>
+	</game>
+	<game name="Bonnie and Clyde (2020)(ZOSYA entertainment)">
+		<description>Bonnie and Clyde (2020)(ZOSYA entertainment)</description>
+		<rom name="Bonnie and Clyde (2020)(ZOSYA entertainment).pok" size="64" crc="96af30c4" md5="9f510560e8b07d17f1314f3a15cac9ad" sha1="3e85f9d433e5947b3182e02d0858b779f46a9ea2"/>
 	</game>
 	<game name="Bonus Game or Dasher (1996)(Merlin)">
 		<description>Bonus Game or Dasher (1996)(Merlin)</description>
@@ -1546,13 +1574,13 @@
 		<description>Boulder Dash Construction Kit (1988)(Databyte)</description>
 		<rom name="Boulder Dash Construction Kit (1988)(Databyte).pok" size="64" crc="2ec3b31f" md5="420af2f550e4d3e02474334de5014141" sha1="2bcabf6c078ec32d68d27cec686b36bc8c0bdc6f"/>
 	</game>
-	<game name="Boulder Dash II - Rockford's Riot (1985)(Prism Leisure Corporation)">
-		<description>Boulder Dash II - Rockford's Riot (1985)(Prism Leisure Corporation)</description>
-		<rom name="Boulder Dash II - Rockford's Riot (1985)(Prism Leisure Corporation).pok" size="478" crc="9adb929d" md5="5f87b6209346ff89a616c10e93981a59" sha1="2e445f357b457d646e21ad85f46ecd53a3b66da8"/>
+	<game name="Boulder Dash II - Rockford's Riot (1985)(Monolith)">
+		<description>Boulder Dash II - Rockford's Riot (1985)(Monolith)</description>
+		<rom name="Boulder Dash II - Rockford's Riot (1985)(Monolith).pok" size="478" crc="9adb929d" md5="5f87b6209346ff89a616c10e93981a59" sha1="2e445f357b457d646e21ad85f46ecd53a3b66da8"/>
 	</game>
-	<game name="Boulder Dash III (1986)(Prism Leisure Corporation)">
-		<description>Boulder Dash III (1986)(Prism Leisure Corporation)</description>
-		<rom name="Boulder Dash III (1986)(Prism Leisure Corporation).pok" size="480" crc="b834020f" md5="d164c1d16b81fa98e127a146c076890c" sha1="7f30d9b7a9d095223a5c970ac0fc97ec9836ed9d"/>
+	<game name="Boulder Dash III (1986)(American Action AB)">
+		<description>Boulder Dash III (1986)(American Action AB)</description>
+		<rom name="Boulder Dash III (1986)(American Action AB).pok" size="480" crc="b834020f" md5="d164c1d16b81fa98e127a146c076890c" sha1="7f30d9b7a9d095223a5c970ac0fc97ec9836ed9d"/>
 	</game>
 	<game name="Boulder Mix (1996)(Firesoft)">
 		<description>Boulder Mix (1996)(Firesoft)</description>
@@ -1565,6 +1593,10 @@
 	<game name="Bouncing Berty (1984)(PowerSoftware)">
 		<description>Bouncing Berty (1984)(PowerSoftware)</description>
 		<rom name="Bouncing Berty (1984)(PowerSoftware).pok" size="60" crc="dcc1b606" md5="aa8bbe7d7c0d16e3e61b7721805f7c2d" sha1="32b9cb960c3118ffa913cdf057984ec9aa49f0d6"/>
+	</game>
+	<game name="Bouncing Bomb (1986)(Ruston, Phil)">
+		<description>Bouncing Bomb (1986)(Ruston, Phil)</description>
+		<rom name="Bouncing Bomb (1986)(Ruston, Phil).pok" size="35" crc="4ea6be7c" md5="430535c18e9bd640f39f2f5677802873" sha1="1a8dcfa9a408d39aac8508e810d328cc2d2d1295"/>
 	</game>
 	<game name="Bouncing Bomb - Redux (2012)(Retroleum)">
 		<description>Bouncing Bomb - Redux (2012)(Retroleum)</description>
@@ -1698,9 +1730,9 @@
 		<description>Bronx Street Cop (1989)(Code Masters)</description>
 		<rom name="Bronx Street Cop (1989)(Code Masters).pok" size="236" crc="1b88a771" md5="cfe8efd69f26bb63f981ceb06b4825e8" sha1="97c641869c7ac903eeeb3fddff784e142e0a3cc5"/>
 	</game>
-	<game name="Bruce Lee (1984)(U.S. Gold)">
-		<description>Bruce Lee (1984)(U.S. Gold)</description>
-		<rom name="Bruce Lee (1984)(U.S. Gold).pok" size="196" crc="572c720c" md5="feb611d0c2ff2bb0a292358d40acd89f" sha1="5b70d80fbdec34c16d8198eb0ffb895424cc8e1c"/>
+	<game name="Bruce Lee (1985)(U.S. Gold)">
+		<description>Bruce Lee (1985)(U.S. Gold)</description>
+		<rom name="Bruce Lee (1985)(U.S. Gold).pok" size="196" crc="572c720c" md5="feb611d0c2ff2bb0a292358d40acd89f" sha1="5b70d80fbdec34c16d8198eb0ffb895424cc8e1c"/>
 	</game>
 	<game name="Bubble Bobble (1987)(Firebird)">
 		<description>Bubble Bobble (1987)(Firebird)</description>
@@ -1772,7 +1804,7 @@
 	</game>
 	<game name="Bulgarian Requiem, A (2000)(Adban de Corcy)">
 		<description>Bulgarian Requiem, A (2000)(Adban de Corcy)</description>
-		<rom name="Bulgarian Requiem, A (2000)(Adban de Corcy).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Bulgarian Requiem, A (2000)(Adban de Corcy).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Bullseye (1986)(Macsen)">
 		<description>Bullseye (1986)(Macsen)</description>
@@ -1994,9 +2026,9 @@
 		<description>Castillo Maldito (2003)(Beyker Soft)</description>
 		<rom name="Castillo Maldito (2003)(Beyker Soft).pok" size="33" crc="76f9114b" md5="71e324b3ac467e290d5df10330006933" sha1="d8910444046e550acb60e7127ea653b9166d0c50"/>
 	</game>
-	<game name="Castle Master (1990)(Incentive)">
-		<description>Castle Master (1990)(Incentive)</description>
-		<rom name="Castle Master (1990)(Incentive).pok" size="278" crc="4d0ae339" md5="8868855bc79ba17f6e49ef54116bd876" sha1="bc6c09ac507a3ee66f3295a2a855db4c1288afc4"/>
+	<game name="Castle Master (1990)(Domark)">
+		<description>Castle Master (1990)(Domark)</description>
+		<rom name="Castle Master (1990)(Domark).pok" size="278" crc="4d0ae339" md5="8868855bc79ba17f6e49ef54116bd876" sha1="bc6c09ac507a3ee66f3295a2a855db4c1288afc4"/>
 	</game>
 	<game name="Castle Master II - The Crypt (1990)(Incentive)">
 		<description>Castle Master II - The Crypt (1990)(Incentive)</description>
@@ -2154,9 +2186,17 @@
 		<description>Chase H.Q. II - Special Criminal Investigation (1990)(Ocean)</description>
 		<rom name="Chase H.Q. II - Special Criminal Investigation (1990)(Ocean).pok" size="68" crc="49bc88a8" md5="a296c78fef544d844bbda3ba9cfaff11" sha1="a3c2065401aded8990cd8d96078d44a4dc69e933"/>
 	</game>
+	<game name="Che-Man (2019)(Mojon Twins, The)">
+		<description>Che-Man (2019)(Mojon Twins, The)</description>
+		<rom name="Che-Man (2019)(Mojon Twins, The).pok" size="64" crc="8df44941" md5="ab7fc5890c7343639f23c93eaa9b9773" sha1="2f5283e7b0daf90e862dcb9b80b1e064fccfeae3"/>
+	</game>
 	<game name="Cheekah's Exploits (1986)(Your Computer)">
 		<description>Cheekah's Exploits (1986)(Your Computer)</description>
 		<rom name="Cheekah's Exploits (1986)(Your Computer).pok" size="33" crc="19e794f8" md5="eb354ad8599ee49970d0e3a3b0219d82" sha1="a0a7d19f82e833ad747e1f1ae8be120f235c6d9b"/>
+	</game>
+	<game name="Cheesy Chase - Moritz and the Mildewed Moon (2019)(Team Moritz)">
+		<description>Cheesy Chase - Moritz and the Mildewed Moon (2019)(Team Moritz)</description>
+		<rom name="Cheesy Chase - Moritz and the Mildewed Moon (2019)(Team Moritz).pok" size="35" crc="c4256570" md5="35b758acc67790a45379d73b079c1876" sha1="a163ec4e78ffb1dcdafcd3b5abe8c562d68fbd03"/>
 	</game>
 	<game name="Chefs Mate (1991)(Morris, Dominic J.)">
 		<description>Chefs Mate (1991)(Morris, Dominic J.)</description>
@@ -2174,9 +2214,13 @@
 		<description>Cheril Perils (2010)(Ubhres Productions)</description>
 		<rom name="Cheril Perils (2010)(Ubhres Productions).pok" size="202" crc="a046469c" md5="9de20f77643e5ce3758c85d9243b9972" sha1="2687bf2a652b2c7dc767a23eaadcac2ff3ea5752"/>
 	</game>
+	<game name="Cheril in the Bosque en otro Bosque (2018)(Mojon Twins, The)">
+		<description>Cheril in the Bosque en otro Bosque (2018)(Mojon Twins, The)</description>
+		<rom name="Cheril in the Bosque en otro Bosque (2018)(Mojon Twins, The).pok" size="64" crc="ebe52615" md5="aee00bd56bcf83936349cc84b656b5eb" sha1="df22635352d423ee49bfd59aa324c16d1893f3db"/>
+	</game>
 	<game name="Cheril of the Bosque (2010)(Ubhres Productions)">
 		<description>Cheril of the Bosque (2010)(Ubhres Productions)</description>
-		<rom name="Cheril of the Bosque (2010)(Ubhres Productions).pok" size="73" crc="3087b39d" md5="fea106552a0a70ca71d25f31c2b8ac20" sha1="c2363b5737dfaa47a9eddf2cac44ea8cf0fe2f71"/>
+		<rom name="Cheril of the Bosque (2010)(Ubhres Productions).pok" size="119" crc="7b43a595" md5="b402eceb2a2d069a37523f229e803af7" sha1="8580c11a489b1fb680754f89bb6ba4a2d04e002f"/>
 	</game>
 	<game name="Cheril the Goddess (2012)(Mojon Twins, The)">
 		<description>Cheril the Goddess (2012)(Mojon Twins, The)</description>
@@ -2288,7 +2332,7 @@
 	</game>
 	<game name="Chuckie Egg (1983)(A'n'F)">
 		<description>Chuckie Egg (1983)(A'n'F)</description>
-		<rom name="Chuckie Egg (1983)(A'n'F).pok" size="661" crc="a3454a5b" md5="0855c3bc386759c4a626a719d243d4ab" sha1="c3e0750f1b9068bc9f897fcbdbf0e6af69a6f4ac"/>
+		<rom name="Chuckie Egg (1983)(A'n'F).pok" size="709" crc="73c6fef7" md5="42cc36233d6744363ae9899f386f20de" sha1="0ae66f8d57470feb56e1217bd2d8961e0b19f514"/>
 	</game>
 	<game name="Chuckie Egg 2 (1985)(A'n'F)">
 		<description>Chuckie Egg 2 (1985)(A'n'F)</description>
@@ -2318,9 +2362,9 @@
 		<description>Citadel (1991)(Dowman, Mike)</description>
 		<rom name="Citadel (1991)(Dowman, Mike).pok" size="97" crc="bea54d91" md5="495a7fc1d28af85b5c0ae253b7994c18" sha1="4abebe3d77c381d82e027ba43a564f3232c0e78f"/>
 	</game>
-	<game name="City Connection (19xx)(Lemos, Manuel)">
-		<description>City Connection (19xx)(Lemos, Manuel)</description>
-		<rom name="City Connection (19xx)(Lemos, Manuel).pok" size="64" crc="e20151ef" md5="ec182d542aab87d910eeeaf54152dd7a" sha1="ce9071590571e45b877c1eab703ba7ecd5d11476"/>
+	<game name="City Connection (1988)(Lemos, Manuel)">
+		<description>City Connection (1988)(Lemos, Manuel)</description>
+		<rom name="City Connection (1988)(Lemos, Manuel).pok" size="64" crc="e20151ef" md5="ec182d542aab87d910eeeaf54152dd7a" sha1="ce9071590571e45b877c1eab703ba7ecd5d11476"/>
 	</game>
 	<game name="City Slicker (1986)(Hewson Consultants)">
 		<description>City Slicker (1986)(Hewson Consultants)</description>
@@ -2344,7 +2388,7 @@
 	</game>
 	<game name="Classic Invaders (1990)(Alternative)">
 		<description>Classic Invaders (1990)(Alternative)</description>
-		<rom name="Classic Invaders (1990)(Alternative).pok" size="33" crc="8a2d4fc9" md5="c9794a6ad5b8ea66b2c59afb9305ba33" sha1="d90dfef9330e8a0c6974fd6c9920578dbfa91698"/>
+		<rom name="Classic Invaders (1990)(Alternative).pok" size="106" crc="72234868" md5="eec3897ece71e6da5c61d70f596da0b9" sha1="546c58fc16a66cda17018ec7f7d3c4414d5c4c29"/>
 	</game>
 	<game name="Classic Japanese Monster Castle (1991)(LOKOsoft)">
 		<description>Classic Japanese Monster Castle (1991)(LOKOsoft)</description>
@@ -2378,17 +2422,17 @@
 		<description>Clive in Exile (1986)(Illusion)</description>
 		<rom name="Clive in Exile (1986)(Illusion).pok" size="33" crc="45f00f6f" md5="7a3bb51963e13934cf8b76983d870409" sha1="245d8ed9eb283e3f24c5bc45ab2a7fe60b5e557f"/>
 	</game>
-	<game name="Clocks Head Cracker (1999)(Partyzans)">
-		<description>Clocks Head Cracker (1999)(Partyzans)</description>
-		<rom name="Clocks Head Cracker (1999)(Partyzans).pok" size="34" crc="e2101999" md5="c6ac17ab0f77e7096a23d858de1312ad" sha1="a829dbe58e5ad8e80ac0d2205bfda01dd3648ecd"/>
+	<game name="Clocks Head Cracker (1999)(Omega Hackers Group - Partyzans)">
+		<description>Clocks Head Cracker (1999)(Omega Hackers Group - Partyzans)</description>
+		<rom name="Clocks Head Cracker (1999)(Omega Hackers Group - Partyzans).pok" size="34" crc="e2101999" md5="c6ac17ab0f77e7096a23d858de1312ad" sha1="a829dbe58e5ad8e80ac0d2205bfda01dd3648ecd"/>
 	</game>
 	<game name="Clopit! (2011)(BaSe1 PrOdUcTiOnZ)">
 		<description>Clopit! (2011)(BaSe1 PrOdUcTiOnZ)</description>
-		<rom name="Clopit! (2011)(BaSe1 PrOdUcTiOnZ).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Clopit! (2011)(BaSe1 PrOdUcTiOnZ).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
-	<game name="Cobble 2 (1999)(Cheprasov, Vladimir)">
-		<description>Cobble 2 (1999)(Cheprasov, Vladimir)</description>
-		<rom name="Cobble 2 (1999)(Cheprasov, Vladimir).pok" size="33" crc="564409d9" md5="4eb31c8ccdcc0e5a3c109dc0bc4c9668" sha1="15615065bdb19baa322b37fbd5d001afcb2099a7"/>
+	<game name="Cobble 2 (1999)(-)">
+		<description>Cobble 2 (1999)(-)</description>
+		<rom name="Cobble 2 (1999)(-).pok" size="33" crc="564409d9" md5="4eb31c8ccdcc0e5a3c109dc0bc4c9668" sha1="15615065bdb19baa322b37fbd5d001afcb2099a7"/>
 	</game>
 	<game name="Cobra (1986)(Ocean)">
 		<description>Cobra (1986)(Ocean)</description>
@@ -2430,13 +2474,17 @@
 		<description>Collywobbles (1987)(Pirate)</description>
 		<rom name="Collywobbles (1987)(Pirate).pok" size="102" crc="f69ebe20" md5="de392d358ba32105a78286b09b895109" sha1="401b374658a8d3347eb2797aa46b236af05ce6fa"/>
 	</game>
+	<game name="Colonos ZX (2020)(Gris, Jose Manuel)">
+		<description>Colonos ZX (2020)(Gris, Jose Manuel)</description>
+		<rom name="Colonos ZX (2020)(Gris, Jose Manuel).pok" size="34" crc="309c1328" md5="826833ddf97fca7ea5985c444da12c1c" sha1="fc8f9ac831dca3fb99553716b5aacea7d56179c5"/>
+	</game>
 	<game name="Colony (1987)(Bulldog)">
 		<description>Colony (1987)(Bulldog)</description>
 		<rom name="Colony (1987)(Bulldog).pok" size="113" crc="2782e958" md5="bd1b47b96cc720efa720b2793e7e41d7" sha1="d57b94f5814244172a4feb3c0455af0f10323fe8"/>
 	</game>
 	<game name="Colossal Cave, The (2000)(Wyatt, James)">
 		<description>Colossal Cave, The (2000)(Wyatt, James)</description>
-		<rom name="Colossal Cave, The (2000)(Wyatt, James).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Colossal Cave, The (2000)(Wyatt, James).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Colour Clash (1983)(Romik)">
 		<description>Colour Clash (1983)(Romik)</description>
@@ -2469,6 +2517,10 @@
 	<game name="Comeme (1986)(MicroHobby)">
 		<description>Comeme (1986)(MicroHobby)</description>
 		<rom name="Comeme (1986)(MicroHobby).pok" size="268" crc="9bcb5b93" md5="e6c13b3034ad6494f5a8bc5cdae7b47b" sha1="85667beea860f1ca17a32055e8bc19f7c2bf2f73"/>
+	</game>
+	<game name="Comeme el Chip (2019)(Beyker Soft)">
+		<description>Comeme el Chip (2019)(Beyker Soft)</description>
+		<rom name="Comeme el Chip (2019)(Beyker Soft).pok" size="85" crc="3b86423f" md5="78e54b62bdcc05c37e33392eba224122" sha1="ade3eb61ae1c435767ad035cfbf1816931048563"/>
 	</game>
 	<game name="Comet Encounter (1986)(LiveWire)">
 		<description>Comet Encounter (1986)(LiveWire)</description>
@@ -2514,9 +2566,9 @@
 		<description>Contact Sam Cruise (1986)(Microsphere)</description>
 		<rom name="Contact Sam Cruise (1986)(Microsphere).pok" size="82" crc="216f3fb5" md5="1b33661ca480bb6e02452db77d1e87b5" sha1="3a7ecbf6d79fef98f21aa19c32c2f2e306c84dfb"/>
 	</game>
-	<game name="Continental Circus (1989)(Virgin Mastertronic)">
-		<description>Continental Circus (1989)(Virgin Mastertronic)</description>
-		<rom name="Continental Circus (1989)(Virgin Mastertronic).pok" size="96" crc="75038473" md5="4d1eeee03d6eaa16f29ad38482f57114" sha1="305d924a630be65efca4e4faebda6c86bb253a5a"/>
+	<game name="Continental Circus (1989)(Virgin Games)">
+		<description>Continental Circus (1989)(Virgin Games)</description>
+		<rom name="Continental Circus (1989)(Virgin Games).pok" size="96" crc="75038473" md5="4d1eeee03d6eaa16f29ad38482f57114" sha1="305d924a630be65efca4e4faebda6c86bb253a5a"/>
 	</game>
 	<game name="Cookie (1983)(Ultimate Play The Game)">
 		<description>Cookie (1983)(Ultimate Play The Game)</description>
@@ -2574,9 +2626,9 @@
 		<description>Cosmic Shock Absorber (1986)(Martech Games)</description>
 		<rom name="Cosmic Shock Absorber (1986)(Martech Games).pok" size="322" crc="71c895ca" md5="9abdb63d503df8e2fdd05d839eab7b76" sha1="bac6dc63ba098ff0f61e4d38386b00320a715938"/>
 	</game>
-	<game name="Cosmic Wartoad (1985)(Ocean)">
-		<description>Cosmic Wartoad (1985)(Ocean)</description>
-		<rom name="Cosmic Wartoad (1985)(Ocean).pok" size="523" crc="42377115" md5="903a4dff517e6da61aa7d31a4bc4680e" sha1="7499eadc4685fc2ede3280f6da51c536a6f20177"/>
+	<game name="Cosmic Wartoad (1986)(Ocean)">
+		<description>Cosmic Wartoad (1986)(Ocean)</description>
+		<rom name="Cosmic Wartoad (1986)(Ocean).pok" size="523" crc="42377115" md5="903a4dff517e6da61aa7d31a4bc4680e" sha1="7499eadc4685fc2ede3280f6da51c536a6f20177"/>
 	</game>
 	<game name="Costa Capers (1985)(Firebird)">
 		<description>Costa Capers (1985)(Firebird)</description>
@@ -2762,6 +2814,10 @@
 		<description>Curse of Sherwood, The (1987)(Mastertronic)</description>
 		<rom name="Curse of Sherwood, The (1987)(Mastertronic).pok" size="59" crc="e8728e47" md5="86c401babc094dd9729587827a4568c4" sha1="233d7479c69043c9a8dad54b8214b6d7c300709c"/>
 	</game>
+	<game name="Curse of Trasmoz, The (2019)(Volcanobytes)">
+		<description>Curse of Trasmoz, The (2019)(Volcanobytes)</description>
+		<rom name="Curse of Trasmoz, The (2019)(Volcanobytes).pok" size="64" crc="e375cc15" md5="03c7279a042dff8a07a8571de9e6f162" sha1="29c4b44f72ad8250c3238953da10b37a1644b30f"/>
+	</game>
 	<game name="Cyber Rats (1982)(Silversoft)">
 		<description>Cyber Rats (1982)(Silversoft)</description>
 		<rom name="Cyber Rats (1982)(Silversoft).pok" size="140" crc="f3ec069c" md5="d1dde70fba3d375914a3bf826afe7ba4" sha1="ecbd7887f576611bc18a7eb0c716e73f878eb4db"/>
@@ -2848,7 +2904,7 @@
 	</game>
 	<game name="Daley Thompson's Supertest (1985)(Ocean)">
 		<description>Daley Thompson's Supertest (1985)(Ocean)</description>
-		<rom name="Daley Thompson's Supertest (1985)(Ocean).pok" size="325" crc="3999b66d" md5="55aec3d96bc03c68cf7863f7434ae34a" sha1="6377f1b0ae69785e379b04e9d0858719d7280dee"/>
+		<rom name="Daley Thompson's Supertest (1985)(Ocean).pok" size="358" crc="1caa7c71" md5="4d2dc290241ac885b68a8e132b908d21" sha1="1939e6a09f1446e50ca116dd8a31eb8371155e9d"/>
 	</game>
 	<game name="Dam Busters (1983)(Professional)">
 		<description>Dam Busters (1983)(Professional)</description>
@@ -2926,13 +2982,13 @@
 		<description>Dark Tricks (2014)(Dazman)</description>
 		<rom name="Dark Tricks (2014)(Dazman).pok" size="58" crc="eef73d52" md5="626df44a75c3711a63fc74f176d74e45" sha1="c8f1129798909c2dc36035ed4cd41e4f7834218d"/>
 	</game>
-	<game name="Dark, The (1991)(Izhevsk)">
-		<description>Dark, The (1991)(Izhevsk)</description>
-		<rom name="Dark, The (1991)(Izhevsk).pok" size="128" crc="2babfff7" md5="13a07c4d8923077bb33393202939fb0d" sha1="4493b482aaf8b1e94c5b77433452277a98d268d7"/>
+	<game name="Dark, The (1991)(Hanzis, Sergey - Katchurin, Sergey - Sidorchuck, Maxim)">
+		<description>Dark, The (1991)(Hanzis, Sergey - Katchurin, Sergey - Sidorchuck, Maxim)</description>
+		<rom name="Dark, The (1991)(Hanzis, Sergey - Katchurin, Sergey - Sidorchuck, Maxim).pok" size="128" crc="2babfff7" md5="13a07c4d8923077bb33393202939fb0d" sha1="4493b482aaf8b1e94c5b77433452277a98d268d7"/>
 	</game>
 	<game name="Dark, The (1997)(Origin, Oleg)">
 		<description>Dark, The (1997)(Origin, Oleg)</description>
-		<rom name="Dark, The (1997)(Origin, Oleg).pok" size="146" crc="dbdd760a" md5="7d81ebb519888a2d565467dafefcc6e7" sha1="2700c1dcce0358b9d7bf5bd8a9900a7ea4d48ae1"/>
+		<rom name="Dark, The (1997)(Origin, Oleg).pok" size="291" crc="2b0a157f" md5="ff8669cfba1718e153b367ff116f9900" sha1="8ac32d2eb1303121838afb035ee065690fc5f649"/>
 	</game>
 	<game name="Darkman (1991)(Ocean)">
 		<description>Darkman (1991)(Ocean)</description>
@@ -2976,7 +3032,7 @@
 	</game>
 	<game name="Deadly Mission, The (1985)(Britton, Adam)">
 		<description>Deadly Mission, The (1985)(Britton, Adam)</description>
-		<rom name="Deadly Mission, The (1985)(Britton, Adam).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Deadly Mission, The (1985)(Britton, Adam).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Deadly Skeletons (1990)(Prophics)">
 		<description>Deadly Skeletons (1990)(Prophics)</description>
@@ -3210,6 +3266,10 @@
 		<description>Devil's Descent (1985)(Pocket Money)</description>
 		<rom name="Devil's Descent (1985)(Pocket Money).pok" size="35" crc="79a04d26" md5="41199b8003400171906a7948ab0c9563" sha1="a420aac881484751a76cacc13c558bac643637a8"/>
 	</game>
+	<game name="Devil's Quest (2020)(OCTOCOM)">
+		<description>Devil's Quest (2020)(OCTOCOM)</description>
+		<rom name="Devil's Quest (2020)(OCTOCOM).pok" size="33" crc="0cd9d59d" md5="cdd0cbf7a44c346d201291114d2fc4f5" sha1="bfea68486d4018474c38137db1c7acd8d1903cc7"/>
+	</game>
 	<game name="Devils of the Deep (1983)(Richard Shepherd)">
 		<description>Devils of the Deep (1983)(Richard Shepherd)</description>
 		<rom name="Devils of the Deep (1983)(Richard Shepherd).pok" size="119" crc="9c1081b6" md5="36d90bfd5cdf12a3c22492646649c702" sha1="dc56e99e9c99190171ed21426fe6a8cffbcb6f4b"/>
@@ -3278,6 +3338,10 @@
 		<description>Dirt Track Racer (1991)(Zeppelin Games)</description>
 		<rom name="Dirt Track Racer (1991)(Zeppelin Games).pok" size="83" crc="9746e93b" md5="86bf600623e77cc17c7202c23477c520" sha1="d1d47ed076fec79bb9adb2d85778524fcc42cc9f"/>
 	</game>
+	<game name="Dirty Dozer (2019)(Miguetelo)">
+		<description>Dirty Dozer (2019)(Miguetelo)</description>
+		<rom name="Dirty Dozer (2019)(Miguetelo).pok" size="33" crc="55a562f0" md5="19745a4e3e9d3f6c810c4f22ed7f667b" sha1="7661cb654cb8d6bbc8825a2d8ed453c649a94511"/>
+	</game>
 	<game name="Disco Dan (1984)(Gem)">
 		<description>Disco Dan (1984)(Gem)</description>
 		<rom name="Disco Dan (1984)(Gem).pok" size="48" crc="766032c6" md5="1322a02dcbc54ff82bedfd54c6a03f5d" sha1="27cf98aa96aa4b1c0141fc5b8caa0935edc5f1dd"/>
@@ -3300,7 +3364,7 @@
 	</game>
 	<game name="Dizzy (1987)(Code Masters)">
 		<description>Dizzy (1987)(Code Masters)</description>
-		<rom name="Dizzy (1987)(Code Masters).pok" size="169" crc="c686942a" md5="7a3fea3f69a890aaf0460f10e58f1e84" sha1="af86c6eefb78394845b19e48a6278b7e6d351895"/>
+		<rom name="Dizzy (1987)(Code Masters).pok" size="225" crc="d53a40e6" md5="82e7bd43a15831913c62908023f435fa" sha1="8eb72544738315358462b04d7fdd190274ff464a"/>
 	</game>
 	<game name="Dizzy &amp; ZX (1986)(K-Soft)">
 		<description>Dizzy &amp; ZX (1986)(K-Soft)</description>
@@ -3410,9 +3474,9 @@
 		<description>Dogmole Tuppowski - The New Adventures (2014)(Davidian - Jarlaxe)</description>
 		<rom name="Dogmole Tuppowski - The New Adventures (2014)(Davidian - Jarlaxe).pok" size="439" crc="3d7d7023" md5="f0717007482ddb2a61d4caf8b4d9d651" sha1="826c08f4cf0811d6dea7c0a88a9750e5eba4aa28"/>
 	</game>
-	<game name="Dogmole Tuppowski vs. the Mesmerizing Meemaid From Miskatonic (19xx)(-)">
-		<description>Dogmole Tuppowski vs. the Mesmerizing Meemaid From Miskatonic (19xx)(-)</description>
-		<rom name="Dogmole Tuppowski vs. the Mesmerizing Meemaid From Miskatonic (19xx)(-).pok" size="68" crc="3fe787ae" md5="6647f4e2e85cc9f0656fdf812d9d40d4" sha1="8665a78106d08b40eab2f2547b49bccd4b47706d"/>
+	<game name="Dogmole Tuppowski vs. the Mesmerizing Meemaid From Miskatonic (2013)(Mojon Twins, The)">
+		<description>Dogmole Tuppowski vs. the Mesmerizing Meemaid From Miskatonic (2013)(Mojon Twins, The)</description>
+		<rom name="Dogmole Tuppowski vs. the Mesmerizing Meemaid From Miskatonic (2013)(Mojon Twins, The).pok" size="68" crc="3fe787ae" md5="6647f4e2e85cc9f0656fdf812d9d40d4" sha1="8665a78106d08b40eab2f2547b49bccd4b47706d"/>
 	</game>
 	<game name="Dogsbody (1985)(Bug-Byte)">
 		<description>Dogsbody (1985)(Bug-Byte)</description>
@@ -3494,9 +3558,9 @@
 		<description>Double Dragon (1989)(Melbourne House)</description>
 		<rom name="Double Dragon (1989)(Melbourne House).pok" size="264" crc="e8eb26f1" md5="2cb746b58f716d90e1aa7af9c6e1cb99" sha1="cdcce64b5ecb7af4c463853d47f891ae1489b849"/>
 	</game>
-	<game name="Double Dragon II - The Revenge (1989)(Virgin Mastertronic)">
-		<description>Double Dragon II - The Revenge (1989)(Virgin Mastertronic)</description>
-		<rom name="Double Dragon II - The Revenge (1989)(Virgin Mastertronic).pok" size="708" crc="0dfc8434" md5="1db921a67654ec4bfad5659cdfc9b26d" sha1="4a9907c6011d5181d22433d825ef2184adefe435"/>
+	<game name="Double Dragon II - The Revenge (1989)(Virgin Games)">
+		<description>Double Dragon II - The Revenge (1989)(Virgin Games)</description>
+		<rom name="Double Dragon II - The Revenge (1989)(Virgin Games).pok" size="708" crc="0dfc8434" md5="1db921a67654ec4bfad5659cdfc9b26d" sha1="4a9907c6011d5181d22433d825ef2184adefe435"/>
 	</game>
 	<game name="Double Dragon III - The Rosetta Stone (1991)(Storm)">
 		<description>Double Dragon III - The Rosetta Stone (1991)(Storm)</description>
@@ -3532,7 +3596,7 @@
 	</game>
 	<game name="Dr. Jet Set Willy (1986)(R.D. Foord)">
 		<description>Dr. Jet Set Willy (1986)(R.D. Foord)</description>
-		<rom name="Dr. Jet Set Willy (1986)(R.D. Foord).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Dr. Jet Set Willy (1986)(R.D. Foord).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Dr. Maddo (1986)(Americana)">
 		<description>Dr. Maddo (1986)(Americana)</description>
@@ -3602,6 +3666,10 @@
 		<description>DreamWalker - Alter Ego 2 (2014)(RetroSouls)</description>
 		<rom name="DreamWalker - Alter Ego 2 (2014)(RetroSouls).pok" size="327" crc="c0dc6e13" md5="c86a168f2565657c7856e0b4bdae5546" sha1="55eda2fa084c8239ac42b63d91825eb51eb2878d"/>
 	</game>
+	<game name="Drift! (2019)(ZOSYA entertainment)">
+		<description>Drift! (2019)(ZOSYA entertainment)</description>
+		<rom name="Drift! (2019)(ZOSYA entertainment).pok" size="75" crc="7535ceaf" md5="609d133355a3c3622972e54e6d60a0e7" sha1="cd939e8edd2532eee547cd5a9857a7d64fbfe715"/>
+	</game>
 	<game name="Driller (1987)(Incentive)">
 		<description>Driller (1987)(Incentive)</description>
 		<rom name="Driller (1987)(Incentive).pok" size="116" crc="1e6f7c1f" md5="33851b39df8ba21a88607160d5d26a9c" sha1="3c4613cbb41f9443219250ea2544448816f62aaa"/>
@@ -3664,11 +3732,15 @@
 	</game>
 	<game name="Dun Darach (1985)(Gargoyle Games)">
 		<description>Dun Darach (1985)(Gargoyle Games)</description>
-		<rom name="Dun Darach (1985)(Gargoyle Games).pok" size="875" crc="6e18fe27" md5="384b6a454cd4fb14a6691f8929bf347f" sha1="496d7d033813119540f0b209b1b37eb8eed05788"/>
+		<rom name="Dun Darach (1985)(Gargoyle Games).pok" size="987" crc="f88921c9" md5="866fd97409a4ff3d8b8324cccfe2bd7f" sha1="baf7c667dad3025020baf55e43ab5913601d6ba5"/>
 	</game>
 	<game name="Dungeon Dare (1986)(Central Solutions)">
 		<description>Dungeon Dare (1986)(Central Solutions)</description>
 		<rom name="Dungeon Dare (1986)(Central Solutions).pok" size="101" crc="a80167be" md5="dd80691c313d162cf5366505c4a159ff" sha1="cf5546eafc2aea119a60cc74ec0106384ca6f2f7"/>
+	</game>
+	<game name="Dungeons of Gomilandia (2020)(RetroWorks)">
+		<description>Dungeons of Gomilandia (2020)(RetroWorks)</description>
+		<rom name="Dungeons of Gomilandia (2020)(RetroWorks).pok" size="64" crc="e62227d6" md5="909a65a0f17f7c86c2dfdbdd7c2c9e68" sha1="e8b9ad6df3f7d5427a77e79f41308d33229c58b9"/>
 	</game>
 	<game name="Dustin (1987)(Dinamic)">
 		<description>Dustin (1987)(Dinamic)</description>
@@ -3692,19 +3764,19 @@
 	</game>
 	<game name="Dynamite Dan (1985)(Mirrorsoft)">
 		<description>Dynamite Dan (1985)(Mirrorsoft)</description>
-		<rom name="Dynamite Dan (1985)(Mirrorsoft).pok" size="374" crc="b1e9cba5" md5="14b76857b496552179e1d9472b5f821f" sha1="428951646c9a2648161e71182fa9a4df2d1d5ee2"/>
+		<rom name="Dynamite Dan (1985)(Mirrorsoft).pok" size="414" crc="5b2ad932" md5="ac8f331e1fa482bc8b639f40e8142098" sha1="bc129291ebc05fc5c333f9bf2ed85a4de3820b7e"/>
 	</game>
 	<game name="Dynamite Dan II (1986)(Mirrorsoft)">
 		<description>Dynamite Dan II (1986)(Mirrorsoft)</description>
-		<rom name="Dynamite Dan II (1986)(Mirrorsoft).pok" size="448" crc="abcb848f" md5="633c8511888d2ad013fdd8a2db02d1fb" sha1="abb3217893840a5559d31da644260fdf6109c9f6"/>
+		<rom name="Dynamite Dan II (1986)(Mirrorsoft).pok" size="488" crc="34aa439c" md5="40d483222ce1509bed2b82824e919c04" sha1="8724e8607e495917826d38c61acf386a8dda1341"/>
 	</game>
 	<game name="Dynamite Dux (1989)(Activision)">
 		<description>Dynamite Dux (1989)(Activision)</description>
 		<rom name="Dynamite Dux (1989)(Activision).pok" size="393" crc="8a588d68" md5="3f470cc902ddf2fa8795ef0378255ed0" sha1="ba6ebb3aff9412c5627f9e4787c692d12227f41f"/>
 	</game>
-	<game name="Dynamix (1989)(Virgin Mastertronic)">
-		<description>Dynamix (1989)(Virgin Mastertronic)</description>
-		<rom name="Dynamix (1989)(Virgin Mastertronic).pok" size="103" crc="1b001b40" md5="24ef3a1e241b1113abffab500db17342" sha1="35d2a7dcdb6fc8a4309246302af56069935e2d83"/>
+	<game name="Dynamix (1989)(Mastertronic)">
+		<description>Dynamix (1989)(Mastertronic)</description>
+		<rom name="Dynamix (1989)(Mastertronic).pok" size="103" crc="1b001b40" md5="24ef3a1e241b1113abffab500db17342" sha1="35d2a7dcdb6fc8a4309246302af56069935e2d83"/>
 	</game>
 	<game name="Dynasty Wars (1990)(U.S. Gold)">
 		<description>Dynasty Wars (1990)(U.S. Gold)</description>
@@ -3814,6 +3886,14 @@
 		<description>Elevator Boy (1988)(M.M.G.)</description>
 		<rom name="Elevator Boy (1988)(M.M.G.).pok" size="65" crc="7b31c079" md5="4c67811a5b9d1236db8c8c52590e8d06" sha1="f466bf49c4f58131c235ffee53518a1f34b6690c"/>
 	</game>
+	<game name="Elfin Wars 2, The (2020)(Zenobi)">
+		<description>Elfin Wars 2, The (2020)(Zenobi)</description>
+		<rom name="Elfin Wars 2, The (2020)(Zenobi).pok" size="152" crc="e0578983" md5="ae94d69d3d0f4ccfc0a88505657167f6" sha1="9ecaabb7a2268fe77decee0162c222bc44eda518"/>
+	</game>
+	<game name="Elfin Wars, The (1994)(Zenobi)">
+		<description>Elfin Wars, The (1994)(Zenobi)</description>
+		<rom name="Elfin Wars, The (1994)(Zenobi).pok" size="106" crc="a9e2b734" md5="5954dbbbfae2375ab5029e556c530f8b" sha1="d933ce3e765f214ef409bc3231da0c1e77127087"/>
+	</game>
 	<game name="Eliminator (1988)(Alternative)">
 		<description>Eliminator (1988)(Alternative)</description>
 		<rom name="Eliminator (1988)(Alternative).pok" size="62" crc="249f6c22" md5="9ca307c6eca44fa8966ef46a3be25a2d" sha1="27da66ce8c0ec448f0f258e9be141905be5838ad"/>
@@ -3864,7 +3944,7 @@
 	</game>
 	<game name="Empire Fights Back, The (1985)(Mastertronic)">
 		<description>Empire Fights Back, The (1985)(Mastertronic)</description>
-		<rom name="Empire Fights Back, The (1985)(Mastertronic).pok" size="68" crc="7e35b5bf" md5="744ae91c45228d993da84131107c4117" sha1="f0df1e088742558d83fe1d3c7a9bf40a4ac84097"/>
+		<rom name="Empire Fights Back, The (1985)(Mastertronic).pok" size="229" crc="942ccc72" md5="3366986d941183e27bb2426d1798cf41" sha1="0877c434b0e2180b669f915e718c8115ba1ed37e"/>
 	</game>
 	<game name="Empire Strikes Back, The (1988)(Domark)">
 		<description>Empire Strikes Back, The (1988)(Domark)</description>
@@ -3916,11 +3996,15 @@
 	</game>
 	<game name="Eric &amp; the Floaters (1984)(Sinclair Research)">
 		<description>Eric &amp; the Floaters (1984)(Sinclair Research)</description>
-		<rom name="Eric &amp; the Floaters (1984)(Sinclair Research).pok" size="70" crc="20ab8c2a" md5="d1ffaa4bd05c73a156e0e215c862ae6d" sha1="82ee3af8ecf88d7d983fbda2138e3942a8307b52"/>
+		<rom name="Eric &amp; the Floaters (1984)(Sinclair Research).pok" size="709" crc="ddf1a64d" md5="c4ddbd020767dae8bdc5c97f4d4bd317" sha1="6e10c8318839940e31d32862232f705dffc6636e"/>
 	</game>
 	<game name="Erik - Phantom of the Opera (1987)(Crysys)">
 		<description>Erik - Phantom of the Opera (1987)(Crysys)</description>
 		<rom name="Erik - Phantom of the Opera (1987)(Crysys).pok" size="65" crc="7fff3f95" md5="bedcc94401035cc581ae9ea8b0217a0b" sha1="aa227d3d6f0bcd7753dba716c745240aabc48a7e"/>
+	</game>
+	<game name="Ernesto's Adventures (2019)(Outsiders)">
+		<description>Ernesto's Adventures (2019)(Outsiders)</description>
+		<rom name="Ernesto's Adventures (2019)(Outsiders).pok" size="102" crc="af5b1246" md5="77ace60a5a01068bbe3f2a0b8148b24b" sha1="a5f358215764e4c75f952bb372b3e08f79c684ea"/>
 	</game>
 	<game name="Escalador Loco, El (1983)(Ventamatic)">
 		<description>Escalador Loco, El (1983)(Ventamatic)</description>
@@ -3952,7 +4036,7 @@
 	</game>
 	<game name="Escape of the Snails (2006)(Herve Ast)">
 		<description>Escape of the Snails (2006)(Herve Ast)</description>
-		<rom name="Escape of the Snails (2006)(Herve Ast).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Escape of the Snails (2006)(Herve Ast).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Escape-MCP (1983)(Rabbit)">
 		<description>Escape-MCP (1983)(Rabbit)</description>
@@ -4026,9 +4110,9 @@
 		<description>Exploding Fist+ (1988)(Firebird)</description>
 		<rom name="Exploding Fist+ (1988)(Firebird).pok" size="246" crc="ca7bcdee" md5="7986dd696d8e5c9ea8a4dbfea60598f1" sha1="e3c5498494becbe4a57368e19e9f7ff1d61f5951"/>
 	</game>
-	<game name="Exploding Wall (1989)(MC Lothlorien)">
-		<description>Exploding Wall (1989)(MC Lothlorien)</description>
-		<rom name="Exploding Wall (1989)(MC Lothlorien).pok" size="33" crc="29232094" md5="10c6ec983c9173a35813d7152ff6f77c" sha1="0937d6f300f0195ec301d55d0be29d6c9b7ea059"/>
+	<game name="Exploding Wall (1989)(Byte Back)">
+		<description>Exploding Wall (1989)(Byte Back)</description>
+		<rom name="Exploding Wall (1989)(Byte Back).pok" size="33" crc="29232094" md5="10c6ec983c9173a35813d7152ff6f77c" sha1="0937d6f300f0195ec301d55d0be29d6c9b7ea059"/>
 	</game>
 	<game name="Explorer (1986)(Electric Dreams)">
 		<description>Explorer (1986)(Electric Dreams)</description>
@@ -4150,9 +4234,9 @@
 		<description>Falcon Patrol 2 (1985)(Virgin Games)</description>
 		<rom name="Falcon Patrol 2 (1985)(Virgin Games).pok" size="223" crc="918aab32" md5="92b568cb0f9e2f51cf7779448e664612" sha1="b07c80fcfbec9d923569756a7c22febd0136eda4"/>
 	</game>
-	<game name="Fall Guy (1985)(Elite Systems)">
-		<description>Fall Guy (1985)(Elite Systems)</description>
-		<rom name="Fall Guy (1985)(Elite Systems).pok" size="185" crc="a7a000a3" md5="a9be276c470eb368d9b2cc54d52da138" sha1="488581d78f1602fafce2fb316948438e9afe1200"/>
+	<game name="Fall Guy (1984)(Elite Systems)">
+		<description>Fall Guy (1984)(Elite Systems)</description>
+		<rom name="Fall Guy (1984)(Elite Systems).pok" size="185" crc="a7a000a3" md5="a9be276c470eb368d9b2cc54d52da138" sha1="488581d78f1602fafce2fb316948438e9afe1200"/>
 	</game>
 	<game name="Fallen Angel (1989)(Screen 7)">
 		<description>Fallen Angel (1989)(Screen 7)</description>
@@ -4176,11 +4260,15 @@
 	</game>
 	<game name="Fantasy World Willy (2002)(BaSe1 PrOdUcTiOnZ)">
 		<description>Fantasy World Willy (2002)(BaSe1 PrOdUcTiOnZ)</description>
-		<rom name="Fantasy World Willy (2002)(BaSe1 PrOdUcTiOnZ).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Fantasy World Willy (2002)(BaSe1 PrOdUcTiOnZ).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Fantasy Zone - Escape from the Pyramid (2016)(Errazking - Perez, Antonio)">
 		<description>Fantasy Zone - Escape from the Pyramid (2016)(Errazking - Perez, Antonio)</description>
 		<rom name="Fantasy Zone - Escape from the Pyramid (2016)(Errazking - Perez, Antonio).pok" size="193" crc="21b29caa" md5="300bfba0a7ac04afb5df5156e6cf32fd" sha1="dc5bdd3c6df9713b37977808fe20fa9b591893c8"/>
+	</game>
+	<game name="Farmer Jack - Treasure Trove (2008)(Smith, Bob)">
+		<description>Farmer Jack - Treasure Trove (2008)(Smith, Bob)</description>
+		<rom name="Farmer Jack - Treasure Trove (2008)(Smith, Bob).pok" size="254" crc="e65cb755" md5="8a8e07717b48be71eeca178a424b8442" sha1="dbf572f8d7b8c7a0f4c4c503b14f25dcbb3914bd"/>
 	</game>
 	<game name="Farmer Jack and the Hedge Monkeys! (2008)(Cronosoft)">
 		<description>Farmer Jack and the Hedge Monkeys! (2008)(Cronosoft)</description>
@@ -4209,6 +4297,10 @@
 	<game name="Fearless Frank (1984)(St. Michael)">
 		<description>Fearless Frank (1984)(St. Michael)</description>
 		<rom name="Fearless Frank (1984)(St. Michael).pok" size="33" crc="b6d7d5f1" md5="ba87be0bc0a516bd3ee7b806f3919bd7" sha1="c9a71df3ebc93a6cced1f48ff08f24d0168ec140"/>
+	</game>
+	<game name="Federation Z (2020)(Furillo Productions)">
+		<description>Federation Z (2020)(Furillo Productions)</description>
+		<rom name="Federation Z (2020)(Furillo Productions).pok" size="63" crc="783e6877" md5="40d70aeb938a91d9c565a13717327825" sha1="e5f36f105cd0fb5bb3c611613218c22d5e89a331"/>
 	</game>
 	<game name="Fernandez Must Die (1988)(Image Works)">
 		<description>Fernandez Must Die (1988)(Image Works)</description>
@@ -4248,7 +4340,7 @@
 	</game>
 	<game name="Final Fight (1991)(U.S. Gold)">
 		<description>Final Fight (1991)(U.S. Gold)</description>
-		<rom name="Final Fight (1991)(U.S. Gold).pok" size="100" crc="85626935" md5="86e650e3339cfcfc518a3c3dc041ce95" sha1="25352268b6926eba54bc4d203678a20b15189c42"/>
+		<rom name="Final Fight (1991)(U.S. Gold).pok" size="219" crc="42305747" md5="67ebee2ced675df7dc06d799acbfaca5" sha1="24f0514c71201749effe03a6f79338b6ea688d07"/>
 	</game>
 	<game name="Final Frontier, The (1987)(Gadtek Games)">
 		<description>Final Frontier, The (1987)(Gadtek Games)</description>
@@ -4318,9 +4410,9 @@
 		<description>Fizzy Wizzy (1984)(ESP)</description>
 		<rom name="Fizzy Wizzy (1984)(ESP).pok" size="200" crc="201e45f0" md5="8bf6292a32b74c09733ddd3704b90c8c" sha1="5b9fcd9f9dabc4c8d7a3130506189fb3bea53c4b"/>
 	</game>
-	<game name="Flak (1984)(U.S. Gold)">
-		<description>Flak (1984)(U.S. Gold)</description>
-		<rom name="Flak (1984)(U.S. Gold).pok" size="33" crc="a79876bb" md5="a37601ad7a437c80853c5887990d882c" sha1="686047c9e3cee4e1f0568a234fc9c890302622cb"/>
+	<game name="Flak (1985)(U.S. Gold)">
+		<description>Flak (1985)(U.S. Gold)</description>
+		<rom name="Flak (1985)(U.S. Gold).pok" size="33" crc="a79876bb" md5="a37601ad7a437c80853c5887990d882c" sha1="686047c9e3cee4e1f0568a234fc9c890302622cb"/>
 	</game>
 	<game name="Flame Princess Adventure Time (2016)(Radastan)">
 		<description>Flame Princess Adventure Time (2016)(Radastan)</description>
@@ -4560,7 +4652,7 @@
 	</game>
 	<game name="Frosya the Cat (2002)(Makovsky, Igor)">
 		<description>Frosya the Cat (2002)(Makovsky, Igor)</description>
-		<rom name="Frosya the Cat (2002)(Makovsky, Igor).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Frosya the Cat (2002)(Makovsky, Igor).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Fruit Machine (1990)(Zeppelin Games)">
 		<description>Fruit Machine (1990)(Zeppelin Games)</description>
@@ -4576,7 +4668,7 @@
 	</game>
 	<game name="Fucked Internet Trilogy, The (2004)(BaSe1 PrOdUcTiOnZ)">
 		<description>Fucked Internet Trilogy, The (2004)(BaSe1 PrOdUcTiOnZ)</description>
-		<rom name="Fucked Internet Trilogy, The (2004)(BaSe1 PrOdUcTiOnZ).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Fucked Internet Trilogy, The (2004)(BaSe1 PrOdUcTiOnZ).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Full Throttle (1984)(Micromega)">
 		<description>Full Throttle (1984)(Micromega)</description>
@@ -4622,6 +4714,10 @@
 		<description>G.I. Hero (1988)(Firebird)</description>
 		<rom name="G.I. Hero (1988)(Firebird).pok" size="89" crc="bf8db859" md5="825d8b651b90f6af3a9ceaac3d3e1885" sha1="592821d2169954326e8859eab73c41dfcd52de61"/>
 	</game>
+	<game name="GLAZX (2019)(EugenyN)">
+		<description>GLAZX (2019)(EugenyN)</description>
+		<rom name="GLAZX (2019)(EugenyN).pok" size="192" crc="3932674f" md5="a8a7eb13331326f18d1a630b3cfeccc9" sha1="606a9ff7362edaa3cbe126aa583cf18924015ce2"/>
+	</game>
 	<game name="Galactians (1983)(DK'Tronics)">
 		<description>Galactians (1983)(DK'Tronics)</description>
 		<rom name="Galactians (1983)(DK'Tronics).pok" size="33" crc="e3976fab" md5="849f95fad9aab758015685057d4ec9a8" sha1="bacd7c34ecab81108e6566dde8f004f8494a0ee6"/>
@@ -4648,7 +4744,7 @@
 	</game>
 	<game name="Galactic Trooper (1984)(Romik)">
 		<description>Galactic Trooper (1984)(Romik)</description>
-		<rom name="Galactic Trooper (1984)(Romik).pok" size="131" crc="1b62ab8d" md5="57ab843a73d124ec3b124382d79abc0e" sha1="26078723e11d43a3c8221884b36beff1be5c5fa1"/>
+		<rom name="Galactic Trooper (1984)(Romik).pok" size="164" crc="b91a53bb" md5="ed8642c052292ed22e103d0a579c0198" sha1="a202b0f29a01e4266437063d19794da178cc86be"/>
 	</game>
 	<game name="Galakzions (1983)(Mikro-Gen)">
 		<description>Galakzions (1983)(Mikro-Gen)</description>
@@ -4682,9 +4778,9 @@
 		<description>Galletron (1987)(Bulldog)</description>
 		<rom name="Galletron (1987)(Bulldog).pok" size="33" crc="1e2a9622" md5="35d9edf3fb192422515b87b7ba6f17ea" sha1="b5717f234907d127ecd2cdd9a90a6354dc4892c6"/>
 	</game>
-	<game name="Gallows (2000)(Taras)">
-		<description>Gallows (2000)(Taras)</description>
-		<rom name="Gallows (2000)(Taras).pok" size="109" crc="08cd3367" md5="ad85a0cfb8d805747d5a91eee09a4346" sha1="b6c90d395c503356b988d27635229b20742ca177"/>
+	<game name="Gallows (2000)(Slobodyanik, Taras)">
+		<description>Gallows (2000)(Slobodyanik, Taras)</description>
+		<rom name="Gallows (2000)(Slobodyanik, Taras).pok" size="109" crc="08cd3367" md5="ad85a0cfb8d805747d5a91eee09a4346" sha1="b6c90d395c503356b988d27635229b20742ca177"/>
 	</game>
 	<game name="Game Mix (1987)(Suzy Soft)">
 		<description>Game Mix (1987)(Suzy Soft)</description>
@@ -4692,7 +4788,7 @@
 	</game>
 	<game name="Game Over (1987)(Dinamic)">
 		<description>Game Over (1987)(Dinamic)</description>
-		<rom name="Game Over (1987)(Dinamic).pok" size="1527" crc="f2eb8035" md5="3b98459de361c8caa8815f4aa58905d5" sha1="00e927cc66d79a9e2a69cc63417ddab3ef5468ca"/>
+		<rom name="Game Over (1987)(Dinamic).pok" size="1562" crc="de310e1c" md5="d3dc884385724c24ec143e3049ed33ab" sha1="986139a05bd2321e62499d0232e2af82b90152ae"/>
 	</game>
 	<game name="Games Designer (1983)(Quicksilva)">
 		<description>Games Designer (1983)(Quicksilva)</description>
@@ -4730,17 +4826,17 @@
 		<description>Gatecrasher (1984)(Quicksilva)</description>
 		<rom name="Gatecrasher (1984)(Quicksilva).pok" size="33" crc="aa7bf857" md5="a31cb793f8f463a446eb1a0fe6491868" sha1="88cec161d43a5e6b84d634feee0ba609ddd402c0"/>
 	</game>
-	<game name="Gauntlet (1987)(U.S. Gold)">
-		<description>Gauntlet (1987)(U.S. Gold)</description>
-		<rom name="Gauntlet (1987)(U.S. Gold).pok" size="315" crc="a3ccdd62" md5="2ef097ff8fc31e81a4895e8c372fb101" sha1="4ff091ab250a3fefe4217768c74b65eb5f818348"/>
+	<game name="Gauntlet (1986)(U.S. Gold)">
+		<description>Gauntlet (1986)(U.S. Gold)</description>
+		<rom name="Gauntlet (1986)(U.S. Gold).pok" size="315" crc="a3ccdd62" md5="2ef097ff8fc31e81a4895e8c372fb101" sha1="4ff091ab250a3fefe4217768c74b65eb5f818348"/>
 	</game>
 	<game name="Gauntlet - The Deeper Dungeons (1987)(U.S. Gold)">
 		<description>Gauntlet - The Deeper Dungeons (1987)(U.S. Gold)</description>
 		<rom name="Gauntlet - The Deeper Dungeons (1987)(U.S. Gold).pok" size="315" crc="4f7549fe" md5="3d55e95b595b3e219d628a373bedd461" sha1="50ef5b4f1832d9168a7b533beb696ae0acc55fab"/>
 	</game>
-	<game name="Gauntlet II (1988)(U.S. Gold)">
-		<description>Gauntlet II (1988)(U.S. Gold)</description>
-		<rom name="Gauntlet II (1988)(U.S. Gold).pok" size="372" crc="175d110b" md5="59af78a402e8e6d800f602d0a04100b1" sha1="0843dc908bae2fbae96c3e8b9bd40b8bfc07d21a"/>
+	<game name="Gauntlet II (1987)(U.S. Gold)">
+		<description>Gauntlet II (1987)(U.S. Gold)</description>
+		<rom name="Gauntlet II (1987)(U.S. Gold).pok" size="372" crc="175d110b" md5="59af78a402e8e6d800f602d0a04100b1" sha1="0843dc908bae2fbae96c3e8b9bd40b8bfc07d21a"/>
 	</game>
 	<game name="Gauntlet III - The Final Quest (1991)(U.S. Gold)">
 		<description>Gauntlet III - The Final Quest (1991)(U.S. Gold)</description>
@@ -4762,9 +4858,9 @@
 		<description>Gemelos (1989)(YOX)</description>
 		<rom name="Gemelos (1989)(YOX).pok" size="35" crc="6d88d8b0" md5="2fc7076b234cd91d3adc5d6d263590a5" sha1="9e67d96b9dbb7db8d28f2a80880a60768b673ac3"/>
 	</game>
-	<game name="Gemini Wing (1989)(Virgin Mastertronic)">
-		<description>Gemini Wing (1989)(Virgin Mastertronic)</description>
-		<rom name="Gemini Wing (1989)(Virgin Mastertronic).pok" size="60" crc="68eb8cf3" md5="c63f534513600ff17e06d100012ded45" sha1="524a8522559e08958c909a41df3ec942dde7e3fd"/>
+	<game name="Gemini Wing (1989)(Virgin Games)">
+		<description>Gemini Wing (1989)(Virgin Games)</description>
+		<rom name="Gemini Wing (1989)(Virgin Games).pok" size="60" crc="68eb8cf3" md5="c63f534513600ff17e06d100012ded45" sha1="524a8522559e08958c909a41df3ec942dde7e3fd"/>
 	</game>
 	<game name="GenBlast (2017)(Hughes, Dave)">
 		<description>GenBlast (2017)(Hughes, Dave)</description>
@@ -4772,7 +4868,7 @@
 	</game>
 	<game name="Genehtik (2014)(PixelSoftware)">
 		<description>Genehtik (2014)(PixelSoftware)</description>
-		<rom name="Genehtik (2014)(PixelSoftware).pok" size="115" crc="8e2725eb" md5="a670d41929c61038006362948cd11dce" sha1="974b236453c93cb9df72273bf8ebb378e0ce63a4"/>
+		<rom name="Genehtik (2014)(PixelSoftware).pok" size="162" crc="28a2c4f7" md5="a848e35d397ac89ae2ab4dcf9cbab911" sha1="d4157a25eded6eb101816e5fc607ac53c771840b"/>
 	</game>
 	<game name="Genus (1988)(Daly, Andrew Mark)">
 		<description>Genus (1988)(Daly, Andrew Mark)</description>
@@ -4920,7 +5016,7 @@
 	</game>
 	<game name="Gobbleman (1982)(Artic Computing)">
 		<description>Gobbleman (1982)(Artic Computing)</description>
-		<rom name="Gobbleman (1982)(Artic Computing).pok" size="111" crc="223a2feb" md5="33e477a3ddb5bfe323a27abd677b5627" sha1="2f680de7bf36c3111b50d6d98ad3460124820277"/>
+		<rom name="Gobbleman (1982)(Artic Computing).pok" size="469" crc="dc1ac1e8" md5="4ebd2e0db0721178f7edcc2a5f978047" sha1="2235d5ac4c21b0fd4fcc2b56d8be27e0964596f8"/>
 	</game>
 	<game name="Gobstopper (1983)(Calisto)">
 		<description>Gobstopper (1983)(Calisto)</description>
@@ -4934,9 +5030,17 @@
 		<description>Godkiller (2014)(APSIS)</description>
 		<rom name="Godkiller (2014)(APSIS).pok" size="341" crc="827ebcbd" md5="151424383d2c32b8cc496bf9e34cc092" sha1="0783efc988b78aaddb6129e929fb4869e1bf4f3f"/>
 	</game>
+	<game name="Godkiller - New Timeline Edition (2019)(APSIS)">
+		<description>Godkiller - New Timeline Edition (2019)(APSIS)</description>
+		<rom name="Godkiller - New Timeline Edition (2019)(APSIS).pok" size="79" crc="cdba0f69" md5="6c58b403f638d96edb587f1ed5995bf9" sha1="16eb8d2980aef033712145a6c49315fbf833f55c"/>
+	</game>
 	<game name="Godkiller 2 - Exile (2015)(APSIS)">
 		<description>Godkiller 2 - Exile (2015)(APSIS)</description>
 		<rom name="Godkiller 2 - Exile (2015)(APSIS).pok" size="168" crc="282b8c20" md5="6cbc404a994bc6df0eafa1832b5c4856" sha1="2a3a29386cbf4b6c804db95790ae0c962d5017dc"/>
+	</game>
+	<game name="Godkiller 2 - Exile - New Timeline Edition (2020)(APSIS)">
+		<description>Godkiller 2 - Exile - New Timeline Edition (2020)(APSIS)</description>
+		<rom name="Godkiller 2 - Exile - New Timeline Edition (2020)(APSIS).pok" size="126" crc="1b7d4b77" md5="ea701e71a0da525e119bfb2cf150edba" sha1="f0f077f1184e14e4b4fda04db8196776d3986683"/>
 	</game>
 	<game name="Goku Mal (2013)(Mojon Twins, The)">
 		<description>Goku Mal (2013)(Mojon Twins, The)</description>
@@ -4972,7 +5076,7 @@
 	</game>
 	<game name="Gonzzalezz (1989)(Opera Soft)">
 		<description>Gonzzalezz (1989)(Opera Soft)</description>
-		<rom name="Gonzzalezz (1989)(Opera Soft).pok" size="239" crc="a502c0ff" md5="dbc51129dba49d69e064933b2397ea26" sha1="2d416422bf7a275111303bf027ba8300274ba2dd"/>
+		<rom name="Gonzzalezz (1989)(Opera Soft).pok" size="274" crc="f7383da5" md5="e9a6d11e67e8e68b4ed43f88a9a38942" sha1="bd0c8ce22823d37673aa5b4b1f77a744fb556992"/>
 	</game>
 	<game name="Good Night Kanga (2016)(Amore, Gabriele - Factor 6)">
 		<description>Good Night Kanga (2016)(Amore, Gabriele - Factor 6)</description>
@@ -4980,7 +5084,7 @@
 	</game>
 	<game name="Goodnite Luddite (2002)(Broadsoft)">
 		<description>Goodnite Luddite (2002)(Broadsoft)</description>
-		<rom name="Goodnite Luddite (2002)(Broadsoft).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Goodnite Luddite (2002)(Broadsoft).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Goody (1987)(Opera Soft)">
 		<description>Goody (1987)(Opera Soft)</description>
@@ -5108,7 +5212,7 @@
 	</game>
 	<game name="Gryzor (1987)(Ocean)">
 		<description>Gryzor (1987)(Ocean)</description>
-		<rom name="Gryzor (1987)(Ocean).pok" size="1699" crc="967990dd" md5="453ef41753a3293964d05579f011ad37" sha1="cdf1d68decb24aca3b09cbe7f51a9a3e47ed2092"/>
+		<rom name="Gryzor (1987)(Ocean).pok" size="1773" crc="5abdb41c" md5="961bc7d098dfea813389b564f124281a" sha1="9702dd839428329324a4755c7c26223e30dbd912"/>
 	</game>
 	<game name="Guardian II - Revenge of the Mutants (1990)(Hi-Tec)">
 		<description>Guardian II - Revenge of the Mutants (1990)(Hi-Tec)</description>
@@ -5150,9 +5254,9 @@
 		<description>Gunfighter (1988)(Atlantis)</description>
 		<rom name="Gunfighter (1988)(Atlantis).pok" size="197" crc="263d13c2" md5="6901a4792134cddea1602a5b1f4485de" sha1="0568d80f76967c3557a5f5c94cfddb3da856d7c0"/>
 	</game>
-	<game name="Gunfright (1986)(Ultimate Play The Game)">
-		<description>Gunfright (1986)(Ultimate Play The Game)</description>
-		<rom name="Gunfright (1986)(Ultimate Play The Game).pok" size="1350" crc="0cb18727" md5="0a882c73fde7f44717fc78bd923141bc" sha1="9d661ea7d8aa134c77e77eba3f963874a7c4d2d6"/>
+	<game name="Gunfright (1985)(Ultimate Play The Game)">
+		<description>Gunfright (1985)(Ultimate Play The Game)</description>
+		<rom name="Gunfright (1985)(Ultimate Play The Game).pok" size="1350" crc="0cb18727" md5="0a882c73fde7f44717fc78bd923141bc" sha1="9d661ea7d8aa134c77e77eba3f963874a7c4d2d6"/>
 	</game>
 	<game name="Gunhed (1990)(Hellenic)">
 		<description>Gunhed (1990)(Hellenic)</description>
@@ -5226,9 +5330,9 @@
 		<description>Halaga (1985)(Interceptor)</description>
 		<rom name="Halaga (1985)(Interceptor).pok" size="33" crc="dc3ab2a5" md5="9e6eb2b8f5399d4fb6686ff33f5cc405" sha1="46631b3cf6793a5bc7fa70ae3bde25fc46f6758f"/>
 	</game>
-	<game name="Halloween (1987)(Silverbird)">
-		<description>Halloween (1987)(Silverbird)</description>
-		<rom name="Halloween (1987)(Silverbird).pok" size="231" crc="e8bdd93e" md5="d6d4940300be845e761d3286d05769bc" sha1="0aa98c16d23497422f6fb2d18ed5d53cd2f9d80e"/>
+	<game name="Halloween (1990)(Silverbird)">
+		<description>Halloween (1990)(Silverbird)</description>
+		<rom name="Halloween (1990)(Silverbird).pok" size="231" crc="e8bdd93e" md5="d6d4940300be845e761d3286d05769bc" sha1="0aa98c16d23497422f6fb2d18ed5d53cd2f9d80e"/>
 	</game>
 	<game name="Halls of the Things (1983)(Crystal Computing)">
 		<description>Halls of the Things (1983)(Crystal Computing)</description>
@@ -5246,9 +5350,9 @@
 		<description>Hammerfist (1990)(Activision)</description>
 		<rom name="Hammerfist (1990)(Activision).pok" size="489" crc="f17c03ce" md5="314c7abe4483bb9d6ab1fa1b693a230b" sha1="a3ac65705c3dffb38e8908b6643d23977338e7b0"/>
 	</game>
-	<game name="Hamon IV (1997)(Ascendancy)">
-		<description>Hamon IV (1997)(Ascendancy)</description>
-		<rom name="Hamon IV (1997)(Ascendancy).pok" size="33" crc="75d93ed0" md5="8e78101fd49d1b52e142cb292b45aeb1" sha1="e91ff6c12c27fae09feecc1e74d95dc6dca9b334"/>
+	<game name="Hamon IV (1997)(Ascendancy Creative Labs)">
+		<description>Hamon IV (1997)(Ascendancy Creative Labs)</description>
+		<rom name="Hamon IV (1997)(Ascendancy Creative Labs).pok" size="33" crc="75d93ed0" md5="8e78101fd49d1b52e142cb292b45aeb1" sha1="e91ff6c12c27fae09feecc1e74d95dc6dca9b334"/>
 	</game>
 	<game name="Hamte Damte (1988)(Cross Technics)">
 		<description>Hamte Damte (1988)(Cross Technics)</description>
@@ -5306,9 +5410,9 @@
 		<description>Havoc (1990)(Players Premier)</description>
 		<rom name="Havoc (1990)(Players Premier).pok" size="66" crc="91e085aa" md5="878f78bbc076a193db813d3f8e9ac552" sha1="747f477adae5dcf9d3244a6ef08724caa7158cc0"/>
 	</game>
-	<game name="Hawk Storm (1991)(Players Premier)">
-		<description>Hawk Storm (1991)(Players Premier)</description>
-		<rom name="Hawk Storm (1991)(Players Premier).pok" size="455" crc="ea3cb2f5" md5="29deb126d25cd3acb769d7597fa992db" sha1="cb1a0ef61f07feb5e479345a5988a67ad6fb6f82"/>
+	<game name="Hawk Storm (1991)(Players)">
+		<description>Hawk Storm (1991)(Players)</description>
+		<rom name="Hawk Storm (1991)(Players).pok" size="455" crc="ea3cb2f5" md5="29deb126d25cd3acb769d7597fa992db" sha1="cb1a0ef61f07feb5e479345a5988a67ad6fb6f82"/>
 	</game>
 	<game name="Hawks (1983)(Lotus-Soft)">
 		<description>Hawks (1983)(Lotus-Soft)</description>
@@ -5380,7 +5484,7 @@
 	</game>
 	<game name="Henry's Hoard (1985)(Alternative)">
 		<description>Henry's Hoard (1985)(Alternative)</description>
-		<rom name="Henry's Hoard (1985)(Alternative).pok" size="7549" crc="61f7371d" md5="85760074778ae1626151956e309a74a8" sha1="e5e483c5bb3546f20f6e4afb7ff329c1569610e3"/>
+		<rom name="Henry's Hoard (1985)(Alternative).pok" size="7606" crc="22e59061" md5="974bbf1c7aa0979fedacb66642699c8f" sha1="20991aba4ddab04e785295590c35bc8b386b718a"/>
 	</game>
 	<game name="Herbert the Turbot (2008)(Smith, Bob)">
 		<description>Herbert the Turbot (2008)(Smith, Bob)</description>
@@ -5496,7 +5600,7 @@
 	</game>
 	<game name="Hobbit, The (1982)(Melbourne House)">
 		<description>Hobbit, The (1982)(Melbourne House)</description>
-		<rom name="Hobbit, The (1982)(Melbourne House).pok" size="255" crc="0d3ea238" md5="7766e1ecf65cf363f9cdbf0b07fd746b" sha1="63e80839b69703c7ca50295d6dffd79982f1642d"/>
+		<rom name="Hobbit, The (1982)(Melbourne House).pok" size="413" crc="d54127e1" md5="f2c58aab4ad0499f787bc5adc8b299a4" sha1="a5ce5ee706ea699c834eab2494630ed0bf02fa92"/>
 	</game>
 	<game name="Hobgoblin (1991)(Atlantis)">
 		<description>Hobgoblin (1991)(Atlantis)</description>
@@ -5508,7 +5612,7 @@
 	</game>
 	<game name="Holy Shit!!! (2007)(BaSe1 PrOdUcTiOnZ)">
 		<description>Holy Shit!!! (2007)(BaSe1 PrOdUcTiOnZ)</description>
-		<rom name="Holy Shit!!! (2007)(BaSe1 PrOdUcTiOnZ).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Holy Shit!!! (2007)(BaSe1 PrOdUcTiOnZ).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Hombre Que Susurraba A Las Balas, El (2013)(Radastan)">
 		<description>Hombre Que Susurraba A Las Balas, El (2013)(Radastan)</description>
@@ -5618,9 +5722,9 @@
 		<description>Hulk, The (1984)(Adventure International)</description>
 		<rom name="Hulk, The (1984)(Adventure International).pok" size="459" crc="10998010" md5="2ae13709076ab78ad0d8fc5b038c40ca" sha1="96f9d48150003b7b3b85a9af66ea7c0d9bd35dfc"/>
 	</game>
-	<game name="Human Killing Machine (1988)(U.S. Gold)">
-		<description>Human Killing Machine (1988)(U.S. Gold)</description>
-		<rom name="Human Killing Machine (1988)(U.S. Gold).pok" size="148" crc="1f7c8e89" md5="1f39c959409b6be70db0fe926fab2565" sha1="85ceaa0b024635e2ef1ccfb3b08ec7aa45558db0"/>
+	<game name="Human Killing Machine (1989)(U.S. Gold)">
+		<description>Human Killing Machine (1989)(U.S. Gold)</description>
+		<rom name="Human Killing Machine (1989)(U.S. Gold).pok" size="148" crc="1f7c8e89" md5="1f39c959409b6be70db0fe926fab2565" sha1="85ceaa0b024635e2ef1ccfb3b08ec7aa45558db0"/>
 	</game>
 	<game name="Humphrey (1988)(Zigurat)">
 		<description>Humphrey (1988)(Zigurat)</description>
@@ -5716,7 +5820,7 @@
 	</game>
 	<game name="Hypsys (1989)(Dro Soft)">
 		<description>Hypsys (1989)(Dro Soft)</description>
-		<rom name="Hypsys (1989)(Dro Soft).pok" size="331" crc="07d9d181" md5="a270b4d7ce1046aaaea42bc220a3de6c" sha1="375109a65b4ec3a2f4bdd3ef1d3b454aafbd4a00"/>
+		<rom name="Hypsys (1989)(Dro Soft).pok" size="405" crc="2d63aa99" md5="f09818e0717064dfeeb9352d825455ed" sha1="74caa2c1847ef4b2efae211f7af72e7a0c396930"/>
 	</game>
 	<game name="Hysteria (1987)(Software Projects)">
 		<description>Hysteria (1987)(Software Projects)</description>
@@ -5780,7 +5884,7 @@
 	</game>
 	<game name="Icicle Works (1985)(State Soft)">
 		<description>Icicle Works (1985)(State Soft)</description>
-		<rom name="Icicle Works (1985)(State Soft).pok" size="79" crc="47d2f55f" md5="e808140c499d9a31e3493019525b6a45" sha1="e9f0430edf8332944ae07ac372f56cddaeca6649"/>
+		<rom name="Icicle Works (1985)(State Soft).pok" size="167" crc="ab06cafe" md5="38e4b4e081dd9be79200fbb8970c9512" sha1="24b6f307cb013e202aaca1d98b4ec19da2639b98"/>
 	</game>
 	<game name="Ikari Warriors (1988)(Elite Systems)">
 		<description>Ikari Warriors (1988)(Elite Systems)</description>
@@ -5797,6 +5901,10 @@
 	<game name="Impossaball (1987)(Hewson Consultants)">
 		<description>Impossaball (1987)(Hewson Consultants)</description>
 		<rom name="Impossaball (1987)(Hewson Consultants).pok" size="90" crc="e2d83d73" md5="4ff7eecf575cb4dbedf9769f9b167b34" sha1="bd9fb0a065fa9fee9cc38ed3b1f92fa23fc02aa3"/>
+	</game>
+	<game name="Impossabubble (2018)(Clarke, Dave - Saphier, David)">
+		<description>Impossabubble (2018)(Clarke, Dave - Saphier, David)</description>
+		<rom name="Impossabubble (2018)(Clarke, Dave - Saphier, David).pok" size="33" crc="49c2ae83" md5="428751e82f4c155a26d6605c9e376024" sha1="7498d4d64fe7aa9659d6a8c636bb79e9c0409893"/>
 	</game>
 	<game name="Impossamole (1990)(Gremlin Graphics)">
 		<description>Impossamole (1990)(Gremlin Graphics)</description>
@@ -5825,6 +5933,10 @@
 	<game name="Incredible Shrinking Fireman (1986)(Mastertronic)">
 		<description>Incredible Shrinking Fireman (1986)(Mastertronic)</description>
 		<rom name="Incredible Shrinking Fireman (1986)(Mastertronic).pok" size="133" crc="86e58440" md5="74ecc600a94ee76ac31ac40e5033d8ab" sha1="ceff3877e3a58e801a2a01c740e76fb39b10c7b5"/>
+	</game>
+	<game name="Incredible Shrinking Professor, The (2017)(Rucksack Games)">
+		<description>Incredible Shrinking Professor, The (2017)(Rucksack Games)</description>
+		<rom name="Incredible Shrinking Professor, The (2017)(Rucksack Games).pok" size="33" crc="b8960fbf" md5="02f89312cbae259d4a229174eb5d2699" sha1="45482e060ebec41abf047b416c37bbfbd7b558a0"/>
 	</game>
 	<game name="Incredible Shrinking Sphere (1989)(Electric Dreams)">
 		<description>Incredible Shrinking Sphere (1989)(Electric Dreams)</description>
@@ -5966,9 +6078,9 @@
 		<description>It's Only Rock 'n' Roll (1983)(K-Tel Productions)</description>
 		<rom name="It's Only Rock 'n' Roll (1983)(K-Tel Productions).pok" size="829" crc="084dd9a5" md5="5e90742651623c10ee943ab45faa2e8b" sha1="a031a97538524bd2b835700642fa4530793543dd"/>
 	</game>
-	<game name="It's Wet Jelly (2008)(Paul E. Collins)">
-		<description>It's Wet Jelly (2008)(Paul E. Collins)</description>
-		<rom name="It's Wet Jelly (2008)(Paul E. Collins).pok" size="7463" crc="f8ba3b0a" md5="be1ad3204b36b423102bba1422d5f25b" sha1="3a134a0b520ae0964bf9710898ad2b1fb0c72d4d"/>
+	<game name="It's Wet Jelly (2008)(Paul Equinox Collins)">
+		<description>It's Wet Jelly (2008)(Paul Equinox Collins)</description>
+		<rom name="It's Wet Jelly (2008)(Paul Equinox Collins).pok" size="7520" crc="ea27f202" md5="7392c7c2fef97e000792142016f93773" sha1="c79e0d58879f58603379819b3b944b6b8055ef67"/>
 	</game>
 	<game name="Italia '90 - World Cup Soccer (1989)(Virgin Games)">
 		<description>Italia '90 - World Cup Soccer (1989)(Virgin Games)</description>
@@ -5996,7 +6108,7 @@
 	</game>
 	<game name="J4 - The Fourth Remix (1999)(Eddy, Geoff)">
 		<description>J4 - The Fourth Remix (1999)(Eddy, Geoff)</description>
-		<rom name="J4 - The Fourth Remix (1999)(Eddy, Geoff).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="J4 - The Fourth Remix (1999)(Eddy, Geoff).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="JINJ 2 - Belmonte's Revenge (2012)(RetroWorks)">
 		<description>JINJ 2 - Belmonte's Revenge (2012)(RetroWorks)</description>
@@ -6004,27 +6116,27 @@
 	</game>
 	<game name="JSW - The Sun Is No Longer Producing Heat (2002)(Aldridge, Nick)">
 		<description>JSW - The Sun Is No Longer Producing Heat (2002)(Aldridge, Nick)</description>
-		<rom name="JSW - The Sun Is No Longer Producing Heat (2002)(Aldridge, Nick).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="JSW - The Sun Is No Longer Producing Heat (2002)(Aldridge, Nick).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="JSW - Where's Woody (2000)(Sendy)">
 		<description>JSW - Where's Woody (2000)(Sendy)</description>
-		<rom name="JSW - Where's Woody (2000)(Sendy).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="JSW - Where's Woody (2000)(Sendy).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="JSW 1-1 (2000)(Aldridge, Nick)">
 		<description>JSW 1-1 (2000)(Aldridge, Nick)</description>
-		<rom name="JSW 1-1 (2000)(Aldridge, Nick).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="JSW 1-1 (2000)(Aldridge, Nick).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="JSW Stupid (2001)(Aldridge, Nick)">
 		<description>JSW Stupid (2001)(Aldridge, Nick)</description>
-		<rom name="JSW Stupid (2001)(Aldridge, Nick).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="JSW Stupid (2001)(Aldridge, Nick).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="JSW dup moor en t' panat (2002)(Aldridge, Nick)">
 		<description>JSW dup moor en t' panat (2002)(Aldridge, Nick)</description>
-		<rom name="JSW dup moor en t' panat (2002)(Aldridge, Nick).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="JSW dup moor en t' panat (2002)(Aldridge, Nick).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jack and the Beanstalk (1984)(Thor Computer)">
 		<description>Jack and the Beanstalk (1984)(Thor Computer)</description>
-		<rom name="Jack and the Beanstalk (1984)(Thor Computer).pok" size="238" crc="4d5a31dc" md5="f62253c0b25ad457f8a6c7fefd752af1" sha1="a13fe84a89c824642a945ba8deafe094bc4aae16"/>
+		<rom name="Jack and the Beanstalk (1984)(Thor Computer).pok" size="275" crc="0e86dea9" md5="8c0d3e81881a5e42b548e14bdd4dc337" sha1="f48b138b250357d0265d1255806539f59faddd77"/>
 	</game>
 	<game name="Jack the Nipper (1986)(Gremlin Graphics)">
 		<description>Jack the Nipper (1986)(Gremlin Graphics)</description>
@@ -6086,13 +6198,13 @@
 		<description>Jawz (1983)(Elfin)</description>
 		<rom name="Jawz (1983)(Elfin).pok" size="33" crc="13c7fb28" md5="6198b056d2721cf32ed8a02c05d80794" sha1="53ec5ab1de231b7bcabc1597ab9bb13a5469f346"/>
 	</game>
-	<game name="Jet Bike Simulator (1988)(Code Masters Plus)">
-		<description>Jet Bike Simulator (1988)(Code Masters Plus)</description>
-		<rom name="Jet Bike Simulator (1988)(Code Masters Plus).pok" size="108" crc="0d575e09" md5="aecd37fa41e6d012c4acd481c7c6592b" sha1="4ada89c6f6cec15d7553096274ed57ea10959071"/>
+	<game name="Jet Bike Simulator (1987)(Code Masters Plus)">
+		<description>Jet Bike Simulator (1987)(Code Masters Plus)</description>
+		<rom name="Jet Bike Simulator (1987)(Code Masters Plus).pok" size="108" crc="0d575e09" md5="aecd37fa41e6d012c4acd481c7c6592b" sha1="4ada89c6f6cec15d7553096274ed57ea10959071"/>
 	</game>
 	<game name="Jet Cat Frosya (2004)(Makovsky, Igor)">
 		<description>Jet Cat Frosya (2004)(Makovsky, Igor)</description>
-		<rom name="Jet Cat Frosya (2004)(Makovsky, Igor).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Cat Frosya (2004)(Makovsky, Igor).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Man Silly (1993)(Proxima)">
 		<description>Jet Man Silly (1993)(Proxima)</description>
@@ -6102,9 +6214,9 @@
 		<description>Jet Paco (2013)(Mojon Twins, The)</description>
 		<rom name="Jet Paco (2013)(Mojon Twins, The).pok" size="98" crc="2c5fd4e0" md5="aeb0a92ee8f2f92fc63e5546d2851800" sha1="8dabd3193667e39c80f441ec0100647c8773afa1"/>
 	</game>
-	<game name="Jet Set 40-40 (2018)(Ford, Andy - Gromann, Daniel - Rushforth, Ian)">
-		<description>Jet Set 40-40 (2018)(Ford, Andy - Gromann, Daniel - Rushforth, Ian)</description>
-		<rom name="Jet Set 40-40 (2018)(Ford, Andy - Gromann, Daniel - Rushforth, Ian).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+	<game name="Jet Set 40-40 (2018)(JSWMM.co.uk Team)">
+		<description>Jet Set 40-40 (2018)(JSWMM.co.uk Team)</description>
+		<rom name="Jet Set 40-40 (2018)(JSWMM.co.uk Team).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Basic (2007)(Purple Studios)">
 		<description>Jet Set Basic (2007)(Purple Studios)</description>
@@ -6112,11 +6224,11 @@
 	</game>
 	<game name="Jet Set Chile (2010)(London Circus Cats)">
 		<description>Jet Set Chile (2010)(London Circus Cats)</description>
-		<rom name="Jet Set Chile (2010)(London Circus Cats).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Chile (2010)(London Circus Cats).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Emily - Baby on the Go (2002)(Doctor Who)">
 		<description>Jet Set Emily - Baby on the Go (2002)(Doctor Who)</description>
-		<rom name="Jet Set Emily - Baby on the Go (2002)(Doctor Who).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Emily - Baby on the Go (2002)(Doctor Who).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Gertie (1985)(Spectrum Computing)">
 		<description>Jet Set Gertie (1985)(Spectrum Computing)</description>
@@ -6128,95 +6240,95 @@
 	</game>
 	<game name="Jet Set Mini (2017)(Ford, Andy - Rushforth, Ian)">
 		<description>Jet Set Mini (2017)(Ford, Andy - Rushforth, Ian)</description>
-		<rom name="Jet Set Mini (2017)(Ford, Andy - Rushforth, Ian).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Mini (2017)(Ford, Andy - Rushforth, Ian).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Mixup (2017)(Ford, Andy - Rushforth, Ian)">
 		<description>Jet Set Mixup (2017)(Ford, Andy - Rushforth, Ian)</description>
-		<rom name="Jet Set Mixup (2017)(Ford, Andy - Rushforth, Ian).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Mixup (2017)(Ford, Andy - Rushforth, Ian).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Wibble (19xx)(Elliott, John)">
 		<description>Jet Set Wibble (19xx)(Elliott, John)</description>
-		<rom name="Jet Set Wibble (19xx)(Elliott, John).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Wibble (19xx)(Elliott, John).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy (1984)(Software Projects)">
 		<description>Jet Set Willy (1984)(Software Projects)</description>
-		<rom name="Jet Set Willy (1984)(Software Projects).pok" size="7444" crc="83104783" md5="b96b6b5d1b4763c9e766d3c65ad8f63c" sha1="dd9d21f7c505b0c33e5293543611cda3952625e0"/>
+		<rom name="Jet Set Willy (1984)(Software Projects).pok" size="7532" crc="0f6a1611" md5="2ccc7e5bb0f19b8a4f12452dc2729947" sha1="8153ca74adfaff1b35e02b9c8a18c33bcac73d13"/>
 	</game>
 	<game name="Jet Set Willy (1985)(R.D. Foord)">
 		<description>Jet Set Willy (1985)(R.D. Foord)</description>
-		<rom name="Jet Set Willy (1985)(R.D. Foord).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy (1985)(R.D. Foord).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - April Showers (1984)(Your Spectrum)">
 		<description>Jet Set Willy - April Showers (1984)(Your Spectrum)</description>
-		<rom name="Jet Set Willy - April Showers (1984)(Your Spectrum).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - April Showers (1984)(Your Spectrum).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - FTB (2003)(Martland, Edward)">
 		<description>Jet Set Willy - FTB (2003)(Martland, Edward)</description>
-		<rom name="Jet Set Willy - FTB (2003)(Martland, Edward).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - FTB (2003)(Martland, Edward).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - Heaven and Hell (2016)(Rushforth, Ian)">
 		<description>Jet Set Willy - Heaven and Hell (2016)(Rushforth, Ian)</description>
-		<rom name="Jet Set Willy - Heaven and Hell (2016)(Rushforth, Ian).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - Heaven and Hell (2016)(Rushforth, Ian).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - Lord of the Rings (2000)(Broadsoft)">
 		<description>Jet Set Willy - Lord of the Rings (2000)(Broadsoft)</description>
-		<rom name="Jet Set Willy - Lord of the Rings (2000)(Broadsoft).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - Lord of the Rings (2000)(Broadsoft).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - Manic Miner (2004)(Broadsoft)">
 		<description>Jet Set Willy - Manic Miner (2004)(Broadsoft)</description>
-		<rom name="Jet Set Willy - Manic Miner (2004)(Broadsoft).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - Manic Miner (2004)(Broadsoft).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - Mind Control (2005)(Gromann, Daniel)">
 		<description>Jet Set Willy - Mind Control (2005)(Gromann, Daniel)</description>
-		<rom name="Jet Set Willy - Mind Control (2005)(Gromann, Daniel).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - Mind Control (2005)(Gromann, Daniel).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - Mono (19xx)(Elliott, John)">
 		<description>Jet Set Willy - Mono (19xx)(Elliott, John)</description>
-		<rom name="Jet Set Willy - Mono (19xx)(Elliott, John).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - Mono (19xx)(Elliott, John).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - Perpetual Motion (2005)(Melkor, Darth)">
 		<description>Jet Set Willy - Perpetual Motion (2005)(Melkor, Darth)</description>
-		<rom name="Jet Set Willy - Perpetual Motion (2005)(Melkor, Darth).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - Perpetual Motion (2005)(Melkor, Darth).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - Spectrum Computing (1984)(Spectrum Computing)">
 		<description>Jet Set Willy - Spectrum Computing (1984)(Spectrum Computing)</description>
-		<rom name="Jet Set Willy - Spectrum Computing (1984)(Spectrum Computing).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - Spectrum Computing (1984)(Spectrum Computing).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - The '96 Remix (1996)(Howard, Paul)">
 		<description>Jet Set Willy - The '96 Remix (1996)(Howard, Paul)</description>
-		<rom name="Jet Set Willy - The '96 Remix (1996)(Howard, Paul).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - The '96 Remix (1996)(Howard, Paul).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - The 2005 Megamix (2005)(Gromann, Daniel)">
 		<description>Jet Set Willy - The 2005 Megamix (2005)(Gromann, Daniel)</description>
-		<rom name="Jet Set Willy - The 2005 Megamix (2005)(Gromann, Daniel).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - The 2005 Megamix (2005)(Gromann, Daniel).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - The 2010 Megamix (2010)(Gromann, Daniel)">
 		<description>Jet Set Willy - The 2010 Megamix (2010)(Gromann, Daniel)</description>
-		<rom name="Jet Set Willy - The 2010 Megamix (2010)(Gromann, Daniel).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - The 2010 Megamix (2010)(Gromann, Daniel).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - The Continuing Adventures (1998)(Britton, Adam)">
 		<description>Jet Set Willy - The Continuing Adventures (1998)(Britton, Adam)</description>
-		<rom name="Jet Set Willy - The Continuing Adventures (1998)(Britton, Adam).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - The Continuing Adventures (1998)(Britton, Adam).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - The DrUnKeN mAsTeR!!! (2002)(BaSe1 PrOdUcTiOnZ)">
 		<description>Jet Set Willy - The DrUnKeN mAsTeR!!! (2002)(BaSe1 PrOdUcTiOnZ)</description>
-		<rom name="Jet Set Willy - The DrUnKeN mAsTeR!!! (2002)(BaSe1 PrOdUcTiOnZ).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - The DrUnKeN mAsTeR!!! (2002)(BaSe1 PrOdUcTiOnZ).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - Wet Sunday Afternoon Graphical Remix (2001)(McCowan, Darren)">
 		<description>Jet Set Willy - Wet Sunday Afternoon Graphical Remix (2001)(McCowan, Darren)</description>
-		<rom name="Jet Set Willy - Wet Sunday Afternoon Graphical Remix (2001)(McCowan, Darren).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - Wet Sunday Afternoon Graphical Remix (2001)(McCowan, Darren).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - Willy's Flashback (2001)(JET_VISY)">
 		<description>Jet Set Willy - Willy's Flashback (2001)(JET_VISY)</description>
-		<rom name="Jet Set Willy - Willy's Flashback (2001)(JET_VISY).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - Willy's Flashback (2001)(JET_VISY).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy - again (2005)(Filsoft)">
 		<description>Jet Set Willy - again (2005)(Filsoft)</description>
-		<rom name="Jet Set Willy - again (2005)(Filsoft).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy - again (2005)(Filsoft).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy 128K (1996)(Elliott, John)(128K)">
 		<description>Jet Set Willy 128K (1996)(Elliott, John)(128K)</description>
-		<rom name="Jet Set Willy 128K (1996)(Elliott, John)(128K).pok" size="7205" crc="b0a71c3f" md5="3f800d8ffab517a4126cf29086cdcc94" sha1="5ddddcc61628272786a808b3b9e297b8bbeac1d9"/>
+		<rom name="Jet Set Willy 128K (1996)(Elliott, John)(128K).pok" size="7214" crc="d9a70059" md5="1f37e508b592bfbd7b49d5abbc1211e5" sha1="f29b05997b8119c0e8a68ace6d84ff01afdf69a2"/>
 	</game>
 	<game name="Jet Set Willy 16K (2009)(Cauldwell, Jonathan)(16K)">
 		<description>Jet Set Willy 16K (2009)(Cauldwell, Jonathan)(16K)</description>
@@ -6224,31 +6336,31 @@
 	</game>
 	<game name="Jet Set Willy 5 - ZX Heroes (2002)(Makovsky, Igor)">
 		<description>Jet Set Willy 5 - ZX Heroes (2002)(Makovsky, Igor)</description>
-		<rom name="Jet Set Willy 5 - ZX Heroes (2002)(Makovsky, Igor).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy 5 - ZX Heroes (2002)(Makovsky, Igor).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy 64 (2005)(Elliott, John)">
 		<description>Jet Set Willy 64 (2005)(Elliott, John)</description>
-		<rom name="Jet Set Willy 64 (2005)(Elliott, John).pok" size="7649" crc="a89c8d9f" md5="03f7dd8edd2bb39226760d2cfa3d74d1" sha1="df1fdd84f2365deab89aae4a040b0477377beec4"/>
+		<rom name="Jet Set Willy 64 (2005)(Elliott, John).pok" size="7706" crc="5cfe9413" md5="7483e59195b8afa32cf2f14cd9e40cfa" sha1="27af105e632de03aa189749f28bccd7adc461f8f"/>
 	</game>
 	<game name="Jet Set Willy 64 - Dragon (2006)(Elliott, John)">
 		<description>Jet Set Willy 64 - Dragon (2006)(Elliott, John)</description>
-		<rom name="Jet Set Willy 64 - Dragon (2006)(Elliott, John).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy 64 - Dragon (2006)(Elliott, John).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy 64 - Flash Manic Miner (2008)(Broadsoft)">
 		<description>Jet Set Willy 64 - Flash Manic Miner (2008)(Broadsoft)</description>
-		<rom name="Jet Set Willy 64 - Flash Manic Miner (2008)(Broadsoft).pok" size="7552" crc="ea658135" md5="d5b25a3039d39b2606dcd0533f3a6466" sha1="131cbe350c99ce05e2a689532cd56c3c88213e17"/>
+		<rom name="Jet Set Willy 64 - Flash Manic Miner (2008)(Broadsoft).pok" size="7609" crc="ca7e5a38" md5="bc9539b0bb306a5d4085cba177317069" sha1="1f3079e776df8d1aa72c7ff62561e8fe84a39631"/>
 	</game>
 	<game name="Jet Set Willy 64 - Manic Miner (2005)(Elliott, John)">
 		<description>Jet Set Willy 64 - Manic Miner (2005)(Elliott, John)</description>
-		<rom name="Jet Set Willy 64 - Manic Miner (2005)(Elliott, John).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy 64 - Manic Miner (2005)(Elliott, John).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy 64 - Manic Miner - Dragon (2006)(Elliott, John)">
 		<description>Jet Set Willy 64 - Manic Miner - Dragon (2006)(Elliott, John)</description>
-		<rom name="Jet Set Willy 64 - Manic Miner - Dragon (2006)(Elliott, John).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy 64 - Manic Miner - Dragon (2006)(Elliott, John).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy 64 - Manic Miner - James Bond (2007)(Broadsoft)">
 		<description>Jet Set Willy 64 - Manic Miner - James Bond (2007)(Broadsoft)</description>
-		<rom name="Jet Set Willy 64 - Manic Miner - James Bond (2007)(Broadsoft).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy 64 - Manic Miner - James Bond (2007)(Broadsoft).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy II (1985)(Software Projects)">
 		<description>Jet Set Willy II (1985)(Software Projects)</description>
@@ -6260,19 +6372,19 @@
 	</game>
 	<game name="Jet Set Willy X (2006)(Twibright Labs)">
 		<description>Jet Set Willy X (2006)(Twibright Labs)</description>
-		<rom name="Jet Set Willy X (2006)(Twibright Labs).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy X (2006)(Twibright Labs).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet Set Willy in Paris (2005)(Herve Ast)">
 		<description>Jet Set Willy in Paris (2005)(Herve Ast)</description>
-		<rom name="Jet Set Willy in Paris (2005)(Herve Ast).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet Set Willy in Paris (2005)(Herve Ast).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet-Set Willy Ivy (1998)(Filsoft)">
 		<description>Jet-Set Willy Ivy (1998)(Filsoft)</description>
-		<rom name="Jet-Set Willy Ivy (1998)(Filsoft).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet-Set Willy Ivy (1998)(Filsoft).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet-Set Willy in Space (1997)(Halsoft)">
 		<description>Jet-Set Willy in Space (1997)(Halsoft)</description>
-		<rom name="Jet-Set Willy in Space (1997)(Halsoft).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Jet-Set Willy in Space (1997)(Halsoft).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jet-Story (1992)(Ultrasoft)">
 		<description>Jet-Story (1992)(Ultrasoft)</description>
@@ -6280,7 +6392,7 @@
 	</game>
 	<game name="JetSet Willy III (1985)(APG - MB)">
 		<description>JetSet Willy III (1985)(APG - MB)</description>
-		<rom name="JetSet Willy III (1985)(APG - MB).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="JetSet Willy III (1985)(APG - MB).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jetpac (1983)(Ultimate Play The Game)">
 		<description>Jetpac (1983)(Ultimate Play The Game)</description>
@@ -6320,7 +6432,7 @@
 	</game>
 	<game name="Join the Jet-Set (1985)(Halsoft)">
 		<description>Join the Jet-Set (1985)(Halsoft)</description>
-		<rom name="Join the Jet-Set (1985)(Halsoft).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Join the Jet-Set (1985)(Halsoft).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Jokers Wild (1984)(Phoenix)">
 		<description>Jokers Wild (1984)(Phoenix)</description>
@@ -6422,6 +6534,10 @@
 		<description>Jungle Warrior (1990)(Zigurat)</description>
 		<rom name="Jungle Warrior (1990)(Zigurat).pok" size="253" crc="9d1a3886" md5="b961db7bf63169546b43771d26e314a1" sha1="e2f995989331c01ce6f2d4bd8858c9fb4404e296"/>
 	</game>
+	<game name="Just a Gal (2019)(ZOSYA entertainment)">
+		<description>Just a Gal (2019)(ZOSYA entertainment)</description>
+		<rom name="Just a Gal (2019)(ZOSYA entertainment).pok" size="89" crc="200fa956" md5="8de6b04f1f2501323f34de0b786b8f56" sha1="fbffb5e5f59185de9fcf9c91557a2e7c6dd679bc"/>
+	</game>
 	<game name="Justin (2007)(CNGSoft)">
 		<description>Justin (2007)(CNGSoft)</description>
 		<rom name="Justin (2007)(CNGSoft).pok" size="111" crc="5af0babb" md5="0b7926a392a93d729c3a6ec1af70ab16" sha1="856252ebfc69052f46987a6b78b25dea62ab10ff"/>
@@ -6474,9 +6590,9 @@
 		<description>Karnov (1988)(Electric Dreams)</description>
 		<rom name="Karnov (1988)(Electric Dreams).pok" size="304" crc="cb271646" md5="89a647cc0b2918b0910e247859f7a021" sha1="6ffb5d5a5ae9fb8802ae60d8f3ac1731ec5410ad"/>
 	</game>
-	<game name="Kat Trap (1987)(Streetwise)">
-		<description>Kat Trap (1987)(Streetwise)</description>
-		<rom name="Kat Trap (1987)(Streetwise).pok" size="105" crc="4d2a97c2" md5="c261d0248889aa7f458164b6a6dec271" sha1="fcfb99ad4ed694531c1dfec6c102c6b6aff6f59d"/>
+	<game name="Kat Trap (1986)(Streetwise)">
+		<description>Kat Trap (1986)(Streetwise)</description>
+		<rom name="Kat Trap (1986)(Streetwise).pok" size="105" crc="4d2a97c2" md5="c261d0248889aa7f458164b6a6dec271" sha1="fcfb99ad4ed694531c1dfec6c102c6b6aff6f59d"/>
 	</game>
 	<game name="Kemshu (1989)(Cult Games)">
 		<description>Kemshu (1989)(Cult Games)</description>
@@ -6578,13 +6694,13 @@
 		<description>Knight Ghost (1987)(Juliet)</description>
 		<rom name="Knight Ghost (1987)(Juliet).pok" size="159" crc="7c677b3c" md5="64c5a435f049729cafbb8d7ca0f72107" sha1="6e371ec289f17f3e5aaac2fe16a34e9f715b26e5"/>
 	</game>
-	<game name="Knight Hero (2017)(Green, Andy - Grilo, Jaime)">
-		<description>Knight Hero (2017)(Green, Andy - Grilo, Jaime)</description>
-		<rom name="Knight Hero (2017)(Green, Andy - Grilo, Jaime).pok" size="259" crc="871f5f86" md5="1307f8113a23bd1d520483dfff20bb52" sha1="9738df76b7dc6190a015c4d46ef7f31a8afa6c17"/>
+	<game name="Knight Hero (2017)(Andy Green - Grilo, Jaime)">
+		<description>Knight Hero (2017)(Andy Green - Grilo, Jaime)</description>
+		<rom name="Knight Hero (2017)(Andy Green - Grilo, Jaime).pok" size="259" crc="871f5f86" md5="1307f8113a23bd1d520483dfff20bb52" sha1="9738df76b7dc6190a015c4d46ef7f31a8afa6c17"/>
 	</game>
 	<game name="Knight Lore (1984)(Ultimate Play The Game)">
 		<description>Knight Lore (1984)(Ultimate Play The Game)</description>
-		<rom name="Knight Lore (1984)(Ultimate Play The Game).pok" size="549" crc="00271750" md5="1beb74b879b7bd6a3722c4cceaedc742" sha1="01496392545cb143cbe454daabf7c9b855f810df"/>
+		<rom name="Knight Lore (1984)(Ultimate Play The Game).pok" size="755" crc="a536666c" md5="2d7ba68ae459760a9882889bbf1539bc" sha1="f730f3f0c696bf1f167fee1e449570144cb9961a"/>
 	</game>
 	<game name="Knight Rider (1986)(Ocean)">
 		<description>Knight Rider (1986)(Ocean)</description>
@@ -6778,6 +6894,10 @@
 		<description>Labyrman (1990)(CV)</description>
 		<rom name="Labyrman (1990)(CV).pok" size="167" crc="8b959eb1" md5="f7074f83ac8da6d174000212c839bab3" sha1="7bab22e48ffcc566c6a29a3391f35f7937eb62b3"/>
 	</game>
+	<game name="Laetitia (2019)(Grilo, Jaime)">
+		<description>Laetitia (2019)(Grilo, Jaime)</description>
+		<rom name="Laetitia (2019)(Grilo, Jaime).pok" size="220" crc="cd243ad4" md5="ad9769b5ae59c3c7b3710bd86ec5b8e1" sha1="c8dbec3437194093df32b9ad3b8b639af899ecaf"/>
+	</game>
 	<game name="Lala Lah (2013)(Mojon Twins, The)">
 		<description>Lala Lah (2013)(Mojon Twins, The)</description>
 		<rom name="Lala Lah (2013)(Mojon Twins, The).pok" size="159" crc="3405c285" md5="5b87fbe154ef65faffd37378d645facd" sha1="b0159449d567bf5ed0b85d51b0208ea64f5b3256"/>
@@ -6838,9 +6958,9 @@
 		<description>Laserwarp (1983)(Mikro-Gen)</description>
 		<rom name="Laserwarp (1983)(Mikro-Gen).pok" size="176" crc="64fc7e13" md5="9ae759c7ea48a1a0f5fdf376c85f7a75" sha1="0e8d607c0b07b32d0956132303b38876231497e6"/>
 	</game>
-	<game name="Last Duel (1989)(U.S. Gold)">
-		<description>Last Duel (1989)(U.S. Gold)</description>
-		<rom name="Last Duel (1989)(U.S. Gold).pok" size="105" crc="963d4b1c" md5="6daa0a6f7da9a0bba4595f4a15b8623b" sha1="09112b7851eaa13d230ea29d96205e15d321e35f"/>
+	<game name="Last Duel (1989)(Go!)">
+		<description>Last Duel (1989)(Go!)</description>
+		<rom name="Last Duel (1989)(Go!).pok" size="105" crc="963d4b1c" md5="6daa0a6f7da9a0bba4595f4a15b8623b" sha1="09112b7851eaa13d230ea29d96205e15d321e35f"/>
 	</game>
 	<game name="Last Mission (1987)(U.S. Gold)">
 		<description>Last Mission (1987)(U.S. Gold)</description>
@@ -6874,9 +6994,9 @@
 		<description>Last Will Dizzy (1993)(Moskalenko, Oleg)</description>
 		<rom name="Last Will Dizzy (1993)(Moskalenko, Oleg).pok" size="202" crc="0d6bdc2a" md5="7721bc5eb73b1278e539261179ade0bd" sha1="f91895ed7056262e02e410ee7393d707fd6fa5ae"/>
 	</game>
-	<game name="Lazer Tag (1987)(Go!)">
-		<description>Lazer Tag (1987)(Go!)</description>
-		<rom name="Lazer Tag (1987)(Go!).pok" size="98" crc="c76a90d5" md5="a49ec4a66f0e33f8d5b2b7fe852675eb" sha1="6d2dd31594d50cb52525d15163ead6f32af8ea01"/>
+	<game name="Lazer Tag (1988)(Go!)">
+		<description>Lazer Tag (1988)(Go!)</description>
+		<rom name="Lazer Tag (1988)(Go!).pok" size="98" crc="c76a90d5" md5="a49ec4a66f0e33f8d5b2b7fe852675eb" sha1="6d2dd31594d50cb52525d15163ead6f32af8ea01"/>
 	</game>
 	<game name="Lazer Wheel (1987)(Mastertronic Added Dimension)">
 		<description>Lazer Wheel (1987)(Mastertronic Added Dimension)</description>
@@ -6912,7 +7032,7 @@
 	</game>
 	<game name="Lena vs. Margo (2006)(Makovsky, Igor)">
 		<description>Lena vs. Margo (2006)(Makovsky, Igor)</description>
-		<rom name="Lena vs. Margo (2006)(Makovsky, Igor).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Lena vs. Margo (2006)(Makovsky, Igor).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Leonardo's Lost Last Invention (2014)(Amore, Gabriele - Grussu, Alessandro - Parsons, Neil)">
 		<description>Leonardo's Lost Last Invention (2014)(Amore, Gabriele - Grussu, Alessandro - Parsons, Neil)</description>
@@ -6970,10 +7090,6 @@
 		<description>Light Corridor, The (1991)(Infogrames)</description>
 		<rom name="Light Corridor, The (1991)(Infogrames).pok" size="33" crc="2bc22d7f" md5="21def0302c4628648e126fe34eb5c88c" sha1="dc237e8e9454b7a32111ae3fd379cf03ff2e56a8"/>
 	</game>
-	<game name="Light Force (1986)(Faster Than Light)">
-		<description>Light Force (1986)(Faster Than Light)</description>
-		<rom name="Light Force (1986)(Faster Than Light).pok" size="155" crc="14db9e7d" md5="b83e5f750244f9fce65027ba2b123b48" sha1="4346114413e7e42e3551dfccc8afe0735b8a6153"/>
-	</game>
 	<game name="Light the Conk! (1991)(Morris, Dominic J.)">
 		<description>Light the Conk! (1991)(Morris, Dominic J.)</description>
 		<rom name="Light the Conk! (1991)(Morris, Dominic J.).pok" size="49" crc="8d8e140a" md5="0d650e693a0f800a0243e5783ec7118f" sha1="2dff5063d7aacc8603f6dca200e5af12fc0c5976"/>
@@ -6985,6 +7101,10 @@
 	<game name="Lightfire (19xx)(Joerg Tochtenhagen)">
 		<description>Lightfire (19xx)(Joerg Tochtenhagen)</description>
 		<rom name="Lightfire (19xx)(Joerg Tochtenhagen).pok" size="114" crc="b054ecac" md5="40a1cefb014106ada55724d5e43906aa" sha1="dc3dc36730379bfef0ede746e5778bee1537382d"/>
+	</game>
+	<game name="Lightforce (1986)(Faster Than Light)">
+		<description>Lightforce (1986)(Faster Than Light)</description>
+		<rom name="Lightforce (1986)(Faster Than Light).pok" size="155" crc="14db9e7d" md5="b83e5f750244f9fce65027ba2b123b48" sha1="4346114413e7e42e3551dfccc8afe0735b8a6153"/>
 	</game>
 	<game name="Lil'Alien (1985)(Nationsoft)">
 		<description>Lil'Alien (1985)(Nationsoft)</description>
@@ -7094,6 +7214,10 @@
 		<description>Lost Treasure, The (2013)(Watson, Andy)</description>
 		<rom name="Lost Treasure, The (2013)(Watson, Andy).pok" size="24" crc="681b1e41" md5="03a9e6234d0e651f19deccc8b447666c" sha1="21d959b305d34933057c58f78034b18629f24c20"/>
 	</game>
+	<game name="Lost Treasures of Tulum, The (2020)(RetroWorks)">
+		<description>Lost Treasures of Tulum, The (2020)(RetroWorks)</description>
+		<rom name="Lost Treasures of Tulum, The (2020)(RetroWorks).pok" size="34" crc="6562578d" md5="0562e5dfabb4a68583fa5ee3cec600c4" sha1="d56de0e43eca2218789a7496ae66bae4e495f428"/>
+	</game>
 	<game name="Lost in My Spectrum (2012)(Grussu, Alessandro)">
 		<description>Lost in My Spectrum (2012)(Grussu, Alessandro)</description>
 		<rom name="Lost in My Spectrum (2012)(Grussu, Alessandro).pok" size="84" crc="42866ad4" md5="e308edfe36d6e84241f8b269cda73d7b" sha1="d7b06ffffd55090908be1db45773cd8951895850"/>
@@ -7104,7 +7228,7 @@
 	</game>
 	<game name="Lovecraft Mythos (2019)(Ancient Bytes)">
 		<description>Lovecraft Mythos (2019)(Ancient Bytes)</description>
-		<rom name="Lovecraft Mythos (2019)(Ancient Bytes).pok" size="95" crc="cac74001" md5="df21e1bcb805f138b3a9fe73e0dd7393" sha1="fa17b04f000c1d38cef93180cb2da92f5cfca352"/>
+		<rom name="Lovecraft Mythos (2019)(Ancient Bytes).pok" size="161" crc="9a829235" md5="939d5ccc0e8a14808e72cdd284a78d1c" sha1="833d93dee4342c522e20df7d60694de711d81f20"/>
 	</game>
 	<game name="Luna Atac (1986)(Atlantis)">
 		<description>Luna Atac (1986)(Atlantis)</description>
@@ -7204,7 +7328,7 @@
 	</game>
 	<game name="Madam Blavskja's Carnival Macabre (2002)(Adban de Corcy)">
 		<description>Madam Blavskja's Carnival Macabre (2002)(Adban de Corcy)</description>
-		<rom name="Madam Blavskja's Carnival Macabre (2002)(Adban de Corcy).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Madam Blavskja's Carnival Macabre (2002)(Adban de Corcy).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Madballs (1988)(Ocean)">
 		<description>Madballs (1988)(Ocean)</description>
@@ -7296,7 +7420,7 @@
 	</game>
 	<game name="Manic Miner (1983)(Bug-Byte)">
 		<description>Manic Miner (1983)(Bug-Byte)</description>
-		<rom name="Manic Miner (1983)(Bug-Byte).pok" size="4092" crc="cbc2b9f5" md5="94495bb846d41c1643605c208f6fa191" sha1="80f672e6b8a0a0d1fb515fae8512da5dc5cc45f2"/>
+		<rom name="Manic Miner (1983)(Bug-Byte).pok" size="4183" crc="cf72dacb" md5="faf9bfdcc3b3ad9e0e5d19229abc44c3" sha1="40fc6c7b1552b0145d9253653cae29ac94641e36"/>
 	</game>
 	<game name="Manic Miner #2 (1985)(R.D. Foord)">
 		<description>Manic Miner #2 (1985)(R.D. Foord)</description>
@@ -7364,15 +7488,23 @@
 	</game>
 	<game name="Manic Mining Robot's Day Out (2003)(Manic Miner Technologies)">
 		<description>Manic Mining Robot's Day Out (2003)(Manic Miner Technologies)</description>
-		<rom name="Manic Mining Robot's Day Out (2003)(Manic Miner Technologies).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Manic Mining Robot's Day Out (2003)(Manic Miner Technologies).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Manic Muslim (2005)(Boniosoft)">
 		<description>Manic Muslim (2005)(Boniosoft)</description>
 		<rom name="Manic Muslim (2005)(Boniosoft).pok" size="94" crc="342835fe" md5="e5278e3c4261212e7d58059c5d0a3999" sha1="4e2bdb4d11f1f3c62ada404f045352b82da06e10"/>
 	</game>
+	<game name="Manic Pietro (2019)(Gonzalez, Cristian M.)">
+		<description>Manic Pietro (2019)(Gonzalez, Cristian M.)</description>
+		<rom name="Manic Pietro (2019)(Gonzalez, Cristian M.).pok" size="33" crc="09f5d489" md5="3ae6958848712610bb5f6b0563d8ec13" sha1="0a509b7b40ba2826715e260fb9bbb526d0caa215"/>
+	</game>
 	<game name="Manic Scribbler (2005)(Melkor, Darth)">
 		<description>Manic Scribbler (2005)(Melkor, Darth)</description>
 		<rom name="Manic Scribbler (2005)(Melkor, Darth).pok" size="3795" crc="c749a457" md5="a27492eaff39203a2cf0aeac85dda5dd" sha1="53f9c6ca633b9bc088906575958e714e7457e596"/>
+	</game>
+	<game name="Mantra Kill (2019)(Denis Radiontsev)">
+		<description>Mantra Kill (2019)(Denis Radiontsev)</description>
+		<rom name="Mantra Kill (2019)(Denis Radiontsev).pok" size="29" crc="0fc2cc5e" md5="7e1be19c1e64355b560d7479e5766c7c" sha1="6812626c35f3abf53878570c7817a7a1662e67c6"/>
 	</game>
 	<game name="Mantronix (1986)(Probe)">
 		<description>Mantronix (1986)(Probe)</description>
@@ -7396,19 +7528,19 @@
 	</game>
 	<game name="Maria on Tour (2005)(BaSe1 PrOdUcTiOnZ)">
 		<description>Maria on Tour (2005)(BaSe1 PrOdUcTiOnZ)</description>
-		<rom name="Maria on Tour (2005)(BaSe1 PrOdUcTiOnZ).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Maria on Tour (2005)(BaSe1 PrOdUcTiOnZ).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Maria vs. Some Bastards (2003)(Manic Miner Technologies)">
 		<description>Maria vs. Some Bastards (2003)(Manic Miner Technologies)</description>
-		<rom name="Maria vs. Some Bastards (2003)(Manic Miner Technologies).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Maria vs. Some Bastards (2003)(Manic Miner Technologies).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Maria's Revenge (2004)(Mat Doughty)">
 		<description>Maria's Revenge (2004)(Mat Doughty)</description>
-		<rom name="Maria's Revenge (2004)(Mat Doughty).pok" size="7453" crc="9bdd8aa4" md5="b65e3eae636d90bef6f8c98c8763b1a4" sha1="6235551c3e88554a5cf20066495c1e28dd0422c8"/>
+		<rom name="Maria's Revenge (2004)(Mat Doughty).pok" size="7510" crc="f10b679e" md5="6db4c041edee2dbc0f9bc3b8be6362c9" sha1="769c62b1da8c5c7fbcdfb4ce37fb114d7c6f477d"/>
 	</game>
 	<game name="Marina - The Fire Quest (2007)(Makovsky, Igor)">
 		<description>Marina - The Fire Quest (2007)(Makovsky, Igor)</description>
-		<rom name="Marina - The Fire Quest (2007)(Makovsky, Igor).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Marina - The Fire Quest (2007)(Makovsky, Igor).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Marine (1987)(Load 'n' Run)">
 		<description>Marine (1987)(Load 'n' Run)</description>
@@ -7508,7 +7640,7 @@
 	</game>
 	<game name="Maze Death Rally-X (2018)(Dalby, Tom)">
 		<description>Maze Death Rally-X (2018)(Dalby, Tom)</description>
-		<rom name="Maze Death Rally-X (2018)(Dalby, Tom).pok" size="146" crc="2a9bb7f1" md5="a6f43c4dd231d33d3e3e4a033cced305" sha1="d9768f73fd92f6544d6e52dff5eb9012976ec3db"/>
+		<rom name="Maze Death Rally-X (2018)(Dalby, Tom).pok" size="180" crc="4d9c2915" md5="22c5787b14b7bf550d72a03eb76e05be" sha1="6866c58e902d52150cc02b4f2efddfe22a3b969a"/>
 	</game>
 	<game name="Maze Mania (1989)(Hewson Consultants)">
 		<description>Maze Mania (1989)(Hewson Consultants)</description>
@@ -7614,13 +7746,17 @@
 		<description>Metal Army (1988)(Players)</description>
 		<rom name="Metal Army (1988)(Players).pok" size="90" crc="838d1cf6" md5="d8b9a08759360ec90d2898590f059a6f" sha1="41adf82b70be948ac235baeba1617943a64d85c3"/>
 	</game>
+	<game name="Metal Man (1997)(Origin, Oleg)">
+		<description>Metal Man (1997)(Origin, Oleg)</description>
+		<rom name="Metal Man (1997)(Origin, Oleg).pok" size="65" crc="3e0c9f37" md5="a0bd78f4109d7dc3096712be6eabec59" sha1="b0e30ccbdd6190e06882c1e55656db43921edb0d"/>
+	</game>
 	<game name="Metal Man Reloaded (2014)(Aragonskaya, Stella - Origin, Oleg)">
 		<description>Metal Man Reloaded (2014)(Aragonskaya, Stella - Origin, Oleg)</description>
-		<rom name="Metal Man Reloaded (2014)(Aragonskaya, Stella - Origin, Oleg).pok" size="58" crc="052e35ec" md5="b0f59728d994195bcebc9ca8ae99002f" sha1="e4db350e05fbac530225ff57a23f911f5b595809"/>
+		<rom name="Metal Man Reloaded (2014)(Aragonskaya, Stella - Origin, Oleg).pok" size="90" crc="3fb1aa59" md5="3fecc03fc5a8f52fd44cbe0082e75f9e" sha1="52d2b790e7378481dbc47e91ffc3f4bdcc61589c"/>
 	</game>
 	<game name="Metal Man Remixed (2015)(Origin, Oleg)">
 		<description>Metal Man Remixed (2015)(Origin, Oleg)</description>
-		<rom name="Metal Man Remixed (2015)(Origin, Oleg).pok" size="33" crc="d793ba6f" md5="461e9f14cac07fe1c2f8f6c8dbf08245" sha1="19d7b1f31872841ed0b18296ff4070bbe771b40c"/>
+		<rom name="Metal Man Remixed (2015)(Origin, Oleg).pok" size="65" crc="1584d49b" md5="44ee97b9b04687481f0dd087827bedc5" sha1="6e7cdaefc44edd554fa6a059f1a4ebc4e08a8819"/>
 	</game>
 	<game name="Metaldrone (1987)(Sparklers)">
 		<description>Metaldrone (1987)(Sparklers)</description>
@@ -7706,6 +7842,10 @@
 		<description>Midnight Resistance (1990)(Ocean)</description>
 		<rom name="Midnight Resistance (1990)(Ocean).pok" size="432" crc="c4dad429" md5="fd122eda3a570d2b8245305ff790e3b6" sha1="c28e2a0f235004fdedf1a2bdba4b83d91cfc8546"/>
 	</game>
+	<game name="Mighty Final Fight (2018)(SaNchez)">
+		<description>Mighty Final Fight (2018)(SaNchez)</description>
+		<rom name="Mighty Final Fight (2018)(SaNchez).pok" size="216" crc="ae44f4b7" md5="f482d78bd35fa268a8e5d039dc7c715c" sha1="7117a9f1f95ae96e7b13b5dd785cc6d920817430"/>
+	</game>
 	<game name="Mighty Magus (1985)(Quicksilva)">
 		<description>Mighty Magus (1985)(Quicksilva)</description>
 		<rom name="Mighty Magus (1985)(Quicksilva).pok" size="103" crc="6eb5bf4c" md5="b231e46a9001fbda87e33b86485da593" sha1="6ff924109e82efe3115db3fc9f28c3f3d52eae5d"/>
@@ -7718,9 +7858,13 @@
 		<description>Mike Read's Pop Quiz (1989)(Elite Systems)</description>
 		<rom name="Mike Read's Pop Quiz (1989)(Elite Systems).pok" size="112" crc="b2b45d74" md5="3fe60217cf40b603f089ee0ee5d5280c" sha1="d30d8bcb8dfd28ecbe7dc71944bb4a651dc2523d"/>
 	</game>
-	<game name="Mike, The Guitar (2018)(Braunert, Sebastian - Geiken, Uwe - Green, Andy)">
-		<description>Mike, The Guitar (2018)(Braunert, Sebastian - Geiken, Uwe - Green, Andy)</description>
-		<rom name="Mike, The Guitar (2018)(Braunert, Sebastian - Geiken, Uwe - Green, Andy).pok" size="79" crc="4423ca4b" md5="91e572aa428b163aab729952994c83d3" sha1="0c269591fe18fab326b54f6d3ba337d496ea6ed9"/>
+	<game name="Mike the Guitar - The Shooter (2019)(Braunert, Sebastian - Geiken, Uwe - Pimenta, Pedro)">
+		<description>Mike the Guitar - The Shooter (2019)(Braunert, Sebastian - Geiken, Uwe - Pimenta, Pedro)</description>
+		<rom name="Mike the Guitar - The Shooter (2019)(Braunert, Sebastian - Geiken, Uwe - Pimenta, Pedro).pok" size="35" crc="28ece4f9" md5="324a1b6e349c56aab8a181c23f4df125" sha1="0f98fb54204dfbedaaba909d64d6180dee0ab9c6"/>
+	</game>
+	<game name="Mike, The Guitar (2018)(Andy Green - Braunert, Sebastian - Geiken, Uwe)">
+		<description>Mike, The Guitar (2018)(Andy Green - Braunert, Sebastian - Geiken, Uwe)</description>
+		<rom name="Mike, The Guitar (2018)(Andy Green - Braunert, Sebastian - Geiken, Uwe).pok" size="79" crc="4423ca4b" md5="91e572aa428b163aab729952994c83d3" sha1="0c269591fe18fab326b54f6d3ba337d496ea6ed9"/>
 	</game>
 	<game name="Mikie (1985)(Imagine)">
 		<description>Mikie (1985)(Imagine)</description>
@@ -7728,7 +7872,7 @@
 	</game>
 	<game name="Miles Mad Mission! (2009)(BaSe1 PrOdUcTiOnZ)">
 		<description>Miles Mad Mission! (2009)(BaSe1 PrOdUcTiOnZ)</description>
-		<rom name="Miles Mad Mission! (2009)(BaSe1 PrOdUcTiOnZ).pok" size="7415" crc="9529dbc6" md5="aa04cd6ebc70cecd313d25d5cbea12d2" sha1="10e3c9a4aecab14b05f1e6182a868d38b2472477"/>
+		<rom name="Miles Mad Mission! (2009)(BaSe1 PrOdUcTiOnZ).pok" size="7472" crc="53d7c4a4" md5="2f8fdcbb3438a83be94944e52aa4a8f8" sha1="89c8debc8fb8f2efc4251678ef21657786bf2057"/>
 	</game>
 	<game name="Milk Race (1987)(Mastertronic)">
 		<description>Milk Race (1987)(Mastertronic)</description>
@@ -7774,9 +7918,9 @@
 		<description>Mindtrap (1989)(Mastertronic)</description>
 		<rom name="Mindtrap (1989)(Mastertronic).pok" size="64" crc="13397faa" md5="1b32dccbb69d3f5e3f4cfdc763211470" sha1="f72a8da947578112f40c434dc24d86e9962bc38d"/>
 	</game>
-	<game name="Miner Willy's Nightmare (2000)(-)">
-		<description>Miner Willy's Nightmare (2000)(-)</description>
-		<rom name="Miner Willy's Nightmare (2000)(-).pok" size="531" crc="f315b35c" md5="d1fdbb256090ceb3b2e490fcd6f8af03" sha1="2fa6276cac19df79a215ca91de62b27595641a85"/>
+	<game name="Miner Willy's Nightmare (2000)(Goring, Graham)">
+		<description>Miner Willy's Nightmare (2000)(Goring, Graham)</description>
+		<rom name="Miner Willy's Nightmare (2000)(Goring, Graham).pok" size="531" crc="f315b35c" md5="d1fdbb256090ceb3b2e490fcd6f8af03" sha1="2fa6276cac19df79a215ca91de62b27595641a85"/>
 	</game>
 	<game name="Mines of Moriez (1986)(Hektic)">
 		<description>Mines of Moriez (1986)(Hektic)</description>
@@ -7832,7 +7976,7 @@
 	</game>
 	<game name="Mister Kung Fu (2018)(Uprising Soft)">
 		<description>Mister Kung Fu (2018)(Uprising Soft)</description>
-		<rom name="Mister Kung Fu (2018)(Uprising Soft).pok" size="102" crc="ffc4de0b" md5="76af4c90c7c53cb3342099d8a3b19336" sha1="bdeadd03e761e0befaaff613ef77e8e75b8f1ff0"/>
+		<rom name="Mister Kung Fu (2018)(Uprising Soft).pok" size="336" crc="bafa3cec" md5="36a39f33fa53d0db919cc2b6a025a05f" sha1="c8b11d25578ef2e9ae8ae725de18e90c1d1f9edc"/>
 	</game>
 	<game name="Misterio del Nilo, El (1987)(Zigurat)">
 		<description>Misterio del Nilo, El (1987)(Zigurat)</description>
@@ -7888,7 +8032,7 @@
 	</game>
 	<game name="Monstrum! (2000)(Hill, Stuart J.)">
 		<description>Monstrum! (2000)(Hill, Stuart J.)</description>
-		<rom name="Monstrum! (2000)(Hill, Stuart J.).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Monstrum! (2000)(Hill, Stuart J.).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Montana Jones II (1994)(Home Masters)">
 		<description>Montana Jones II (1994)(Home Masters)</description>
@@ -7982,6 +8126,22 @@
 		<description>More Tea, Vicar (2012)(Cronosoft)</description>
 		<rom name="More Tea, Vicar (2012)(Cronosoft).pok" size="69" crc="efd4da10" md5="fc3ff54ada5755fa2a4cd257a2a30ac0" sha1="c91ed7a7c8e4a7df4dd5b169da0ede70946cb0b3"/>
 	</game>
+	<game name="Moritz (2017)(Braunert, Sebastian - Geiken, Uwe)">
+		<description>Moritz (2017)(Braunert, Sebastian - Geiken, Uwe)</description>
+		<rom name="Moritz (2017)(Braunert, Sebastian - Geiken, Uwe).pok" size="33" crc="91bd205c" md5="dd8a98639d5a5020158e9030c5f7d456" sha1="97342a418593bfad73504d18a61fc25f895d0464"/>
+	</game>
+	<game name="Moritz Strikes Back (2019)(Braunert, Sebastian)">
+		<description>Moritz Strikes Back (2019)(Braunert, Sebastian)</description>
+		<rom name="Moritz Strikes Back (2019)(Braunert, Sebastian).pok" size="99" crc="cf365239" md5="f4fd25f87f53179cbb5fa979b0704fe3" sha1="707bb8e9f799d373069cb5edd12971816e0b94bc"/>
+	</game>
+	<game name="Moritz on the Autobahn (2020)(Braunert, Sebastian)">
+		<description>Moritz on the Autobahn (2020)(Braunert, Sebastian)</description>
+		<rom name="Moritz on the Autobahn (2020)(Braunert, Sebastian).pok" size="50" crc="8f06731a" md5="be46500b74cb1a6a0822fb43874648a5" sha1="561daccffe48b2af7412d914fb30883036d51a18"/>
+	</game>
+	<game name="Moritz the Striker (2020)(Braunert, Sebastian)">
+		<description>Moritz the Striker (2020)(Braunert, Sebastian)</description>
+		<rom name="Moritz the Striker (2020)(Braunert, Sebastian).pok" size="48" crc="66a46d0c" md5="d3bf5b7e4424c157479b22886ba2b5ec" sha1="0e820df15ba48c2d4ca0cd2d29f70ebc2675793c"/>
+	</game>
 	<game name="Moritz to the Moon (2019)(Braunert, Sebastian)">
 		<description>Moritz to the Moon (2019)(Braunert, Sebastian)</description>
 		<rom name="Moritz to the Moon (2019)(Braunert, Sebastian).pok" size="98" crc="34bb7be1" md5="22565ac0c733515408071b550e2d37f5" sha1="48e76dc172889c4cc3c92568c18aee1efeb33d3f"/>
@@ -8060,7 +8220,7 @@
 	</game>
 	<game name="Mr Top Hat (2003)(Aldridge, Nick)">
 		<description>Mr Top Hat (2003)(Aldridge, Nick)</description>
-		<rom name="Mr Top Hat (2003)(Aldridge, Nick).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Mr Top Hat (2003)(Aldridge, Nick).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Mr. Freeze (1984)(Firebird)">
 		<description>Mr. Freeze (1984)(Firebird)</description>
@@ -8222,9 +8382,9 @@
 		<description>N.E.X.U.S. (1986)(Nexus Productions)</description>
 		<rom name="N.E.X.U.S. (1986)(Nexus Productions).pok" size="160" crc="73f2d3e0" md5="18e46e8572b3ae2b04d57d550e955af2" sha1="64ce58cddb5b1b06ba896c86aef04cc9dc556c92"/>
 	</game>
-	<game name="N.O.M.A.D. (1985)(Ocean)">
-		<description>N.O.M.A.D. (1985)(Ocean)</description>
-		<rom name="N.O.M.A.D. (1985)(Ocean).pok" size="86" crc="fc090035" md5="f748115b2f2c85bd305d4b69b503df25" sha1="b962f6370d58ba89857e9648d88336602c53f7a2"/>
+	<game name="N.O.M.A.D. (1986)(Ocean)">
+		<description>N.O.M.A.D. (1986)(Ocean)</description>
+		<rom name="N.O.M.A.D. (1986)(Ocean).pok" size="86" crc="fc090035" md5="f748115b2f2c85bd305d4b69b503df25" sha1="b962f6370d58ba89857e9648d88336602c53f7a2"/>
 	</game>
 	<game name="NARC (1990)(Ocean)">
 		<description>NARC (1990)(Ocean)</description>
@@ -8264,7 +8424,7 @@
 	</game>
 	<game name="Navy SEALs (1991)(Ocean)">
 		<description>Navy SEALs (1991)(Ocean)</description>
-		<rom name="Navy SEALs (1991)(Ocean).pok" size="155" crc="81d98902" md5="e3c40fd0b610fad5fb1c85a266783b29" sha1="1f6b1d219ed5ea31cb58b65d9f3d594f40b61b32"/>
+		<rom name="Navy SEALs (1991)(Ocean).pok" size="190" crc="dfb88a98" md5="c59428b69ea0bfafbd6253e986ed5f64" sha1="2964042c112371965430b73719d59d65a236a3bd"/>
 	</game>
 	<game name="Nebulus (1987)(Hewson Consultants)">
 		<description>Nebulus (1987)(Hewson Consultants)</description>
@@ -8320,7 +8480,7 @@
 	</game>
 	<game name="Netherworld (1988)(Hewson Consultants)">
 		<description>Netherworld (1988)(Hewson Consultants)</description>
-		<rom name="Netherworld (1988)(Hewson Consultants).pok" size="582" crc="b489f642" md5="4bfd026107e3a2270cc817f365698cd3" sha1="e925407d6badc86b1b8f5d1b8dd41d81511e02c8"/>
+		<rom name="Netherworld (1988)(Hewson Consultants).pok" size="739" crc="2f22195f" md5="593e2bbc8d187ba25bb7c7da6c9848f9" sha1="3ddd3c6f3c3d6040a03d8e706bc270942d6511df"/>
 	</game>
 	<game name="Neverending Story II, The (1990)(Linel)">
 		<description>Neverending Story II, The (1990)(Linel)</description>
@@ -8332,7 +8492,7 @@
 	</game>
 	<game name="New Dizzy (1993)(Kutin, V. - Paltusov, D.)">
 		<description>New Dizzy (1993)(Kutin, V. - Paltusov, D.)</description>
-		<rom name="New Dizzy (1993)(Kutin, V. - Paltusov, D.).pok" size="292" crc="c06043be" md5="0e91e375909bb4b4aafb3940c3e43080" sha1="449cd96885215f8a2d014975a6dffb98897fb744"/>
+		<rom name="New Dizzy (1993)(Kutin, V. - Paltusov, D.).pok" size="327" crc="43e88e83" md5="052b557b7f0bb4435c40d4f47382c68a" sha1="43a6b4e085b34232b4c32f7773b367fed988e30d"/>
 	</game>
 	<game name="New York Warriors (1990)(Virgin Games)">
 		<description>New York Warriors (1990)(Virgin Games)</description>
@@ -8410,9 +8570,9 @@
 		<description>Ninja Gaiden Shadow Warriors (2018)(DaRkHoRaCe - Diver - Jerri)</description>
 		<rom name="Ninja Gaiden Shadow Warriors (2018)(DaRkHoRaCe - Diver - Jerri).pok" size="77" crc="0e8e284f" md5="1c9cde98e4da5dad8296d8b006b48a5f" sha1="899007b521cdd6713f54471fe8df39502a7af59a"/>
 	</game>
-	<game name="Ninja Grannies (19xx)(Bradley, David - Hickingbottom, Dean)">
-		<description>Ninja Grannies (19xx)(Bradley, David - Hickingbottom, Dean)</description>
-		<rom name="Ninja Grannies (19xx)(Bradley, David - Hickingbottom, Dean).pok" size="70" crc="a0e70d4d" md5="5cef9bb6336053f9be8dccac150af84a" sha1="dd5d157dae6b5ae161abe7ecd3c2a0f683a5a0f1"/>
+	<game name="Ninja Grannies (19xx)(Clockwize)">
+		<description>Ninja Grannies (19xx)(Clockwize)</description>
+		<rom name="Ninja Grannies (19xx)(Clockwize).pok" size="70" crc="a0e70d4d" md5="5cef9bb6336053f9be8dccac150af84a" sha1="dd5d157dae6b5ae161abe7ecd3c2a0f683a5a0f1"/>
 	</game>
 	<game name="Ninja Hamster (1987)(CRL Group)">
 		<description>Ninja Hamster (1987)(CRL Group)</description>
@@ -8420,7 +8580,7 @@
 	</game>
 	<game name="Ninja Massacre (1989)(Code Masters)">
 		<description>Ninja Massacre (1989)(Code Masters)</description>
-		<rom name="Ninja Massacre (1989)(Code Masters).pok" size="109" crc="130ee8d3" md5="324d4122ad57d156ed5d71b634012477" sha1="8c3dc9e46a8b3cdf8d93e5c5ce7d79164f98cace"/>
+		<rom name="Ninja Massacre (1989)(Code Masters).pok" size="161" crc="790d4335" md5="a68b5de3bf965e8ae36a2283f6ff2b8a" sha1="10d99323517819c70839ed0c2dcc6b2256542201"/>
 	</game>
 	<game name="Ninja Scooter Simulator (1988)(Silverbird)">
 		<description>Ninja Scooter Simulator (1988)(Silverbird)</description>
@@ -8446,9 +8606,17 @@
 		<description>Ninjakul 2 - The Last Ninja (2019)(Pat Morita Team)</description>
 		<rom name="Ninjakul 2 - The Last Ninja (2019)(Pat Morita Team).pok" size="156" crc="ace7592b" md5="b014ee7bb04f3cbe66c60d2e5750c037" sha1="d85c15bcd0f2475c99ac63020a21d8a00da28913"/>
 	</game>
+	<game name="Ninjakul in the AUIC Temple (2018)(Greenwebsevilla)">
+		<description>Ninjakul in the AUIC Temple (2018)(Greenwebsevilla)</description>
+		<rom name="Ninjakul in the AUIC Temple (2018)(Greenwebsevilla).pok" size="85" crc="2de2434a" md5="49ba104db138b6adb098065638b691b3" sha1="91f8ed71339a9b6d025a7c8ac1c5eb4feaea0ec4"/>
+	</game>
 	<game name="Nipik 2 (2008)(Triumph Game Labs)">
 		<description>Nipik 2 (2008)(Triumph Game Labs)</description>
 		<rom name="Nipik 2 (2008)(Triumph Game Labs).pok" size="117" crc="c82af75d" md5="134b2ebd6c146988cbad681011caabba" sha1="4474ebcfc963e74222eb5d207950af78f9a5c0c3"/>
+	</game>
+	<game name="Nixy and the Seeds of Doom (2019)(Bubblesoft)">
+		<description>Nixy and the Seeds of Doom (2019)(Bubblesoft)</description>
+		<rom name="Nixy and the Seeds of Doom (2019)(Bubblesoft).pok" size="189" crc="5e27b228" md5="78ac18a6bd3715ce63f31921788e3dde" sha1="784ca5b361d95d530d16ac00ddabd62606c5d256"/>
 	</game>
 	<game name="Nixy the Glade Sprite (2018)(Bubblesoft - Monument Microgames)">
 		<description>Nixy the Glade Sprite (2018)(Bubblesoft - Monument Microgames)</description>
@@ -8468,7 +8636,7 @@
 	</game>
 	<game name="Nohzdyve (2018)(Tuckersoft)">
 		<description>Nohzdyve (2018)(Tuckersoft)</description>
-		<rom name="Nohzdyve (2018)(Tuckersoft).pok" size="93" crc="101ff011" md5="bd0b6b09111cde2c5cef44a1232ee430" sha1="cd3e4facbcb3210109bbb20d3c61a6282879adb7"/>
+		<rom name="Nohzdyve (2018)(Tuckersoft).pok" size="206" crc="408b4999" md5="a295167e71b8aa1e134e0aee3e70e327" sha1="d89e6fa773cb65dbed8b05ca8fc604d2e1ba1eba"/>
 	</game>
 	<game name="Non Compos Mentis (1991)(Your Sinclair)">
 		<description>Non Compos Mentis (1991)(Your Sinclair)</description>
@@ -8522,6 +8690,10 @@
 		<description>Nudgeit (1985)(Automata UK)</description>
 		<rom name="Nudgeit (1985)(Automata UK).pok" size="49" crc="7e053a36" md5="a5060379ac36e22453a991463035dda2" sha1="09f390f95a1e718516d03dd2548e1a3ff3c8c6f6"/>
 	</game>
+	<game name="O-EYES (2018)(oblo)">
+		<description>O-EYES (2018)(oblo)</description>
+		<rom name="O-EYES (2018)(oblo).pok" size="132" crc="26c7842c" md5="2b0bce2746188f5a55302aac444c102e" sha1="e6a130716be5158294a4f5e3493f0c2b78cd9672"/>
+	</game>
 	<game name="O.B.R. - Rapid Reaction Unit (1994)(Chip &amp; Rokky)">
 		<description>O.B.R. - Rapid Reaction Unit (1994)(Chip &amp; Rokky)</description>
 		<rom name="O.B.R. - Rapid Reaction Unit (1994)(Chip &amp; Rokky).pok" size="189" crc="e635b880" md5="6f23e82732d6ed934b54f2747cba91d9" sha1="6b579971bf101cd41e082b3c086bd2da3e56597d"/>
@@ -8546,9 +8718,9 @@
 		<description>Octagon Squad (1986)(Mastertronic)</description>
 		<rom name="Octagon Squad (1986)(Mastertronic).pok" size="33" crc="5b2b26df" md5="b4ffbcfd9762deb4858217a4c5951bb8" sha1="93fafbb690803f13544d44ffe8439a2dbd014625"/>
 	</game>
-	<game name="Octan (1987)(Silverbird)">
-		<description>Octan (1987)(Silverbird)</description>
-		<rom name="Octan (1987)(Silverbird).pok" size="75" crc="408c9c18" md5="9b6571e63aec878b8ea7255e1edd4d5c" sha1="51beee977b824f248d48acf15312ce30b4be2180"/>
+	<game name="Octan (1988)(Silverbird)">
+		<description>Octan (1988)(Silverbird)</description>
+		<rom name="Octan (1988)(Silverbird).pok" size="75" crc="408c9c18" md5="9b6571e63aec878b8ea7255e1edd4d5c" sha1="51beee977b824f248d48acf15312ce30b4be2180"/>
 	</game>
 	<game name="Octipede (1985)(16-48 Tape Magazine)">
 		<description>Octipede (1985)(16-48 Tape Magazine)</description>
@@ -8588,7 +8760,7 @@
 	</game>
 	<game name="Old Tower (2018)(RetroSouls)">
 		<description>Old Tower (2018)(RetroSouls)</description>
-		<rom name="Old Tower (2018)(RetroSouls).pok" size="61" crc="56c0ac4f" md5="4fcc9765b36158201577b4fa2e58718d" sha1="b85e315e54c3c9e724cf1d10cebddef2b7c01181"/>
+		<rom name="Old Tower (2018)(RetroSouls).pok" size="213" crc="40f3841e" md5="8c7eeed86303a8934fae42ba14a72093" sha1="eefad2643573111f5b809661ab8572dc0900709f"/>
 	</game>
 	<game name="Olli &amp; Lissa 3 (1989)(Cartoon Time)">
 		<description>Olli &amp; Lissa 3 (1989)(Cartoon Time)</description>
@@ -8693,6 +8865,10 @@
 	<game name="Order of Mazes, The (2015)(Dalby, Tom - McGrorty, Kevin)">
 		<description>Order of Mazes, The (2015)(Dalby, Tom - McGrorty, Kevin)</description>
 		<rom name="Order of Mazes, The (2015)(Dalby, Tom - McGrorty, Kevin).pok" size="88" crc="cdb1cf76" md5="7c543846df5e7908e8c5e990a1c9317c" sha1="3b1adc41dbc316d6ff09438dd0241d4b2ad90229"/>
+	</game>
+	<game name="Order of Sleeping Dragon, The (2019)(Zapolnov, Nikolay - Zapolnova, Evgeniya)">
+		<description>Order of Sleeping Dragon, The (2019)(Zapolnov, Nikolay - Zapolnova, Evgeniya)</description>
+		<rom name="Order of Sleeping Dragon, The (2019)(Zapolnov, Nikolay - Zapolnova, Evgeniya).pok" size="63" crc="d6ad678e" md5="f753ab9df9c6482fb385aa3444f86398" sha1="efaddd1c95492b95ae4a41a50abbcfdd1a06f567"/>
 	</game>
 	<game name="Oriental Games (1990)(Micro Style)">
 		<description>Oriental Games (1990)(Micro Style)</description>
@@ -8802,6 +8978,10 @@
 		<description>Page's Castle Quest (2014)(T.D.F. micro-visions)</description>
 		<rom name="Page's Castle Quest (2014)(T.D.F. micro-visions).pok" size="143" crc="302b5d38" md5="7bf767cf319852344f1cbdcf76215024" sha1="46d5ed1e673a82069b5c6fc89502394e9a2f5037"/>
 	</game>
+	<game name="Paintball 2048 (2019)(PCNONOGames)">
+		<description>Paintball 2048 (2019)(PCNONOGames)</description>
+		<rom name="Paintball 2048 (2019)(PCNONOGames).pok" size="49" crc="5c81c4eb" md5="fcbcf7806a0973b37339390a2667798b" sha1="1b892691e4b183321c408c4fc197e73b664ee37b"/>
+	</game>
 	<game name="Painter (1983)(A'n'F)">
 		<description>Painter (1983)(A'n'F)</description>
 		<rom name="Painter (1983)(A'n'F).pok" size="61" crc="8e4c7626" md5="c9724d511e36984ce14c323f43f11203" sha1="10dee923950c32c729af86cf097fa5fbd7e39b72"/>
@@ -8900,7 +9080,7 @@
 	</game>
 	<game name="Party Willy (2004)(Broadsoft)">
 		<description>Party Willy (2004)(Broadsoft)</description>
-		<rom name="Party Willy (2004)(Broadsoft).pok" size="7504" crc="43346322" md5="9dabc19a65652e5484edf7b5a91db7d5" sha1="6cc71e3515e764b108b6497a5f0162923ae5d022"/>
+		<rom name="Party Willy (2004)(Broadsoft).pok" size="7561" crc="9e8e49dd" md5="33b382781859f04ed334e587d9e9af2b" sha1="b48f0c552926ca49b5a85142603d7241cb397400"/>
 	</game>
 	<game name="Paso, El (1987)(Ciudadela)">
 		<description>Paso, El (1987)(Ciudadela)</description>
@@ -8950,9 +9130,9 @@
 		<description>Pendragon (1984)(Gadtek Games)</description>
 		<rom name="Pendragon (1984)(Gadtek Games).pok" size="112" crc="d5b1dd58" md5="0c64835d4dc92307a60c4e4102bf9473" sha1="d8ca3e6aa061855bebef08f8512ff03f78fa54c6"/>
 	</game>
-	<game name="Penetrator (1983)(Melbourne House)">
-		<description>Penetrator (1983)(Melbourne House)</description>
-		<rom name="Penetrator (1983)(Melbourne House).pok" size="129" crc="d73cd32d" md5="0b93e8eedfce1c8f0d83d7e0824cc97b" sha1="f20d2d7234de59a1984319f0cb9041803bac68c0"/>
+	<game name="Penetrator (1982)(Melbourne House)">
+		<description>Penetrator (1982)(Melbourne House)</description>
+		<rom name="Penetrator (1982)(Melbourne House).pok" size="129" crc="d73cd32d" md5="0b93e8eedfce1c8f0d83d7e0824cc97b" sha1="f20d2d7234de59a1984319f0cb9041803bac68c0"/>
 	</game>
 	<game name="Pengy (1983)(Micromania)">
 		<description>Pengy (1983)(Micromania)</description>
@@ -8990,6 +9170,10 @@
 		<description>Perico Jones (1987)(MicroHobby)</description>
 		<rom name="Perico Jones (1987)(MicroHobby).pok" size="36" crc="a7084961" md5="e2545616d194f4fa6d2cf37aba65e06e" sha1="88fb6e383f7ea397eaa5bee6486b7a2481df2b5f"/>
 	</game>
+	<game name="Perils of Willy, The (2020)(Turvey, Allan)">
+		<description>Perils of Willy, The (2020)(Turvey, Allan)</description>
+		<rom name="Perils of Willy, The (2020)(Turvey, Allan).pok" size="128" crc="9dd8ebe1" md5="cae936482d3c5ba3f50a76f58d5e1272" sha1="b7285993750bfc655274cc3a238b43113f5772ad"/>
+	</game>
 	<game name="Periscope Up (1989)(Atlantis)">
 		<description>Periscope Up (1989)(Atlantis)</description>
 		<rom name="Periscope Up (1989)(Atlantis).pok" size="126" crc="ecc7a228" md5="b6ff4cc7db49a850674357f91c57fa9c" sha1="ce1442bbed7af26aa14404d3ad6d7405a1d64050"/>
@@ -9012,7 +9196,7 @@
 	</game>
 	<game name="Phantis (1987)(Dinamic)">
 		<description>Phantis (1987)(Dinamic)</description>
-		<rom name="Phantis (1987)(Dinamic).pok" size="392" crc="2f5dbccc" md5="c63c8d0cdf0887f8cb19efc62d60a711" sha1="c8a423dcea66c8799d9853bb01c7a647a9d27647"/>
+		<rom name="Phantis (1987)(Dinamic).pok" size="427" crc="b640994a" md5="f70b61b08f542ab2118a9db2a2458f84" sha1="2293fd6893bc574b7c18aaac0f2d149628876753"/>
 	</game>
 	<game name="Phantom Club (1988)(Ocean)">
 		<description>Phantom Club (1988)(Ocean)</description>
@@ -9120,7 +9304,7 @@
 	</game>
 	<game name="Pietro Bros (2016)(Gonzalez, Cristian M.)">
 		<description>Pietro Bros (2016)(Gonzalez, Cristian M.)</description>
-		<rom name="Pietro Bros (2016)(Gonzalez, Cristian M.).pok" size="89" crc="9f01bdab" md5="7aeea6eb433225d4abafda27a1944f94" sha1="695c28effdc1be94d3377eba41e08508fa2c0956"/>
+		<rom name="Pietro Bros (2016)(Gonzalez, Cristian M.).pok" size="204" crc="eaf33176" md5="f4c9398baa71c518a1816d3730f5cc6c" sha1="de6267329115d7383063fb8ffaa57251105b366a"/>
 	</game>
 	<game name="Piggy (1985)(Spectrum Computing)">
 		<description>Piggy (1985)(Spectrum Computing)</description>
@@ -9158,13 +9342,17 @@
 		<description>Pink Panther (1988)(Gremlin Graphics)</description>
 		<rom name="Pink Panther (1988)(Gremlin Graphics).pok" size="197" crc="c50a41b9" md5="7b4721008dbfab6846629ed5164801f7" sha1="74ffd37f7e143e387a99d227f8ec56ce54d05844"/>
 	</game>
+	<game name="Pink Pills - Manic Moritz and the Meds (2017)(Andy Green - Braunert, Sebastian - Geiken, Uwe)">
+		<description>Pink Pills - Manic Moritz and the Meds (2017)(Andy Green - Braunert, Sebastian - Geiken, Uwe)</description>
+		<rom name="Pink Pills - Manic Moritz and the Meds (2017)(Andy Green - Braunert, Sebastian - Geiken, Uwe).pok" size="228" crc="ddcd5a7b" md5="37ce9fde7e0aa4bd573329d6d3fb624c" sha1="7e737a7030d4604ea89e9e3fc5715c4c3302c92a"/>
+	</game>
 	<game name="Pioneer (1984)(Atlantis)">
 		<description>Pioneer (1984)(Atlantis)</description>
 		<rom name="Pioneer (1984)(Atlantis).pok" size="98" crc="16e608b1" md5="9c0de04a4ee6d2c964874c243caf63fc" sha1="df8295e6d65e2ddab945490fe246a8c90060f98b"/>
 	</game>
 	<game name="Pip the Pipistrelle (2012)(Purple Unicorn)">
 		<description>Pip the Pipistrelle (2012)(Purple Unicorn)</description>
-		<rom name="Pip the Pipistrelle (2012)(Purple Unicorn).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Pip the Pipistrelle (2012)(Purple Unicorn).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Pipe Mania (1990)(Empire)">
 		<description>Pipe Mania (1990)(Empire)</description>
@@ -9258,9 +9446,9 @@
 		<description>Plotting (1990)(Ocean)</description>
 		<rom name="Plotting (1990)(Ocean).pok" size="154" crc="5a800a0d" md5="a47936ac87a6123b83b3b7b16580b7eb" sha1="2d183f99ce8aaa45e3c2cca6149f0b768a8a1754"/>
 	</game>
-	<game name="Pluggit (1984)(Blaby Computer Games)">
-		<description>Pluggit (1984)(Blaby Computer Games)</description>
-		<rom name="Pluggit (1984)(Blaby Computer Games).pok" size="139" crc="e758430f" md5="618a4a98e4d96ba9afaa4137a866c815" sha1="0f7585d2c25b82faed165c03e99621f1cd97d06c"/>
+	<game name="Pluggit (1983)(Blaby Computer Games)">
+		<description>Pluggit (1983)(Blaby Computer Games)</description>
+		<rom name="Pluggit (1983)(Blaby Computer Games).pok" size="139" crc="e758430f" md5="618a4a98e4d96ba9afaa4137a866c815" sha1="0f7585d2c25b82faed165c03e99621f1cd97d06c"/>
 	</game>
 	<game name="Plum Duff (1985)(Bug-Byte)">
 		<description>Plum Duff (1985)(Bug-Byte)</description>
@@ -9282,9 +9470,9 @@
 		<description>Poder Oscuro, El (1988)(Zigurat)</description>
 		<rom name="Poder Oscuro, El (1988)(Zigurat).pok" size="95" crc="097e8950" md5="330f16c46fb72f61db8aaf812d7b3878" sha1="2a357592f8f770f8cc866e83124083ab7e4f9fe7"/>
 	</game>
-	<game name="Pogo (1983)(Ocean)">
-		<description>Pogo (1983)(Ocean)</description>
-		<rom name="Pogo (1983)(Ocean).pok" size="35" crc="f8d731c7" md5="6b0a0afaa14ce95cb3093e8e77f51ecb" sha1="eb91524cea598171a3a75c14a0a1e04daf6806d2"/>
+	<game name="Pogo (1984)(Ocean)">
+		<description>Pogo (1984)(Ocean)</description>
+		<rom name="Pogo (1984)(Ocean).pok" size="35" crc="f8d731c7" md5="6b0a0afaa14ce95cb3093e8e77f51ecb" sha1="eb91524cea598171a3a75c14a0a1e04daf6806d2"/>
 	</game>
 	<game name="Pogotron (1989)(Gamebusters)">
 		<description>Pogotron (1989)(Gamebusters)</description>
@@ -9526,9 +9714,9 @@
 		<description>Pulse Warrior (1988)(Mastertronic)</description>
 		<rom name="Pulse Warrior (1988)(Mastertronic).pok" size="33" crc="b3c28719" md5="b2d4539d091d68d85ce920ecaf6d26bb" sha1="b37e4a8c3b3976cfd08011816b2fe554dfc22ec5"/>
 	</game>
-	<game name="Pulsoids (1988)(Mastertronic)">
-		<description>Pulsoids (1988)(Mastertronic)</description>
-		<rom name="Pulsoids (1988)(Mastertronic).pok" size="33" crc="3cf4d4ab" md5="c530011acd3ea00dd57b91d3ae083ab4" sha1="21a91d74fff9fabcac70107397c1a63908a25041"/>
+	<game name="Pulsoids (1989)(Mastertronic)">
+		<description>Pulsoids (1989)(Mastertronic)</description>
+		<rom name="Pulsoids (1989)(Mastertronic).pok" size="33" crc="3cf4d4ab" md5="c530011acd3ea00dd57b91d3ae083ab4" sha1="21a91d74fff9fabcac70107397c1a63908a25041"/>
 	</game>
 	<game name="Pumpkin Poe (2017)(Endaraues, Ariel - Klopov, Yurij - Kyv)">
 		<description>Pumpkin Poe (2017)(Endaraues, Ariel - Klopov, Yurij - Kyv)</description>
@@ -9556,7 +9744,7 @@
 	</game>
 	<game name="Pyjamarama (1984)(Mikro-Gen)">
 		<description>Pyjamarama (1984)(Mikro-Gen)</description>
-		<rom name="Pyjamarama (1984)(Mikro-Gen).pok" size="962" crc="e34a7cd0" md5="0d9ed73904206bde7ddb31362ced7e14" sha1="e5d145a03ef06fb3043097b82ed74651de0a65b0"/>
+		<rom name="Pyjamarama (1984)(Mikro-Gen).pok" size="1272" crc="6f71b874" md5="68b9b5f68601f9acea74868090e06d51" sha1="f12ade385b96852227690a9f9681c2cdd39a43de"/>
 	</game>
 	<game name="Pyracurse (1986)(Hewson Consultants)">
 		<description>Pyracurse (1986)(Hewson Consultants)</description>
@@ -9568,7 +9756,7 @@
 	</game>
 	<game name="Pyramid, The (1983)(Fantasy)">
 		<description>Pyramid, The (1983)(Fantasy)</description>
-		<rom name="Pyramid, The (1983)(Fantasy).pok" size="35" crc="02b0a367" md5="aff14d10edb0377d7081e8d95161df45" sha1="067c3b45f436ac4e07140f398c59fd312b4e700e"/>
+		<rom name="Pyramid, The (1983)(Fantasy).pok" size="677" crc="e9b3164b" md5="32fe8d41c17047ee864fbf7fbcb31aa3" sha1="9652bbb7bbecbec20c0c5ae1b0fae1f34acb42e5"/>
 	</game>
 	<game name="Pyromania II - Chopper Rescue (2014)(Amore, Gabriele - Parsons, Neil)">
 		<description>Pyromania II - Chopper Rescue (2014)(Amore, Gabriele - Parsons, Neil)</description>
@@ -9606,9 +9794,9 @@
 		<description>Quadrax (1994)(Sintech - Ultrasoft)</description>
 		<rom name="Quadrax (1994)(Sintech - Ultrasoft).pok" size="91" crc="92c158d1" md5="744ebcb86260c2c38604fafe240158f5" sha1="3cfd37676e51ca5fc7cfdf96fd3cc85102dfbf44"/>
 	</game>
-	<game name="Quahappy (2018)(Green, Andy - Grilo, Jaime)">
-		<description>Quahappy (2018)(Green, Andy - Grilo, Jaime)</description>
-		<rom name="Quahappy (2018)(Green, Andy - Grilo, Jaime).pok" size="240" crc="d836a7cb" md5="d6014b34c70583210bf64b97753e6ebe" sha1="4fd3587bfcb610b0ba467c0cfaa29c8f34a4c149"/>
+	<game name="Quahappy (2018)(Andy Green - Grilo, Jaime)">
+		<description>Quahappy (2018)(Andy Green - Grilo, Jaime)</description>
+		<rom name="Quahappy (2018)(Andy Green - Grilo, Jaime).pok" size="507" crc="4a9107ae" md5="05b1ed26ec52118f9db9be0da31398fe" sha1="db3facf24ed1a8c83541fc9861da7e87ee0b4ce6"/>
 	</game>
 	<game name="Quartet (1987)(Activision)">
 		<description>Quartet (1987)(Activision)</description>
@@ -9738,9 +9926,9 @@
 		<description>Ramon Rodriguez (1986)(Erbe)</description>
 		<rom name="Ramon Rodriguez (1986)(Erbe).pok" size="289" crc="254fcfe6" md5="2d359bd684756ba8d2ba93c8194767ab" sha1="a696a3e6d25e73c1234167a1cf26d9db4b3a73e9"/>
 	</game>
-	<game name="Rampage (1988)(Activision)">
-		<description>Rampage (1988)(Activision)</description>
-		<rom name="Rampage (1988)(Activision).pok" size="83" crc="68cdaf15" md5="46428f53f447ce5e70e8876f4a978780" sha1="73f4997e895dc62120f510536ff30e6f127e87b6"/>
+	<game name="Rampage (1987)(Activision)">
+		<description>Rampage (1987)(Activision)</description>
+		<rom name="Rampage (1987)(Activision).pok" size="83" crc="68cdaf15" md5="46428f53f447ce5e70e8876f4a978780" sha1="73f4997e895dc62120f510536ff30e6f127e87b6"/>
 	</game>
 	<game name="Ramparts (1988)(Go!)">
 		<description>Ramparts (1988)(Go!)</description>
@@ -9802,9 +9990,9 @@
 		<description>Real Stunt Experts, The (1989)(Alternative)</description>
 		<rom name="Real Stunt Experts, The (1989)(Alternative).pok" size="33" crc="d8f3ef91" md5="0c4a993b49c672faa953de3d8881fa89" sha1="a22f1b917d644ef211097349173e1eb68c03a63a"/>
 	</game>
-	<game name="Realm of Impossibility (1985)(Ariolasoft UK)">
-		<description>Realm of Impossibility (1985)(Ariolasoft UK)</description>
-		<rom name="Realm of Impossibility (1985)(Ariolasoft UK).pok" size="61" crc="744f7a73" md5="3f464a5056a2fef6ad617bb943d994a8" sha1="413916b0a0d9eaafe02ff0b533973ce6bdb6d9e5"/>
+	<game name="Realm of Impossibility (1986)(Ariolasoft UK)">
+		<description>Realm of Impossibility (1986)(Ariolasoft UK)</description>
+		<rom name="Realm of Impossibility (1986)(Ariolasoft UK).pok" size="61" crc="744f7a73" md5="3f464a5056a2fef6ad617bb943d994a8" sha1="413916b0a0d9eaafe02ff0b533973ce6bdb6d9e5"/>
 	</game>
 	<game name="Realm of the Undead (1984)(Express Programmes Company)">
 		<description>Realm of the Undead (1984)(Express Programmes Company)</description>
@@ -9868,7 +10056,7 @@
 	</game>
 	<game name="Redshift (2019)(World XXI Soft)">
 		<description>Redshift (2019)(World XXI Soft)</description>
-		<rom name="Redshift (2019)(World XXI Soft).pok" size="92" crc="9b7e484d" md5="79b17daf58626198e524b49e9ae27fc6" sha1="c156583c3c1323330da1480f7d6fc41762c106e9"/>
+		<rom name="Redshift (2019)(World XXI Soft).pok" size="166" crc="6c212dbb" md5="7fd7950502345f4a4c8f8193de1796a7" sha1="5717f35f06afbb3fce0c5da303e71db4e36721ea"/>
 	</game>
 	<game name="Reflex (19xx)(-)">
 		<description>Reflex (19xx)(-)</description>
@@ -10066,6 +10254,10 @@
 		<description>Road Toad (1983)(Elfin)</description>
 		<rom name="Road Toad (1983)(Elfin).pok" size="136" crc="120030e1" md5="a4b100208499b5cdaf81874d2f3666cf" sha1="525b6b5492417fb888b84a4f22fbd2e8b05ceaa1"/>
 	</game>
+	<game name="Road Trippin' (2020)(Joesoft)">
+		<description>Road Trippin' (2020)(Joesoft)</description>
+		<rom name="Road Trippin' (2020)(Joesoft).pok" size="191" crc="c9cdd97c" md5="36d77b58210036e991261da5adf81c98" sha1="6fcb2d7471683f3f7faa3eeed5f55f49880bea4f"/>
+	</game>
 	<game name="Roadrunner (1983)(Protek Computing)">
 		<description>Roadrunner (1983)(Protek Computing)</description>
 		<rom name="Roadrunner (1983)(Protek Computing).pok" size="33" crc="8f221a6d" md5="6ad8b2103675308347fb6b8d9562bc9f" sha1="811e79237c11808d728e0036dc6486f00ebb4151"/>
@@ -10174,6 +10366,10 @@
 		<description>Rock 'n Wrestle (1985)(Melbourne House)</description>
 		<rom name="Rock 'n Wrestle (1985)(Melbourne House).pok" size="445" crc="59268067" md5="d86acfa7f4470a68eb2510e89cbf7ede" sha1="851a05e0a4bfae5829d23b4f47b2597d4c862174"/>
 	</game>
+	<game name="Rock 'n' Roll (1986)(Your Sinclair)">
+		<description>Rock 'n' Roll (1986)(Your Sinclair)</description>
+		<rom name="Rock 'n' Roll (1986)(Your Sinclair).pok" size="32" crc="26e882ba" md5="e1ff26129bc4ebec1e38d0c8bd0cb7a3" sha1="ef47760b63b3176566eff348522fc77fde9c1d30"/>
+	</game>
 	<game name="Rock Star Ate My Hamster (1989)(Code Masters Gold)">
 		<description>Rock Star Ate My Hamster (1989)(Code Masters Gold)</description>
 		<rom name="Rock Star Ate My Hamster (1989)(Code Masters Gold).pok" size="33" crc="0820920e" md5="48ead6b7a117b7fc7b887eed3476fcdb" sha1="e735fbaaa1585ee66c3e5dfd5d5c529f34de2166"/>
@@ -10221,6 +10417,10 @@
 	<game name="Rod-Land (1991)(Storm)">
 		<description>Rod-Land (1991)(Storm)</description>
 		<rom name="Rod-Land (1991)(Storm).pok" size="247" crc="129e33c7" md5="d5d92f8c84ba0168dc32319d83cdc834" sha1="b78a199c8667c2d32bd66631ee5f93a203d2eac1"/>
+	</game>
+	<game name="Rodman (2018)(Future Was 8 Bit, The)">
+		<description>Rodman (2018)(Future Was 8 Bit, The)</description>
+		<rom name="Rodman (2018)(Future Was 8 Bit, The).pok" size="33" crc="23155911" md5="92c5ae64546b9289265bbb12e9bf8094" sha1="f7ffcf5ff8df4c46556fe223cff6937d476e262e"/>
 	</game>
 	<game name="Rogue (1988)(Mastertronic)">
 		<description>Rogue (1988)(Mastertronic)</description>
@@ -10358,9 +10558,9 @@
 		<description>SOS (1984)(Visions Software Factory)</description>
 		<rom name="SOS (1984)(Visions Software Factory).pok" size="33" crc="c24f6e70" md5="da28fda27c6ff37c3090e8dbe2e03b4b" sha1="88d1b5585ebcc05dbda5266199849c132d09417b"/>
 	</game>
-	<game name="SOS - Special Pre-School Edition (2002)(Elliott, John)">
-		<description>SOS - Special Pre-School Edition (2002)(Elliott, John)</description>
-		<rom name="SOS - Special Pre-School Edition (2002)(Elliott, John).pok" size="212" crc="4bc85cb6" md5="fb6dc06144b31aadbfd27302353dc12a" sha1="ea9862261effd59a85105cdf674c91d1e326effc"/>
+	<game name="SOS - Special Pre-School Edition (2002)(Paul Equinox Collins)">
+		<description>SOS - Special Pre-School Edition (2002)(Paul Equinox Collins)</description>
+		<rom name="SOS - Special Pre-School Edition (2002)(Paul Equinox Collins).pok" size="212" crc="4bc85cb6" md5="fb6dc06144b31aadbfd27302353dc12a" sha1="ea9862261effd59a85105cdf674c91d1e326effc"/>
 	</game>
 	<game name="SQIJ 2018 (2018)(Psytronik)">
 		<description>SQIJ 2018 (2018)(Psytronik)</description>
@@ -10822,9 +11022,9 @@
 		<description>Sir Lancelot (1984)(Melbourne House)</description>
 		<rom name="Sir Lancelot (1984)(Melbourne House).pok" size="259" crc="f77a3ac9" md5="055379c8c22ea51bce751c8785fc2b06" sha1="09df793f6d31c88d3dad876120d2989c32fd71f4"/>
 	</game>
-	<game name="Sir Loin (1987)(Silverbird)">
-		<description>Sir Loin (1987)(Silverbird)</description>
-		<rom name="Sir Loin (1987)(Silverbird).pok" size="32" crc="1f6ae976" md5="25f8100ad1bb60e49549c03fe5c9f4a2" sha1="11321947ad3c9b1cad7eeb0d0e1eb7d31450276e"/>
+	<game name="Sir Loin (1988)(Silverbird)">
+		<description>Sir Loin (1988)(Silverbird)</description>
+		<rom name="Sir Loin (1988)(Silverbird).pok" size="32" crc="1f6ae976" md5="25f8100ad1bb60e49549c03fe5c9f4a2" sha1="11321947ad3c9b1cad7eeb0d0e1eb7d31450276e"/>
 	</game>
 	<game name="Sir Vamperi (2013)(Diaz, Carlos David)">
 		<description>Sir Vamperi (2013)(Diaz, Carlos David)</description>
@@ -10860,11 +11060,11 @@
 	</game>
 	<game name="Skint Willy (2002)(BaSe1 PrOdUcTiOnZ)">
 		<description>Skint Willy (2002)(BaSe1 PrOdUcTiOnZ)</description>
-		<rom name="Skint Willy (2002)(BaSe1 PrOdUcTiOnZ).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Skint Willy (2002)(BaSe1 PrOdUcTiOnZ).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Skool Daze (1984)(Microsphere)">
 		<description>Skool Daze (1984)(Microsphere)</description>
-		<rom name="Skool Daze (1984)(Microsphere).pok" size="1625" crc="d8354299" md5="480c25c3075ddea1155639fe78a27517" sha1="286faac50eaf4676466364bd5d9f8da77b796413"/>
+		<rom name="Skool Daze (1984)(Microsphere).pok" size="1678" crc="e25acf36" md5="b3a2f547aad23dc0b699d6d20b7ca899" sha1="9a23e03bac52a79bb5f0b4030e29bbb7ff925b96"/>
 	</game>
 	<game name="Skull (1984)(Games Machine)">
 		<description>Skull (1984)(Games Machine)</description>
@@ -10890,17 +11090,17 @@
 		<description>Sky Runner (1987)(Cascade Games)</description>
 		<rom name="Sky Runner (1987)(Cascade Games).pok" size="45" crc="a2dd7790" md5="7ddf96303c7a497031dddc6a4d4501de" sha1="6218f5e578fb4b0e371371641e22da91c8f0491d"/>
 	</game>
-	<game name="Skyfox (1985)(Ariolasoft UK)">
-		<description>Skyfox (1985)(Ariolasoft UK)</description>
-		<rom name="Skyfox (1985)(Ariolasoft UK).pok" size="262" crc="eada526e" md5="887f801a361ea4a051bb5f7287f92994" sha1="0a59ddd7c6d6474d681fedd5985d752f8e2090e6"/>
+	<game name="Skyfox (1986)(Ariolasoft UK)">
+		<description>Skyfox (1986)(Ariolasoft UK)</description>
+		<rom name="Skyfox (1986)(Ariolasoft UK).pok" size="262" crc="eada526e" md5="887f801a361ea4a051bb5f7287f92994" sha1="0a59ddd7c6d6474d681fedd5985d752f8e2090e6"/>
 	</game>
 	<game name="Skyscraper of Doom (2009)(Miazga, Rafal)">
 		<description>Skyscraper of Doom (2009)(Miazga, Rafal)</description>
 		<rom name="Skyscraper of Doom (2009)(Miazga, Rafal).pok" size="76" crc="4b658bb9" md5="9b3442f0de4222921b8fbc52d1987aae" sha1="37fe6af4a47cb92994c24811cdc4931e5b11b0d8"/>
 	</game>
-	<game name="Skyway (1987)(Smith, Chris D.)">
-		<description>Skyway (1987)(Smith, Chris D.)</description>
-		<rom name="Skyway (1987)(Smith, Chris D.).pok" size="71" crc="e298b399" md5="2d517a7bd8453675dc6694720c5156ac" sha1="d473e08541f41c99b1bb416c4e795dd76e3fc798"/>
+	<game name="Skyway (1987)(Visual Concepts)">
+		<description>Skyway (1987)(Visual Concepts)</description>
+		<rom name="Skyway (1987)(Visual Concepts).pok" size="71" crc="e298b399" md5="2d517a7bd8453675dc6694720c5156ac" sha1="d473e08541f41c99b1bb416c4e795dd76e3fc798"/>
 	</game>
 	<game name="Slaine (1987)(Martech Games)">
 		<description>Slaine (1987)(Martech Games)</description>
@@ -11021,6 +11221,10 @@
 	<game name="Soft &amp; Cuddly (1987)(Power House, The)">
 		<description>Soft &amp; Cuddly (1987)(Power House, The)</description>
 		<rom name="Soft &amp; Cuddly (1987)(Power House, The).pok" size="68" crc="8f307169" md5="2c8619da37cf0fc79e616ceb139e82ba" sha1="c80da45610614ce556e8ef146395ad2c0df73525"/>
+	</game>
+	<game name="Software Star (1985)(Addictive Games)">
+		<description>Software Star (1985)(Addictive Games)</description>
+		<rom name="Software Star (1985)(Addictive Games).pok" size="170" crc="8716a946" md5="2713fa40ea9d68d73970aeb9df706cbf" sha1="c8c89ecb679486dbe522af8c82fb60b919f9efe3"/>
 	</game>
 	<game name="Sokoban (1997)(Zack)">
 		<description>Sokoban (1997)(Zack)</description>
@@ -11170,6 +11374,10 @@
 		<description>Space Missile Command (1984)(Profisoft)</description>
 		<rom name="Space Missile Command (1984)(Profisoft).pok" size="49" crc="ef08d08e" md5="65a8ab231ec9bc4c60d9d3beb08e47b6" sha1="695e260b30b58370c58d0588a9c1b49481fa1ca7"/>
 	</game>
+	<game name="Space Monsters meet THE HARDY (2019)(Mayhem)">
+		<description>Space Monsters meet THE HARDY (2019)(Mayhem)</description>
+		<rom name="Space Monsters meet THE HARDY (2019)(Mayhem).pok" size="92" crc="9f5d0f56" md5="8d8b8d0289f86bd90f801c7e351eed31" sha1="e0f0e53d3abfa672d5df1b24fe77b6dec03477e1"/>
+	</game>
 	<game name="Space Quest (1984)(Your Computer)">
 		<description>Space Quest (1984)(Your Computer)</description>
 		<rom name="Space Quest (1984)(Your Computer).pok" size="93" crc="20dd8a09" md5="797153bb878b16c6031ec9a9dcdc9fd9" sha1="91b8257b6641a9f9e3b2efe11121f47dd5db172b"/>
@@ -11212,7 +11420,7 @@
 	</game>
 	<game name="Spaceman Willy (1985)(Marwick, Leslie)">
 		<description>Spaceman Willy (1985)(Marwick, Leslie)</description>
-		<rom name="Spaceman Willy (1985)(Marwick, Leslie).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Spaceman Willy (1985)(Marwick, Leslie).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Spaghetti Western Simulator (1990)(Zeppelin Games)">
 		<description>Spaghetti Western Simulator (1990)(Zeppelin Games)</description>
@@ -11393,6 +11601,10 @@
 	<game name="Spray Mania (1985)(Your Computer)">
 		<description>Spray Mania (1985)(Your Computer)</description>
 		<rom name="Spray Mania (1985)(Your Computer).pok" size="95" crc="8877f0dd" md5="7019ea02024501d2b7ec2140cbcfdbaf" sha1="6a264f8d3a13c888be48d3555bb5f1159dc86ba1"/>
+	</game>
+	<game name="Springbot (2020)(Farrell, Andy)">
+		<description>Springbot (2020)(Farrell, Andy)</description>
+		<rom name="Springbot (2020)(Farrell, Andy).pok" size="33" crc="4dafbe86" md5="9d88b711762588b13c64c2134a37ea5a" sha1="731f368770304084f58b1172e0f926ec5369e37e"/>
 	</game>
 	<game name="Sprite Spring (1986)(MicroHobby Especial)">
 		<description>Sprite Spring (1986)(MicroHobby Especial)</description>
@@ -11620,11 +11832,11 @@
 	</game>
 	<game name="Stela (2011)(J.B.G.V.)">
 		<description>Stela (2011)(J.B.G.V.)</description>
-		<rom name="Stela (2011)(J.B.G.V.).pok" size="36" crc="1c126b90" md5="17fbdd86c89848e04701faf8ed6bf727" sha1="bfe89dfbdb6ddd2a1c9202ff48ce1e5ecfd5ffe9"/>
+		<rom name="Stela (2011)(J.B.G.V.).pok" size="66" crc="c163a649" md5="990b73884580cf5c7a80ad3a81ad5b69" sha1="25bdf2b25dbb97f15df115ea45407dbde5d0dc5f"/>
 	</game>
 	<game name="Stela II (2016)(Moderna Soft, La)">
 		<description>Stela II (2016)(Moderna Soft, La)</description>
-		<rom name="Stela II (2016)(Moderna Soft, La).pok" size="36" crc="5a32a857" md5="84896cf6becfff76c218c0eb471ee4ff" sha1="56696836f61ceb5e5fc347f5fe11f40e15e88dc8"/>
+		<rom name="Stela II (2016)(Moderna Soft, La).pok" size="67" crc="a2541a27" md5="88dba8787ee94bbd72e9eddf234e5d56" sha1="eba77b36ac59d99d254c3f22b131305770d1312d"/>
 	</game>
 	<game name="Stella d'Argento (1987)(Load 'n' Run)">
 		<description>Stella d'Argento (1987)(Load 'n' Run)</description>
@@ -11632,7 +11844,7 @@
 	</game>
 	<game name="Still Stealin' (2002)(BaSe1 PrOdUcTiOnZ)">
 		<description>Still Stealin' (2002)(BaSe1 PrOdUcTiOnZ)</description>
-		<rom name="Still Stealin' (2002)(BaSe1 PrOdUcTiOnZ).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Still Stealin' (2002)(BaSe1 PrOdUcTiOnZ).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Stomp (1985)(DK'Tronics)">
 		<description>Stomp (1985)(DK'Tronics)</description>
@@ -11660,7 +11872,7 @@
 	</game>
 	<game name="Storm (1986)(Mastertronic)">
 		<description>Storm (1986)(Mastertronic)</description>
-		<rom name="Storm (1986)(Mastertronic).pok" size="94" crc="023c4ec6" md5="0e395a239de04c3e15f447cfc72b9906" sha1="d32b297fbb151243bc1d53ca1d56f213ab4152a1"/>
+		<rom name="Storm (1986)(Mastertronic).pok" size="129" crc="8601987f" md5="8abac72f936edd7cc374a6ead00cd515" sha1="c0f4e718baa6db5f8ca13eea30bbddbba6febbd8"/>
 	</game>
 	<game name="Stormbringer (1987)(Mastertronic Added Dimension)">
 		<description>Stormbringer (1987)(Mastertronic Added Dimension)</description>
@@ -11681,6 +11893,10 @@
 	<game name="Stranded (2005)(Cronosoft)">
 		<description>Stranded (2005)(Cronosoft)</description>
 		<rom name="Stranded (2005)(Cronosoft).pok" size="385" crc="6c68d421" md5="e170e8299fa7c6c553341ced39006050" sha1="165ab7cd4f6b776291be7a4511ce753571ba3285"/>
+	</game>
+	<game name="Stranded 2.5 (2007)(Cronosoft)">
+		<description>Stranded 2.5 (2007)(Cronosoft)</description>
+		<rom name="Stranded 2.5 (2007)(Cronosoft).pok" size="80" crc="9baaf78e" md5="e9e289eb0c203766cd5bb2710599b28d" sha1="7b8b2d7258cbd399f02d1c65868d9acb35a2722a"/>
 	</game>
 	<game name="Strangeloop (1984)(Virgin Games)">
 		<description>Strangeloop (1984)(Virgin Games)</description>
@@ -11718,9 +11934,9 @@
 		<description>Street Hawk (1986)(Ocean)</description>
 		<rom name="Street Hawk (1986)(Ocean).pok" size="124" crc="a0bdecf0" md5="3af3d7d499352e8dd495766c108505dd" sha1="78762f6ea5112bc753d9f85dfec4b194394280cc"/>
 	</game>
-	<game name="Street Hawk - Subscribers Edition (1985)(Ocean)">
-		<description>Street Hawk - Subscribers Edition (1985)(Ocean)</description>
-		<rom name="Street Hawk - Subscribers Edition (1985)(Ocean).pok" size="191" crc="64f336b3" md5="3639144781bc1df34d4bee1ad8760ba8" sha1="9b54f84a849da971ecd1fca50bd06203681f9f69"/>
+	<game name="Street Hawk - Catalogue Edition (1985)(Ocean)">
+		<description>Street Hawk - Catalogue Edition (1985)(Ocean)</description>
+		<rom name="Street Hawk - Catalogue Edition (1985)(Ocean).pok" size="191" crc="64f336b3" md5="3639144781bc1df34d4bee1ad8760ba8" sha1="9b54f84a849da971ecd1fca50bd06203681f9f69"/>
 	</game>
 	<game name="Streets of Doom (2011)(Miazga, Rafal)">
 		<description>Streets of Doom (2011)(Miazga, Rafal)</description>
@@ -11740,7 +11956,7 @@
 	</game>
 	<game name="Strike Force SAS (1987)(Mikro-Gen)">
 		<description>Strike Force SAS (1987)(Mikro-Gen)</description>
-		<rom name="Strike Force SAS (1987)(Mikro-Gen).pok" size="226" crc="001fd1f0" md5="51fb072f5c973a804179085b35835c35" sha1="9c3d2bf5c0381460d3f9d7def9bf7c27bcde0b6f"/>
+		<rom name="Strike Force SAS (1987)(Mikro-Gen).pok" size="282" crc="ac8fad48" md5="3e15b99c09ac322f112442db225b441a" sha1="e3f7111feca666db37c65001b6363431ed506ef2"/>
 	</game>
 	<game name="Striker (1989)(Cult Games)">
 		<description>Striker (1989)(Cult Games)</description>
@@ -11769,6 +11985,10 @@
 	<game name="Strong Box, The (1986)(Load 'n' Run)">
 		<description>Strong Box, The (1986)(Load 'n' Run)</description>
 		<rom name="Strong Box, The (1986)(Load 'n' Run).pok" size="48" crc="17c6ad25" md5="2c3e945f556fbd5a9029ba837ad901a2" sha1="c55c10fd698ecc097a330e0243fa713935470ae9"/>
+	</game>
+	<game name="Stronghold (2007)(Cronosoft)">
+		<description>Stronghold (2007)(Cronosoft)</description>
+		<rom name="Stronghold (2007)(Cronosoft).pok" size="114" crc="e56aa3bb" md5="41b8e6f6352f57d0c76b29b29e7572c0" sha1="7abab08f925b4ffa5679ef4e66440e467f90099b"/>
 	</game>
 	<game name="Strontium Dog - The Killing (1984)(Quicksilva)">
 		<description>Strontium Dog - The Killing (1984)(Quicksilva)</description>
@@ -11954,9 +12174,9 @@
 		<description>Super Wonder Boy (1989)(Activision)</description>
 		<rom name="Super Wonder Boy (1989)(Activision).pok" size="143" crc="abe6865e" md5="6bc4c069c5f7632f68cb9b61b44e8751" sha1="73276861dcc993951d8ab7ef84f603d3ac3ae1d1"/>
 	</game>
-	<game name="SuperTed - The Search for Spot (1990)(Alternative)">
-		<description>SuperTed - The Search for Spot (1990)(Alternative)</description>
-		<rom name="SuperTed - The Search for Spot (1990)(Alternative).pok" size="33" crc="609ecdcb" md5="37cdb1be70a38b76e8802532bf9831d7" sha1="2f3cbc1bc0bc8bb480953b59c8e225c20268535e"/>
+	<game name="SuperTed - The Search for Spotty (1990)(Alternative)">
+		<description>SuperTed - The Search for Spotty (1990)(Alternative)</description>
+		<rom name="SuperTed - The Search for Spotty (1990)(Alternative).pok" size="33" crc="609ecdcb" md5="37cdb1be70a38b76e8802532bf9831d7" sha1="2f3cbc1bc0bc8bb480953b59c8e225c20268535e"/>
 	</game>
 	<game name="Superkid (1989)(Atlantis)">
 		<description>Superkid (1989)(Atlantis)</description>
@@ -12182,13 +12402,13 @@
 		<description>Tea And Sympathy (2013)(Bentley, Jarrod - Cauldwell, Jonathan)</description>
 		<rom name="Tea And Sympathy (2013)(Bentley, Jarrod - Cauldwell, Jonathan).pok" size="24" crc="56ecb033" md5="d961b0ee0084f100e6eaebc7cd763a3c" sha1="db69714ab9526b945b5eb4f5bc0e3600d84fb1d9"/>
 	</game>
-	<game name="Tea-Leaf Ted (2018)(Green, Andy - Grilo, Jaime - Prog Master)">
-		<description>Tea-Leaf Ted (2018)(Green, Andy - Grilo, Jaime - Prog Master)</description>
-		<rom name="Tea-Leaf Ted (2018)(Green, Andy - Grilo, Jaime - Prog Master).pok" size="297" crc="6d56fc39" md5="b7b05e20f965224da2eb9c4f7419b083" sha1="8d23cf1ad204380eda05b5c842f72af0a8a07de5"/>
+	<game name="Tea-Leaf Ted (2018)(Andy Green - Grilo, Jaime - Prog Master)">
+		<description>Tea-Leaf Ted (2018)(Andy Green - Grilo, Jaime - Prog Master)</description>
+		<rom name="Tea-Leaf Ted (2018)(Andy Green - Grilo, Jaime - Prog Master).pok" size="297" crc="6d56fc39" md5="b7b05e20f965224da2eb9c4f7419b083" sha1="8d23cf1ad204380eda05b5c842f72af0a8a07de5"/>
 	</game>
 	<game name="Technician Ted (1984)(Hewson Consultants)">
 		<description>Technician Ted (1984)(Hewson Consultants)</description>
-		<rom name="Technician Ted (1984)(Hewson Consultants).pok" size="543" crc="0216a051" md5="fca00ae2b641c8cfce767d52152f81e8" sha1="77ce67b8a98c2e1a8a490e25bf51bac5f0cce74f"/>
+		<rom name="Technician Ted (1984)(Hewson Consultants).pok" size="576" crc="2112acb6" md5="4798611606c73f87bab0c6328d0623f7" sha1="22e2942ee5d6352148031c468ccc94752778f193"/>
 	</game>
 	<game name="Technician Ted - The Megamix (1986)(Hewson Consultants)">
 		<description>Technician Ted - The Megamix (1986)(Hewson Consultants)</description>
@@ -12280,11 +12500,11 @@
 	</game>
 	<game name="Terry the Turtle (2013)(Purple Unicorn)">
 		<description>Terry the Turtle (2013)(Purple Unicorn)</description>
-		<rom name="Terry the Turtle (2013)(Purple Unicorn).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Terry the Turtle (2013)(Purple Unicorn).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Terry the Turtle-Vektor (2013)(Purple Unicorn)">
 		<description>Terry the Turtle-Vektor (2013)(Purple Unicorn)</description>
-		<rom name="Terry the Turtle-Vektor (2013)(Purple Unicorn).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Terry the Turtle-Vektor (2013)(Purple Unicorn).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Terry's Travels (1983)(Algray)">
 		<description>Terry's Travels (1983)(Algray)</description>
@@ -12440,7 +12660,7 @@
 	</game>
 	<game name="Time Hole, The (1999)(Martland, Edward)">
 		<description>Time Hole, The (1999)(Martland, Edward)</description>
-		<rom name="Time Hole, The (1999)(Martland, Edward).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Time Hole, The (1999)(Martland, Edward).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Time Machine (1990)(Activision)">
 		<description>Time Machine (1990)(Activision)</description>
@@ -12620,7 +12840,7 @@
 	</game>
 	<game name="Train - Escape to Normandy, The (1988)(Electronic Arts)">
 		<description>Train - Escape to Normandy, The (1988)(Electronic Arts)</description>
-		<rom name="Train - Escape to Normandy, The (1988)(Electronic Arts).pok" size="555" crc="edfd4843" md5="e32e167a27b5b3c3d1b04e630b484c9d" sha1="031c0da162eb5822fa2e540a4118f53522bcaaf6"/>
+		<rom name="Train - Escape to Normandy, The (1988)(Electronic Arts).pok" size="590" crc="3cf1b2ed" md5="d4c28bdb80bd292ed75091fc303f4645" sha1="e271a1997e2060e968b93a021d3d3ce36461fc6e"/>
 	</game>
 	<game name="Train Game, The (1983)(Microsphere)">
 		<description>Train Game, The (1983)(Microsphere)</description>
@@ -12638,9 +12858,9 @@
 		<description>Transmuter (1987)(Code Masters)</description>
 		<rom name="Transmuter (1987)(Code Masters).pok" size="86" crc="dd03d6e5" md5="f59ed090280d78c8f7205dd1cea8379a" sha1="96125e35dcf522b419e1c74f4cd6cef783fbd398"/>
 	</game>
-	<game name="Transversion (1984)(Ocean)">
-		<description>Transversion (1984)(Ocean)</description>
-		<rom name="Transversion (1984)(Ocean).pok" size="176" crc="e09bd254" md5="dc9acd46fad8ad83e1ef0d7e64df3447" sha1="b43baf4d134de9a95cb6a57303f2762308cec4e0"/>
+	<game name="Transversion (1983)(Ocean)">
+		<description>Transversion (1983)(Ocean)</description>
+		<rom name="Transversion (1983)(Ocean).pok" size="204" crc="bf71a6d0" md5="94bbec543efcdabf1f0bdf48ed2ba7c4" sha1="5efffe9c6c77c1ff63781380ea71afc8194534bb"/>
 	</game>
 	<game name="Trantor - The Last Stormtrooper (1987)(Go!)">
 		<description>Trantor - The Last Stormtrooper (1987)(Go!)</description>
@@ -12656,7 +12876,7 @@
 	</game>
 	<game name="Trap Door, The (1986)(Piranha)">
 		<description>Trap Door, The (1986)(Piranha)</description>
-		<rom name="Trap Door, The (1986)(Piranha).pok" size="64" crc="f34b30a3" md5="cc6fb27f799f6fdd6ae04690a8120d9c" sha1="79094fafeb29373d2c4107c5a86a894c6c54506e"/>
+		<rom name="Trap Door, The (1986)(Piranha).pok" size="147" crc="8e560109" md5="bb101093406cd386854515d4af38ce29" sha1="45c40e3334cbaf016266e0aaabc6dc54bcbc0b38"/>
 	</game>
 	<game name="Trashman (1984)(New Generation)">
 		<description>Trashman (1984)(New Generation)</description>
@@ -12756,7 +12976,7 @@
 	</game>
 	<game name="Tuneles Marcianos (1983)(Ventamatic)">
 		<description>Tuneles Marcianos (1983)(Ventamatic)</description>
-		<rom name="Tuneles Marcianos (1983)(Ventamatic).pok" size="238" crc="aa2d3d63" md5="bede94eed3137f85ea1d7df61f97bc6e" sha1="ee8fa63ea857d2ac7af0ee8ee39d2af3d0ee6b15"/>
+		<rom name="Tuneles Marcianos (1983)(Ventamatic).pok" size="300" crc="4a1babe9" md5="8ab1ac7e8fc2fe58d760ab1120f8ad21" sha1="9b4357462e9eb2bd8f18beedb4d1da9b509c3726"/>
 	</game>
 	<game name="Turbo Boat Simulator (1988)(Silverbird)">
 		<description>Turbo Boat Simulator (1988)(Silverbird)</description>
@@ -12880,7 +13100,7 @@
 	</game>
 	<game name="Ultimate Manic Miner (2006)(Makovsky, Igor)">
 		<description>Ultimate Manic Miner (2006)(Makovsky, Igor)</description>
-		<rom name="Ultimate Manic Miner (2006)(Makovsky, Igor).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Ultimate Manic Miner (2006)(Makovsky, Igor).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Ultimate Warrior (1989)(Crash)">
 		<description>Ultimate Warrior (1989)(Crash)</description>
@@ -12936,7 +13156,7 @@
 	</game>
 	<game name="Utility Cubicles, The (2000)(Hill, Stuart J.)">
 		<description>Utility Cubicles, The (2000)(Hill, Stuart J.)</description>
-		<rom name="Utility Cubicles, The (2000)(Hill, Stuart J.).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Utility Cubicles, The (2000)(Hill, Stuart J.).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Utok bile mysky (1993)(Proxima)">
 		<description>Utok bile mysky (1993)(Proxima)</description>
@@ -12958,6 +13178,10 @@
 		<description>Vallation (2016)(Tardis Remakes)</description>
 		<rom name="Vallation (2016)(Tardis Remakes).pok" size="341" crc="a8123af7" md5="39a3379ae7d08771b66cc31f5dd32edc" sha1="c9a498b0c027b1d4c5e30623940e58b34ec779f7"/>
 	</game>
+	<game name="Valley of Rains (2019)(ZOSYA entertainment)">
+		<description>Valley of Rains (2019)(ZOSYA entertainment)</description>
+		<rom name="Valley of Rains (2019)(ZOSYA entertainment).pok" size="68" crc="19942c06" md5="a1d0fb925a6eb1c9b84fc7fdee1fd2cc" sha1="40d8cd34c76dee67b1aa19f11dee3219715f147e"/>
+	</game>
 	<game name="Valley of the Dead (1985)(Pocket Money)">
 		<description>Valley of the Dead (1985)(Pocket Money)</description>
 		<rom name="Valley of the Dead (1985)(Pocket Money).pok" size="24" crc="fb43e137" md5="a7bcb054f7f486d0f8c0aa96e4109914" sha1="9f77b1f99f18297c047844b63ccf2649a8cbdc3e"/>
@@ -12968,7 +13192,11 @@
 	</game>
 	<game name="Vampire Hunter Willy (2011)(Simon D. Lee)">
 		<description>Vampire Hunter Willy (2011)(Simon D. Lee)</description>
-		<rom name="Vampire Hunter Willy (2011)(Simon D. Lee).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Vampire Hunter Willy (2011)(Simon D. Lee).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
+	</game>
+	<game name="Vampire Vengeance (2020)(Endaraues, Ariel)">
+		<description>Vampire Vengeance (2020)(Endaraues, Ariel)</description>
+		<rom name="Vampire Vengeance (2020)(Endaraues, Ariel).pok" size="33" crc="c5d9fab9" md5="53a49f8d7176f3b0e5e83433d035a174" sha1="bcc3d681d00b015dd94491df8a44b52c6882b9e3"/>
 	</game>
 	<game name="Vampire's Empire (1988)(Gremlin Graphics)">
 		<description>Vampire's Empire (1988)(Gremlin Graphics)</description>
@@ -13116,7 +13344,7 @@
 	</game>
 	<game name="WWF WrestleMania (1991)(Ocean)">
 		<description>WWF WrestleMania (1991)(Ocean)</description>
-		<rom name="WWF WrestleMania (1991)(Ocean).pok" size="519" crc="fd633fb8" md5="af3aa85655d22f919578d7f03e1f133b" sha1="ad33ffd37d0d9df7d986a2dfdf0e25b8d811ea36"/>
+		<rom name="WWF WrestleMania (1991)(Ocean).pok" size="554" crc="285770ce" md5="d6e48f4bab313ab63f167198c6d2d9bd" sha1="282255513a1d8beb9074e985e4ae7ec0c530fc2c"/>
 	</game>
 	<game name="Wacky Darts (1991)(Code Masters)">
 		<description>Wacky Darts (1991)(Code Masters)</description>
@@ -13154,9 +13382,9 @@
 		<description>Warlock (1988)(Edge, The)</description>
 		<rom name="Warlock (1988)(Edge, The).pok" size="65" crc="4e8a1583" md5="7326b955917cbb4260b76a3a0d8a8220" sha1="6791777d9bff4bf73f5aeeaa64a54860780c50ea"/>
 	</game>
-	<game name="Warlock of Firetop Mountain, The (1984)(Puffin Books)">
-		<description>Warlock of Firetop Mountain, The (1984)(Puffin Books)</description>
-		<rom name="Warlock of Firetop Mountain, The (1984)(Puffin Books).pok" size="279" crc="00a0611b" md5="7f59a87ee83f3c21d1ffdfdfeeaa2329" sha1="734c0f21418f0303c3dcf688da83c091e3ded25a"/>
+	<game name="Warlock of Firetop Mountain, The (1983)(Puffin Books)">
+		<description>Warlock of Firetop Mountain, The (1983)(Puffin Books)</description>
+		<rom name="Warlock of Firetop Mountain, The (1983)(Puffin Books).pok" size="279" crc="00a0611b" md5="7f59a87ee83f3c21d1ffdfdfeeaa2329" sha1="734c0f21418f0303c3dcf688da83c091e3ded25a"/>
 	</game>
 	<game name="Watermill (1993)(THD)">
 		<description>Watermill (1993)(THD)</description>
@@ -13172,7 +13400,7 @@
 	</game>
 	<game name="We Pretty (1999)(Broadsoft)">
 		<description>We Pretty (1999)(Broadsoft)</description>
-		<rom name="We Pretty (1999)(Broadsoft).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="We Pretty (1999)(Broadsoft).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Weasel Willy (1985)(Firebird)">
 		<description>Weasel Willy (1985)(Firebird)</description>
@@ -13200,7 +13428,7 @@
 	</game>
 	<game name="What Willy Did Next (2010)(NorthSim Publications)">
 		<description>What Willy Did Next (2010)(NorthSim Publications)</description>
-		<rom name="What Willy Did Next (2010)(NorthSim Publications).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="What Willy Did Next (2010)(NorthSim Publications).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Wheelie (1983)(Microsphere)">
 		<description>Wheelie (1983)(Microsphere)</description>
@@ -13238,6 +13466,10 @@
 		<description>Wiking (1987)(M.K.)</description>
 		<rom name="Wiking (1987)(M.K.).pok" size="61" crc="a4f153a6" md5="07137ac207ec1023b2cf2e596e57858f" sha1="b5f2534c291e61cfde012017b18ddbf49d5a9a7d"/>
 	</game>
+	<game name="Wild Bunch, The (1984)(Firebird)">
+		<description>Wild Bunch, The (1984)(Firebird)</description>
+		<rom name="Wild Bunch, The (1984)(Firebird).pok" size="140" crc="bb4e26f3" md5="b8815e98126e11f5dbf4de8cb472326d" sha1="2a1bb719d51900fddd6b79fe48eff4718eb864a2"/>
+	</game>
 	<game name="Wild Streets (1990)(Titus)">
 		<description>Wild Streets (1990)(Titus)</description>
 		<rom name="Wild Streets (1990)(Titus).pok" size="66" crc="44049e3a" md5="6d3e4c9a7b2104f386a1d3ac79063414" sha1="324c9942ff77ed8e75bfafbd7e8943e35ebd9e9e"/>
@@ -13260,23 +13492,23 @@
 	</game>
 	<game name="Willy - The Man Who Sold the World! (2008)(BaSe1 PrOdUcTiOnZ)">
 		<description>Willy - The Man Who Sold the World! (2008)(BaSe1 PrOdUcTiOnZ)</description>
-		<rom name="Willy - The Man Who Sold the World! (2008)(BaSe1 PrOdUcTiOnZ).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy - The Man Who Sold the World! (2008)(BaSe1 PrOdUcTiOnZ).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy Comes Home (2000)(Gawp!)">
 		<description>Willy Comes Home (2000)(Gawp!)</description>
-		<rom name="Willy Comes Home (2000)(Gawp!).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy Comes Home (2000)(Gawp!).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy Games - The First 30 Years Quiz (2016)(Gromann, Daniel)">
 		<description>Willy Games - The First 30 Years Quiz (2016)(Gromann, Daniel)</description>
-		<rom name="Willy Games - The First 30 Years Quiz (2016)(Gromann, Daniel).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy Games - The First 30 Years Quiz (2016)(Gromann, Daniel).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy Meets the Beatles (2012)(Simon D. Lee)">
 		<description>Willy Meets the Beatles (2012)(Simon D. Lee)</description>
-		<rom name="Willy Meets the Beatles (2012)(Simon D. Lee).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy Meets the Beatles (2012)(Simon D. Lee).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy Takes a Trip (2000)(Eddy, Geoff)">
 		<description>Willy Takes a Trip (2000)(Eddy, Geoff)</description>
-		<rom name="Willy Takes a Trip (2000)(Eddy, Geoff).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy Takes a Trip (2000)(Eddy, Geoff).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy The Wasp (2014)(Death Squad, The)">
 		<description>Willy The Wasp (2014)(Death Squad, The)</description>
@@ -13292,47 +13524,47 @@
 	</game>
 	<game name="Willy and the Dodecahedron (2008)(Hill, Stuart J.)">
 		<description>Willy and the Dodecahedron (2008)(Hill, Stuart J.)</description>
-		<rom name="Willy and the Dodecahedron (2008)(Hill, Stuart J.).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy and the Dodecahedron (2008)(Hill, Stuart J.).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy in the Islands of Mystery - Part 1 - Exploration (2007)(Herve Ast)">
 		<description>Willy in the Islands of Mystery - Part 1 - Exploration (2007)(Herve Ast)</description>
-		<rom name="Willy in the Islands of Mystery - Part 1 - Exploration (2007)(Herve Ast).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy in the Islands of Mystery - Part 1 - Exploration (2007)(Herve Ast).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy on a Transatlantic Cruise (2006)(Herve Ast)">
 		<description>Willy on a Transatlantic Cruise (2006)(Herve Ast)</description>
-		<rom name="Willy on a Transatlantic Cruise (2006)(Herve Ast).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy on a Transatlantic Cruise (2006)(Herve Ast).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy the Hacker (1999)(Eddy, Geoff)">
 		<description>Willy the Hacker (1999)(Eddy, Geoff)</description>
-		<rom name="Willy the Hacker (1999)(Eddy, Geoff).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy the Hacker (1999)(Eddy, Geoff).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy the Rogue (2002)(BaSe1 PrOdUcTiOnZ)">
 		<description>Willy the Rogue (2002)(BaSe1 PrOdUcTiOnZ)</description>
-		<rom name="Willy the Rogue (2002)(BaSe1 PrOdUcTiOnZ).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy the Rogue (2002)(BaSe1 PrOdUcTiOnZ).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy vs. the Vampire Lord (2001)(Tatlock, Lee)">
 		<description>Willy vs. the Vampire Lord (2001)(Tatlock, Lee)</description>
-		<rom name="Willy vs. the Vampire Lord (2001)(Tatlock, Lee).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy vs. the Vampire Lord (2001)(Tatlock, Lee).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy's Afterlife (2000)(Adban de Corcy)">
 		<description>Willy's Afterlife (2000)(Adban de Corcy)</description>
-		<rom name="Willy's Afterlife (2000)(Adban de Corcy).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy's Afterlife (2000)(Adban de Corcy).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy's Hoard (2006)(Gromann, Daniel)">
 		<description>Willy's Hoard (2006)(Gromann, Daniel)</description>
-		<rom name="Willy's Hoard (2006)(Gromann, Daniel).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy's Hoard (2006)(Gromann, Daniel).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy's Holiday (1985)(Britton, Adam)">
 		<description>Willy's Holiday (1985)(Britton, Adam)</description>
-		<rom name="Willy's Holiday (1985)(Britton, Adam).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy's Holiday (1985)(Britton, Adam).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy's New Hat (1985)(-)">
 		<description>Willy's New Hat (1985)(-)</description>
-		<rom name="Willy's New Hat (1985)(-).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy's New Hat (1985)(-).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Willy's New Mansion (2004)(Gromann, Daniel)">
 		<description>Willy's New Mansion (2004)(Gromann, Daniel)</description>
-		<rom name="Willy's New Mansion (2004)(Gromann, Daniel).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="Willy's New Mansion (2004)(Gromann, Daniel).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="Winged Avenger, The (1982)(Work Force)">
 		<description>Winged Avenger, The (1982)(Work Force)</description>
@@ -13410,6 +13642,10 @@
 		<description>Wriggler (1985)(Romantic Robot UK)</description>
 		<rom name="Wriggler (1985)(Romantic Robot UK).pok" size="66" crc="346b8688" md5="32f43ae66108b949335b4ac3d94dda8c" sha1="615af4739326406c619add6979ec528a8f7b31d8"/>
 	</game>
+	<game name="Wudang (2020)(World XXI Soft)">
+		<description>Wudang (2020)(World XXI Soft)</description>
+		<rom name="Wudang (2020)(World XXI Soft).pok" size="35" crc="e5ce3aca" md5="830da70f886292aeaced236c009af061" sha1="8020ad2a6048802f83b90ef72588c8e9ef27d0aa"/>
+	</game>
 	<game name="Wunderwaffe (2017)(Miazga, Rafal)">
 		<description>Wunderwaffe (2017)(Miazga, Rafal)</description>
 		<rom name="Wunderwaffe (2017)(Miazga, Rafal).pok" size="34" crc="dc01200c" md5="0dc1bbd5e864fb42e14c71ab0b1319de" sha1="0389510703263430c6d53c4097b3b9e6bce50906"/>
@@ -13444,11 +13680,15 @@
 	</game>
 	<game name="Xcel (1985)(Activision)">
 		<description>Xcel (1985)(Activision)</description>
-		<rom name="Xcel (1985)(Activision).pok" size="33" crc="90b91bc6" md5="c73d2c26e3bb341f75b8aee78f68995c" sha1="7c1e4f817d003dad050c88d5db77ab49958742fc"/>
+		<rom name="Xcel (1985)(Activision).pok" size="209" crc="b3579c06" md5="678f4688304f985f4c423f39ac0478bd" sha1="8a98b551b8c651f1bd81857896e82c47306fb07d"/>
 	</game>
 	<game name="Xecutor (1987)(ACE)">
 		<description>Xecutor (1987)(ACE)</description>
 		<rom name="Xecutor (1987)(ACE).pok" size="170" crc="5333d07c" md5="8d4dabb759f7bd6681462dd5defeaa01" sha1="e843e5d58ffc571e14b0417efb9c9547919bc7f0"/>
+	</game>
+	<game name="Xelda 1 - Quest for the Golden Apple (2017)(Dansby, Andrew)">
+		<description>Xelda 1 - Quest for the Golden Apple (2017)(Dansby, Andrew)</description>
+		<rom name="Xelda 1 - Quest for the Golden Apple (2017)(Dansby, Andrew).pok" size="77" crc="39f70891" md5="9e2728651ad5e0ca82c4a696a66ab53d" sha1="3a0ac9930ce68da6aaff1d6fc9503c58b780f8b2"/>
 	</game>
 	<game name="Xen (1987)(Super Sparklers)">
 		<description>Xen (1987)(Super Sparklers)</description>
@@ -13466,13 +13706,17 @@
 		<description>Xenophobe (1989)(Micro Style)</description>
 		<rom name="Xenophobe (1989)(Micro Style).pok" size="103" crc="8cab2342" md5="78b9e0e05df745e4baa4c3d94a148ae4" sha1="e8dc40e71cecd65b1fe31f4880ea1f7400d35536"/>
 	</game>
-	<game name="Xevious (1987)(U.S. Gold)">
-		<description>Xevious (1987)(U.S. Gold)</description>
-		<rom name="Xevious (1987)(U.S. Gold).pok" size="144" crc="c4362d7c" md5="33d67dc034ae3bfeb97ab15705c1f781" sha1="46473f184ee11b19d90876ab04b92485428146b7"/>
+	<game name="Xevious (1986)(U.S. Gold)">
+		<description>Xevious (1986)(U.S. Gold)</description>
+		<rom name="Xevious (1986)(U.S. Gold).pok" size="144" crc="c4362d7c" md5="33d67dc034ae3bfeb97ab15705c1f781" sha1="46473f184ee11b19d90876ab04b92485428146b7"/>
 	</game>
 	<game name="Xybots (1989)(Domark)">
 		<description>Xybots (1989)(Domark)</description>
 		<rom name="Xybots (1989)(Domark).pok" size="148" crc="0fa57c7d" md5="a8cf80f4cf672790ed6c29504bc9a17e" sha1="c19c72ce4a0750849e199bd17a6083a1a1ce7613"/>
+	</game>
+	<game name="Xyzolog (2010)(Retrogames Computing)">
+		<description>Xyzolog (2010)(Retrogames Computing)</description>
+		<rom name="Xyzolog (2010)(Retrogames Computing).pok" size="35" crc="fdef005e" md5="39ad8b723f8d43605a47e792bd7e0581" sha1="56e803c9400b088e3267a31e7037f7226d94e7a5"/>
 	</game>
 	<game name="Y.A.S.G. (1992)(Morris, Dominic J.)">
 		<description>Y.A.S.G. (1992)(Morris, Dominic J.)</description>
@@ -13486,9 +13730,17 @@
 		<description>Yabba Dabba Doo! (1986)(Quicksilva)</description>
 		<rom name="Yabba Dabba Doo! (1986)(Quicksilva).pok" size="342" crc="8b08c6a0" md5="cfb352ce06af6312b9a3bb7fdf82563b" sha1="cae13ceb61496dab2b4deb8c8d63d84361dfcc04"/>
 	</game>
+	<game name="Yanga (2019)(Serdyuk, Vitaly)">
+		<description>Yanga (2019)(Serdyuk, Vitaly)</description>
+		<rom name="Yanga (2019)(Serdyuk, Vitaly).pok" size="33" crc="1eb461f6" md5="1cfea1ea96d2c61b000bc2d8b9383001" sha1="f6312fff5ab1f1f0263deea37cc5519bb51f3b94"/>
+	</game>
 	<game name="Yankee in Iraq, A (2016)(Moore, Ast A.)">
 		<description>Yankee in Iraq, A (2016)(Moore, Ast A.)</description>
 		<rom name="Yankee in Iraq, A (2016)(Moore, Ast A.).pok" size="65" crc="b01f112b" md5="110c2a6293afea8424abdd16beeaa9a7" sha1="11d496562e062074e5833f94c47b753655b805e1"/>
+	</game>
+	<game name="Yazzie (2019)(RetroSouls)">
+		<description>Yazzie (2019)(RetroSouls)</description>
+		<rom name="Yazzie (2019)(RetroSouls).pok" size="81" crc="2e770a22" md5="952f455c3ef6ecd18229d32d8e3ec382" sha1="4437b9c8fe0ddda2e0c9fece7a5ad0b09191f3f2"/>
 	</game>
 	<game name="Yenght (1984)(Dinamic)">
 		<description>Yenght (1984)(Dinamic)</description>
@@ -13496,7 +13748,7 @@
 	</game>
 	<game name="Yeti (1988)(Destiny)">
 		<description>Yeti (1988)(Destiny)</description>
-		<rom name="Yeti (1988)(Destiny).pok" size="468" crc="5dfe3ef4" md5="b49e4309b7cc8c186d07199dcd934aa5" sha1="8b4cfbe5e882726cd30db0330bf745ad7511273a"/>
+		<rom name="Yeti (1988)(Destiny).pok" size="524" crc="96fabdae" md5="848d7bacabf2fc720c748166d9efb84e" sha1="6325e6ae8e7e12ef9fb35d10b6226738aeb26fe2"/>
 	</game>
 	<game name="Yie Ar Kung-Fu (1985)(Imagine)">
 		<description>Yie Ar Kung-Fu (1985)(Imagine)</description>
@@ -13540,7 +13792,7 @@
 	</game>
 	<game name="ZX Willy the Bug Slayer (2002)(Eddy, Geoff)">
 		<description>ZX Willy the Bug Slayer (2002)(Eddy, Geoff)</description>
-		<rom name="ZX Willy the Bug Slayer (2002)(Eddy, Geoff).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="ZX Willy the Bug Slayer (2002)(Eddy, Geoff).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="ZX-Windows Cobble 2 (1999)(Cheprasov, Vladimir)">
 		<description>ZX-Windows Cobble 2 (1999)(Cheprasov, Vladimir)</description>
@@ -13548,7 +13800,11 @@
 	</game>
 	<game name="ZXombies - Dead Flesh (2018)(Broad, James)">
 		<description>ZXombies - Dead Flesh (2018)(Broad, James)</description>
-		<rom name="ZXombies - Dead Flesh (2018)(Broad, James).pok" size="193" crc="255a19d8" md5="a25d30c3247866f57a2b1637b95fd490" sha1="2f54df14f3da888e9e6219ef42311e554202a605"/>
+		<rom name="ZXombies - Dead Flesh (2018)(Broad, James).pok" size="385" crc="a00df480" md5="5a953a224cefb636a81232bb6aea2035" sha1="fedc4baacadda589d0df65c778a13d8cee43640b"/>
+	</game>
+	<game name="ZXombies! (2017)(Xenopunk)">
+		<description>ZXombies! (2017)(Xenopunk)</description>
+		<rom name="ZXombies! (2017)(Xenopunk).pok" size="49" crc="7d5bb82e" md5="f80f58180a43e07ca45a7d81f3601d3f" sha1="569bf00345c2e5930fcafb4a231b9fd3943af7eb"/>
 	</game>
 	<game name="Zamonarr (19xx)(Slowglass)">
 		<description>Zamonarr (19xx)(Slowglass)</description>
@@ -13666,6 +13922,10 @@
 		<description>Zub (1986)(Mastertronic Added Dimension)</description>
 		<rom name="Zub (1986)(Mastertronic Added Dimension).pok" size="131" crc="1d821773" md5="a90efaa64c284505ddccbf6157936fda" sha1="6f9c85f9f79139a09d9b930b729b6146aef558a0"/>
 	</game>
+	<game name="Zukinox (2017)(Grilo, Jaime)">
+		<description>Zukinox (2017)(Grilo, Jaime)</description>
+		<rom name="Zukinox (2017)(Grilo, Jaime).pok" size="33" crc="384c84d0" md5="6b374d2d7742946d6285ea8df9224155" sha1="f5f0b8b84cebf17f1debc5a5d9efacdfbf1565a3"/>
+	</game>
 	<game name="Zybex (1989)(Zeppelin Games)">
 		<description>Zybex (1989)(Zeppelin Games)</description>
 		<rom name="Zybex (1989)(Zeppelin Games).pok" size="48" crc="f7e5e77d" md5="38a759c12e373036139fe45268cde24e" sha1="93867ee5f43016e81e6623d1d85c7e5b2c3ddcb1"/>
@@ -13696,14 +13956,14 @@
 	</game>
 	<game name="strangel (2001)(Sendy)">
 		<description>strangel (2001)(Sendy)</description>
-		<rom name="strangel (2001)(Sendy).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="strangel (2001)(Sendy).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="willy to the rescue! (2000)(Sendy)">
 		<description>willy to the rescue! (2000)(Sendy)</description>
-		<rom name="willy to the rescue! (2000)(Sendy).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="willy to the rescue! (2000)(Sendy).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 	<game name="ylliW teS teJ (2004)(Broadsoft)">
 		<description>ylliW teS teJ (2004)(Broadsoft)</description>
-		<rom name="ylliW teS teJ (2004)(Broadsoft).pok" size="7415" crc="d4879672" md5="003c402a8ed99ac6c0014c534d4d7354" sha1="07c5b424e0776b72c7417b5803658aa6ccfd63ed"/>
+		<rom name="ylliW teS teJ (2004)(Broadsoft).pok" size="7472" crc="0587996c" md5="9881f68e9b1c865428f9c84ceed26b56" sha1="2a95f42ea44630f6be11d56ae370ac979653490e"/>
 	</game>
 </datafile>

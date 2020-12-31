@@ -2,4 +2,6 @@ NInfinite time
 Z 8 44139 24 0
 NMaximum bonus
 Z 8 44251 0 0
+NInfinite time & bonus doesn't go down (timer bar doesn't go up)
+Z 8 44116 201 0
 Y
