@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Pokes - [POK]</name>
-		<description>Sinclair ZX Spectrum - Pokes - [POK] (TOSEC-v2020-12-31)</description>
+		<description>Sinclair ZX Spectrum - Pokes - [POK] (TOSEC-v2021-01-02)</description>
 		<category>TOSEC</category>
-		<version>2020-12-31</version>
-		<date>31.12.2020 19:03:44</date>
+		<version>2021-01-02</version>
+		<date>02.01.2021 09:45:09</date>
 		<author>Lady Eklipse</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -11832,7 +11832,7 @@
 	</game>
 	<game name="Stela (2011)(J.B.G.V.)">
 		<description>Stela (2011)(J.B.G.V.)</description>
-		<rom name="Stela (2011)(J.B.G.V.).pok" size="66" crc="c163a649" md5="990b73884580cf5c7a80ad3a81ad5b69" sha1="25bdf2b25dbb97f15df115ea45407dbde5d0dc5f"/>
+		<rom name="Stela (2011)(J.B.G.V.).pok" size="33" crc="6ca5334f" md5="1ef837e754b9fdecbd28cff224ae4739" sha1="27fc0d664051bb3824819d65bb228b933a6eb4c8"/>
 	</game>
 	<game name="Stela II (2016)(Moderna Soft, La)">
 		<description>Stela II (2016)(Moderna Soft, La)</description>
