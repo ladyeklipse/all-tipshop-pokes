@@ -132,8 +132,6 @@ There is a readme inside, so I hope you will get to know it yourself. I just hav
 Thanks for using this database, it took me a lot of time to create it for you.
 You may always ask me questions:
 email: eklipse2009 [@] gmail.com
-skype: eklipse2009
-facebook: http://facebook.com/ladyeklipsegamer
-vk: http://vk.com/ladyeklipse
+facebook: http://facebook.com/ladyeklipse
 Sincerely yours,
 Lady Eklipse.
