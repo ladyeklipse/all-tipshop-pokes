@@ -1,90 +1,64 @@
 mkdir 123
-cd 123
-move 0*.pok 123/POKES
-move 1*.pok 123/POKES
-move 2*.pok 123/POKES
-move 3*.pok 123/POKES
-move 4*.pok 123/POKES
-move 5*.pok 123/POKES
-move 6*.pok 123/POKES
-move 7*.pok 123/POKES
-move 8*.pok 123/POKES
-move 9*.pok 123/POKES
+move 0*.pok 123
+move 1*.pok 123
+move 2*.pok 123
+move 3*.pok 123
+move 4*.pok 123
+move 5*.pok 123
+move 6*.pok 123
+move 7*.pok 123
+move 8*.pok 123
+move 9*.pok 123
 mkdir A
-cd A
-move A*.pok A/POKES
+move A*.pok A
 mkdir B
-cd B
-move B*.pok B/POKES
+move B*.pok B
 mkdir C
-cd C
-move C*.pok C/POKES
+move C*.pok C
 mkdir D
-cd D
-move D*.pok D/POKES
+move D*.pok D
 mkdir E
-cd E
-move E*.pok E/POKES
+move E*.pok E
 mkdir F
-cd F
-move F*.pok F/POKES
+move F*.pok F
 mkdir G
-cd G
-move G*.pok G/POKES
+move G*.pok G
 mkdir H
-cd H
-move H*.pok H/POKES
+move H*.pok H
 mkdir I
-cd I
-move I*.pok I/POKES
+move I*.pok I
 mkdir J
-cd J
-move J*.pok J/POKES
+move J*.pok J
 mkdir K
-cd K
-move K*.pok K/POKES
+move K*.pok K
 mkdir L
-cd L
-move L*.pok L/POKES
+move L*.pok L
 mkdir M
-cd M
-move M*.pok M/POKES
+move M*.pok M
 mkdir N
-cd N
-move N*.pok N/POKES
+move N*.pok N
 mkdir O
-cd O
-move O*.pok O/POKES
+move O*.pok O
 mkdir P
-cd P
-move P*.pok P/POKES
+move P*.pok P
 mkdir Q
-cd Q
-move Q*.pok Q/POKES
+move Q*.pok Q
 mkdir R
-cd R
-move R*.pok R/POKES
+move R*.pok R
 mkdir S
-cd S
-move S*.pok S/POKES
+move S*.pok S
 mkdir T
-cd T
-move T*.pok T/POKES
+move T*.pok T
 mkdir U
-cd U
-move U*.pok U/POKES
+move U*.pok U
 mkdir V
-cd V
-move V*.pok V/POKES
+move V*.pok V
 mkdir W
-cd W
-move W*.pok W/POKES
+move W*.pok W
 mkdir X
-cd X
-move X*.pok X/POKES
+move X*.pok X
 mkdir Y
-cd Y
-move Y*.pok Y/POKES
+move Y*.pok Y
 mkdir Z
-cd Z
-move Z*.pok Z/POKES
+move Z*.pok Z
+pause
