@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Pokes - [POK]</name>
-		<description>Sinclair ZX Spectrum - Pokes - [POK] (TOSEC-v2021-02-18)</description>
+		<description>Sinclair ZX Spectrum - Pokes - [POK] (TOSEC-v2023-02-13)</description>
 		<category>TOSEC</category>
-		<version>2021-02-18</version>
-		<date>18.02.2021 10:01:46</date>
+		<version>2023-02-13</version>
+		<date>13.02.2023 22:15:17</date>
 		<author>Lady Eklipse</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
