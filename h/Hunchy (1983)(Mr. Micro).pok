@@ -1,0 +1,45 @@
+NStop top half of hunchy flickering
+Z 8 26327 68 0
+NInfinite lives
+Z 8 45632 0 0
+NOne Life (Hard Mode)
+Z 8 47644 1 0
+NNo extra bonus life
+M 8 47616 24 0
+Z 8 47617 6 0
+NInfinite time
+M 8 46800 24 0
+Z 8 46801 28 0
+NKeep bells after death
+M 8 45375 0 0
+M 8 45376 0 0
+Z 8 45377 0 0
+NKeep hearts after death
+M 8 45378 0 0
+M 8 45379 0 0
+Z 8 45380 0 0
+NStop walking footfall sound
+Z 8 25938 201 0
+NCut to next level instead of scrolling
+M 8 47624 0 0
+M 8 47625 0 0
+Z 8 47626 0 0
+NStops annoying "Oh! Oh! - Oh!" on each death
+M 8 45580 24 0
+Z 8 45581 14 0
+NStops annyoying "Ha! Ha! - Ha! Ha!" on each death
+M 8 45599 24 0
+Z 8 45600 1 0
+NStops annoying "Oh! Quasimodo" on each death
+M 8 45614 24 0
+Z 8 45615 10 0
+NStops annoying "Quasimodo Quasimodo" on each level
+M 8 46979 24 0
+Z 8 46980 1 0
+NStops annoying "The Bells The Bells" on each level
+M 8 46985 24 0
+Z 8 46986 4 0
+NStops annoying "Oh! Esmarelda/Greensleeves" intro music
+M 8 47685 24 0
+Z 8 47686 4 0
+Y

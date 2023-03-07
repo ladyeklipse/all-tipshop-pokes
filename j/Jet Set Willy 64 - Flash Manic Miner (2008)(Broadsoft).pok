@@ -342,11 +342,11 @@ M 8 35268 192 0
 Z 8 35269 254 0
 NPrevent game auto pause
 Z 8 35518 0 0
-NInfinite Time Р В РІР‚в„ў (Try GS)
+NInfinite Time Р вЂ™ (Try GS)
 M 8 35414 0 0
 M 8 35415 0 0
 Z 8 35416 0 0
-NInfinite Time Р В РІР‚в„ў (Try GS)
+NInfinite Time Р вЂ™ (Try GS)
 Z 8 35415 126 0
 NStop in game tune deteriorating after each loss of life
 M 8 35665 62 0
@@ -370,7 +370,7 @@ M 8 37020 0 0
 Z 8 37031 0 0
 NNormal sprite (Willy) in The Nightmare Room
 Z 8 38487 255 0
-NShow object in Nightmare Room as Willy
+NMoves invisible object from First Landing to The Hall
 M 8 52196 10 0
 M 8 52197 13 0
 M 8 52198 60 0
@@ -384,11 +384,11 @@ NDisable all guardians
 M 8 37334 195 0
 M 8 37335 52 0
 Z 8 37336 146 0
-NPrevent "top exit" from The Watch Tower
+NPrevent ""top exit"" from The Watch Tower
 M 8 62167 171 0
 M 8 62169 9 0
 Z 8 62173 4 0
-NPrevent "top exit" from Rescue Esmeralda
+NPrevent ""top exit"" from Rescue Esmeralda
 M 8 52742 10 0
 Z 8 52743 170 0
 NImmunity to arrows
@@ -397,7 +397,7 @@ NAdd a platform to go to the cross
 M 8 56350 0 0
 M 8 56358 0 0
 Z 8 56365 85 0
-NInfinite Time Р В РІР‚в„ў (Try GS)
+NInfinite Time Р вЂ™ (Try GS)
 M 8 35414 0 0
 M 8 35415 0 0
 M 8 35416 0 0
@@ -409,9 +409,15 @@ M 8 52197 13 0
 M 8 52198 60 0
 M 8 52199 242 0
 Z 8 52200 192 0
-NNo pitch decrease when life lost
+NPrevent changing music pitch after life loss
 Z 8 35674 126 0
 NUnlimited attempts at keypad code (this only really works as a type-in hack)
 M 8 34497 182 0
 Z 8 34498 134 0
+NSlightly better/easier 'Conservatory Roof' bugfix
+M 8 60229 0 0
+Z 8 60231 0 0
+NAlternate 'Conservatory Roof' bugfix
+M 8 60230 67 0
+Z 8 60231 4 0
 Y

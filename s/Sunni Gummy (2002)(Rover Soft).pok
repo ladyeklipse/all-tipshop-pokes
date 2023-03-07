@@ -20,7 +20,7 @@ NStart with Bat Belt
 Z 8 36605 2 0
 NStart with all items
 Z 8 36605 15 0
-NInfinite Shield on/off
+NPoke InfShield If stuck
 Z 8 39906 0 143
 NInfinite Jumps/Speed/Shield
 Z 8 31690 0 0
@@ -32,7 +32,7 @@ NSpeeds required
 Z 8 36606 256 0
 NNo bonus decrease
 Z 8 31686 201 0
-NParalyzed enemies
+NParalyzed Enemies
 Z 8 33256 201 0
 NNo interaction with objects
 Z 8 39854 201 0
@@ -42,7 +42,7 @@ NInfinite Lives
 Z 8 36797 0 0
 NEnemies can't move (but they can kill you)
 Z 8 33333 33 0
-NImmunity on/off
+NInmunity on/off
 Z 8 39915 0 12
 NSuper jump on/off
 Z 8 36934 52 53
@@ -64,7 +64,7 @@ NNo annoying bat-music
 Z 8 34170 201 0
 NNo ATTR update (looks weird)
 Z 8 26496 201 0
-NFloating enemies
+NFloating Enemies
 Z 8 33240 201 0
 NMonstrous twists
 Z 8 38938 201 0
@@ -73,7 +73,7 @@ Z 8 36934 53 0
 NPoke InfShield If stuck
 M 8 39906 0 0
 Z 8 39906 143 0
-NInmunity (you can turn it off with )
+NInmunity on/off
 M 8 39915 0 0
 Z 8 39915 12 0
 Y

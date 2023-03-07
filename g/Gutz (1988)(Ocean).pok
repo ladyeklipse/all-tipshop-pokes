@@ -2,4 +2,9 @@ NInfinite Lives
 Z 8 38915 183 0
 NInfinite Energy
 Z 8 47265 183 0
+NSet start level [00-15]
+M 8 41765 0 0
+Z 8 37168 256 0
+NMap enabled
+Z 8 51529 0 0
 Y

@@ -4,4 +4,19 @@ NInfinite star-smashers
 Z 8 56345 0 0
 NUse star-smashers in meteor field
 Z 8 51777 1 0
+NImmunity [Tempest screen]
+M 8 52344 0 0
+M 8 52345 0 0
+Z 8 52346 0 0
+NImmunity [Meteor screen]
+M 8 51009 175 0
+M 8 51010 50 0
+M 8 51011 1 0
+Z 8 51012 228 0
+NSkip meteor level altogether
+M 8 49679 0 0
+M 8 49680 0 0
+Z 8 49681 0 0
+NEnter meteor level for star smashers only
+Z 8 31019 201 0
 Y

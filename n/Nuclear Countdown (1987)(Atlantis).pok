@@ -4,4 +4,15 @@ NInfinite Lives
 Z 8 41803 0 0
 NInfinite Time
 Z 8 43692 0 0
+NNo walls
+M 8 46957 24 0
+Z 8 46958 43 0
+NStart in room killed
+Z 8 41826 0 0
+NOnly need one cell
+Z 8 42407 0 0
+NInfinite time
+Z 8 43593 201 0
+NDon't fall off moving platforms
+Z 8 46678 0 0
 Y

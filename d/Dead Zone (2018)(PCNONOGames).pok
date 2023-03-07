@@ -1,0 +1,49 @@
+NInfinite Population (Checkpoint)
+M 8 50945 0 0
+Z 8 52158 0 0
+NInfinite Fuel (Checkpoint)
+Z 8 55093 0 0
+NInfinite Bombs (Checkpoint)
+Z 8 51694 0 0
+NInfinite Ammo (Checkpoint)
+Z 8 51727 0 0
+NAlways machine-gun (Checkpoint)
+M 8 30782 1 0
+Z 8 51754 1 0
+NInfinite Population (Survival)
+M 8 50890 0 0
+Z 8 52103 0 0
+NInfinite Fuel (Survival)
+Z 8 55038 0 0
+NInfinite Bombs (Survival)
+Z 8 51639 0 0
+NInfinite Ammo (Survival)
+Z 8 51672 0 0
+NAlways machine-gun (Survival)
+M 8 30794 1 0
+Z 8 51699 1 0
+NInfinite Population (Punto de Control)
+M 8 50985 0 0
+Z 8 52198 0 0
+NInfinite Fuel (Punto de Control)
+Z 8 55133 0 0
+NInfinite Bombs (Punto de Control)
+Z 8 51734 0 0
+NInfinite Ammo (Punto de Control)
+Z 8 51767 0 0
+NAlways machine-gun (Punto de Control)
+M 8 30782 1 0
+Z 8 51794 1 0
+NInfinite Population (Supervivencia)
+M 8 50932 0 0
+Z 8 52145 0 0
+NInfinite Fuel (Supervivencia)
+Z 8 55080 0 0
+NInfinite Bombs (Supervivencia)
+Z 8 51681 0 0
+NInfinite Ammo (Supervivencia)
+Z 8 51714 0 0
+NAlways machine-gun (Supervivencia)
+M 8 30794 1 0
+Z 8 51741 1 0
+Y

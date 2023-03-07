@@ -12,4 +12,21 @@ N[48K]Replays
 Z 8 62937 256 0
 N[48K]Minutes
 Z 8 57857 256 0
+NEasy steering
+M 8 62869 175 0
+M 8 62870 50 0
+M 8 62871 172 0
+Z 8 62872 50 0
+N[48K]Infinite off road
+Z 8 41797 175 0
+N[128K]Infinite off road
+Z 8 41814 175 0
+N[48K]No crashes
+M 8 43197 0 0
+M 8 59649 0 0
+Z 8 59771 0 0
+N[128K]No crashes
+M 8 43217 0 0
+M 8 59649 0 0
+Z 8 59771 0 0
 Y

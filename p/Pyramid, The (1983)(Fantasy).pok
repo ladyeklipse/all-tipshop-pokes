@@ -27,4 +27,8 @@ NLeft door always open
 M 8 44848 205 0
 M 8 44849 60 0
 Z 8 44850 146 0
+NAlways start a game/chamber with maximum energy
+M 8 37301 9 0
+M 8 37304 9 0
+Z 8 37307 9 0
 Y

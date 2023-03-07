@@ -1,3 +1,39 @@
 NLives
 Z 8 45632 0 0
+NOne Life (Hard Mode)
+Z 8 47644 1 0
+NNo extra bonus life
+M 8 47616 24 0
+Z 8 47617 6 0
+NInfinite time
+M 8 46800 24 0
+Z 8 46801 28 0
+NKeep helmets after death
+M 8 45375 0 0
+M 8 45376 0 0
+Z 8 45377 0 0
+NKeep magic sausages after death
+M 8 45378 0 0
+M 8 45379 0 0
+Z 8 45380 0 0
+NEnable walking footfall sound
+M 8 25938 33 0
+M 8 25939 3 0
+Z 8 25940 98 0
+NCut to next level instead of scrolling
+M 8 47624 0 0
+M 8 47625 0 0
+Z 8 47626 0 0
+NStops annoying "Ha! Ha! - Ha! Ha!" on each death
+M 8 45602 24 0
+Z 8 45603 1 0
+NStops annoying "Whoops a Daisy!" on each death
+M 8 45623 24 0
+Z 8 45624 1 0
+NStops annoying "Whoops a Daisy! - Whoops a Daisy!" on each level
+M 8 46985 24 0
+Z 8 46986 4 0
+NStops annoying "Thats the way to do it!" intro music
+M 8 47685 24 0
+Z 8 47686 4 0
 Y

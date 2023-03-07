@@ -1,3 +1,33 @@
 NInfinite Energy
 Z 8 35270 182 0
+NLand from any height
+Z 8 37417 24 0
+NOnly need one pilot
+M 8 31477 62 0
+Z 8 31478 1 0
+NMother ship always in sight
+Z 8 37948 195 0
+NStart at any level
+Z 8 32248 24 0
+NPilot too far [pilot comes]
+Z 8 32702 24 0
+NShip off scope [pilot comes]
+Z 8 32691 195 0
+NPilot not killed [waiting at ship]
+Z 8 33234 195 0
+NPilot not killed [Systems On]
+Z 8 32896 0 0
+NIncrease to any level
+Z 8 52458 195 0
+NDecrease to any level
+Z 8 52473 195 0
+NRemove landing/launching wait [stars][attributes]
+M 8 52728 2 0
+M 8 53936 0 0
+M 8 54328 24 0
+Z 8 54329 24 0
+NAlien becomes pilot
+Z 8 32788 24 0
+NAlien never breaks glass
+Z 8 56261 0 0
 Y

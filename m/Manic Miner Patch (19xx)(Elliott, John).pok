@@ -49,11 +49,11 @@ M 8 37492 58 0
 Z 8 37499 58 0
 NImmunity with backouts
 Z 8 36105 58 0
-NTeleport code activated (boot appears)
+NTeleport code activated (boot appears) [if you want to turn it off use ]
 Z 8 33885 7 0
-NNo vertical enemies (except L5 Eugene)
+NNo vertical Enemies (except L5 Eugene)
 Z 8 36611 201 0
-NNo horizontal enemies
+NNo horizontal Enemies
 Z 8 36331 201 0
 NStarting Lives (Software Project)
 Z 8 34275 256 0
@@ -105,7 +105,7 @@ Z 8 36837 0 0
 NTo disable this
 M 8 36106 0 0
 Z 8 36106 107 0
-NTeleport code activated on/off
+NTeleport code activated (boot appears) [if you want to turn it off use ]
 Z 8 33885 0 7
 NEugene not interested in guarding portal (Bug Byte)
 M 8 36348 0 0
@@ -160,9 +160,33 @@ Z 8 36252 0 0
 NTeleport code activated (boot appears) [if you want to turn it off use ]
 M 8 33885 7 0
 Z 8 33885 0 0
-NTurns off 'infinite lives' poke
+NTeleport code activated (boot appears) [if you want to turn it off use ]
 Z 8 35136 53 0
 NInfinite oxygen (use to turn it off)
 M 8 34799 0 0
 Z 8 34799 255 0
+NTeleport code activated (boot appears) [if you want to turn it off use ]
+M 8 33885 7 0
+M 8 33885 0 0
+Z 8 35136 53 0
+NDisable pause(Software Projects Mastertronic and VentaMatic versions)
+Z 8 34842 0 0
+NDisable pause(Bug-Byte version)
+Z 8 34836 0 0
+NLess points per item(Software Projects Mastertronic and VentaMatic versions)
+Z 8 36750 43 0
+NLess points per item(Bug-Byte version)
+Z 8 36739 43 0
+NInfinite Air (Software Projects)
+Z 8 34804 1 0
+NInfinite Air (Bug Byte)
+Z 8 34798 1 0
+NOne item to unlock Portal (Bug Byte)
+Z 8 36749 49 0
+NOne item to unlock Portal (Software Projects)
+Z 8 36760 49 0
+NRestart game in last visited cavern (Bug Byte)
+Z 8 34254 88 0
+NRestart game in last visited cavern(Software Projects)
+Z 8 34260 88 0
 Y

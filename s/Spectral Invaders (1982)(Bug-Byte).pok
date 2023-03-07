@@ -4,4 +4,7 @@ NStop aliens firing
 Z 8 27878 201 0
 NPrevent aliens from firing
 Z 8 27727 201 0
+NImmunity
+M 8 25182 0 0
+Z 8 25188 0 0
 Y

@@ -7,4 +7,12 @@ NInfinite Ammo
 Z 8 33839 0 0
 NThe pieces are always correct
 Z 8 58306 175 0
+NAlways hit object
+M 8 34190 0 0
+Z 8 34216 0 0
+NOnly one hit required
+Z 8 34244 1 0
+NCollect pieces in any order
+M 8 58311 101 0
+Z 8 58448 0 0
 Y
