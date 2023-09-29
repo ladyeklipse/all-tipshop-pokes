@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Sinclair ZX Spectrum - Pokes - [POK]</name>
-		<description>Sinclair ZX Spectrum - Pokes - [POK] (TOSEC-v2023-09-28)</description>
+		<description>Sinclair ZX Spectrum - Pokes - [POK] (TOSEC-v2023-09-29)</description>
 		<category>TOSEC</category>
-		<version>2023-09-28</version>
-		<date>28.09.2023 14:33:10</date>
+		<version>2023-09-29</version>
+		<date>29.09.2023 15:14:56</date>
 		<author>Lady Eklipse</author>
 		<email>contact@tosecdev.org</email>
 		<homepage>TOSEC</homepage>
@@ -540,7 +540,7 @@
 	</game>
 	<game name="Aliens - Neoplasma (2022)(SaNchez)">
 		<description>Aliens - Neoplasma (2022)(SaNchez)</description>
-		<rom name="Aliens - Neoplasma (2022)(SaNchez).pok" size="274" crc="8d118868" md5="800c24e0807966c31502ea300665d55b" sha1="b73acdeccb1663a8017a13e89f5ac0feb2aa4ad6"/>
+		<rom name="Aliens - Neoplasma (2022)(SaNchez).pok" size="210" crc="9f85f080" md5="2a473d704d04bac6607977ac54230b19" sha1="0718facced71d9d15cb3fddd1e72c179e9afe1ef"/>
 	</game>
 	<game name="Aliquid Simplex (1984)(Your Computer)">
 		<description>Aliquid Simplex (1984)(Your Computer)</description>
@@ -1766,9 +1766,9 @@
 		<description>Brat Attack (1988)(Sinclair User)</description>
 		<rom name="Brat Attack (1988)(Sinclair User).pok" size="52" crc="c7c87399" md5="d3b3202b7662bd4db15c7d56d4a798b9" sha1="c3505034bcd82406ae2bc1e585af3248e919f77a"/>
 	</game>
-	<game name="Brautryðjandinn (1985)(Mjukvara sf)">
-		<description>Brautryðjandinn (1985)(Mjukvara sf)</description>
-		<rom name="Brautryðjandinn (1985)(Mjukvara sf).pok" size="33" crc="dd4dfb38" md5="d2e64763e0f8513f069d7d2c4f70a6cd" sha1="fc35ec16b69298b0dc264b0fd34f3ad90d4c6170"/>
+	<game name="Brautrythjandinn (1985)(Mjukvara sf)">
+		<description>Brautrythjandinn (1985)(Mjukvara sf)</description>
+		<rom name="Brautrythjandinn (1985)(Mjukvara sf).pok" size="33" crc="dd4dfb38" md5="d2e64763e0f8513f069d7d2c4f70a6cd" sha1="fc35ec16b69298b0dc264b0fd34f3ad90d4c6170"/>
 	</game>
 	<game name="BraveStarr (1987)(Go!)">
 		<description>BraveStarr (1987)(Go!)</description>
