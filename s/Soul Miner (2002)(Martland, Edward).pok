@@ -12,7 +12,11 @@ Z 8 34275 10 0
 NScreen after death (0-63)
 Z 8 33824 256 0
 NScreen at beginning (0-63)
-Z 8 34795 256 0
+M 8 34795 256 0
+M 8 36477 1 0
+M 8 36477 50 0
+M 8 36358 0 0
+Z 8 36358 60 0
 NEasier object in Nightmare Room
 Z 8 36353 44 0
 NInfinite Energy
@@ -62,10 +66,6 @@ NOne item to enter bedroom
 Z 8 37925 0 0
 NRemoves colour code (First try only)
 Z 8 34507 201 0
-NNo death from fall OFF
-Z 8 36477 50 0
-NSuper jumps OFF
-Z 8 36358 60 0
 NMakes game run faster/smoother
 M 8 65216 237 0
 M 8 65217 160 0

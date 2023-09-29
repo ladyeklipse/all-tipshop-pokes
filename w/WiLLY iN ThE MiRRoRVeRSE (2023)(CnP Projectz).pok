@@ -16,7 +16,7 @@ M 8 36245 160 0
 Z 8 36246 141 0
 NChange nasties' speed
 Z 8 36123 0 0
-NInfinite Lives on/off
+NLives (alt)
 Z 8 35136 0 53
 NInfinite Lives - destroys meanies
 M 8 36160 0 0
@@ -49,7 +49,7 @@ M 8 37492 58 0
 Z 8 37499 58 0
 NImmunity with backouts
 Z 8 36105 58 0
-NTeleport code activated (boot appears)
+NTeleport code activated (boot appears) [if you want to turn it off use ]
 Z 8 33885 7 0
 NNo vertical Enemies (except L5 Eugene)
 Z 8 36611 201 0
@@ -105,7 +105,7 @@ Z 8 36837 0 0
 NTo disable this
 M 8 36106 0 0
 Z 8 36106 107 0
-NTeleport code activated on/off
+NTeleport code activated (boot appears) [if you want to turn it off use ]
 Z 8 33885 0 7
 NEugene not interested in guarding portal (Bug Byte)
 M 8 36348 0 0
